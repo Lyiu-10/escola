@@ -1,0 +1,688 @@
+{
+ "prova": "FGV TRF1 2024",
+ "cor": "Tipo 2",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/26.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito_definitivo_trf1_0.pdf",
+ "questoes": [
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "No que se refere à atuação do profissional de psicologia em contextos de grandes desastres, analise as afirmativas a seguir, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).\n( ) As técnicas da escuta ativa e da validação emocional buscam permitir a expressão das emoções e reduzir o estresse agudo.\n( ) As técnicas de estabilização, como os exercícios de respiração e o foco no presente, buscam reduzir a ansiedade e permitir que as vítimas retomem algum controle sobre suas emoções e reações.\n( ) O fornecimento de informações sobre as reações emocionais comumente esperadas naquelas circunstâncias ajuda as vítimas a reconhecerem suas emoções e se sentirem menos sós em suas vivências.\nA sequência correta é:",
+   "alternativas": [
+    "V - V - F",
+    "V - F - V",
+    "F - V - V",
+    "V - V - V",
+    "F - V - F"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-emergencias",
+   "item": "",
+   "comentario": "As três afirmativas descrevem ações típicas dos primeiros cuidados psicológicos em desastres: escuta ativa e validação para acolher e baixar o estresse agudo, técnicas de estabilização (respiração, foco no presente) para devolver algum controle à vítima, e psicoeducação sobre reações esperadas, que normaliza o que ela sente e reduz o isolamento. Nenhuma tem erro, por isso V - V - V. A pegadinha é achar que informar sobre reações emocionais \"induz\" sintomas; na verdade, normalizar reações esperadas diante de um evento anormal é uma das bases da intervenção."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "No famoso experimento do “João Bobo”, desenvolvido por Bandura, buscou-se estudar o(a):",
+   "alternativas": [
+    "análise onírica",
+    "aprendizagem vicariante",
+    "determinismo hereditário",
+    "acesso ao inconsciente",
+    "adiamento da satisfação"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "",
+   "comentario": "No experimento do João Bobo, crianças que viam um adulto agredir o boneco imitavam a agressão depois, o que mostrou a aprendizagem por observação de modelos (aprendizagem vicariante, ou social), central na teoria de Bandura. \"Adiamento da satisfação\" é o tema do experimento do marshmallow (Mischel), e análise onírica e acesso ao inconsciente são temas da psicanálise. Determinismo hereditário vai contra a ideia de Bandura, que dá peso ao ambiente e ao modelo."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Larissa é uma mulher trans e vive em conjugalidade com Gustavo, um homem trans. Por ciúmes, o companheiro a agrediu fisicamente ao saírem de um bar; ela buscou se defender, contendo-o. Diante das mais recentes discussões sobre violência contra a mulher, é correto afirmar que:",
+   "alternativas": [
+    "Larissa foi vítima de violência contra a mulher praticada pelo companheiro",
+    "Larissa é transexual, por isso não cabe falar em violência contra a mulher",
+    "Gustavo pode alegar ter sofrido violência de gênero, pois Larissa é mais forte que ele",
+    "a intervenção do Estado em conflitos familiares não é cabível, exceto se a mulher demandar ajuda",
+    "Gustavo e Larissa podem ter que pagar, juntos, cestas básicas no Juizado de Violência Doméstica"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A violência praticada pelo companheiro contra Larissa, mulher trans, é violência contra a mulher baseada no gênero, e a jurisprudência recente do STJ passou a aplicar a Lei Maria da Penha a mulheres trans. B nega a identidade de gênero dela; C inverte quem agrediu (ela apenas se defendeu); D erra porque a violência doméstica é de interesse público e a intervenção do Estado não depende de pedido da vítima; E erra porque a Lei Maria da Penha (art. 17) proíbe penas de cesta básica."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "O Conselho Federal de Psicologia publicou a nota técnica CFP nº 1/2023, na qual, a partir da análise dos fundamentos teóricos da prática, questiona as bases teóricas e destaca incongruências éticas e de conduta profissional no uso da Constelação Familiar (CF) enquanto método ou técnica da psicologia. Dentre as reflexões apresentadas, aquela que traz uma crítica à CF alinhada aos princípios do Código de Ética Profissional do Psicólogo é a seguinte:",
+   "alternativas": [
+    "as bases teóricas da CF consagram uma leitura acerca do lugar da infância e da juventude fortemente marcada por um viés contemporâneo, tendo como base uma concepção de família referenciada na hierarquia e no respeito dos pais aos filhos",
+    "a técnica da CF é realizada muitas vezes com a transmissão aberta das sessões grupais e individuais, inclusive virtualmente, zelando pela observância do princípio de sigilo profissional",
+    "os pressupostos teóricos da CF afirmam a igualdade de gênero nas relações conjugais e familiares e criticam a naturalização do vínculo biológico, considerando os aspectos históricos, sociais e políticos que engendram as famílias na contemporaneidade",
+    "a prática da CF parece explicar os fenômenos a partir de características pessoais e interpessoais naturalizadas, o que acaba por desconsiderar determinantes sociais, políticos, econômicos, de gênero e raciais envolvidos na construção da subjetividade e sofrimento dos sujeitos",
+    "a prática da CF derruba conceitos patologizantes das identidades de gênero, das orientações sexuais e das masculinidades e feminilidades que fogem ao padrão hegemônico imposto para as relações familiares e sociais"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "",
+   "comentario": "A crítica da Nota Técnica CFP 1/2023 que se alinha ao Código de Ética é a de que a Constelação Familiar naturaliza explicações pessoais e ignora determinantes sociais, políticos, econômicos, de gênero e de raça, o que contraria o princípio fundamental III do Código: atuar com responsabilidade social, analisando crítica e historicamente a realidade. As outras alternativas atribuem à CF virtudes que a nota nega: a CF se apoia numa visão hierárquica e tradicional de família (não contemporânea), naturaliza o vínculo biológico e os papéis de gênero, e expor sessões abertamente fere o sigilo em vez de zelar por ele."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "O conceito de holding diz respeito à capacidade da mãe (ou cuidador) de proporcionar um ambiente seguro, acolhedor e consistente para o bebê, permitindo que ele se sinta protegido e desenvolva confiança no mundo. Esse conceito foi teorizado por:",
+   "alternativas": [
+    "Donald Winnicott",
+    "Anna Freud",
+    "Sigmund Freud",
+    "Melanie Klein",
+    "John Bowlby"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Holding (sustentação) é conceito de Donald Winnicott: a mãe suficientemente boa oferece um ambiente que sustenta física e psiquicamente o bebê e permite a continuidade do seu ser. Melanie Klein é das posições esquizoparanoide e depressiva, Anna Freud dos mecanismos de defesa do ego, e John Bowlby da teoria do apego, que também fala de base segura, mas não usa o termo holding."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "A discriminação e o preconceito no ambiente de trabalho podem ter um impacto significativo na saúde mental dos profissionais afetados. A discriminação de gênero é uma das formas de discriminação que impacta as mulheres nas relações de trabalho. Considerando algumas atitudes que exemplificam esse tipo de discriminação, é correto afirmar que:",
+   "alternativas": [
+    "a apropriação por parte de um homem de uma ideia ou trabalho produzido por uma mulher é prática conhecida por gaslighting",
+    "deixar de promover mulheres na carreira profissional em razão de gravidez e da licença maternidade é uma forma de capacitismo",
+    "a advertência feita por um chefe a uma funcionária pelo não cumprimento dos prazos estabelecidos para uma tarefa caracteriza misoginia",
+    "fazer elogios atrevidos a uma mulher e convites insistentes para jantar fora em troca de vantagens profissionais é conduta típica do assédio moral",
+    "é uma manifestação de manterrupting a situação na qual um homem intervém e não deixa que uma mulher conclua sua fala durante uma reunião de trabalho"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Manterrupting é a interrupção constante de uma mulher por um homem, impedindo que ela conclua a fala, prática típica de discriminação de gênero em reuniões. As outras trocam os nomes: apropriar-se da ideia de uma mulher é bropriating (gaslighting é manipular a pessoa para que duvide da própria percepção); preterir mulheres por gravidez é discriminação de gênero, não capacitismo (que atinge pessoas com deficiência); cobrar prazos é gestão legítima, não misoginia; e investidas com promessa de vantagem profissional configuram assédio sexual, não assédio moral."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Promovida para um cargo de chefia em sua empresa, Marília passou a liderar sua equipe. Desde então, Antônia, irritada por não ter sido promovida em seu lugar, passou a constranger a chefe, boicotando suas decisões, fazendo piadas e lançando indiretas contra Marília. Com relação à situação descrita, é correto afirmar que:",
+   "alternativas": [
+    "Marília, por ser chefe, não está sofrendo assédio organizacional",
+    "Marília está sendo submetida a assédio moral vertical ascendente praticado por Antônia",
+    "Marília está praticando assédio moral vertical descendente contra Antônia",
+    "Antônia está sendo vítima de assédio moral misto praticado por Marília",
+    "Marília está sendo atingida por ações de assédio moral horizontal praticadas por Antônia"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "O assédio moral vertical ascendente é praticado por subordinado(s) contra o superior hierárquico, exatamente o caso de Antônia, que boicota e ridiculariza a nova chefe. Horizontal seria entre colegas do mesmo nível, o que deixou de ser o caso depois da promoção; descendente seria da chefe contra a subordinada; e ser chefe não impede ninguém de sofrer assédio."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Na empresa de Juliana, foi criada uma nova equipe que não se conhecia e que está tendo problemas de integração e socialização. A estratégia mais adequada a ser adotada por Juliana para promover a integração dos membros da equipe e o aumento da confiança entre eles seria a utilização de:",
+   "alternativas": [
+    "sessões de psicoterapia",
+    "avaliação psiquiátrica dos membros",
+    "idas a boates e bares juntos",
+    "trilhas e viagens festivas",
+    "técnicas de dinâmica de grupo"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "Técnicas de dinâmica de grupo são o recurso próprio para integrar membros novos, criar vínculo e aumentar a confiança numa equipe de trabalho. Psicoterapia e avaliação psiquiátrica são intervenções clínicas, sem indicação para um problema de socialização; idas a bares e viagens festivas são atividades informais, sem objetivo técnico e que podem excluir parte da equipe."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Na condição de psicóloga em uma organização, Silvia integra a comissão de avaliação de pedidos de readaptação funcional. Débora está em tratamento para depressão e não consegue desempenhar as funções de atendimento ao público. No processo de readaptação funcional de Débora, Silvia NÃO deve ter como objetivo:",
+   "alternativas": [
+    "reduzir os afastamentos de Débora por motivos de saúde",
+    "prevenir a aposentadoria precoce de Débora por invalidez",
+    "garantir a Débora a atribuição de tarefas de menor grau de responsabilidade",
+    "prevenir o agravamento da doença de Débora por conta da situação de trabalho",
+    "buscar o melhor aproveitamento das competências de Débora em outra função"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "A readaptação busca uma função compatível com a limitação e com as competências da servidora, prevenindo agravamento da doença, afastamentos repetidos e aposentadoria precoce. Garantir tarefas \"de menor responsabilidade\" não é objetivo: o critério é a compatibilidade com a limitação e o aproveitamento das capacidades, não rebaixar a servidora, o que pode até ser estigmatizante. As alternativas A, B, D e E descrevem objetivos legítimos do processo."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Falar em público sempre foi fonte de grande estresse para Mariana. Com ajuda de sua terapeuta, ela tem se valido de técnicas de manejo do estresse para lidar com o desafio de ministrar palestras. Ela agora consegue identificar os pensamentos automáticos negativos e distorcidos, examiná-los criticamente e substituí-los por pensamentos mais realistas e positivos. A esse recurso terapêutico dá-se o nome de:",
+   "alternativas": [
+    "fobia social",
+    "formação reativa",
+    "reestruturação cognitiva",
+    "condicionamento aversivo",
+    "dessensibilização sistemática"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "Identificar pensamentos automáticos negativos e distorcidos, examiná-los e substituí-los por pensamentos mais realistas é a reestruturação cognitiva, técnica central da terapia cognitivo-comportamental. Dessensibilização sistemática (Wolpe) é exposição gradual a estímulos temidos associada ao relaxamento; condicionamento aversivo associa um comportamento a um estímulo desagradável; formação reativa é mecanismo de defesa; fobia social é um transtorno, não um recurso terapêutico."
+  },
+  {
+   "numero": 51,
+   "texto": "",
+   "enunciado": "Diagnósticos psicopatológicos não são determinísticos, mas podem contribuir com informações que dão subsídios aos operadores do Direito. Dentre os transtornos mentais elencados pelo DSM 5 que podem fundamentar uma decisão judicial de inimputabilidade penal, é correto apontar:",
+   "alternativas": [
+    "a psicose maníaco-depressiva",
+    "a deficiência intelectual grave",
+    "o diagnóstico de prodigalidade",
+    "o transtorno de personalidade antissocial",
+    "a dependência química do tabaco"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O Código Penal (art. 26) considera inimputável quem, por doença mental ou desenvolvimento mental incompleto ou retardado, era incapaz de entender o caráter ilícito do fato, e a deficiência intelectual grave do DSM-5 se encaixa nisso. \"Psicose maníaco-depressiva\" é nomenclatura antiga, não do DSM-5; prodigalidade é figura do Direito Civil, não diagnóstico; o transtorno de personalidade antissocial em regra não retira a capacidade de entendimento; e a dependência de tabaco não afeta a imputabilidade."
+  },
+  {
+   "numero": 52,
+   "texto": "",
+   "enunciado": "Sobre a utilização dos testes psicológicos na avaliação psicológica, é correto afirmar que:",
+   "alternativas": [
+    "o profissional de psicologia tem a prerrogativa de selecionar o teste aprovado pelo CFP conforme o construto que deseja avaliar",
+    "os métodos projetivos e expressivos são fontes obrigatórias de informação na produção dos laudos da avaliação psicológica",
+    "o Sistema de Avaliação de Testes Psicológicos (SATEPSI) indica as técnicas a serem utilizadas pelo psicólogo na avaliação psicológica",
+    "documentos técnicos, tais como protocolos ou relatórios de equipes multiprofissionais, podem substituir os testes psicológicos",
+    "o psicólogo tem a responsabilidade de adaptar o processo de aplicação e correção do teste de forma a contemplar as especificidades da avaliação"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "",
+   "comentario": "O psicólogo tem autonomia para escolher, entre os testes com parecer favorável no SATEPSI, o que mede o construto que ele quer avaliar. O SATEPSI avalia e lista testes, mas não indica qual usar (C); nenhum método, nem projetivo, é obrigatório (B); documentos e relatórios de equipe são fontes complementares de informação, não substitutos dos testes (D); e o psicólogo deve seguir a aplicação e a correção padronizadas do manual, sem adaptá-las por conta própria (E)."
+  },
+  {
+   "numero": 53,
+   "texto": "",
+   "enunciado": "Lucas, 5 anos, apresentou mudança de comportamento na escola. Ele está choroso, agressivo com os colegas e resistente em participar das atividades. A professora pediu ajuda para a psicóloga da escola, para quem Lucas contou que seu primo Vitor, 15 anos, o chamou para brincar de médico, tirou sua cueca, machucou seu bumbum e disse que ele não poderia falar para ninguém sobre aquela brincadeira. Sobre essa situação, é correto afirmar que:",
+   "alternativas": [
+    "o desenvolvimento psicossocial humano se dá em uma sucessão de etapas, sendo a fase fálica aquela em que Lucas se encontra, na qual a área erógena fundamental do corpo é a zona genital",
+    "as hipóteses de abuso sexual intrafamiliar são mais subnotificadas em famílias de extratos sociais mais vulneráveis, com menor instrução e uso de substâncias entorpecentes",
+    "o dever de sigilo da psicóloga se aplica mesmo em se tratando de comunicação feita fora do enquadre psicoterápico",
+    "a psicóloga tem o dever de acionar o Conselho Tutelar para que sejam aplicadas medidas de proteção ao menino",
+    "o crime de estupro de vulnerável estará caracterizado se tiver acontecido efetivamente a conjunção carnal entre Lucas e Vitor"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Diante de suspeita ou confirmação de abuso sexual contra criança, a comunicação ao Conselho Tutelar é obrigatória (ECA, art. 13), e o Código de Ética permite a quebra do sigilo para o menor prejuízo à criança. A fase fálica é do desenvolvimento psicossexual de Freud, não psicossocial; a subnotificação não é exclusiva das famílias pobres; o sigilo não é absoluto (C); e o estupro de vulnerável (CP, art. 217-A) se configura também com qualquer outro ato libidinoso, sem exigir conjunção carnal."
+  },
+  {
+   "numero": 54,
+   "texto": "",
+   "enunciado": "Sandra, que tem baixa visão, passou em um concurso público na cota de pessoas com deficiência. A efetiva inclusão de Sandra depende, entre outras medidas, da superação de barreiras que possam obstruir sua integração plena. São consideradas barreiras atitudinais:",
+   "alternativas": [
+    "os comportamentos que impedem ou prejudicam a participação social da pessoa com deficiência em igualdade de condições com as demais pessoas",
+    "as barreiras que dificultam ou impedem o acesso da pessoa com deficiência aos equipamentos e recursos de tecnologia assistiva",
+    "quaisquer obstáculos que dificultem ou impossibilitem o recebimento de mensagens e de informações pelos sistemas de comunicação",
+    "as adaptações razoáveis que promovem modificações e ajustes necessários e adequados sem acarretar ônus desproporcional e indevido",
+    "os obstáculos existentes nas vias e nos espaços públicos e privados abertos ao público ou de uso coletivo e nos edifícios públicos e privados"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Brasileira de Inclusão (Lei 13.146/2015, art. 3º) define barreiras atitudinais como atitudes ou comportamentos que impedem ou prejudicam a participação social da pessoa com deficiência em igualdade de condições. As outras alternativas descrevem barreiras tecnológicas (B), nas comunicações e na informação (C), urbanísticas e arquitetônicas (E), e D define adaptação razoável, que é medida de inclusão e não barreira."
+  },
+  {
+   "numero": 55,
+   "texto": "",
+   "enunciado": "A avaliação psicológica é prerrogativa do profissional de psicologia, utilizada em diferentes contextos, dentre os quais o da psicologia organizacional e do trabalho. Nesse contexto, a avaliação psicológica pode ser utilizada em diferentes processos organizacionais para auxiliar na caracterização, análise, diagnóstico e tomada de decisão em diferentes âmbitos, entre os quais:",
+   "alternativas": [
+    "a avaliação dos aspectos psíquicos e cognitivos dos indíviduos sob avaliação compulsória normativa",
+    "o estabelecimento de perfis psicológicos/profissiográficos e o mapeamento de competências no trabalho",
+    "a investigação e eventual responsabilização dos trabalhadores nas situações de acidentes de trabalho",
+    "a avaliação de desempenho dos funcionários, pelo gestor da organização, com foco na identificação de hard skills",
+    "a realização de psicodiagnósticos para a detecção de sintomas psicopatológicos e indicação de abordagens psicoterápicas"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "",
+   "comentario": "No contexto organizacional e do trabalho, a avaliação psicológica serve, entre outros fins, para estabelecer perfis psicológicos e profissiográficos e mapear competências. A avaliação compulsória normativa (trânsito, porte de arma) é outro contexto; responsabilizar trabalhadores por acidentes não é finalidade da avaliação psicológica; avaliação de desempenho feita pelo gestor não é avaliação psicológica; e psicodiagnóstico para indicar psicoterapia é do contexto clínico."
+  },
+  {
+   "numero": 56,
+   "texto": "",
+   "enunciado": "No final de 2023, entrou em vigor a portaria do Ministério da Saúde que atualiza a lista de doenças relacionadas ao trabalho no país, publicada originalmente em 1999. A portaria reconhece agentes e fatores de risco psicossociais no trabalho que respondem por doenças relacionadas ao trabalho. Considerem-se os seguintes fatores:\nI. modalidades de pagamento e contratação como a terceirização, a pejotização e o trabalho intermitente;\nII. aplicação da ergonomia nas condições do ambiente de trabalho, como temperatura, ruído, iluminação, ventilação;\nIII. relações sociais no trabalho caracterizadas por baixa coesão grupal e deficiência nas formas de comunicação.\nSão fatores de risco psicossociais:",
+   "alternativas": [
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas",
+    "III, apenas",
+    "I, II e III"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Formas precárias de contratação e pagamento (terceirização, pejotização, trabalho intermitente) e relações sociais com baixa coesão e comunicação deficiente são fatores de risco psicossociais, ligados à organização e às relações de trabalho; por isso I e III. O item II fala de condições físicas do ambiente (temperatura, ruído, iluminação), que são riscos físicos e ergonômicos, e ainda descreve a aplicação da ergonomia, que é medida de proteção, não fator de risco."
+  },
+  {
+   "numero": 57,
+   "texto": "",
+   "enunciado": "A violência psicológica contra a mulher é uma forma de violência de difícil identificação, e muitas vezes as vítimas não se dão conta de que estão sofrendo danos emocionais. É(São) exemplo(s) de prática de violência psicológica contra a mulher:",
+   "alternativas": [
+    "a ideação suicida e a automutilação",
+    "o isolamento e a vigilância constante",
+    "as ameaças e empurrões que não deixam sequelas físicas",
+    "a coação para manter relações sexuais não desejadas",
+    "a apropriação e o controle dos rendimentos da mulher"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Maria da Penha (Lei 11.340/2006, art. 7º, II) inclui na violência psicológica o isolamento e a vigilância constante, ao lado de humilhação, manipulação e controle de comportamentos. Ameaças com empurrões configuram violência física, a coação a relações sexuais é violência sexual e o controle dos rendimentos é violência patrimonial; ideação suicida e automutilação são possíveis consequências na vítima, não práticas do agressor."
+  },
+  {
+   "numero": 58,
+   "texto": "",
+   "enunciado": "Gustavo é chefe e percebe que os membros de sua equipe vêm apresentando baixa produtividade, altas taxas de turnover e absenteísmo. Para elevar a motivação de sua equipe, Gustavo pode desenvolver as ações abaixo, EXCETO:",
+   "alternativas": [
+    "promover o trabalho em equipe e a colaboração entre os funcionários",
+    "buscar oferecer benefícios e programas de bem-estar que ajudem a cuidar da saúde física e mental",
+    "fornecer feedback construtivo e manter a equipe informada sobre as decisões da empresa",
+    "ser um líder inspirador que motive seus colaboradores a darem o seu melhor",
+    "traçar metas de difícil alcance em prazos curtos, capacitando cada funcionário a atingir de forma autônoma essas metas"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "Metas de difícil alcance em prazos curtos tendem a gerar estresse e frustração e a piorar absenteísmo e rotatividade; a literatura de motivação recomenda metas desafiadoras, mas alcançáveis, com apoio do líder. Trabalho em equipe, programas de bem-estar, feedback construtivo com comunicação transparente e liderança inspiradora são estratégias reconhecidas para elevar a motivação."
+  },
+  {
+   "numero": 59,
+   "texto": "",
+   "enunciado": "A entrevista motivacional é uma abordagem terapêutica originalmente desenvolvida para tratar transtornos relacionados ao uso de substâncias. É um princípio básico dessa técnica:",
+   "alternativas": [
+    "lidar com a resistência: o terapeuta aponta e confronta a negação do paciente para promover seu compromisso com o tratamento",
+    "fazer perguntas fechadas: o terapeuta e o cliente estabelecem um foco para o tratamento e a partir daí são desestimuladas as comunicações livres",
+    "apoiar a autoeficácia: o terapeuta se apresenta como um modelo de eficácia a ser seguido e dirige o paciente ao longo de todo o percurso terapêutico",
+    "evitar as recaídas: o terapeuta identifica os riscos e utiliza estratégias para prevenir o fracasso do tratamento motivacional",
+    "expressar empatia: o terapeuta se abstém de julgamentos para ajudar os indivíduos a explorarem suas ambivalências em relação à mudança de comportamento"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "Expressar empatia é um dos princípios da entrevista motivacional de Miller e Rollnick: o terapeuta acolhe sem julgar e ajuda o cliente a explorar a ambivalência em relação à mudança. A abordagem evita o confronto e acompanha a resistência em vez de enfrentá-la (A), privilegia perguntas abertas (B), e apoiar a autoeficácia significa fortalecer a crença do próprio cliente na capacidade de mudar, não oferecer o terapeuta como modelo (C). Prevenção de recaída é outra técnica, não princípio da entrevista motivacional (D)."
+  },
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "Analise as afirmativas a seguir em relação ao treinamento e desenvolvimento de pessoal em uma empresa.\nI. O desenvolvimento profissional é um processo de curto prazo e com resultados imediatos diante da identificação de uma necessidade da empresa.\nII. O treinamento se constitui num processo de amplo escopo e de longo prazo, tornando o profissional cada vez mais valioso para a corporação, projetando o futuro, na antecipação de tendências, oportunidades e demandas.\nIII. Treinamento e desenvolvimento podem ser sintetizados como um conjunto de ações planejadas que a empresa realiza para contribuir com a geração de resultados alinhados aos objetivos organizacionais.\nEstá correto o que se afirma em:",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "Treinamento e desenvolvimento são ações planejadas da organização para gerar resultados alinhados aos seus objetivos, então só a III está correta. As afirmativas I e II trocam os conceitos: o treinamento é que é de curto prazo e focado em uma necessidade imediata do cargo, e o desenvolvimento é que é amplo, de longo prazo e voltado para o futuro e para tendências."
+  },
+  {
+   "numero": 61,
+   "texto": "",
+   "enunciado": "Pedro e Gabriela se conheceram em uma rede social e começaram a se relacionar remotamente, falando-se diariamente por meio de mensagens de textos e vídeos, por três meses. Entretanto, em certo momento, Gabriela parou de responder a Pedro, bloqueando seu contato sem dar qualquer explicação sobre esse comportamento. A atitude de Gabriela pode ser sugestiva de:",
+   "alternativas": [
+    "alucinação",
+    "gaming disorder",
+    "gaslighting",
+    "ghosting",
+    "transtorno de estresse pós-traumático"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Ghosting é encerrar um relacionamento sumindo de repente, sem explicação, cortando todo contato, como fez Gabriela. Gaslighting é manipular o outro para que duvide da própria percepção e memória; gaming disorder é o uso problemático de jogos eletrônicos; alucinação é percepção sem objeto; e nada no caso indica estresse pós-traumático."
+  },
+  {
+   "numero": 62,
+   "texto": "",
+   "enunciado": "Josefa é psicóloga do TRF e trabalha entrevistando profissionais que devem ser realocados em novas funções laborativas. Para isso, parte de um roteiro que, embora inclua pontos previamente estabelecidos para serem esclarecidos, não prevê uma sequência fixa, a fim de que os entrevistados incluam novos temas, demarcando o seu ritmo. O tipo de entrevista desenvolvido por Josefa é:",
+   "alternativas": [
+    "livre",
+    "semiestruturada",
+    "estruturada",
+    "aberta",
+    "enquete"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "",
+   "comentario": "A entrevista semiestruturada tem um roteiro com pontos a esclarecer, mas sem sequência fixa, o que deixa o entrevistado trazer temas e ritmo, exatamente o caso de Josefa. A estruturada segue perguntas e ordem fixas; a livre (ou aberta) não tem roteiro prévio; enquete é levantamento por questionário, não entrevista clínica ou ocupacional."
+  },
+  {
+   "numero": 63,
+   "texto": "",
+   "enunciado": "Com relação à reabilitação e à readaptação funcionais, é correto afirmar que:",
+   "alternativas": [
+    "a reabilitação se relaciona à limitação funcional que implique dificuldade ou incapacidade de realizar alguma(s) tarefa(s) ou exigências da profissão, enquanto a readaptação diz respeito à incapacidade permanente",
+    "a readaptação se relaciona às questões comportamentais e psicológicas, enquanto a reabilitação se relaciona às limitações orgânicas",
+    "a reabilitação torna impositiva a mudança de atividade pela incapacidade total e permanente para o exercício da função anterior, enquanto a readaptação traz apenas a redução ou limitação funcional",
+    "a reabilitação está associada às questões comportamentais e psicológicas, enquanto a readaptação se relaciona às incapacidades orgânicas",
+    "tanto a reabilitação quanto a readaptação se associam especificamente à superação de limitações emocionais e psíquicas no retorno ao trabalho"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Na lógica da banca, a reabilitação profissional se impõe quando há incapacidade total e permanente para a função anterior, obrigando a mudança de atividade, enquanto a readaptação responde a uma redução ou limitação da capacidade, com atribuições compatíveis (no serviço público federal, Lei 8.112/1990, art. 24). A alternativa A inverte os conceitos, e B, D e E limitam um ou outro a aspectos só orgânicos ou só psicológicos, quando ambos abrangem limitações físicas e mentais."
+  },
+  {
+   "numero": 64,
+   "texto": "",
+   "enunciado": "Entende(m)-se por clima organizacional:",
+   "alternativas": [
+    "as práticas adotadas que norteiam os trabalhadores de uma empresa, concedendo-lhes uma identidade própria mais estável e mais resistente à mudança",
+    "uma condição temporária formada por meio dos significados construídos pelos indivíduos, que guiam suas decisões e ações no ambiente organizacional",
+    "uma ferramenta utilizada para mensurar, periódica ou sazonalmente, a performance das pessoas colaboradoras ou áreas de uma empresa",
+    "um conjunto de estratégias que visam a aperfeiçoar a estrutura de uma organização com base em crenças e valores de todos os elementos que a compõem",
+    "o processo reiterado de condutas abusivas na organização que objetivam o cumprimento de metas ou a adesão a políticas institucionais a qualquer custo"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "",
+   "comentario": "O clima organizacional é a percepção compartilhada, relativamente temporária e mutável, que as pessoas constroem sobre o ambiente de trabalho e que orienta suas decisões e ações. A alternativa A descreve a cultura organizacional, que é mais estável e resistente à mudança; C fala de avaliação de desempenho; D de desenvolvimento organizacional; e E descreve o assédio organizacional."
+  },
+  {
+   "numero": 65,
+   "texto": "",
+   "enunciado": "No dia 07 de maio é celebrado o Dia Internacional da Redução de Danos. Atualmente, o Conselho Federal de Psicologia (CFP) compõe o Conselho Nacional de Políticas sobre Drogas (CONAD). Sobre a Redução de Danos (RD), é correto afirmar que:",
+   "alternativas": [
+    "admite a imposição involuntária ou compulsória da abstinência, podendo esta ser utilizada como meta a longo prazo",
+    "se caracteriza como um conjunto de estratégias e ações reservado para a redução dos riscos e efeitos negativos do uso de drogas ilícitas",
+    "promove, com foco no cuidado com os indivíduos, a autonomia e o respeito à subjetividade e à liberdade, oferecendo estratégias padronizadas de atenção",
+    "tem suas estratégias enraizadas no proibicionismo, que alimenta de forma alarmante o encarceramento e a marginalização de populações periféricas",
+    "permite uma abordagem geral e inclusiva no acompanhamento de usuários, reconhecendo o contexto social, cultural e individual em que o uso ocorre"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "A redução de danos parte de uma abordagem ampla e inclusiva, que considera o contexto social, cultural e individual do uso e respeita a autonomia de quem usa. Ela não admite abstinência imposta (A), não se restringe às drogas ilícitas, valendo também para álcool e tabaco (B), não usa estratégias padronizadas, e sim singulares (C), e se opõe ao proibicionismo, em vez de nascer dele (D)."
+  },
+  {
+   "numero": 66,
+   "texto": "",
+   "enunciado": "Entendendo que a chegada da aposentadoria possa se revelar um momento gerador de ansiedade, várias empresas estão desenvolvendo Programas de Preparação para a Aposentadoria (PPA). Em relação a esse tema, considere os objetivos a seguir.\nI- Informar sobre a adoção de práticas e estilos de vida saudáveis.\nII- Orientar sobre planejamento financeiro a médio e longo prazo.\nIII- Oportunizar a reflexão sobre aspectos positivos e negativos da aposentadoria.\nÉ um(são) objetivo(s) importante(s) a ser(em) atendido(s) em um PPA:",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "",
+   "comentario": "Um programa de preparação para a aposentadoria trabalha saúde e estilo de vida, planejamento financeiro e reflexão sobre ganhos e perdas da nova fase, por isso os três objetivos são importantes. A aposentadoria mexe com rotina, renda, identidade e vínculos, e o programa deve cobrir essas dimensões em conjunto."
+  },
+  {
+   "numero": 67,
+   "texto": "",
+   "enunciado": "O Brasil registrou, em seu passado recente, uma série de tragédias climáticas que impactaram diretamente milhares de pessoas. O Código de Ética Profissional de Psicologia aponta como um dos deveres fundamentais dos psicólogos nessas situações:",
+   "alternativas": [
+    "atender emergencialmente as crianças e adolescentes vítimas mediante autorização expressa de ambos os pais",
+    "prestar orientação emocional e espiritual às vítimas da tragédia a fim de mitigar os efeitos do luto patológico",
+    "priorizar os atendimentos grupais com a finalidade de alcançar resultados mais abrangentes e céleres",
+    "prestar serviços profissionais em situações de calamidade pública ou de emergência, sem visar a benefício pessoal",
+    "expor os resultados de serviços psicológicos em meios de comunicação, de forma a estimular a solidariedade"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "",
+   "comentario": "O art. 1º, d, do Código de Ética (Res. CFP 010/2005) põe entre os deveres fundamentais prestar serviços profissionais em situações de calamidade pública ou de emergência, sem visar benefício pessoal. A erra porque o art. 8º exige autorização de ao menos um dos responsáveis, não de ambos; orientação espiritual e a priorização de atendimentos grupais não são deveres do Código; e expor resultados de serviços na mídia contraria as regras de sigilo e de divulgação do Código."
+  },
+  {
+   "numero": 68,
+   "texto": "",
+   "enunciado": "A conciliação e a mediação são instrumentos efetivos de pacificação social, solução e prevenção de litígios, utilizados em diferentes contextos em que surgem conflitos entre as pessoas. Simone e Marisa são vizinhas e vêm se desentendendo a respeito da utilização da área comum do condomínio em que residem. Em um caso como esse, a vantagem da mediação é:",
+   "alternativas": [
+    "arbitrar as negociações nos conflitos de interesses",
+    "permitir a colaboração mandatória das duas litigantes",
+    "garantir a participação isonômica das pessoas em conflito",
+    "prever normas claras e procedimentos fixos para o processo",
+    "possibilitar que os mediadores de cada parte cheguem a um acordo"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A mediação se baseia na isonomia entre as partes e na voluntariedade, o que garante participação igualitária das pessoas em conflito (Lei 13.140/2015, art. 2º). O mediador não arbitra nem decide (A), ninguém é obrigado a participar ou a permanecer na mediação (B), o procedimento é informal e flexível (D), e há um mediador imparcial, não um representante de cada parte (E)."
+  },
+  {
+   "numero": 69,
+   "texto": "",
+   "enunciado": "A entrevista de desligamento ou saída, no processo de offboarding, se revela ferramenta importante para:",
+   "alternativas": [
+    "obter uma orientação clara sobre como aumentar o turnover",
+    "informar sobre possíveis processos caso o ex-funcionário fale mal da empresa",
+    "recontratar funcionários que foram levados deslealmente pela concorrência",
+    "obter o feedback mais genuíno possível de alguém que já trabalhou na organização",
+    "detratar as empresas concorrentes que tenham oferecido oportunidades laborativas aos funcionários da empresa"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "",
+   "comentario": "A entrevista de desligamento é feita quando o funcionário já está saindo, momento em que ele tende a falar com mais franqueza, por isso serve para obter feedback genuíno sobre clima, gestão e causas do turnover. Ela não visa aumentar a rotatividade, ameaçar o ex-funcionário, recontratar ou falar mal de concorrentes; essas alternativas são absurdas ou antiéticas."
+  },
+  {
+   "numero": 70,
+   "texto": "",
+   "enunciado": "A literatura especializada mostra que o estresse não é um processo automático de estímulo-resposta, na medida em que sofre influência de fatores mediadores internos e externos. Analise as afirmativas a seguir sobre os fatores estressores, em relação ao coping.\nI. O conjunto de estratégias utilizadas pelas pessoas para se adaptarem a circunstâncias adversas ou estressantes caracteriza o coping.\nII. A abordagem disposicional entende o coping como traço ou estilo de personalidade.\nIII. A abordagem situacional considera o coping um processo cognitivo, ativo e consciente de avaliação e resposta a situações de estresse.\nIV. O coping é resultado de uma interação ativa entre a pessoa e o meio, com base numa relação psicológica.\nA sequência correta é:",
+   "alternativas": [
+    "V - V - V - V",
+    "V - V - V - F",
+    "V - V - F - F",
+    "V - F - F - F",
+    "F - F - F – F"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "As quatro afirmativas são verdadeiras: coping é o conjunto de estratégias para lidar com situações estressantes; a abordagem disposicional o vê como estilo ou traço de personalidade; a situacional, como processo cognitivo, ativo e consciente de avaliação e resposta; e o modelo interacionista (Lazarus e Folkman) o entende como fruto da relação entre a pessoa e o meio. O erro mais comum é achar que as abordagens disposicional e situacional se excluem e marcar uma delas como falsa; o enunciado só descreve cada uma."
+  },
+  {
+   "numero": 71,
+   "texto": "",
+   "enunciado": "A obesidade é uma doença que tem crescido no Brasil e no mundo. Segundo a Pesquisa Nacional de Saúde PNS/2020, aproximadamente 60% dos adultos brasileiros já têm excesso de peso, o que representa cerca de 96 milhões de pessoas, e 1 em cada 4 tem obesidade, num total de mais de 41 milhões de pessoas. O crescimento da obesidade confere grandes impactos para o sistema de saúde, e essas consequências não se limitam aos custos econômicos. Assim, é necessário investir num conjunto de estratégias de prevenção e cuidado para deter o avanço ou reduzir a prevalência da doença. Diante desse cenário, considere as ações a seguir:\nI. venda, nas cantinas escolares, de alimentos in natura e mimimamente processados, incentivando o consumo de refeições saudáveis;\nII. estímulo a uma vida mais ativa fisicamente por meio da instalação de ambientes urbanos para a prática de atividades físicas e de lazer;\nIII. realização de grupos de ajuda mútua no modelo dos Vigilantes do Peso ou dos Comedores Compulsivos Anônimos, utilizando o sistema de recompensa dos comportamentos de controle alimentar;\nIV. facilitação da realização, no sistema público de saúde, de cirurgias bariátricas e de distribuição de medicação anorexígena na atenção primária.\nDentre as ações elencadas, são estratégias para a prevenção primária da obesidade:",
+   "alternativas": [
+    "I e II, apenas",
+    "I, II e III, apenas",
+    "II e IV, apenas",
+    "I e III, apenas",
+    "I, II e IV, apenas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "",
+   "comentario": "Prevenção primária age antes de a doença se instalar, sobre a população geral e o ambiente: alimentação saudável nas cantinas (I) e espaços urbanos para atividade física (II). Grupos de ajuda mútua para quem já tem compulsão ou excesso de peso (III) e cirurgia bariátrica e medicação anorexígena (IV) são ações voltadas a quem já tem o problema, ou seja, prevenção secundária ou terciária e tratamento."
+  },
+  {
+   "numero": 72,
+   "texto": "",
+   "enunciado": "O aumento da prevalência de doenças crônicas vem na esteira do aumento da expectativa de vida. Diagnosticado com uma doença grave e progressiva, o Sr. Geraldo, 85 anos, professor universitário aposentado, manifestou desejo de receber cuidados paliativos. Sobre essa situação, é correto apontar que:",
+   "alternativas": [
+    "o etarismo do Sr. Geraldo confere a ele o direito de recorrer aos melhores cuidados paliativos para a cura de sua doença",
+    "o Sr. Geraldo não pode recusar os tratamentos disponíveis para sua doença porque a legislação brasileira não admite a eutanásia",
+    "a adoção dos cuidados paliativos dependerá da autorização expressa da família do Sr. Geraldo ou, à falta dela, de autorização judicial",
+    "a pessoa idosa que esteja no domínio de suas faculdades mentais tem o direito de optar pelo tratamento de saúde que considerar mais favorável",
+    "a demência senil, doença grave e progressiva própria do envelhecimento, é diagnosticada com base nos sintomas de depressão e ideação suicida"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O Estatuto da Pessoa Idosa (Lei 10.741/2003, art. 17) assegura à pessoa idosa no domínio de suas faculdades mentais o direito de optar pelo tratamento de saúde que considerar mais favorável. Etarismo é preconceito por idade e cuidados paliativos não visam a cura (A); recusar tratamento e optar por cuidados paliativos não é eutanásia (B); com o idoso lúcido não é preciso autorização da família nem do juiz (C); e demência não se diagnostica por depressão e ideação suicida (E)."
+  },
+  {
+   "numero": 73,
+   "texto": "",
+   "enunciado": "No que se refere às recentes discussões sobre as transformações contemporâneas que se dão no campo da saúde mental, a medicalização da sociedade pode ser relacionada:",
+   "alternativas": [
+    "aos avanços na categorização psiquiátrica dos pacientes por meio dos sintomas invariantes",
+    "à produção dos medicamentos, que determina a fabricação de diagnósticos",
+    "às críticas desenvolvidas pela psiquiatria pelo uso de alternativas terapêuticas não medicamentosas",
+    "às pesquisas que comprovam a existência de novas categorias psicodiagnósticas",
+    "ao aumento do sofrimento clínico, que produz a necessidade de mais remédios para ser curado"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A crítica à medicalização da sociedade aponta que a indústria farmacêutica, ao produzir medicamentos, também induz a criação de diagnósticos para que haja quem os consuma, transformando experiências da vida em doença. As alternativas A e D tratam a multiplicação de categorias como puro avanço científico, que é justamente o que a crítica questiona; C e E invertem a lógica, pois é a oferta de remédios e diagnósticos que amplia o sofrimento rotulado como clínico."
+  },
+  {
+   "numero": 74,
+   "texto": "",
+   "enunciado": "Dentre as grandes e profundas transformações por que passa atualmente o mundo do trabalho, destacam-se:",
+   "alternativas": [
+    "rotatividade, informalidade, uberização, aumento do uso de tecnologias, estabilidade nas relações de trabalho e elevação de renda e pejotização",
+    "precarização do trabalho, contratos por prazo determinado, terceirização dos serviços, degradação das condições de trabalho e multiplicação de vínculos laborais",
+    "conquista de direitos trabalhistas, melhores condições de trabalho, pejotização, segurança nas relações de emprego, elevação de renda e multiplicação de vínculos laborais",
+    "insegurança, estresse, ansiedade, medo, depressão, elevação de renda, multiplicação de vínculos laborais, estabilidade nas relações de trabalho e ansiedade",
+    "aumento do uso de tecnologias, incentivo à especialização, ansiedade, estresse, segurança nas relações de emprego, elevação de renda e multiplicação de vínculos laborais"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "",
+   "comentario": "As transformações atuais do mundo do trabalho são marcadas por precarização, contratos temporários, terceirização, degradação das condições de trabalho e multiplicação de vínculos. As outras alternativas misturam esses fenômenos com o oposto do que ocorre: estabilidade, segurança no emprego, elevação de renda e conquista de direitos."
+  },
+  {
+   "numero": 75,
+   "texto": "",
+   "enunciado": "Analise as afirmativas a seguir sobre a teoria do apego, considerando V para a(s) verdadeira(s) e F para a(s) falsa(s).\nI. As primeiras relações de apego, estabelecidas na infância, afetam o estilo de apego do indivíduo ao longo de sua vida.\nII. A função principal atribuída a esse comportamento é biológica e corresponde a uma necessidade de proteção e segurança.\nIII. O comportamento de apego é instintivo e se relaciona a associações prazerosas.\nIV. O comportamento de apego pode se expressar de formas diversas, como procurar ou seguir o cuidador, chorar ou sorrir.\nA sequência correta é:",
+   "alternativas": [
+    "V - V - F - F",
+    "V - F - V - F",
+    "V - V - F - V",
+    "F - V - F - V",
+    "F - F - F - V"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Na teoria do apego de Bowlby, as primeiras relações moldam o estilo de apego ao longo da vida (I), a função do apego é biológica, de proteção e segurança (II), e ele se expressa por procurar e seguir o cuidador, chorar e sorrir (IV). A III é falsa porque Bowlby rejeitou a ideia de que o apego nasce de associações prazerosas, como a alimentação (teoria do impulso secundário): o apego é um sistema comportamental primário, voltado à proteção."
+  },
+  {
+   "numero": 76,
+   "texto": "",
+   "enunciado": "A atuação do profissional de psicologia integrando as equipes que atuam na assistência social é hoje uma realidade tanto na proteção básica quanto na proteção especial. Pedro é psicólogo e faz parte da equipe do CREAS de sua cidade. Dentre suas atribuições, encontra-se:",
+   "alternativas": [
+    "ofertar atendimento psicoterápico às famílias assistidas no território de abrangência do equipamento",
+    "avaliar se os beneficiários atendem aos critérios de elegibilidade para inclusão nos programas de transferência de renda",
+    "favorecer a adesão ao tratamento ambulatorial de pacientes egressos de internações hospitalares prolongadas e suas famílias",
+    "coordenar programas de prevenção secundária ao tabagismo e ao alcoolismo por meio de palestras para o público escolar infantil e adolescente",
+    "proporcionar escuta qualificada para a reconstrução de vínculos familiares fragilizados por situações de violação de direitos"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "No CREAS, serviço da proteção social especial do SUAS, o psicólogo atende famílias e indivíduos com direitos violados, e a escuta qualificada para reconstruir vínculos familiares fragilizados é atribuição típica. O SUAS não oferece psicoterapia (A); avaliar elegibilidade para transferência de renda não é atribuição do psicólogo no CREAS (B); e adesão a tratamento ambulatorial e programas de prevenção do tabagismo são ações da saúde, não da assistência social (C e D)."
+  },
+  {
+   "numero": 77,
+   "texto": "",
+   "enunciado": "Após o recebimento de uma intimação por parte da Polícia Federal, Fabiano compareceu à sede da instituição, sendo informado pela autoridade policial da existência de um inquérito policial em curso, no qual ele seria ouvido na qualidade de testemunha. Durante o depoimento, gravado em áudio e vídeo, Fabiano, em diversas ocasiões, calou a verdade sobre fatos juridicamente relevantes, embora não tenha feito afirmações falsas. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Fabiano:",
+   "alternativas": [
+    "não responderá por qualquer crime, já que, apesar de ter calado a verdade, não fez uso de afirmações falsas",
+    "não responderá por qualquer crime, já que calou a verdade em inquérito policial, e não em processo judicial",
+    "responderá pelo crime de favorecimento real",
+    "responderá pelo crime de fraude processual",
+    "responderá pelo crime de falso testemunho"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O falso testemunho (Código Penal, art. 342) inclui fazer afirmação falsa, negar ou calar a verdade como testemunha, inclusive em inquérito policial. Por isso calar a verdade basta (A) e o inquérito está abrangido (B); favorecimento real e fraude processual são outros tipos penais."
+  },
+  {
+   "numero": 78,
+   "texto": "",
+   "enunciado": "João, agente público federal competente, deu ordem de parada a um veículo automotor que transitava em excesso de velocidade no interior do estado do Pará. Realizado o exame de alcoolemia (teste do bafômetro), constatou-se que o condutor havia ingerido grande quantidade de álcool, dando azo à caracterização de crime previsto no Código de Trânsito Brasileiro. Dessa forma, João solicitou ao condutor dez mil reais para liberá-lo, proposta aceita imediatamente e operacionalizada por meio de transferência bancária. Nesse cenário, considerando as disposições do Código Penal, João responderá pelo(s) crime(s) de:",
+   "alternativas": [
+    "corrupção passiva e corrupção ativa, em concurso",
+    "concussão e corrupção passiva, em concurso",
+    "corrupção passiva",
+    "corrupção ativa",
+    "concussão"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Solicitar vantagem indevida em razão da função é corrupção passiva (Código Penal, art. 317); a concussão (art. 316) exige que o funcionário exija a vantagem, com imposição. A corrupção ativa é crime do particular que oferece ou promete, não do agente público, por isso João responde só por corrupção passiva."
+  },
+  {
+   "numero": 79,
+   "texto": "",
+   "enunciado": "Luiz encontra-se preso, preventivamente, em um presídio federal de segurança máxima. Em razão de uma falha nos procedimentos de segurança do estabelecimento, João logrou êxito em fugir, sem auxílio de terceiros e sem empregar violência ou grave ameaça contra pessoa. Contudo, quando estava a dez metros do muro externo da penitenciária, dois policiais penais de plantão conseguiram capturá-lo, sem qualquer tipo de resistência. Nesse cenário, considerando as disposições do Código Penal, é correto afirmar que Luiz:",
+   "alternativas": [
+    "não responderá por qualquer crime, pois a legislação tipifica, apenas, a fuga consumada do preso, não verificada no caso apresentado",
+    "não responderá por qualquer crime, em razão da atipicidade formal da conduta",
+    "responderá pelo crime de fuga de pessoa presa, na modalidade consumada",
+    "responderá pelo crime de fuga de pessoa presa, na modalidade tentada",
+    "responderá pelo crime de arrebatamento de preso"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O Código Penal só pune o preso que foge quando ele usa violência contra a pessoa (evasão mediante violência, art. 352); a fuga sem violência, mesmo tentada, é atípica para ele. O crime de fuga de pessoa presa (art. 351) é de quem promove ou facilita a fuga, e o arrebatamento de preso (art. 353) é de terceiro que tira o preso da custódia para maltratá-lo."
+  },
+  {
+   "numero": 80,
+   "texto": "",
+   "enunciado": "Um particular se encaminhou à sede do Departamento de Trânsito (DETRAN) do estado Alfa com o objetivo de realizar a vistoria do seu veículo automotor. Contudo, em razão das diversas irregularidades constatadas, o automóvel não passou no exame conduzido pelo servidor Caio, que ocupa um cargo público junto ao DETRAN. Dessa forma, Matheus, despachante que presenciou os fatos, se aproximou do particular e solicitou dois mil reais, para si, a pretexto de influir e reverter a decisão tomada pelo agente público. Nesse cenário, considerando as disposições do Código Penal, Matheus responderá pelo crime de:",
+   "alternativas": [
+    "advocacia administrativa",
+    "exploração de prestígio",
+    "favorecimento pessoal",
+    "tráfico de influência",
+    "patrocínio infiel"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Solicitar vantagem a pretexto de influir em ato praticado por funcionário público no exercício da função é tráfico de influência (Código Penal, art. 332). A exploração de prestígio (art. 357) exige que a influência alegada seja sobre juiz, jurado, membro do Ministério Público ou outros agentes da Justiça; advocacia administrativa é crime do próprio funcionário público."
+  }
+ ]
+}

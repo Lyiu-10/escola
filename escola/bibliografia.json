@@ -1,0 +1,1007 @@
+{
+ "cpt": [
+  {
+   "referencia": "ALMENDRA, F. S. R. (Org.) et al. Psicologia em unidade de terapia intensiva: intervenções em situações de urgência subjetiva. 1. ed. Rio de Janeiro: Atheneu, 2018.",
+   "curta": "Almendra, Psicologia em unidade de terapia intensiva",
+   "editora": "Atheneu",
+   "assuntos": [
+    "p-hospitalar",
+    "p-emergencias",
+    "p-saude"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "AMARANTE, P. Saúde mental e atenção psicossocial. 4. ed. Rio de Janeiro: Fiocruz, 2013.",
+   "curta": "Amarante, Saúde mental e atenção psicossocial",
+   "editora": "Fiocruz",
+   "assuntos": [
+    "p-saude-mental",
+    "p-lei-10216"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "AMERICAN PSYCHIATRIC ASSOCIATION. Manual diagnóstico e estatístico de transtornos mentais: DSM-5-TR. 5. ed. Texto Revisado. Porto Alegre: Artmed, 2023.",
+   "curta": "American Psychiatric Association, DSM-5-TR",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-transtornos",
+    "p-psicodiagnostico"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ANGERAMI-CAMON, Valdemar Augusto (Org.); CHIATTONE, Heloisa Benevides Carvalho; MELETI, Marli Rosani. A psicologia no hospital. 2. ed. São Paulo: Pioneira Thomson Learning, 2003.",
+   "curta": "Angerami-Camon, A psicologia no hospital",
+   "editora": "Pioneira Thomson Learning",
+   "assuntos": [
+    "p-hospitalar",
+    "p-saude"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "BAETA, Anna M. B. Psicologia e Educação. Rio de Janeiro: Forma & Ação, 2006.",
+   "curta": "Baeta, Psicologia e Educação",
+   "editora": "Forma & Ação",
+   "assuntos": [
+    "p-escolar",
+    "p-aprendizagem"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "BRASIL. Ministério da Saúde. A Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas. Brasília, DF, 2003.",
+   "curta": "Ministério da Saúde, A Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas",
+   "editora": "Ministério da Saúde",
+   "assuntos": [
+    "p-alcool-drogas"
+   ],
+   "gratis": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf"
+  },
+  {
+   "referencia": "BRASIL. Lei nº 10.216, de 6 de abril de 2001. Dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental. Brasília, DF, 2001.",
+   "curta": "Brasil, Lei nº 10.216/2001",
+   "editora": "Presidência da República",
+   "assuntos": [
+    "p-lei-10216",
+    "p-saude-mental"
+   ],
+   "gratis": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm"
+  },
+  {
+   "referencia": "CAVALCANTI, Vera L. et al. Liderança e Motivação. 3. ed. Rio de Janeiro: Editora FGV, 2009.",
+   "curta": "Cavalcanti, Liderança e Motivação",
+   "editora": "Editora FGV",
+   "assuntos": [
+    "p-lideranca"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Código de Ética Profissional do Psicólogo. Brasília, DF, 2005.",
+   "curta": "CFP, Código de Ética Profissional do Psicólogo",
+   "editora": "CFP",
+   "assuntos": [
+    "p-etica"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Referências técnicas para atuação de psicólogas (os) na gestão integral de riscos, emergências e desastres. Brasília, 2021.",
+   "curta": "CFP, Referências técnicas para atuação na gestão integral de riscos, emergências e desastres",
+   "editora": "CFP",
+   "assuntos": [
+    "p-emergencias"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2021/10/Crepop-RT-Emerge%CC%82ncias-e-Desastres-web_v2.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Norma técnica nº 22/2024: Atualização das orientações para a atuação de psicólogas e psicólogos nas fases de preparação, resposta e reconstrução em desastres.",
+   "curta": "CFP, Norma técnica nº 22/2024",
+   "editora": "CFP",
+   "assuntos": [
+    "p-emergencias"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2024/09/SEI_1812191_Nota_Tecnica_22.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Cartilha Avaliação Psicológica. 3. ed. Brasília, 2022.",
+   "curta": "CFP, Cartilha Avaliação Psicológica",
+   "editora": "CFP",
+   "assuntos": [
+    "p-avaliacao"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Resolução CFP Nº 6/2019. Institui regras para elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional e revoga a Resolução CFP nº 15/1996, a Resolução CFP nº 07/2003 e a Resolução CFP nº 04/2019.",
+   "curta": "CFP, Resolução CFP nº 6/2019",
+   "editora": "CFP",
+   "assuntos": [
+    "p-documentos"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Referências técnicas para atuação de psicólogas(os) em políticas públicas de álcool e outras drogas.",
+   "curta": "CFP, Referências técnicas para atuação em políticas públicas de álcool e outras drogas",
+   "editora": "CFP",
+   "assuntos": [
+    "p-alcool-drogas"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf"
+  },
+  {
+   "referencia": "DALGALARRONDO, P. Psicopatologia e semiologia dos transtornos mentais. 3. ed. São Paulo: Artmed, 2019.",
+   "curta": "Dalgalarrondo, Psicopatologia e semiologia dos transtornos mentais",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicopatologia",
+    "p-transtornos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "DEJOURS, C.; ABDOUCHELI, E.; JAYET, C. Psicodinâmica do trabalho: contribuições da Escola Dejouriana à análise da relação prazer, sofrimento e trabalho. 1994. 1. ed. 15ª Reimpressão, São Paulo: Atlas, 2014.",
+   "curta": "Dejours, Psicodinâmica do trabalho",
+   "editora": "Atlas",
+   "assuntos": [
+    "p-saude-trabalhador"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FREUD, S. A dinâmica da transferência (1912). v. XII in: Edição Standard Brasileira das Obras Psicológicas Completas de Sigmund Freud. Rio de Janeiro: Imago, 1996.",
+   "curta": "Freud, A dinâmica da transferência",
+   "editora": "Imago",
+   "assuntos": [
+    "p-psicanalise",
+    "p-psicoterapias"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FREUD, S. Recordar, repetir e elaborar. (1914) v. XII in: Edição Standard Brasileira das Obras Psicológicas Completas de Sigmund Freud. Rio de Janeiro: Imago, 1996.",
+   "curta": "Freud, Recordar, repetir e elaborar",
+   "editora": "Imago",
+   "assuntos": [
+    "p-psicanalise",
+    "p-psicoterapias"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FREUD, S. Luto e melancolia. (1917) v. XIV in: Edição Standard Brasileira das Obras Psicológicas Completas de Sigmund Freud. Rio de Janeiro: Imago, 1996.",
+   "curta": "Freud, Luto e melancolia",
+   "editora": "Imago",
+   "assuntos": [
+    "p-psicanalise",
+    "p-transtornos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FREUD, S. Inibições, sintomas e ansiedade. (1926) v. XX in: Edição Standard Brasileira das Obras Psicológicas Completas de Sigmund Freud. Rio de Janeiro: Imago, 1996.",
+   "curta": "Freud, Inibições, sintomas e ansiedade",
+   "editora": "Imago",
+   "assuntos": [
+    "p-psicanalise",
+    "p-transtornos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "HUTZ, C. et al. (Orgs.). Psicodiagnóstico. Porto Alegre: Artmed, 2016.",
+   "curta": "Hutz, Psicodiagnóstico",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicodiagnostico",
+    "p-avaliacao",
+    "p-psicometria"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "LEMGRUBER, V. (Org.). O futuro da integração: desenvolvimentos em psicoterapia breve. Porto Alegre: Artmed, 2000.",
+   "curta": "Lemgruber, O futuro da integração",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-terapia-breve",
+    "p-psicoterapias"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "LINS, M.; BORSA, J. (Org.). Avaliação Psicológica: aspectos teóricos e práticos. Petrópolis, RJ: Vozes, 2017.",
+   "curta": "Lins e Borsa, Avaliação Psicológica",
+   "editora": "Vozes",
+   "assuntos": [
+    "p-avaliacao",
+    "p-psicometria",
+    "p-psicodiagnostico"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "OMS. Classificação de Transtornos Mentais e de Comportamento da CID-10: descrições clínicas e diretrizes diagnósticas. Porto Alegre: Artmed, 1993.",
+   "curta": "OMS, Classificação de Transtornos Mentais e de Comportamento da CID-10",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-transtornos",
+    "p-psicopatologia"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ROMANO, B. Princípios para a prática da Psicologia Clínica em hospitais. 1. ed. São Paulo: Casa do Psicólogo, 1999.",
+   "curta": "Romano, Princípios para a prática da Psicologia Clínica em hospitais",
+   "editora": "Casa do Psicólogo",
+   "assuntos": [
+    "p-hospitalar"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ROBBINS, S.; JUDGE, T.; SOBRAL, F. Comportamento organizacional: teoria e prática no contexto brasileiro. 11. ed. São Paulo: Pearson Prentice Hall, 2005.",
+   "curta": "Robbins, Comportamento organizacional",
+   "editora": "Pearson Prentice Hall",
+   "assuntos": [
+    "p-org-trabalho",
+    "p-lideranca",
+    "p-equipes",
+    "p-cultura"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SCHEIN, Edgar H. Cultura Organizacional e liderança. São Paulo: Atlas, 2021.",
+   "curta": "Schein, Cultura Organizacional e liderança",
+   "editora": "Atlas",
+   "assuntos": [
+    "p-cultura",
+    "p-lideranca"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SIQUEIRA, M. M. M. (Org.). Medidas do comportamento organizacional: ferramentas de diagnóstico e de gestão. Porto Alegre: Artmed, 2008.",
+   "curta": "Siqueira, Medidas do comportamento organizacional",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-org-trabalho",
+    "p-psicometria",
+    "p-cultura",
+    "p-lideranca"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SPECTOR, P. Psicologia nas organizações. 3. ed. São Paulo: Saraiva, 2010.",
+   "curta": "Spector, Psicologia nas organizações",
+   "editora": "Saraiva",
+   "assuntos": [
+    "p-org-trabalho",
+    "p-recrutamento",
+    "p-treinamento",
+    "p-lideranca",
+    "p-equipes",
+    "p-saude-trabalhador"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ZANELLI, J.; BORGES-ANDRADE, J.; BASTOS, A. (Org.). Psicologia, organizações e trabalho no Brasil. 2. ed. Porto Alegre: Artmed, 2014.",
+   "curta": "Zanelli, Psicologia, organizações e trabalho no Brasil",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-org-trabalho",
+    "p-recrutamento",
+    "p-treinamento",
+    "p-lideranca",
+    "p-equipes",
+    "p-cultura",
+    "p-saude-trabalhador"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ZIMERMAN, D. E. Fundamentos básicos das grupoterapias. 2. ed. Porto Alegre: Artmed, 2000.",
+   "curta": "Zimerman, Fundamentos básicos das grupoterapias",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-grupos"
+   ],
+   "gratis": null
+  }
+ ],
+ "esfcex": [
+  {
+   "referencia": "ALMEIDA, Napoleão Mendes de. Dicionário de questões vernáculas. São Paulo: Ática, 2006.",
+   "curta": "Almeida, Dicionário de questões vernáculas",
+   "editora": "Ática",
+   "assuntos": [
+    "l-ortografia",
+    "l-concordancia",
+    "l-regencia",
+    "l-crase",
+    "l-pontuacao",
+    "l-colocacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "BECHARA, Evanildo. Moderna Gramática Portuguesa. 39. ed. Rio de Janeiro: Nova Fronteira, 2019.",
+   "curta": "Bechara, Moderna Gramática Portuguesa",
+   "editora": "Nova Fronteira",
+   "assuntos": [
+    "l-ortografia",
+    "l-verbos",
+    "l-periodo-simples",
+    "l-periodo-composto",
+    "l-pontuacao",
+    "l-concordancia",
+    "l-regencia",
+    "l-crase",
+    "l-colocacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "BRASIL. Presidência da República. Casa Civil. Manual de Redação da Presidência da República. 3. ed. rev., atual. e ampl. Brasília: Presidência da República, 2018.",
+   "curta": "Presidência da República, Manual de Redação da Presidência da República",
+   "editora": "Presidência da República",
+   "assuntos": [
+    "l-ortografia",
+    "l-pontuacao",
+    "l-concordancia",
+    "l-regencia",
+    "l-crase"
+   ],
+   "gratis": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf"
+  },
+  {
+   "referencia": "FERREIRA, Aurélio Buarque de Holanda. Novo Dicionário da Língua Portuguesa. 5. ed. Curitiba-PR: Editora Positivo, 2014.",
+   "curta": "Ferreira, Novo Dicionário da Língua Portuguesa",
+   "editora": "Positivo",
+   "assuntos": [
+    "l-significacao",
+    "l-ortografia"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "KOCH, Ingedore G. Villaça; ELIAS, Vanda Maria. Ler e Compreender: os sentidos do texto. 3. ed. São Paulo: Contexto, 2011.",
+   "curta": "Koch e Elias, Ler e Compreender",
+   "editora": "Contexto",
+   "assuntos": [
+    "l-interpretacao",
+    "l-coesao",
+    "l-significacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "MARCUSCHI, Luiz Antônio. Produção textual, análise de gêneros e compreensão. São Paulo: Parábola Editorial, 2008.",
+   "curta": "Marcuschi, Produção textual, análise de gêneros e compreensão",
+   "editora": "Parábola",
+   "assuntos": [
+    "l-interpretacao",
+    "l-coesao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "MARTINS, Nilce Sant'anna. Introdução à estilística. São Paulo: EDUSP, 2008.",
+   "curta": "Martins, Introdução à estilística",
+   "editora": "EDUSP",
+   "assuntos": [
+    "l-estilistica",
+    "l-significacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "AB'SÁBER, Aziz. Os domínios de natureza no Brasil: potencialidades paisagísticas. São Paulo: Ateliê Editorial, 2003.",
+   "curta": "Ab'Sáber, Os domínios de natureza no Brasil",
+   "editora": "Ateliê Editorial",
+   "assuntos": [
+    "g-relevo",
+    "g-clima-biomas",
+    "g-ambiente-recursos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ATLAS geográfico escolar. IBGE, Centro de informações. 9. ed. Rio de Janeiro: IBGE, 2023.",
+   "curta": "IBGE, Atlas geográfico escolar",
+   "editora": "IBGE",
+   "assuntos": [
+    "g-economia",
+    "g-industria-transportes",
+    "g-urbanizacao",
+    "g-agropecuaria",
+    "g-populacao",
+    "g-regioes",
+    "g-relevo",
+    "g-ambiente-recursos",
+    "g-clima-biomas"
+   ],
+   "gratis": "https://atlasescolar.ibge.gov.br/brasil.html"
+  },
+  {
+   "referencia": "BOLIGIAN, L.; ALVES, A. Geografia: espaço e identidade. Volume 1: Ensino Médio. 1. ed. São Paulo: Ed. Brasil, 2016.",
+   "curta": "Boligian e Alves, Geografia: espaço e identidade",
+   "editora": "Editora do Brasil",
+   "assuntos": [
+    "g-relevo",
+    "g-clima-biomas",
+    "g-ambiente-recursos",
+    "g-populacao",
+    "g-urbanizacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "MOREIRA, J. C.; SENE, E. Geografia geral e do Brasil. Volume único. 6. ed. São Paulo: Ática, 2018.",
+   "curta": "Moreira e Sene, Geografia geral e do Brasil",
+   "editora": "Ática",
+   "assuntos": [
+    "g-economia",
+    "g-industria-transportes",
+    "g-urbanizacao",
+    "g-agropecuaria",
+    "g-populacao",
+    "g-regioes",
+    "g-relevo",
+    "g-ambiente-recursos",
+    "g-clima-biomas"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ROSS, J. L. S. (org.). Geografia do Brasil. 6. ed. São Paulo: Edusp, 2019.",
+   "curta": "Ross, Geografia do Brasil",
+   "editora": "Edusp",
+   "assuntos": [
+    "g-economia",
+    "g-industria-transportes",
+    "g-urbanizacao",
+    "g-agropecuaria",
+    "g-populacao",
+    "g-regioes",
+    "g-relevo",
+    "g-ambiente-recursos",
+    "g-clima-biomas"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "THÉRY, H.; MELLO-THÉRY, N. A. Atlas do Brasil: disparidades e dinâmicas do território. 3. ed. São Paulo: Edusp, 2018.",
+   "curta": "Théry e Mello-Théry, Atlas do Brasil",
+   "editora": "Edusp",
+   "assuntos": [
+    "g-regioes",
+    "g-populacao",
+    "g-urbanizacao",
+    "g-economia",
+    "g-agropecuaria",
+    "g-industria-transportes",
+    "g-ambiente-recursos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "VIEIRA, B. C. et al. Ser protagonista: ciências humanas e sociais aplicadas: economia e trabalho. 1. ed. São Paulo: Edições SM, 2020.",
+   "curta": "Vieira, Ser protagonista: economia e trabalho",
+   "editora": "Edições SM",
+   "assuntos": [
+    "g-economia",
+    "g-industria-transportes",
+    "g-agropecuaria"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ALENCASTRO, Luiz Felipe de (org.). História da vida privada do Brasil: império: a corte e a modernidade nacional. São Paulo: Companhia das Letras, 2006. v. 2.",
+   "curta": "Alencastro (org.), História da vida privada no Brasil: Império",
+   "editora": "Companhia das Letras",
+   "assuntos": [
+    "h-independencia",
+    "h-segundo-reinado",
+    "h-abolicao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ALENCASTRO, Luiz Felipe de. O Trato dos Viventes: formação do Brasil no Atlântico Sul. São Paulo: Companhia das Letras, 2000.",
+   "curta": "Alencastro, O Trato dos Viventes",
+   "editora": "Companhia das Letras",
+   "assuntos": [
+    "h-colonia-economia",
+    "h-colonia-povos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "COSTA, Emília Viotti da. Da monarquia à república: momentos decisivos. São Paulo: Fundação Editora da UNESP, 1999.",
+   "curta": "Costa, Da monarquia à república",
+   "editora": "Editora UNESP",
+   "assuntos": [
+    "h-independencia",
+    "h-segundo-reinado",
+    "h-abolicao",
+    "h-fim-imperio"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FAUSTO, Boris. História do Brasil. São Paulo: Editora da Universidade de São Paulo; Fundação para o Desenvolvimento da Educação, 2000.",
+   "curta": "Fausto, História do Brasil",
+   "editora": "Edusp",
+   "assuntos": [
+    "h-colonia-economia",
+    "h-colonia-povos",
+    "h-colonia-revoltas",
+    "h-independencia",
+    "h-segundo-reinado",
+    "h-abolicao",
+    "h-fim-imperio",
+    "h-republica-velha",
+    "h-vargas",
+    "h-1945-1964",
+    "h-ditadura",
+    "h-redemocratizacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FERREIRA, Jorge; DELGADO, Lucilia de Almeida Neves (org.). O Brasil Republicano v. 1: O tempo do liberalismo excludente: da Proclamação da República à Revolução de 1930. Rio de Janeiro: Civilização Brasileira, 2003.",
+   "curta": "Ferreira e Delgado (orgs.), O Brasil Republicano v. 1",
+   "editora": "Civilização Brasileira",
+   "assuntos": [
+    "h-fim-imperio",
+    "h-republica-velha",
+    "h-vargas"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "GOMES, Flavio dos Santos (org.). Liberdade por um fio: história dos quilombos no Brasil. São Paulo: Companhia das Letras, 1996.",
+   "curta": "Gomes (org.), Liberdade por um fio",
+   "editora": "Companhia das Letras",
+   "assuntos": [
+    "h-colonia-povos",
+    "h-abolicao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "MONTEIRO, John Manuel. Negros da terra: Índios e bandeirantes nas origens de São Paulo. São Paulo: Companhia das Letras, 1994.",
+   "curta": "Monteiro, Negros da terra",
+   "editora": "Companhia das Letras",
+   "assuntos": [
+    "h-colonia-economia",
+    "h-colonia-povos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "PRADO Jr., Caio. Formação do Brasil Contemporâneo. 23. ed. São Paulo: Brasiliense, 1994.",
+   "curta": "Prado Jr., Formação do Brasil Contemporâneo",
+   "editora": "Brasiliense",
+   "assuntos": [
+    "h-colonia-economia",
+    "h-colonia-povos",
+    "h-colonia-revoltas"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SCHWARCZ, Lilia Moritz; STARLING, Heloisa Murgel. Brasil: Uma biografia. 1. ed. São Paulo: Companhia das Letras, 2015.",
+   "curta": "Schwarcz e Starling, Brasil: Uma biografia",
+   "editora": "Companhia das Letras",
+   "assuntos": [
+    "h-colonia-economia",
+    "h-colonia-povos",
+    "h-colonia-revoltas",
+    "h-independencia",
+    "h-segundo-reinado",
+    "h-abolicao",
+    "h-fim-imperio",
+    "h-republica-velha",
+    "h-vargas",
+    "h-1945-1964",
+    "h-ditadura",
+    "h-redemocratizacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "AMERICAN PSYCHIATRIC ASSOCIATION. DSM-5-TR: Manual Diagnóstico e Estatístico de Transtornos Mentais - Texto Revisado. 5. ed. Porto Alegre: Artes Médicas, 2023.",
+   "curta": "American Psychiatric Association, DSM-5-TR",
+   "editora": "Artes Médicas",
+   "assuntos": [
+    "p-transtornos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ANGERAMI-CAMON, V. A. Psicologia da Saúde: um novo significado para a prática clínica. 2. ed. rev. e ampl. São Paulo: Cengage Learning, 2010.",
+   "curta": "Angerami-Camon, Psicologia da Saúde",
+   "editora": "Cengage Learning",
+   "assuntos": [
+    "p-hospitalar"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "BLEGER, J. Temas de Psicologia: entrevista e grupos (1980). 4. ed. São Paulo, SP: WMF Martins Fontes, 2019.",
+   "curta": "Bleger, Temas de Psicologia",
+   "editora": "WMF Martins Fontes",
+   "assuntos": [
+    "p-equipes",
+    "p-social"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "BOWLBY, J. Cuidados Maternos e Saúde Mental. 6. ed. São Paulo, SP: WMF Martins Fontes, 2020.",
+   "curta": "Bowlby, Cuidados Maternos e Saúde Mental",
+   "editora": "WMF Martins Fontes",
+   "assuntos": [
+    "p-desenvolvimento"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "CAMPOS, R. H. de F. Paradigmas em Psicologia Social: a perspectiva latino-americana. 6. ed. Petrópolis: Vozes, 2013.",
+   "curta": "Campos, Paradigmas em Psicologia Social",
+   "editora": "Vozes",
+   "assuntos": [
+    "p-social"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Resolução CFP 06/2019. Orientações sobre elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional.",
+   "curta": "CFP, Resolução CFP 06/2019",
+   "editora": "CFP",
+   "assuntos": [
+    "p-documentos"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Resolução 009/2018. Estabelece diretrizes para a realização de Avaliação Psicológica no exercício profissional da psicóloga e do psicólogo, regulamenta o Sistema de Avaliação de Testes Psicológicos.",
+   "curta": "CFP, Resolução 009/2018",
+   "editora": "CFP",
+   "assuntos": [
+    "p-avaliacao"
+   ],
+   "gratis": "https://satepsi.cfp.org.br/docs/ResolucaoCFP009-18.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Nota Técnica nº 02/2019. Orientação aos Conselhos Regionais de Psicologia sobre Registro Profissional de Psicólogos com Diploma de Bacharel em Psicologia.",
+   "curta": "CFP, Nota Técnica nº 02/2019",
+   "editora": "CFP",
+   "assuntos": [
+    "p-etica"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2019/12/Nota_0192444_SEI_CFP___0108451___Nota_Tecnica.pdf"
+  },
+  {
+   "referencia": "CONSELHO FEDERAL DE PSICOLOGIA. Código de Ética Profissional do Psicólogo. Agosto de 2005.",
+   "curta": "CFP, Código de Ética Profissional do Psicólogo",
+   "editora": "CFP",
+   "assuntos": [
+    "p-etica"
+   ],
+   "gratis": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf"
+  },
+  {
+   "referencia": "CORDIOLI, A. V.; GREVET, E. H. Psicoterapias: Abordagens Atuais. 4. ed. Porto Alegre: Artmed, 2018.",
+   "curta": "Cordioli e Grevet, Psicoterapias: Abordagens Atuais",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicoterapias"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "CRESWELL, J. W. Métodos de pesquisa: métodos qualitativo, quantitativo e misto. 3. ed. Porto Alegre: Artmed, 2010.",
+   "curta": "Creswell, Métodos de pesquisa",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-metodologia"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "DALGALARRONDO, P. Psicopatologia e Semiologia dos Transtornos Mentais. 3. ed. Porto Alegre: Artmed, 2018.",
+   "curta": "Dalgalarrondo, Psicopatologia e Semiologia dos Transtornos Mentais",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicopatologia",
+    "p-transtornos"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "HUTZ, C. S.; BANDEIRA, D. R.; TRENTINI, C. M.; KRUG, J. S. (org.). Psicodiagnóstico. Porto Alegre: Artmed, 2016.",
+   "curta": "Hutz, Psicodiagnóstico",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicometria",
+    "p-avaliacao",
+    "p-personalidade"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FRIEDMAN, H. S.; SHUSTACK, M. W. Teorias da Personalidade: da teoria clássica à pesquisa moderna. São Paulo: Prentice Hall, 2004.",
+   "curta": "Friedman e Shustack, Teorias da Personalidade",
+   "editora": "Prentice Hall",
+   "assuntos": [
+    "p-personalidade"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "JACQUES, M. G. C. e colaboradores. Psicologia Social Contemporânea. 21. ed. Vozes, 2013.",
+   "curta": "Jacques, Psicologia Social Contemporânea",
+   "editora": "Vozes",
+   "assuntos": [
+    "p-social"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "KOVÁCS, J. Educação para a Morte: Desafio na Formação de Profissionais de Saúde e Educação. São Paulo: Casa do Psicólogo, 2008.",
+   "curta": "Kovács, Educação para a Morte",
+   "editora": "Casa do Psicólogo",
+   "assuntos": [
+    "p-luto",
+    "p-hospitalar"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "LANE, S. T. M.; CODO, W. (orgs). Psicologia social: o homem em movimento. 13. ed. 2006.",
+   "curta": "Lane e Codo, Psicologia social: o homem em movimento",
+   "editora": "Brasiliense",
+   "assuntos": [
+    "p-social"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "LANE, S. T. M. O que é Psicologia Social. 1. ed. São Paulo: Brasiliense, 1999.",
+   "curta": "Lane, O que é Psicologia Social",
+   "editora": "Brasiliense",
+   "assuntos": [
+    "p-social"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "LA TAILLE, Y. de; KOHL, M. O.; DANTAS, H. Piaget, Vygotsky e Wallon: Teorias psicogenéticas em discussão. Edição revista. São Paulo: Summus, 2019.",
+   "curta": "La Taille, Piaget, Vygotsky e Wallon",
+   "editora": "Summus",
+   "assuntos": [
+    "p-desenvolvimento",
+    "p-aprendizagem"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "MARINHO-ARAÚJO, C. M.; ALMEIDA, S. F. C. Psicologia Escolar. Construção e Consolidação da Identidade Profissional. 4. ed. Campinas: Editora Alínea, 2014.",
+   "curta": "Marinho-Araújo e Almeida, Psicologia Escolar",
+   "editora": "Alínea",
+   "assuntos": [
+    "p-escolar"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "PAPALIA, D. E.; OLDS, S. W.; FELDMAN, R. D. Desenvolvimento humano. São Paulo: AMGH, 2022.",
+   "curta": "Papalia, Desenvolvimento humano",
+   "editora": "AMGH",
+   "assuntos": [
+    "p-desenvolvimento"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "RANGÉ, B. (Org.). Psicoterapias cognitivo-comportamentais: um diálogo com a psiquiatria. 2. ed. Porto Alegre: Artmed, 2011.",
+   "curta": "Rangé, Psicoterapias cognitivo-comportamentais",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicoterapias"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ROMANO, B. W. Manual de Psicologia Clínica para Hospitais. São Paulo: Casa do Psicólogo, 2009.",
+   "curta": "Romano, Manual de Psicologia Clínica para Hospitais",
+   "editora": "Casa do Psicólogo",
+   "assuntos": [
+    "p-hospitalar"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SANTROCK, J. W. Psicologia educacional. 3. ed. Porto Alegre: AMGH, 2009.",
+   "curta": "Santrock, Psicologia educacional",
+   "editora": "AMGH",
+   "assuntos": [
+    "p-escolar",
+    "p-aprendizagem"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SELIGMANN-SILVA, E. [livro eletrônico] Trabalho e Desgaste Mental: o direito de ser dono de si mesmo. São Paulo: Cortez, 2022.",
+   "curta": "Seligmann-Silva, Trabalho e Desgaste Mental",
+   "editora": "Cortez",
+   "assuntos": [
+    "p-saude-trabalhador"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SEVERINO, J. Metodologia do trabalho científico. 24. ed. São Paulo: Cortez Editora, 2018.",
+   "curta": "Severino, Metodologia do trabalho científico",
+   "editora": "Cortez",
+   "assuntos": [
+    "p-metodologia"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SIMONETTI, A. Manual de Psicologia Hospitalar: O Mapa da Doença. Belo Horizonte: Artesã Editora, 2018.",
+   "curta": "Simonetti, Manual de Psicologia Hospitalar",
+   "editora": "Artesã",
+   "assuntos": [
+    "p-hospitalar"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SHULTZ, D. P.; SHULTZ, S. E. Teorias da Personalidade. 4. ed. São Paulo: Cengage Learning, 2021.",
+   "curta": "Shultz e Shultz, Teorias da Personalidade",
+   "editora": "Cengage Learning",
+   "assuntos": [
+    "p-personalidade"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "SOUZA, B. P. (Org.). Orientação à queixa escolar. São Paulo: Casa do Psicólogo, 2020.",
+   "curta": "Souza, Orientação à queixa escolar",
+   "editora": "Casa do Psicólogo",
+   "assuntos": [
+    "p-escolar"
+   ],
+   "gratis": "https://orientacaoaqueixaescolar.ip.usp.br/wp-content/uploads/sites/462/2020/10/Livro-OQE.pdf"
+  },
+  {
+   "referencia": "SPITZ, R. A. O Primeiro Ano de Vida. 4. ed. São Paulo: Martins Fontes, 2013.",
+   "curta": "Spitz, O Primeiro Ano de Vida",
+   "editora": "Martins Fontes",
+   "assuntos": [
+    "p-desenvolvimento"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "TAMAYO, A. (Org.). Cultura e saúde nas organizações. Porto Alegre: Artmed, 2004.",
+   "curta": "Tamayo, Cultura e saúde nas organizações",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-org-trabalho",
+    "p-saude-trabalhador"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "URBINA, S. Fundamentos da Testagem Psicológica. Porto Alegre: Artmed, 2007.",
+   "curta": "Urbina, Fundamentos da Testagem Psicológica",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-psicometria",
+    "p-avaliacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ZANELLI, J. C. O psicólogo nas organizações de trabalho. Porto Alegre: Artmed, 2002.",
+   "curta": "Zanelli, O psicólogo nas organizações de trabalho",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-org-trabalho"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "ZIMMERMAN, D.; OSORIO, L. Como Trabalhamos Com Grupos. 1. ed. Porto Alegre: Artmed, 2004.",
+   "curta": "Zimmerman e Osorio, Como Trabalhamos Com Grupos",
+   "editora": "Artmed",
+   "assuntos": [
+    "p-equipes"
+   ],
+   "gratis": null
+  }
+ ],
+ "smv": [
+  {
+   "referencia": "GARCIA, Othon. Comunicação em prosa moderna: aprenda a escrever, aprendendo a pensar. 27. ed. Rio de Janeiro: Editora FGV, 2010.",
+   "curta": "Garcia, Comunicação em prosa moderna",
+   "editora": "Editora FGV",
+   "assuntos": [
+    "l-interpretacao",
+    "l-periodo-composto",
+    "l-pontuacao",
+    "l-coesao",
+    "l-significacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "CUNHA, Celso; CINTRA, Lindley. Nova gramática do português contemporâneo. 8. ed. Rio de Janeiro: Lexikon, 2024.",
+   "curta": "Cunha e Cintra, Nova gramática do português contemporâneo",
+   "editora": "Lexikon",
+   "assuntos": [
+    "l-ortografia",
+    "l-formacao",
+    "l-classes",
+    "l-verbos",
+    "l-periodo-simples",
+    "l-periodo-composto",
+    "l-concordancia",
+    "l-regencia",
+    "l-crase",
+    "l-pontuacao",
+    "l-colocacao",
+    "l-estilistica",
+    "l-variacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "HOUAISS, Antônio; VILLAR, Mauro de Salles. Dicionário Houaiss da língua portuguesa. Rio de Janeiro: Objetiva, 2009.",
+   "curta": "Houaiss e Villar, Dicionário Houaiss da língua portuguesa",
+   "editora": "Objetiva",
+   "assuntos": [
+    "l-ortografia",
+    "l-significacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "KOCH, Ingedore Villaça; ELIAS, Vanda Maria. Ler e compreender os sentidos do texto. São Paulo: Contexto, 2006.",
+   "curta": "Koch e Elias, Ler e compreender os sentidos do texto",
+   "editora": "Contexto",
+   "assuntos": [
+    "l-interpretacao",
+    "l-coesao",
+    "l-textualidade",
+    "l-significacao"
+   ],
+   "gratis": null
+  },
+  {
+   "referencia": "FIORIN, José Luiz; SAVIOLI, Francisco Platão. Para entender o texto: leitura e redação. 17. ed. São Paulo: Ática, 2007.",
+   "curta": "Fiorin e Savioli, Para entender o texto",
+   "editora": "Ática",
+   "assuntos": [
+    "l-interpretacao",
+    "l-coesao",
+    "l-textualidade",
+    "l-estilistica"
+   ],
+   "gratis": null
+  }
+ ]
+}

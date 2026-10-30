@@ -1,0 +1,518 @@
+{
+ "prova": "FGV PC-AP 2022",
+ "cor": "Tipo 1",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/perito_criminal_psicologiacnsm007_tipo_1.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/seadapperitos2022_gabarito_definitivo_2023-03-10.pdf",
+ "questoes": [
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "A psicóloga Luciana coordena um grupo de atendimento e orientação a pais e responsáveis de adolescentes. A avaliação psicológica de adolescentes usuários de álcool revela que a família pode ser um fator de risco ou de proteção para o uso. Em relação ao tema, é correto afirmar que",
+   "alternativas": [
+    "o apoio da família na aquisição da autonomia é fator de risco",
+    "a atitude permissiva no ambiente familiar constitui fator de risco",
+    "a leniência familiar e a curiosidade constituem fatores de proteção",
+    "a percepção de vínculos de cuidado e monitoramento é fator de risco",
+    "a exposição ao consumo de álcool feito pelos pais é fator de proteção"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "A permissividade familiar diante do álcool (tolerar ou facilitar o consumo, não estabelecer limites) é fator de risco clássico para o uso na adolescência. As demais invertem os conceitos: apoio à autonomia, vínculo de cuidado e monitoramento dos pais são fatores de proteção, enquanto leniência, curiosidade e a exposição ao beber dos pais são fatores de risco."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "A Entrevista Motivacional é uma abordagem psicológica que surgiu a partir de experiências clínicas com dependentes de álcool e hoje é usada na identificação da prontidão para mudança em outras condições, como nos transtornos alimentares. Diana sofre de anorexia e se percebe gorda ao se olhar no espelho. Por isso faz jejum, usa laxantes e exagera na atividade física. De acordo com essa abordagem, Diana encontra-se no estágio de",
+   "alternativas": [
+    "contemplação",
+    "recaída",
+    "bulimia",
+    "pré-contemplação",
+    "projeção"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "No modelo de estágios de mudança (Prochaska e DiClemente), usado pela Entrevista Motivacional, a pré-contemplação é o estágio em que a pessoa não reconhece o problema nem pensa em mudar. Diana se vê gorda e mantém jejum, laxantes e exercício excessivo como se fossem a solução, sem perceber a anorexia como problema. Na contemplação já haveria ambivalência e reconhecimento do problema; recaída é outro estágio do ciclo, e bulimia e projeção nem são estágios."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Os transtornos da personalidade (TP) são um grupo de doenças psiquiátricas em que a pessoa tem um padrão de pensamento e comportamento bastante rígido e mal ajustado. Cada TP é definido por prejuízos típicos no funcionamento da personalidade e traços de personalidade patológicos característicos. Jéssica, advogada de 27 anos, deseja permanentemente ser o foco da admiração de todos e acredita ter direito a um tratamento especial e a privilégios. Seus relacionamentos são superficiais e ela espera das pessoas a confirmação do quanto ela é única e superior. É possível reconhecer em Jéssica as características do transtorno da personalidade",
+   "alternativas": [
+    "histriônica",
+    "borderline",
+    "narcisista",
+    "exibicionista",
+    "maníaca"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Grandiosidade, necessidade de admiração, sensação de merecer tratamento especial (arrogar-se direitos) e relações superficiais, usadas para confirmar a própria superioridade, definem o transtorno da personalidade narcisista. O histriônico também busca atenção, mas por emotividade exagerada e sedução, sem a convicção de superioridade; o borderline é marcado por instabilidade afetiva e medo de abandono. Exibicionista e maníaca não são transtornos da personalidade."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "João, 19 anos, conheceu o crack por meio de amigos após ser dispensado da equipe de basquete. Com pouco tempo de uso, João deixou os estudos e a prática de esportes, passou a cometer furtos dentro e fora de casa e sua família tenta afastá-lo da cracolândia, sem sucesso. As opções a seguir apresentam sintomas da dependência química, à exceção de uma. Assinale-a.",
+   "alternativas": [
+    "a compulsão pela substância psicoativa",
+    "a diminuição da tolerância à droga",
+    "a síndrome de abstinência na ausência da substância",
+    "a dificuldade em controlar o uso em termos de início, término e quantidade",
+    "o abandono progressivo de comportamentos e hábitos pregressos"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Na síndrome de dependência, a tolerância aumenta: a pessoa precisa de doses maiores para obter o mesmo efeito, por isso \"diminuição da tolerância\" é a exceção. Compulsão (desejo forte de consumir), abstinência na falta da substância, dificuldade de controlar início, término e quantidade e abandono progressivo de outros interesses estão entre os critérios de dependência da CID-10."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Paulo terminou o noivado com Denise na véspera do casamento, deixando a jovem arrasada. Denise destruiu seu vestido de noiva e precisou de socorro médico após tomar grande quantidade de remédios para dormir. A abordagem de intervenção em crise nesse caso deverá\nI. ajudar ativamente Denise no desenvolvimento de estratégias de enfrentamento para lidar com sua dor;\nII. trabalhar as distorções cognitivas como a desesperança e a visão dos obstáculos como intransponíveis;\nIII. analisar as raízes infantis e inconscientes do comportamento autodestrutivo de Denise.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas",
+    "I, II e III, apenas",
+    "III, apenas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-suicidio",
+   "item": "",
+   "comentario": "A intervenção em crise é breve, focal e ativa: ajuda a pessoa a construir estratégias de enfrentamento para a dor atual (I) e trabalha distorções como a desesperança e a ideia de que os obstáculos são intransponíveis, que sustentam o risco suicida (II). Investigar raízes infantis e inconscientes (III) é tarefa de psicoterapia de longo prazo, não do momento da crise."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "A perda do emprego e o acúmulo de dificuldades financeiras levaram Sérgio à depressão e ao alcoolismo. Sérgio saiu de casa, que ficava em uma grande metrópole, e foi encontrado por sua família dias depois, na rua, embriagado, machucado e com ideias de ruína. Com fundamento na Portaria nº 3588/2017-GM/MS e considerando a rede de atenção psicossocial disponível, o atendimento a Sérgio deverá ser conduzido",
+   "alternativas": [
+    "em comunidade terapêutica voltada para a redução de danos",
+    "em Serviço Residencial Terapêutico para sair da situação de rua",
+    "em CAPS AD IV para a atenção contínua a ele e à sua família",
+    "em leito psiquiátrico de crise no serviço de Consultório na Rua",
+    "em hospital de custódia para tratamento dos agravos clínicos"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A Portaria 3588/2017 criou o CAPS AD IV, voltado a grandes cidades e a cenas abertas de uso, com funcionamento 24 horas e cuidado contínuo ao usuário e à família, perfil de Sérgio (metrópole, rua, álcool e depressão). Comunidade terapêutica é serviço residencial transitório, não dispositivo de redução de danos; o SRT acolhe egressos de longas internações; o Consultório na Rua é equipe itinerante, sem leitos; e o hospital de custódia cumpre medida de segurança."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "Joana teve câncer de mama e precisou fazer uma mastectomia, cirurgia que teve impactos em sua autoestima. A médica de Joana encaminhou-a a um grupo de apoio, onde ela conheceu outras mulheres que atravessavam a mesma situação e se sentiu acolhida e compreendida. Pode-se apontar como fatores terapêuticos da terapia de grupo",
+   "alternativas": [
+    "a coesão grupal e o individualismo",
+    "a contratransferência e o comportamento imitativo",
+    "a aprendizagem interpessoal e a racionalização",
+    "o acting out e o compartilhamento de informações",
+    "a universalidade e a instilação de esperança"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "",
+   "comentario": "Universalidade (descobrir que outros vivem o mesmo sofrimento) e instilação de esperança (ver outras pessoas melhorarem) estão entre os fatores terapêuticos de grupo descritos por Yalom, e são justamente o que Joana viveu ao se sentir acolhida e compreendida. Coesão grupal, aprendizagem interpessoal e compartilhamento de informações também são fatores terapêuticos, mas cada alternativa os junta a algo que não é: individualismo, racionalização (mecanismo de defesa), contratransferência e acting out."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Giovanna participará de uma seleção para um cargo de analista de TI em uma grande empresa. Muito insegura, ela só consegue pensar que irá gaguejar na entrevista e que fará papel de boba na dinâmica de grupo. Uma técnica da Terapia Cognitiva Comportamental que poderá ajudar Giovanna a lidar com os pensamentos ansiogênicos é",
+   "alternativas": [
+    "o questionamento socrático",
+    "o condicionamento operante",
+    "a formação reativa",
+    "o método catártico",
+    "a abordagem centrada na pessoa"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "O questionamento socrático é técnica central da TCC: por perguntas, o terapeuta leva a paciente a examinar as evidências de pensamentos automáticos como \"vou gaguejar\" e \"farei papel de boba\" e a construir alternativas mais realistas. Condicionamento operante é princípio behaviorista, não técnica para reestruturar pensamentos; formação reativa é mecanismo de defesa; método catártico é de Breuer e Freud; e a abordagem centrada na pessoa é de Rogers."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "A Portaria nº 3088/2011-GM/MS institui a Rede de Atenção Psicossocial para atenção em Saúde Mental em diferentes espaços. De acordo com as diretrizes dessa portaria",
+   "alternativas": [
+    "a coordenação da equipe transdisciplinar de saúde mental ficará necessariamente a cargo do médico psiquiatra",
+    "as equipes das unidades básicas de saúde oferecerão apoio matricial às demais equipes de saúde mental",
+    "os profissionais de saúde de diferentes áreas de conhecimento atuarão de maneira independente e vertical",
+    "a atuação em equipe interprofissional implicará na diluição das especificidades de cada área profissional",
+    "a composição das equipes será multidisciplinar e seu modo de funcionamento se dará sob a lógica interdisciplinar"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A RAPS prevê equipes multiprofissionais que funcionam de modo interdisciplinar, integrando os saberes sem apagar a especificidade de cada profissão. O apoio matricial vai no sentido contrário ao da alternativa B: equipes especializadas em saúde mental (CAPS, NASF) apoiam a atenção básica. A coordenação não é exclusiva do psiquiatra, e a atuação não é independente e vertical."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "O psicólogo alemão Kurt Lewin introduziu o termo Dinâmica de Grupo nas ciências sociais e dedicou-se ao estudo dos processos grupais. Suas proposições têm importância histórica para a ciência psicológica e seu legado apresenta-se ainda hoje como referência para a formação de psicólogos e demais profissionais que lidam com o fenômeno da grupalidade. O tema da liderança grupal ocupou lugar importante nos estudos de Kurt Lewin e ele classificou os estilos de liderança, entre os quais se encontra a liderança",
+   "alternativas": [
+    "autocrática, na qual o grupo centraliza a tomada de decisões",
+    "sedutora, na qual o grupo é levado a seguir o líder sem consciência crítica",
+    "“laissez-faire”, na qual o líder decide livremente a divisão de trabalho",
+    "democrática, na qual a tomada de decisões é compartilhada com o grupo",
+    "violenta, na qual o grupo é silenciado e se submete por medo"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "Nos estudos de Lewin, Lippitt e White, os estilos são autocrático, democrático e laissez-faire; no democrático, as decisões são discutidas e compartilhadas com o grupo. A alternativa A inverte o autocrático, em que é o líder, e não o grupo, quem centraliza as decisões; no laissez-faire o líder se omite e deixa o grupo decidir. Sedutora e violenta não fazem parte da classificação."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "Considerando o eixo da Prevenção contra o abuso e/ou exploração sexual de crianças e adolescentes e as ações preconizadas pelo Plano Nacional de Enfrentamento da Violência Sexual Infanto-Juvenil, é possível afirmar que",
+   "alternativas": [
+    "o tema da educação em sexualidade deve ser inserido no currículo da Educação Básica",
+    "as ferramentas de tecnologias da informação e da comunicação são responsáveis pela pornografia infantil",
+    "crianças e adolescentes informados sobre direitos sexuais e reprodutivos ficam mais vulneráveis em sua autodefesa",
+    "a educação sexual e a prevenção ao abuso sexual devem ser matérias privativas da família",
+    "as campanhas de sensibilização fomentam o tráfico de crianças e adolescentes para fins de exploração sexual"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "No eixo de prevenção, o Plano Nacional de Enfrentamento da Violência Sexual Infanto-Juvenil propõe inserir a educação em sexualidade no currículo escolar, porque criança informada sobre seus direitos se protege melhor. As outras invertem a lógica: informação fortalece a autodefesa, a prevenção não é assunto privativo da família e campanhas não fomentam o tráfico."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "Segundo as disposições contidas na Lei 12.594/2012 (SINASE), as medidas socioeducativas têm como objetivo",
+   "alternativas": [
+    "a integração social do adolescente e a garantia de seus direitos individuais e sociais, por meio do cumprimento de seu plano individual de atendimento",
+    "a inclusão da família do adolescente na responsabilização das consequências sociais e patrimoniais diante do crime praticado",
+    "o reconhecimento jurídico-legal do crime, destacando as disposições do parecer do Ministério Público como parâmetro máximo de privação de liberdade",
+    "a reparação do ato criminoso praticado pelo adolescente, através da instauração de círculos e ações restaurativas no âmbito da Justiça Criminal",
+    "o atendimento da vítima por profissionais que façam parte da rede de proteção e do sistema de garantias de direitos como estratégia de pacificação social"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei 12.594/2012 (SINASE), no art. 1º, § 2º, lista como objetivos das medidas socioeducativas a responsabilização do adolescente, a integração social e a garantia de seus direitos individuais e sociais por meio do plano individual de atendimento (PIA), e a desaprovação da conduta infracional. As demais falam em crime, Justiça Criminal e família responsabilizada, linguagem estranha ao sistema socioeducativo, que trata de ato infracional."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Avalie se, entre os princípios que regem a execução das medidas socioeducativas estão:\nI. a legalidade, não podendo o adolescente receber tratamento mais gravoso do que o conferido ao adulto.\nII. a prioridade a práticas ou medidas que sejam restaurativas e, sempre que possível, atendam às necessidades das vítimas.\nIII. a não discriminação do adolescente, notadamente em razão de etnia, gênero, nacionalidade, classe social, orientação religiosa, política ou sexual, ou associação ou pertencimento a qualquer minoria ou status.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As três assertivas reproduzem princípios do art. 35 da Lei 12.594/2012: legalidade (o adolescente não recebe tratamento mais gravoso que o do adulto), prioridade a práticas restaurativas que atendam às vítimas e não discriminação. Por isso todas estão corretas."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Patrícia é dentista e se divorciou recentemente de Carlos, após 4 anos casados. O ex-marido, inconformado com o divórcio, invadiu o consultório dentário da ex-mulher, que estava sem ninguém na hora, e quebrou diversos aparelhos que eram fundamentais ao trabalho de Patrícia. Diante de tal hipótese, em consonância com os preceitos trazidos pela Lei nº 11.340/2006 (Lei Maria da Penha), assinale a afirmativa correta.",
+   "alternativas": [
+    "A ação de Carlos não pode ser entendida como violência contra a mulher pois Patrícia não estava no local quando ocorreu",
+    "A conduta de Carlos pode ser enquadrada como violência moral",
+    "A violência doméstica e familiar contra a mulher não constitui uma das formas de violação dos direitos humanos",
+    "Patrícia foi vítima de violência patrimonial praticada pelo ex-marido",
+    "Carlos não poderá ser tipificado na Lei Maria da Penha já que estava divorciado da dentista antes da invasão ao seu consultório"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Maria da Penha (art. 7º, IV) define violência patrimonial como a destruição de objetos e instrumentos de trabalho da mulher, exatamente o que Carlos fez. A presença da vítima no local não é exigida, e a relação íntima de afeto já encerrada também é abrangida pela lei; a violência moral seria calúnia, difamação ou injúria."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Cláudia se separou da ex-companheira Renata, com quem adotou três filhos, após sofrer grave violência física por parte de Renata. Em função disso, se mudou com as crianças para local distante de onde moravam e de onde ela trabalhava. De acordo com a Lei Maria da Penha, assinale a afirmativa correta.",
+   "alternativas": [
+    "A agressão de Renata não caracteriza violência doméstica já que autora e vítima são mulheres",
+    "Renata só poderá ser enquadrada na Lei Maria da Penha na hipótese de ser mais forte do que Cláudia, pois senão Cláudia poderia se defender das agressões",
+    "Cláudia tem prioridade para matricular os filhos em escola próxima de casa, comprovando que existe processo judicial de violência doméstica",
+    "Cláudia não tem prioridade em matricular os filhos em colégio perto da nova casa, pois isso caracteriza lesão ao princípio de que todos são iguais perante a lei",
+    "O juiz deve determinar o afastamento de Cláudia do trabalho, assegurando por seis meses seu vínculo trabalhista"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Maria da Penha garante à mulher em situação de violência doméstica prioridade para matricular os dependentes na escola mais próxima do novo domicílio, mediante comprovação do registro da ocorrência ou do processo. A lei vale independentemente da orientação sexual, então violência entre duas mulheres está coberta, sem exigir diferença de força; e a manutenção do vínculo trabalhista por até seis meses é medida a ser assegurada quando necessária, não um afastamento que o juiz deva sempre determinar."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "A perda do contato com a realidade, com alucinações, delírios e discurso e comportamento desorganizados podem indicar sintomas de",
+   "alternativas": [
+    "distimia",
+    "transtorno de Déficit de Atenção e Hiperatividade",
+    "agorafobia",
+    "transtorno de Ansiedade",
+    "esquizofrenia"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Alucinações, delírios, discurso e comportamento desorganizados são os sintomas positivos e de desorganização que caracterizam a esquizofrenia, com perda do contato com a realidade (psicose). Distimia é transtorno depressivo crônico; TDAH, agorafobia e transtornos de ansiedade não cursam com psicose."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "O objetivo principal da Terapia Cognitivo-Comportamental é",
+   "alternativas": [
+    "compreender os processos reprimidos no inconsciente, que geram sintomas como angústia ou ansiedade",
+    "mudar os padrões mal adaptativos ou disfuncionais de pensamentos e comportamentos do paciente",
+    "restabelecer o equilíbrio emocional por meio do inconsciente, auxiliando no processo de individuação",
+    "aumentar o fluxo energético a partir da liberação das couraças e do autoconhecimento",
+    "desenvolver a espontaneidade e a criatividade, a compreensão de si próprio e do outro e da sociedade"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "A TCC busca modificar padrões disfuncionais de pensamento e comportamento que mantêm o sofrimento. Cada distrator descreve outra abordagem: processos reprimidos no inconsciente (psicanálise), individuação (Jung), couraças e fluxo energético (Reich) e espontaneidade e criatividade (psicodrama de Moreno)."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Para Jung, o arquétipo que representa a soma das qualidades desagradáveis que o indivíduo quer esconder, com conteúdo poderoso, marcado pelo afeto, e que se manifesta por intermédio de uma forte e irracional projeção sobre o outro é",
+   "alternativas": [
+    "Grande Mãe",
+    "Sombra",
+    "Puer Aeternus",
+    "Temenos",
+    "Sigízia"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-personalidade",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=374",
+   "comentario": "Para Jung, a Sombra reúne os aspectos da personalidade que o sujeito rejeita e esconde de si, carregados de afeto e frequentemente projetados no outro. Grande Mãe e Puer Aeternus são outros arquétipos, com outro conteúdo; Temenos é o espaço sagrado e protegido; e Sizígia é o par de opostos (anima e animus)."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Paulo, 26 anos, tem diagnóstico de psicose e buscou apoio no consultório do médico psiquiatra Antônio, que já o acompanhava anteriormente, demandando internação psiquiátrica. Após duas semanas, Paulo solicitou sua alta hospitalar, considerando que já se percebia melhor. Com relação à Lei nº 10.216/2001, que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental, podemos afirmar que",
+   "alternativas": [
+    "Paulo pode solicitar voluntariamente a internação psiquiátrica, mas sua alta não se relaciona à sua solicitação",
+    "Paulo não pode solicitar a internação psiquiátrica, que acontecerá quando o médico avaliar cabível",
+    "Paulo deve assinar, no momento da admissão, uma declaração de que optou pela internação",
+    "A alta hospitalar de Paulo é exclusivamente condicionada à determinação médica de Antônio",
+    "A internação hospitalar é um dos recursos terapêuticos e deve sempre ser indicada"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "Pelo art. 7º da Lei 10.216/2001, quem solicita voluntariamente a internação, ou a consente, assina no momento da admissão uma declaração de que optou por esse regime. O mesmo artigo diz que a internação voluntária termina por solicitação escrita do paciente ou por determinação do médico, por isso a alta não depende só do médico. A lei também trata a internação como recurso para quando os meios extra-hospitalares forem insuficientes, não como indicação obrigatória."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Analise, em consonância com as disposições da Lei nº 10.216/2001, as assertivas a seguir:\nI. Internação involuntária é aquela determinada pela Justiça.\nII. É responsabilidade do Estado o desenvolvimento da política de saúde mental, a assistência e a promoção de ações de saúde aos portadores de transtornos mentais, com a devida participação da sociedade e da família.\nIII. É permitida a internação de pacientes portadores de transtornos mentais em instituições com características asilares.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "A assertiva II reproduz o art. 3º da Lei 10.216/2001: cabe ao Estado desenvolver a política de saúde mental, com participação da sociedade e da família. A I confunde os tipos de internação: involuntária é a que se dá sem o consentimento do paciente, a pedido de terceiro; a determinada pela Justiça é a compulsória. A III contraria a lei, que veda a internação em instituições com características asilares."
+  },
+  {
+   "numero": 51,
+   "texto": "",
+   "enunciado": "A prática da Terapia Comunitária Integrativa integra, desde 2008, a Política Nacional de Práticas Integrativas e Complementares (PNPIC), do Departamento de Atenção Básica, do Ministério da Saúde. Tem se revelado, para os gestores de saúde e a comunidade, um instrumento de grande valor estratégico, uma preciosidade rumo à efetivação do Sistema Único de Saúde (SUS), respondendo, neste universo, a importantes diretrizes como a equidade e universalidade, grandes fontes de inclusão e cidadania. Avalie se são fases da Terapia Comunitária Integrativa:\nI. Acolhimento.\nII. Problematização.\nIII. Encerramento.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "II e III, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Terapia Comunitária Integrativa, criada por Adalberto Barreto, segue etapas que incluem o acolhimento, a escolha do tema, a contextualização, a problematização e o encerramento. Por isso as três fases citadas estão corretas."
+  },
+  {
+   "numero": 52,
+   "texto": "",
+   "enunciado": "A psicóloga clínica Ana Carolina acompanha terapeuticamente a adolescente Juliana, de 16 anos. Por meio do processo terapêutico, Ana Carolina teve conhecimento de que a menina vinha sofrendo violência sexual intrafamiliar por parte do padrasto. Segundo as disposições contidas na Resolução do CFP Nº 010/05 (Código de Ética Profissional),",
+   "alternativas": [
+    "Juliana não pode expor a dinâmica, pois está proibida eticamente em função do sigilo profissional",
+    "Juliana já é adolescente e é responsável por escolher se irá relatar a situação de que é vítima fora do consultório",
+    "Jaqueline poderá decidir pela quebra de sigilo em função da dinâmica de violência da qual teve conhecimento",
+    "Juliana deve relatar a violência sexual à sua mãe, dependendo dela para ser ajudada nessa situação",
+    "Jaqueline deve solicitar a autorização do padrasto para expor a violência, pois ele tem o direito do contraditório"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 53,
+   "texto": "",
+   "enunciado": "A reforma psiquiátrica e a desmanicomialização não impediram que certas tecnologias de poder próprias da psiquiatria clássica se reproduzissem nos centros de referência de Saúde Mental, conhecidos no Brasil como CAPS. Busca-se ainda dominar as paixões, os delírios e os maus hábitos por meio do uso de psicofármacos e descobrir dados nas condutas passadas que apontam para comportamentos ou reações anormais. Portanto, as estratégias de poder utilizadas classicamente pela psiquiatria não se limitam às instituições fechadas, pois são praticadas toda vez que a intervenção terapêutica reitera duas velhas estratégias do saber psiquiátrico do século XIX, a saber,",
+   "alternativas": [
+    "a terapia e a conversão",
+    "a repressão e o encarceramento",
+    "a nosologia médica e a produtividade",
+    "o uso de drogas e o interrogatório",
+    "a culpabilização e o isolamento"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 54,
+   "texto": "",
+   "enunciado": "A reforma psiquiátrica vem sendo construído no Brasil há diversos anos e considera os Serviços Residenciais Terapêuticos (SRT) e os Centros de Atenção Psicossocial (CAPS) como elementos estratégicos e imprescindíveis do processo de desinstitucionalização de pacientes psiquiátricos. Sendo um pilar fundamental da reforma, a desinstitucionalização pode ser compreendida como",
+   "alternativas": [
+    "desconstrução do saber psiquiátrico que reduz a loucura à doença mental e que reforça a instituição hospitalar como principal referência da atenção à saúde mental",
+    "operacionalização da clínica das psicoses a partir do diagnóstico diferencial em relação às estruturas clínicas de neurose, psicose e perversão",
+    "busca da cura com ênfase no bem-estar individual e coletivo, na produtividade social e na erradicação da doença e dos transtornos mentais",
+    "institucionalização do CAPS como local de referência para a medicalização do paciente psiquiátrico sem subordinar os atendimentos a um projeto terapêutico",
+    "desospitalização que interliga os serviços periféricos e secundários de atenção à saúde mental ao hospital psiquiátrico"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "Na reforma psiquiátrica, desinstitucionalização é desconstruir o saber e as práticas que reduzem a loucura a doença e fazem do hospital o centro do cuidado, e não só tirar o paciente do hospital. A alternativa E confunde o conceito com mera desospitalização, ainda ligada ao hospital psiquiátrico; as outras falam em cura e erradicação da doença, medicalização sem projeto terapêutico ou diagnóstico estrutural, que não são o sentido do termo."
+  },
+  {
+   "numero": 55,
+   "texto": "",
+   "enunciado": "Freud lança mão de um mito, desde o seu conhecido texto Totem e Tabu (1912-13), para descrever que na pré-história da civilização humana havia aquele que exercia o poder tirânico de gozar de todas as mulheres, frente ao qual os filhos se reúnem para cometer o crime originário. A partir de então, é estabelecido o pacto civilizatório que organiza as linhagens familiares através do interdito entre as gerações. Tal mito é o",
+   "alternativas": [
+    "do bom selvagem",
+    "de Moisés",
+    "do complexo de Édipo",
+    "de Eros e Tanatos",
+    "do pai da horda primeva"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Em Totem e tabu, Freud supõe uma horda primitiva dominada por um pai tirânico que reservava para si todas as mulheres; os filhos se unem, o matam, e da culpa nascem a proibição do incesto e a lei. O complexo de Édipo é o drama individual que o mito ajuda a fundamentar, não o mito em si; Moisés aparece em outra obra tardia de Freud, e Eros e Tânatos são as pulsões de vida e de morte."
+  },
+  {
+   "numero": 56,
+   "texto": "",
+   "enunciado": "A descoberta do inconsciente por Freud provocou uma verdadeira revolução copernicana no campo do pensamento, tendo impacto em diversas áreas, entre as quais, a criminologia. Ao analisar alguns tipos de caráter, ele articula de forma bastante original a relação entre o ato criminoso e a culpa, ou seja, Freud sugere que esse sentimento",
+   "alternativas": [
+    "sucede naturalmente ao ato transgressor",
+    "é oriundo das pressões do Id sobre o Ego",
+    "ocorre em sujeitos neuróticos e não em criminosos natos",
+    "precede o ato, ao passo que a punição tem a tarefa de expiá-lo",
+    "é uma herança coletiva diante da qual o sujeito não tem responsabilidade sobre os seus atos"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Em \"Alguns tipos de caráter encontrados no trabalho psicanalítico\", Freud descreve os \"criminosos por sentimento de culpa\": a culpa inconsciente existe antes do delito, e o ato e a punição que ele atrai servem para aliviá-la. Daí o erro das alternativas que põem a culpa como consequência natural do ato, e das que falam em criminoso nato ou em ausência de responsabilidade."
+  },
+  {
+   "numero": 57,
+   "texto": "",
+   "enunciado": "Para Jacques Lacan, o ego possui uma base narcísica que tem sua origem numa etapa do desenvolvimento entre os seis e os dezoito meses, na qual a criança antecipa imaginariamente a apreensão e o domínio de sua unidade corporal. Essa etapa denomina-se",
+   "alternativas": [
+    "estádio do Espelho",
+    "complexo do desmame",
+    "complexo de Édipo",
+    "autoerotismo",
+    "posição esquizo paranoide"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Lacan chama de estádio do espelho o momento, entre os seis e os dezoito meses, em que a criança se reconhece na imagem especular e antecipa uma unidade corporal que ainda não domina, origem imaginária e narcísica do eu. O complexo do desmame é outro complexo familiar descrito por Lacan; autoerotismo é conceito freudiano anterior à unificação do eu; e a posição esquizoparanoide é de Melanie Klein."
+  },
+  {
+   "numero": 58,
+   "texto": "",
+   "enunciado": "João é terapeuta de José, cujo tratamento é realizado por meio de sessões semanais há apenas dois meses. José pediu para João fornecer uma declaração com objetivo de informar sobre o tratamento ao setor de recursos humanos de seu trabalho. De acordo com a normativa do Conselho Federal de Psicologia, a declaração fornecida pelo psicólogo é um documento que",
+   "alternativas": [
+    "resulta de uma avaliação psicológica",
+    "deve comunicar o diagnóstico (CID ou DSM) da pessoa atendida",
+    "abrange informações sobre tempo de acompanhamento, dias e horários",
+    "deve ao menos fazer o registro do sintoma ou estado psicológico do paciente",
+    "não seria válido neste caso dado o pouco tempo transcorrido de tratamento"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "",
+   "comentario": "Pela Resolução CFP 06/2019, a declaração informa fatos objetivos do atendimento, como tempo de acompanhamento, dias e horários, e não resulta de avaliação psicológica. Ela não pode registrar sintomas, situações ou estados psicológicos nem diagnóstico, o que a separa do atestado; e não há tempo mínimo de tratamento para emiti-la."
+  },
+  {
+   "numero": 59,
+   "texto": "",
+   "enunciado": "Com relação à realização de Avaliação Psicológica, assinale V para a afirmativa verdadeira e F para a falsa.\n(   ) A(o) psicóloga(o) pode, a depender do contexto, recorrer a fontes complementares de informação.\n(   ) Testes psicológicos que ainda não foram submetidos à avaliação do Satepsi não podem ser usados como fontes fundamentais, mas sim considerados fontes complementares de informação.\n(   ) A testagem psicológica é uma etapa da avaliação Psicológica e esta, por ser mais abrangente, poderá fornecer respostas mais amplas sobre um conjunto de informações do indivíduo avaliado.\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    "F, V e F",
+    "F, V e V",
+    "V, F e F",
+    "V, F e V",
+    "F, F e V"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "",
+   "comentario": "A primeira e a terceira são verdadeiras: a avaliação psicológica pode usar fontes complementares (técnicas e documentos não psicológicos com respaldo científico), e é processo mais amplo do que a testagem, que é só uma de suas etapas. A segunda é falsa porque teste psicológico sem parecer favorável do SATEPSI não pode ser usado na prática profissional, nem como fonte complementar, salvo em pesquisa."
+  },
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "Uma das formas de manejo da entrevista psicológica é o uso do método cartográfico formulado por Deleuze e Guattari como um dos princípios do rizoma. A cartografia refere-se a um mapa que a ser produzido e que é modificável a partir de múltiplas linhas de fuga, voltando-se para um campo de experimentação que teve forte influência para a analítica institucional. Nesse contexto, a entrevista psicológica",
+   "alternativas": [
+    "visa a coletar dados e informações relativos a referentes pré-definidos, sendo estes capazes de traduzir a totalidade real da experiência vivida",
+    "prioriza a experiência produzida na própria fala a fim de promover sua abertura às variações que impeçam seu fechamento em perspectivas totalizantes",
+    "busca a representação que os entrevistados fazem de objetos ou estado de coisas, com ênfase nos componentes linguísticos lexicais e sintáticos da frase",
+    "elimina as variações de expressão e as modulações dos enunciados para atingir a correspondência fiel da linguagem com a ordem do mundo",
+    "contribui para o processo de inquirição, produzindo provas que fundamentam ou comprovam um determinado fato ou acontecimento ocorrido"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Na cartografia de Deleuze e Guattari, a entrevista acompanha o processo e valoriza a experiência produzida na própria fala, abrindo-a às variações em vez de fechá-la em totalidades. As demais descrevem o modelo representacional que a cartografia critica (coleta de dados sobre referentes fixos, correspondência fiel com o mundo) ou a inquirição para produzir prova, típica do contexto policial."
+  }
+ ]
+}

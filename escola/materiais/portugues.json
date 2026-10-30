@@ -1,0 +1,1184 @@
+{
+ "l-interpretacao": [
+  {
+   "tipo": "aula",
+   "titulo": "Acerte as questões de INTERPRETAÇÃO DE TEXTO com estes 4 passos",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=z0PX0-KjI6U",
+   "minutos": 59,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "A aula termina aos 55:34; dali em diante é propaganda do curso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Como entender a interpretação de textos mistos?",
+   "fonte": "Estratégia Militares",
+   "url": "https://militares.estrategia.com/portal/materias-e-dicas/portugues/como-entender-a-interpretacao-de-textos-mistos/",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Página web: leitura de textos verbovisuais e não verbais (charge, tirinha, cartaz). Tempo estimado."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Texto: o que é, características, tipos, gêneros",
+   "fonte": "Brasil Escola (Prepara Enem)",
+   "url": "https://www.preparaenem.com/portugues/texto.htm",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Erro na leitura: diz que o expositivo 'dá opinião'; o certo é que não dá (o guia corrige)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Tipos e Gêneros Textuais: como NUNCA MAIS errar essas questões | Português para Concursos",
+   "fonte": "Karla Gomes | Português e Redação (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Yj0cJ3D9WUg",
+   "minutos": 51,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Teoria de tipos até 12:55; depois questões de tipo (13:26 a 38:53) e de gênero (38:53 ao fim)."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: as pegadinhas da interpretação",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-interpretacao",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: provérbios, gêneros e tirinha",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-interpretacao-2",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "INTERPRETAÇÃO de TEXTOS para CONCURSO - Nunca mais erre!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=22iA3PPjr7c",
+   "minutos": 46,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "TIPOS DE TEXTOS - Português para concurso público",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=h0CKy8IFxh4",
+   "minutos": 69,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-ortografia": [
+  {
+   "tipo": "aula",
+   "titulo": "ACENTUAÇÃO GRÁFICA: Aprenda ACENTUAÇÃO com FACILIDADE! (CONCURSOS E VESTIBULARES)",
+   "fonte": "Português sem Enrolação - Professora Lis (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Ytw1SjnqEJ8",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Regras de acentuação gráfica com o Acordo Ortográfico. A lista das terminações das paroxítonas passa rápido (por volta de 5:50); ela está inteira, em tabela, no guia de ortografia."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: Acentuação",
+   "fonte": "Escola: resumo de tudo o que as provas do SMV-OF cobraram",
+   "guia": "l-ortografia",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: Hífen, grafia e maiúsculas",
+   "fonte": "Escola: resumo de tudo o que as provas do SMV-OF cobraram",
+   "guia": "l-ortografia-2",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Manual de Redação da Presidência da República, 3ª ed. (2018): ortografia, acentuação e hífen",
+   "fonte": "Casa Civil da Presidência da República (cópia hospedada pela UFGD)",
+   "url": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf#page=50",
+   "arquivo": "portugues-comum/manual-redacao-pr.pdf",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 50 a 54 (seção 8 Ortografia e 9 Uso de sinais, com hífen). Maiúsculas não têm seção própria nesse capítulo."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "M2 A2 Acordo ortográfico - Hífen",
+   "fonte": "Canal Unigranrio (YouTube)",
+   "url": "https://www.youtube.com/watch?v=XuMmcmzmiH4",
+   "minutos": 6,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Uso do hífen depois do Acordo Ortográfico; aula curta."
+  }
+ ],
+ "l-formacao": [
+  {
+   "tipo": "aula",
+   "titulo": "Formação de Palavras - Derivação e Composição (Português para Concurso)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Xw74aXTBaoY",
+   "minutos": 48,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Estrutura das palavras, derivação e composição, com questões de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Morfologia: estrutura e processos de formação de palavras",
+   "fonte": "Estratégia Militares",
+   "url": "https://militares.estrategia.com/portal/materias-e-dicas/portugues/morfologia-estrutura-e-processos-de-formacao-de-palavras/",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: radical, afixos, desinências, derivação e composição. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Aprenda os processos de formação de palavras",
+   "fonte": "Português com Carla Holz (YouTube)",
+   "url": "https://www.youtube.com/watch?v=T44vI8NaJTM",
+   "minutos": 11,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Resumo curto dos processos de formação, bom para revisar."
+  }
+ ],
+ "l-classes": [
+  {
+   "tipo": "aula",
+   "titulo": "MORFOLOGIA: CLASSES DE PALAVRAS (Para Concurso)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=ltrzPijgKi4",
+   "minutos": 64,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "As dez classes de palavras com foco em concurso. Passa um pouco de 1 hora."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "ADJETIVOS para CONCURSO - Tudo o que você ainda não sabe",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=GYVLMQlKKsU",
+   "minutos": 29,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Aula de ADVÉRBIOS - Revelado o segredo para acertar as questões de concurso!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=AV1NXnU67zs",
+   "minutos": 29,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Funções da palavra \"QUE\"",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=CYDYseiY_1E",
+   "minutos": 43,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: o \"se\", pronomes e preposições",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-classes",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: plural, gênero e mudança de classe",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-classes-2",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Roteiro de Estudos VI - Classes Gramaticais",
+   "fonte": "Colégio de Aplicação da UFS (Universidade Federal de Sergipe)",
+   "url": "https://daffy.ufs.br/uploads/page_attach/path/8822/Roteiro_de_estudos_VI-classes_de_palavras.pdf",
+   "arquivo": "l-classes/roteiro-classes.pdf",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler o PDF inteiro (6 páginas): definição e funções das classes gramaticais. Comece pela página 3 (Resumo das classes); as páginas 1 e 2 são teoria que não cai. Atenção a dois erros do PDF: \"amar, sentir\" não são substantivos abstratos (amor, sentimento são), e \"conquanto\" é concessiva, não condicional."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Funções da PARTÍCULA \"SE\" (para concurso público)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=XrRktWS0Mck",
+   "minutos": 54,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "PREPOSIÇÕES para concurso público - Aprenda agora!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=IZrkHkX_gY4",
+   "minutos": 35,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-verbos": [
+  {
+   "tipo": "aula",
+   "titulo": "VERBOS - Tudo sobre verbos para concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=_G8y60xyXpU",
+   "minutos": 111,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Teoria e questões de tempos, modos e imperativo até 1:50:00. Voz verbal não entra: logo no começo (0:01:32) o professor diz que é outro vídeo."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: formar os tempos e os irregulares",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-verbos",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: correlação, imperativo e voz",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-verbos-2",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Classificação dos Verbos - Regular, Irregular, Anômalo, Defectivo e Abundante",
+   "fonte": "Pablo Jamilk (YouTube)",
+   "url": "https://www.youtube.com/watch?v=W5TluK8cUto",
+   "minutos": 13,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Classificação dos verbos (regulares, irregulares, anômalos, defectivos, abundantes)."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Flexão verbal e a classificação dos verbos",
+   "fonte": "Brasil Escola (Prepara Enem)",
+   "url": "https://www.preparaenem.com/portugues/flexao-verbal-classificacao-dos-verbos.htm",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: flexão de pessoa, número, modo e tempo e classificação. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Verbos: Modos, Tipos e Tempos Verbais [Prof. Alda]",
+   "fonte": "Professora Alda (YouTube)",
+   "url": "https://www.youtube.com/watch?v=cQ-PCuDaPOc",
+   "minutos": 9,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Modos e tempos verbais."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Correlação de TEMPOS e MODOS verbais - APRENDA DE UMA VEZ!",
+   "fonte": "Pablo Jamilk (YouTube)",
+   "url": "https://www.youtube.com/watch?v=vJZI9v0ds-g",
+   "minutos": 14,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Correlação de tempos e modos, tema típico de concurso. Atenção: no vídeo, \"tenha trazido\" aparece como indicativo; é pretérito perfeito composto do subjuntivo. Veja antes o guia de verbos, que ensina os tempos."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Voz Ativa, Voz Passiva e Voz Reflexiva - Agora ficou fácil!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=NgR2w2v3lDg",
+   "minutos": 104,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "VOZ ATIVA e PASSIVA na FGV: Teoria + 8 questões para você nunca mais errar...",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=xdTy9oWHmYs",
+   "minutos": 71,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-periodo-simples": [
+  {
+   "tipo": "aula",
+   "titulo": "Termos da Oração",
+   "fonte": "Língua Portuguesa (YouTube)",
+   "url": "https://www.youtube.com/watch?v=4eFlt2_et3M",
+   "minutos": 25,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Não é do Álvaro, mas é a única aula que ensina frase x oração, o mapa de todos os termos (com predicativo do objeto, aposto e vocativo) e função x classe (21:00), que caiu em 2020."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Aprenda os TIPOS DE SUJEITO para nunca mais errar em concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=E5yEMLCgV2o",
+   "minutos": 36,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "O que cai no SMV vai até 24:00; depois são três questões de outras bancas, boas para treinar."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Objeto Direto e Indireto || Para Concurso Público",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jg0nFZXnJJQ",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "COMPLEMENTO NOMINAL X ADJUNTO ADNOMINAL",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=vQI5jHEwCCI",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: predicativo, haver e sujeito oracional",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-periodo-simples",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: ordem, transitividade e aposto",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-periodo-simples-2",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Termos Constituintes da Oração",
+   "fonte": "Toda Matéria",
+   "url": "https://www.todamateria.com.br/termos-constituintes-da-oracao/",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: essenciais, integrantes e acessórios, com vocativo. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Sujeito e Predicado - Termos Essenciais da Oração",
+   "fonte": "Sora, me ajuda (YouTube)",
+   "url": "https://www.youtube.com/watch?v=-jM9G7g4Z4g",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Reforço dos termos essenciais (sujeito e predicado)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Tipos de Predicado: Verbal, Nominal e Verbo-Nominal... Qual a diferença?",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=d6fYAuU17cY",
+   "minutos": 73,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "APOSTO: O que é, tipos mais cobrados, como cai em concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=TiMEdEA0S6M",
+   "minutos": 78,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-periodo-composto": [
+  {
+   "tipo": "aula",
+   "titulo": "CONJUNÇÕES COORDENATIVAS - Domine a teoria e as questões",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=hW9FSxpAB8o",
+   "minutos": 56,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CONJUNÇÕES SUBORDINATIVAS ADVERBIAIS - Resumão para concurso público",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=t3aw2LCDmwo",
+   "minutos": 66,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Depois de 1:01:47 é só propaganda."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Orações subordinadas substantivas - Entenda e acerte questões!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=nDzN9oYBnw4",
+   "minutos": 47,
+   "idioma": "pt",
+   "extra": false,
+   "nota": ""
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: contar orações, conectivos e reduzidas",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-periodo-composto",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: adjetivas e pronomes relativos",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-periodo-composto-2",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "COORDENAÇÃO E SUBORDINAÇÃO | LÍNGUA PORTUGUESA | CEBRASPE",
+   "fonte": "Focus Concursos (YouTube)",
+   "url": "https://www.youtube.com/watch?v=zf4hPL-BiaQ",
+   "minutos": 52,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Período composto por coordenação e por subordinação, com foco em banca."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Período Composto: conceito, estrutura, exemplos e questões",
+   "fonte": "Estratégia Vestibulares",
+   "url": "https://vestibulares.estrategia.com/portal/materias/portugues/periodo-composto/",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: orações coordenadas e subordinadas (substantivas, adjetivas, adverbiais). Tempo estimado. Atenção a um erro do texto: a oração adjetiva explicativa vem entre vírgulas (só a restritiva fica sem vírgula). O texto diz que nenhuma das duas tem vírgula."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Período Composto: Orações Coordenadas e Orações Subordinadas",
+   "fonte": "Trilhante (YouTube)",
+   "url": "https://www.youtube.com/watch?v=2JeNi0LlpUU",
+   "minutos": 7,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Revisão curta da diferença entre coordenação e subordinação."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "ORAÇÕES SUBORDINADAS ADJETIVAS para CONCURSO: Teoria + questões",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=h2ySiUdzWag",
+   "minutos": 67,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Orações COORDENADAS e SUBORDINADAS - Resumão para CONCURSO",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=zRYeauBptu4",
+   "minutos": 80,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-concordancia": [
+  {
+   "tipo": "aula",
+   "titulo": "CONCORDÂNCIA VERBAL - Teoria e Questões para Concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jdqhnVUvqOc",
+   "minutos": 50,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Só concordância verbal; a nominal fica no guia."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: casos especiais e concordância nominal",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-concordancia",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CONCORDÂNCIA verbal e nominal para CONCURSOS PUBLICOS",
+   "fonte": "Concurseiro Nômade (YouTube)",
+   "url": "https://www.youtube.com/watch?v=qFYxm6HrNrM",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Regras de concordância verbal e nominal para concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Aspectos da Norma Culta da Língua Portuguesa (Projeto UFMT Popular, 2021): concordância verbal e nominal",
+   "fonte": "UFMT (repositório do Setec)",
+   "url": "https://setec.ufmt.br/ri/bitstream/1/91/3/Aspectos_Norma_Culta_2021.pdf#page=35",
+   "arquivo": "portugues-comum/norma-culta-ufmt.pdf",
+   "minutos": 39,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 35 a 47(Unidade 3: concordância verbal e nominal)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CONCORDÂNCIA VERBAL e NOMINAL VUNESP TJ/SP | PORTUGUÊS para CONCURSOS",
+   "fonte": "Rota de Estudo (YouTube)",
+   "url": "https://www.youtube.com/watch?v=v3gMHFi5krs",
+   "minutos": 21,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Questões comentadas de concordância em estilo Vunesp (banca do Exército)."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Manual de Redação da Presidência da República, 3ª ed. (2018): concordância verbal e nominal",
+   "fonte": "Casa Civil da Presidência da República (cópia hospedada pela UFGD)",
+   "url": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf#page=66",
+   "arquivo": "portugues-comum/manual-redacao-pr.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 66 a 73 (seção 11.7)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CONCORDÂNCIA NOMINAL - Teoria e Questões para Concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=WWk4ef_x_sw",
+   "minutos": 46,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "É assim que as bancas cobram CONCORDÂNCIA verbal e nominal...",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=_K1up6Hsgvk",
+   "minutos": 50,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-regencia": [
+  {
+   "tipo": "aula",
+   "titulo": "REGÊNCIA VERBAL E NOMINAL - Muitos exemplos e questões",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=1IRO-p95oo0",
+   "minutos": 44,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Regência verbal e nominal com exemplos e questões de concurso."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: obedecer, perdoar, o x lhe e relativo",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-regencia",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Manual de Redação da Presidência da República, 3ª ed. (2018): regência",
+   "fonte": "Casa Civil da Presidência da República (cópia hospedada pela UFGD)",
+   "url": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf#page=73",
+   "arquivo": "portugues-comum/manual-redacao-pr.pdf",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 73 a 78 (seção 11.8, regência e verbos de uso frequente)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "AULÃO REGÊNCIA VERBAL E NOMINAL - VUNESP",
+   "fonte": "Ciência Exata (YouTube)",
+   "url": "https://www.youtube.com/watch?v=B9wUF8KcJSQ",
+   "minutos": 25,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Questões comentadas de regência em estilo Vunesp."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Pronome Relativo e Regência: QUE, DE QUE, A QUE ou EM QUE?",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=KrDRF4vwqxA",
+   "minutos": 57,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Regência Verbal e Nominal - Aprenda a teoria e acerte as questões!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Ul6rogRczCs",
+   "minutos": 88,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-crase": [
+  {
+   "tipo": "aula",
+   "titulo": "CRASE - As 6 regras mais cobradas em CONCURSO (Teoria + Questões)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=5uMooAjtVis",
+   "minutos": 36,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Ensina as regras de base, o tratamento, as locuções, as horas e os facultativos; o resto do que a banca cobra está no guia."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: os casos de crase que faltam",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-crase",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Aspectos da Norma Culta da Língua Portuguesa (Projeto UFMT Popular, 2021): acento grave (crase)",
+   "fonte": "UFMT (repositório do Setec)",
+   "url": "https://setec.ufmt.br/ri/bitstream/1/91/3/Aspectos_Norma_Culta_2021.pdf#page=22",
+   "arquivo": "portugues-comum/norma-culta-ufmt.pdf",
+   "minutos": 39,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 22 a 34 (Unidade 2: uso do acento grave)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CRASE para concurso público - Aula direto ao ponto!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=x7upR1wDSSo",
+   "minutos": 17,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Revisão objetiva das regras de crase."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CRASE para CONCURSO - Resumido em 3 regras essenciais",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=BA7OQ4wZWr0",
+   "minutos": 70,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-pontuacao": [
+  {
+   "tipo": "aula",
+   "titulo": "PONTUAÇÃO - Aulão completo para Concurso Público!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=G8Stjzy-87k",
+   "minutos": 120,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Vírgula até 1:05:48, depois ponto e vírgula, dois-pontos (1:11:29), parênteses (1:31:50) e aspas (1:34:55), sempre com questões. Não ensina oração adverbial, explicativa x restritiva, o 'pois' nem o travessão simples: isso está no guia."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: o que o aulão de pontuação não ensina",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-pontuacao",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Conhecimentos Básicos: Pontuação para Concursos | Profª Poly da Hora",
+   "fonte": "OS PEDAGÓGICOS (YouTube)",
+   "url": "https://www.youtube.com/watch?v=RB9DkfIdqrI",
+   "minutos": 56,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Sinais de pontuação para concurso, com vírgula, ponto e vírgula e dois-pontos. Os 6 primeiros minutos são recados da live: pode pular. Este vídeo não trata da vírgula (a professora deixou para outra live); a vírgula está completa no guia de pontuação, logo depois."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Aspectos da Norma Culta da Língua Portuguesa (Projeto UFMT Popular, 2021): pontuação",
+   "fonte": "UFMT (repositório do Setec)",
+   "url": "https://setec.ufmt.br/ri/bitstream/1/91/3/Aspectos_Norma_Culta_2021.pdf#page=8",
+   "arquivo": "portugues-comum/norma-culta-ufmt.pdf",
+   "minutos": 42,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 8 a 21 (Unidade 1: uso dos sinais de pontuação)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Como Usar a Vírgula, Ponto e Vírgula e Dois Pontos (Pontuação Passo a Passo)",
+   "fonte": "Português sem Enrolação - Professora Lis (YouTube)",
+   "url": "https://www.youtube.com/watch?v=sPqzKtHoHQY",
+   "minutos": 14,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Revisão curta de vírgula, ponto e vírgula e dois-pontos."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Manual de Redação da Presidência da República, 3ª ed. (2018): pontuação",
+   "fonte": "Casa Civil da Presidência da República (cópia hospedada pela UFGD)",
+   "url": "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf#page=78",
+   "arquivo": "portugues-comum/manual-redacao-pr.pdf",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 78 a 81 (seção 11.9: vírgula, ponto e vírgula, dois-pontos, interrogação e exclamação)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "VÍRGULA para CONCURSO: aprenda em 1 vídeo + questões",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=huEo6imC5Xw",
+   "minutos": 76,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-colocacao": [
+  {
+   "tipo": "aula",
+   "titulo": "COLOCAÇÃO PRONOMINAL (Para Concurso)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=6zsVwix7Uh0",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Próclise, mesóclise e ênclise para concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Minicurso \"Pronomes Clíticos\"",
+   "fonte": "PET Letras, UNIFAL-MG (Universidade Federal de Alfenas)",
+   "url": "https://www.unifal-mg.edu.br/petletras/wp-content/uploads/sites/30/2018/10/Minicurso-%E2%80%9CPronomes-Cl%C3%ADticos%E2%80%9D.pdf",
+   "arquivo": "l-colocacao/pronomes-clit.pdf",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 1 a 5 (pronomes átonos e casos de próclise, ênclise e mesóclise). O resto são exercícios."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CEBRASPE - COLOCAÇÃO PRONOMINAL: PRÓCLISE, MESÓCLISE E ÊNCLISE",
+   "fonte": "Professor Mazziotti (YouTube)",
+   "url": "https://www.youtube.com/watch?v=th_DMMj-VeY",
+   "minutos": 25,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Colocação pronominal em estilo de banca, com palavras atrativas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Colocação pronominal: próclise, mesóclise, ênclise",
+   "fonte": "Estratégia Vestibulares",
+   "url": "https://vestibulares.estrategia.com/portal/materias/portugues/colocacao-pronominal/",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: resumo das regras de colocação. Tempo estimado."
+  }
+ ],
+ "l-coesao": [
+  {
+   "tipo": "aula",
+   "titulo": "COESÃO E COERÊNCIA - Anáfora, catáfora e muito mais!",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=f1vCAm294i8",
+   "minutos": 68,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "A teoria vai até 38:05; depois são 12 questões de outras bancas, boas para treinar. A de 48:25 (que relativo x que conjunção) é a mais parecida com o SMV."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: achar o referente",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-coesao",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: conectores e coerência",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-coesao-2",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Aula completa sobre COESÃO TEXTUAL (teoria e questões)",
+   "fonte": "Aucielly Nobre (YouTube)",
+   "url": "https://www.youtube.com/watch?v=60wyY63Lz0k",
+   "minutos": 13,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Teoria de coesão com questões."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Coesão textual: o que é, elementos, tipos",
+   "fonte": "Brasil Escola (Prepara Enem)",
+   "url": "https://www.preparaenem.com/portugues/coesao-textual.htm",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: coesão referencial e sequencial, conectores. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "COESÃO e COERÊNCIA TEXTUAL para concurso público | Prof. Alexandre Soares",
+   "fonte": "O Conselho | Professor Alexandre Soares (YouTube)",
+   "url": "https://www.youtube.com/watch?v=fOG0ol-NK3Q",
+   "minutos": 13,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Coesão e coerência para concurso, em aula curta."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "ESSE ou ESTE? - Como utilizar corrretamente (Muito Fácil)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=uUemRqnozKM",
+   "minutos": 35,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-significacao": [
+  {
+   "tipo": "aula",
+   "titulo": "SINÔNIMO E ANTÔNIMO || Teoria + Questões de Concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jXgaKQZDb_M",
+   "minutos": 25,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Teoria e questões intercaladas; o ponto central, sinônimo contextual, começa aos 4:42."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "SEMÂNTICA - sinônimos, antônimos, homônimos, parônimos, hipônimos e hiperônimos.",
+   "fonte": "Nota Dez Play (YouTube)",
+   "url": "https://www.youtube.com/watch?v=MavYAYVFG1Y",
+   "minutos": 13,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Legenda ruim, mas a aula é curta: homônimos aos 2:13, parônimos aos 6:56, hipônimos e hiperônimos aos 9:02."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "DENOTAÇÃO e CONOTAÇÃO - Aula de Português para concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jaoaZsx4LlM",
+   "minutos": 23,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Teoria em 1 minuto (0:31 a 1:34); o resto são 6 questões resolvidas."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: vocabulário que já caiu",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-significacao",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: relações, ambiguidade e intertextualidade",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-significacao-2",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Semântica (apostila de apoio)",
+   "fonte": "Letras para Todos, UNIFAL-MG (Universidade Federal de Alfenas)",
+   "url": "https://www.unifal-mg.edu.br/letrasparatodos/wp-content/uploads/sites/259/2024/07/Semantica_Edvando_Sa.pdf",
+   "arquivo": "l-significacao/semantica-unifal.pdf",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler o PDF inteiro (4 páginas): sinonímia, antonímia, paronímia, homonímia, ambiguidade, conotação e denotação, hiponímia e hiperonímia."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "O que é INTERTEXTUALIDADE [paráfrase, paródia, etc.]",
+   "fonte": "LINGUARIA - Para escrever melhor (YouTube)",
+   "url": "https://www.youtube.com/watch?v=OiB49ndIYoE",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Intertextualidade: paráfrase, paródia, citação, alusão."
+  }
+ ],
+ "l-estilistica": [
+  {
+   "tipo": "aula",
+   "titulo": "FIGURAS DE LINGUAGEM - As que mais caem em concurso",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=yiNBsB6hfPo",
+   "minutos": 49,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Teoria até 26:36 (figuras de palavra e de pensamento); depois propaganda até 28:08 e 7 questões de outras bancas, boas para treinar."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: figuras de construção e de som",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-estilistica",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Estilística - Aula 1: Figuras de linguagem - Parte 1",
+   "fonte": "GramáticaEmVídeo - Prof. Fábio Alves (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jfkqf12UBiI",
+   "minutos": 17,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Introdução à estilística e figuras de linguagem."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Figuras de linguagem (slides)",
+   "fonte": "Cursinho UFMS (Universidade Federal de Mato Grosso do Sul)",
+   "url": "https://cursinho.ufms.br/files/2013/03/2.-Figuras-de-linguagem.pdf",
+   "arquivo": "l-estilistica/ufms-figuras.pdf",
+   "minutos": 30,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler os 40 slides (poucas palavras por slide): figuras de som, palavra, pensamento e construção. Não cobre o livro de Nilce Martins; só a base. Atenção a um erro no slide 11: metonímia é troca por proximidade (autor pela obra, parte pelo todo, causa pelo efeito), não por semelhança; semelhança é metáfora."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Português para Concursos - Figuras de Linguagem - Estilística - Monster Concursos - Prof. Robson",
+   "fonte": "Monster Concursos (YouTube)",
+   "url": "https://www.youtube.com/watch?v=2ibcjn3_QNo",
+   "minutos": 28,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Figuras de linguagem como parte da estilística."
+  }
+ ],
+ "l-textualidade": [
+  {
+   "tipo": "aula",
+   "titulo": "PORTUGUÊS | DISCURSO DIRETO, INDIRETO E INDIRETO LIVRE | CONCURSO SEE MG",
+   "fonte": "Bravo Concursos (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jMJyKzfRtQ4",
+   "minutos": 30,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Ensina os três discursos, os verbos dicendi e a passagem para o indireto (presente, futuro, imperativo, amanhã, aqui), com 10 questões resolvidas; o pretérito perfeito está no guia."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: reescritura e fatores de textualidade",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-textualidade",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Textualidade: entenda o que é, seus fatores e elementos (com exemplos)",
+   "fonte": "Toda Matéria",
+   "url": "https://www.todamateria.com.br/textualidade-entenda-o-que-e-seus-fatores-e-elementos-com-exemplos/",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: os 7 fatores um a um (coerência, coesão, intencionalidade, aceitabilidade, situacionalidade, informatividade e intertextualidade), com 4 questões comentadas no fim. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Fatores de textualidade | Critérios de textualização | Coesão, coerência, intertextualidade etc.",
+   "fonte": "Professor Weslley Barbosa (YouTube)",
+   "url": "https://www.youtube.com/watch?v=PkcTAix9y5k",
+   "minutos": 22,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Os fatores (critérios) de textualidade da Linguística Textual, na linha de Koch, que é bibliografia do aviso. Aula de linguística, não de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Reescritura de frases: desvendando questões Cebraspe",
+   "fonte": "Estratégia Concursos (Luiz Felipe Durval)",
+   "url": "https://concursos.estrategia.com/portal/reescritura-de-frases-desvendando-questoes-cebraspe/",
+   "minutos": 5,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: como a banca cobra reescritura (manter o sentido e a correção ao trocar conectivo, tempo verbal, sinônimo, oração restritiva ou explicativa). Tempo estimado."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Discurso Direto, Indireto e Indireto Livre",
+   "fonte": "Toda Matéria",
+   "url": "https://www.todamateria.com.br/discurso-direto-indireto-e-indireto-livre/",
+   "minutos": 8,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: a tabela do que muda ao passar do direto para o indireto (pessoa, tempo, pronomes, advérbios) e exercícios com gabarito. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "COMO ACERTAR 90% DAS QUESTÕES DE REESCRITURA DE FRASES - Sidney Martins",
+   "fonte": "Português com SIDOKA - Sidney Martins (YouTube)",
+   "url": "https://www.youtube.com/watch?v=IsVOh0ve8gg",
+   "minutos": 38,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Reescritura de frases para concurso, com questões."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "REESCRITURA DE TEXTOS: não existe aula disso (e eu provo em 12 questões)",
+   "fonte": "Prof. Álvaro Ferreira (YouTube)",
+   "url": "https://www.youtube.com/watch?v=aB-hABpmp1o",
+   "minutos": 78,
+   "idioma": "pt",
+   "extra": true,
+   "nota": ""
+  }
+ ],
+ "l-variacao": [
+  {
+   "tipo": "aula",
+   "titulo": "Variação Linguística: Diversidade de Usos da Língua (com Exercícios Passo a Passo)",
+   "fonte": "Português sem Enrolação - Professora Lis (YouTube)",
+   "url": "https://www.youtube.com/watch?v=B2mgCmifHQQ",
+   "minutos": 23,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Os quatro tipos de variação vão de 2:38 a 11:00; de 7:20 a 8:20 é propaganda do canal; os exercícios começam aos 16:37."
+  },
+  {
+   "tipo": "guia",
+   "titulo": "Guia: coloquialidade e adequação vocabular",
+   "fonte": "Escola: o que os vídeos não ensinam e as provas do SMV-OF cobraram",
+   "guia": "l-variacao",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Níveis de linguagem",
+   "fonte": "Toda Matéria",
+   "url": "https://www.todamateria.com.br/niveis-de-linguagem/",
+   "minutos": 4,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: norma culta e linguagem coloquial, regionalismos e gírias, e a escolha conforme a situação e o interlocutor. Tempo estimado."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Adequação Vocabular e Variação Linguística | Norma Culta x Linguagem Coloquial",
+   "fonte": "Português com Fernanda (YouTube)",
+   "url": "https://www.youtube.com/watch?v=HvSpjLb5b3c",
+   "minutos": 6,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Aula curta com os mesmos termos do programa: adequação vocabular, norma culta e linguagem coloquial."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "O que é variação linguística (tipos e exemplos)",
+   "fonte": "Toda Matéria",
+   "url": "https://www.todamateria.com.br/variacoes-linguisticas/",
+   "minutos": 8,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página web: variação geográfica, histórica, social e situacional, com 2 questões do Enem comentadas. Tempo estimado."
+  }
+ ]
+}

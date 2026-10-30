@@ -1,0 +1,652 @@
+{
+ "r-estrutura": [
+  {
+   "tipo": "aula",
+   "titulo": "DISSERTAÇÃO ARGUMENTATIVA, como fazer? [Prof. Noslen]",
+   "fonte": "Professor Noslen (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jN1PzHGxom0",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aula gratuita sobre o gênero dissertação argumentativa, o mais cobrado em vestibulares e concursos."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "A Redação do Enem 2025: Cartilha do Participante (Inep)",
+   "fonte": "Inep/MEC",
+   "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf#page=7",
+   "arquivo": "r-estrutura/inep-cartilha-redacao-enem-2025.pdf",
+   "minutos": 21,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Páginas 7 a 13: o que é o texto dissertativo-argumentativo e como a redação é avaliada. A cartilha é do Enem, mas o gênero é o mesmo da Marinha e da Aeronáutica."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Tipos de Introdução para Redações Dissertativas - Argumentativas - [Prof Noslen]",
+   "fonte": "Professor Noslen (YouTube)",
+   "url": "https://www.youtube.com/watch?v=m01EJtAnW3Q",
+   "minutos": 16,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Extra: modelos de introdução para a redação dissertativo-argumentativa."
+  }
+ ],
+ "r-argumentacao": [
+  {
+   "tipo": "aula",
+   "titulo": "Tipos de repertórios socioculturais para a redação - Brasil Escola",
+   "fonte": "Brasil Escola Oficial (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Inzn3de-7Ws",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aula gratuita: tipos de repertório e como usá-lo para sustentar o argumento no texto dissertativo."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "A Redação do Enem 2025: Cartilha do Participante (Inep)",
+   "fonte": "Inep/MEC",
+   "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf#page=28",
+   "arquivo": "r-argumentacao/inep-cartilha-redacao-enem-2025.pdf",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Páginas 28 a 32: Competência III, como selecionar e organizar informações e argumentos em defesa de um ponto de vista (projeto de texto)."
+  }
+ ],
+ "r-coesao": [
+  {
+   "tipo": "aula",
+   "titulo": "Aula completa sobre COESÃO TEXTUAL (teoria e questões)",
+   "fonte": "Aucielly Nobre (YouTube)",
+   "url": "https://www.youtube.com/watch?v=60wyY63Lz0k",
+   "minutos": 13,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aula gratuita sobre coesão textual, com teoria e questões no estilo de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "A Redação do Enem 2025: Cartilha do Participante (Inep)",
+   "fonte": "Inep/MEC",
+   "url": "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf#page=33",
+   "arquivo": "r-coesao/inep-cartilha-redacao-enem-2025.pdf",
+   "minutos": 9,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Páginas 33 a 35: Competência IV, mecanismos de coesão (conectivos, referenciação) e erros comuns; serve também para a revisão do texto."
+  }
+ ],
+ "provas-cpt": [
+  {
+   "tipo": "prova",
+   "titulo": "ALE-AM/2025 (FGV): Psicólogo, simulado de outras bancas",
+   "fonte": "FGV Conhecimento, Assembleia Legislativa do Amazonas (edital 1/2025)",
+   "url": "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-psicologo-cns325-tipo-1.pdf",
+   "arquivo": "provas-cpt/fgv-ale-am-2025-prova.pdf",
+   "minutos": 120,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Treino de ritmo, não medida do CP-T: a FGV escreve a questão como um caso e quase não cita o livro, e o nível fica um pouco abaixo do CP-T, então espere uma nota maior do que faria lá. Faça só as questões 41 a 80 (Conhecimentos Específicos), em 2 h, sem consultar; pule Português, Informática e Legislação. Caderno Tipo 1 – Branca. O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova da ALE-AM 2025",
+   "fonte": "FGV Conhecimento, gabarito definitivo",
+   "url": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf#page=7",
+   "arquivo": "provas-cpt/fgv-ale-am-2025-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija as questões 41 a 80 e conte os acertos. Página 7, linha \"Analista Legislativo - Psicólogo - 1 - Turno Manhã\" (Tipo 1). Questão anulada aparece com *: conte-a como certa."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "MPU/2025 (FGV): Analista de Psicologia, simulado de outras bancas",
+   "fonte": "FGV Conhecimento, Ministério Público da União (aplicada em 04/05/2025)",
+   "url": "https://conhecimento.fgv.br/sites/default/files/concursos/a30-analista-do-mpu-psicologiaa30-tipo-1.pdf",
+   "arquivo": "provas-cpt/fgv-mpu-2025-prova.pdf",
+   "minutos": 120,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Treino de ritmo, não medida do CP-T: a FGV escreve a questão como um caso e quase não cita o livro, e o nível fica um pouco abaixo do CP-T, então espere uma nota maior do que faria lá. Faça só as questões 41 a 80 (Conhecimentos Específicos), em 2 h, sem consultar; pule Português, Sustentabilidade, Direitos Humanos, Administração e Legislação. Caderno Tipo 1 – Branca. O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova do MPU 2025",
+   "fonte": "FGV Conhecimento, gabarito definitivo",
+   "url": "https://conhecimento.fgv.br/sites/default/files/concursos/mpu-gabarito-definitivo.pdf#page=33",
+   "arquivo": "provas-cpt/fgv-mpu-2025-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija as questões 41 a 80 e conte os acertos. Página 33, linha \"Analista do MPU - Psicologia - 1\" (Tipo 1)."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "PS-CSM/2011: Psicologia, Prova Amarela (Corpo de Saúde da Marinha, Quadro de Apoio à Saúde)",
+   "fonte": "Marinha do Brasil, Diretoria de Ensino da Marinha (site da SSPM)",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/2011%20-%20Psicologia.zip",
+   "arquivo": "provas-cpt/csm-2011-prova.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, 2011, Psicologia, 50 questões, prova Amarela, escaneada, 28 páginas. Prova do concurso do Corpo de Saúde da Marinha: a mesma banca do CP-T e o mesmo estilo, citando autor e livro, mas só da parte clínica e de saúde, sem a organizacional. Os livros citados são de edições antigas. Faça as 50 questões em 3 h, sem consultar (a prova de verdade tem 4 h com a redação, que não veio no arquivo). Pule as questões 8, 11, 25, 33 e 48 (o gabarito diz por quê). O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova do Corpo de Saúde de 2011",
+   "fonte": "Marinha do Brasil (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/psicologia-corpo-de-saude-da-marinha-csm-marinha-do-brasil-2011",
+   "arquivo": "provas-cpt/csm-2011-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija e conte os acertos sobre 45. Página 3, quadro PSICOLOGIA, coluna AMARELA (a da esquerda; a VERDE vem ao lado). As 8, 25, 33 e 48 não contam: neuropsicologia, que não está no edital do CP-T. A 11 não conta: cobra a divisão verbal e de execução do WISC-III, que o WISC-IV e o WISC-V abandonaram."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-CSM/2012: Psicologia, Prova Amarela (Corpo de Saúde da Marinha, Quadro de Apoio à Saúde)",
+   "fonte": "Marinha do Brasil, Diretoria de Ensino da Marinha (site da SSPM)",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/PS_CSM_2012_PSICO.zip",
+   "arquivo": "provas-cpt/csm-2012-prova.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, 2012, Psicologia, 50 questões, prova Amarela, escaneada, 23 páginas. Prova do concurso do Corpo de Saúde da Marinha: a mesma banca do CP-T e o mesmo estilo, citando autor e livro, mas só da parte clínica e de saúde, sem a organizacional. Os livros citados são de edições antigas. Faça as 50 questões em 3 h, sem consultar (a prova de verdade tem 4 h com a redação, que não veio no arquivo). Pule as questões 14, 19, 30 e 33 (o gabarito diz por quê). O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova do Corpo de Saúde de 2012",
+   "fonte": "Marinha do Brasil (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/psicologia-corpo-de-saude-da-marinha-csm-marinha-do-brasil-2012",
+   "arquivo": "provas-cpt/csm-2012-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija e conte os acertos sobre 46. Página 4, quadro PSICOLOGIA, coluna AMARELA (a primeira das quatro cores). As questões 11 e 20 foram anuladas: conte as duas como certas. As 14, 19 e 33 não contam: neuropsicologia, que não está no edital do CP-T. A 30 não conta: usa os critérios do DSM-IV para anorexia e bulimia, que o DSM-5 mudou."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-T/2012: Psicologia, Prova Amarela (Quadro Técnico do Corpo Auxiliar da Marinha)",
+   "fonte": "Marinha do Brasil, Diretoria de Ensino da Marinha (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/tecnico-psicologia-corpo-auxiliar-da-marinha-marinha-do-brasil-2012",
+   "arquivo": "provas-cpt/cpt-2012-prova.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, 2012, Psicologia, 50 questões, prova Amarela, escaneada, 19 páginas. Prova antiga do próprio CP-T. Os livros citados são de edições antigas. Faça as 50 questões em 3 h, sem consultar (a prova de verdade tem 4 h com a redação, que não veio no arquivo). Pule a questão 3 (o gabarito diz por quê). O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2012",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/Gabarito_CP-T_2012.pdf#page=8",
+   "arquivo": "provas-cpt/cpt-2012-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija e conte os acertos sobre 49. Página 8, quadro PSICOLOGIA (à direita de PEDAGOGIA), coluna AMARELA, a primeira das quatro cores. A questão 40 foi anulada: conte-a como certa. A 3 não conta: cobra a Res. CFP 007/2003, revogada pela 006/2019 (hoje relatório e laudo são documentos diferentes)."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-CSM/2013: Psicologia, Prova Amarela (Corpo de Saúde da Marinha, Quadro de Apoio à Saúde)",
+   "fonte": "Marinha do Brasil, Diretoria de Ensino da Marinha (site da SSPM)",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/CP_CSM_2013_PSICO.zip",
+   "arquivo": "provas-cpt/csm-2013-prova.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, 2013, Psicologia, 50 questões, prova Amarela, escaneada, 28 páginas. Prova do concurso do Corpo de Saúde da Marinha: a mesma banca do CP-T e o mesmo estilo, citando autor e livro, mas só da parte clínica e de saúde, sem a organizacional. Os livros citados são de edições antigas. Faça as 50 questões em 3 h, sem consultar (a prova de verdade tem 4 h com a redação, que não veio no arquivo). Pule as questões 11 e 37 (o gabarito diz por quê). O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova do Corpo de Saúde de 2013",
+   "fonte": "Marinha do Brasil (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/psicologia-corpo-de-saude-da-marinha-csm-marinha-do-brasil-2013",
+   "arquivo": "provas-cpt/csm-2013-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija e conte os acertos sobre 48. É o gabarito depois dos recursos. Página 3, quadro PSICOLOGIA, coluna AMARELA (a da esquerda; a AZUL vem ao lado). A questão 19 foi anulada: conte-a como certa. A 11 não conta: cobra a estrutura do parecer da Res. CFP 007/2003, revogada pela 006/2019. A 37 não conta: cobra o transtorno de somatização, que o DSM-5 extinguiu."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-CSM/2015: Psicologia, Prova Amarela (Corpo de Saúde da Marinha, Quadro de Apoio à Saúde)",
+   "fonte": "Marinha do Brasil, Diretoria de Ensino da Marinha (site da SSPM)",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/CP_CSM_2015_PSICO.zip",
+   "arquivo": "provas-cpt/csm-2015-prova.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, 2015, Psicologia, 50 questões, prova Amarela, escaneada, 27 páginas. Prova do concurso do Corpo de Saúde da Marinha: a mesma banca do CP-T e o mesmo estilo, citando autor e livro, mas só da parte clínica e de saúde, sem a organizacional. Os livros citados são de edições antigas. Faça as 50 questões em 3 h, sem consultar (a prova de verdade tem 4 h com a redação, que não veio no arquivo). Pule a questão 6 (o gabarito diz por quê). O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova do Corpo de Saúde de 2015",
+   "fonte": "Marinha do Brasil (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/psicologia-corpo-de-saude-da-marinha-csm-marinha-do-brasil-2015",
+   "arquivo": "provas-cpt/csm-2015-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija e conte os acertos sobre 49. Página 3, quadro de baixo (NUTRIÇÃO e PSICOLOGIA): use a coluna AMARELA de PSICOLOGIA, a terceira da esquerda para a direita. A questão 32 foi anulada: conte-a como certa. A 6 não conta: cobra o eixo III do DSM-IV, e o DSM-5 acabou com os eixos."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-T/2015: Psicologia, Prova Amarela (Quadro Técnico do Corpo Auxiliar da Marinha)",
+   "fonte": "Marinha do Brasil, Diretoria de Ensino da Marinha (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/tecnico-psicologia-corpo-auxiliar-da-marinha-marinha-do-brasil-2015",
+   "arquivo": "provas-cpt/cpt-2015-prova.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, 2015, Psicologia, 50 questões, prova Amarela, escaneada, 22 páginas. Prova antiga do próprio CP-T. Os livros citados são de edições antigas. Faça as 50 questões em 3 h, sem consultar (a prova de verdade tem 4 h com a redação, que não veio no arquivo). Pule as questões 5 e 24 (o gabarito diz por quê). O gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2015",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/GABARITO-CP-T-2015-ALTERADO.pdf#page=8",
+   "arquivo": "provas-cpt/cpt-2015-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija e conte os acertos sobre 48. É o gabarito depois dos recursos. Página 8, quadro PSICOLOGIA, coluna AMARELA (a da esquerda; a VERDE vem ao lado). A 5 não conta: cobra a Res. CFP 007/2003, revogada pela 006/2019 (hoje relatório e laudo são documentos diferentes). A 24 não conta: psicologia jurídica, que não está no edital do CP-T."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-T/2025: Psicologia, Prova Verde (Quadro Técnico do Corpo Auxiliar da Marinha)",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/133556/marinha-2025-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf",
+   "arquivo": "provas-cpt/cpt-2025-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, CP-T 2025, área Psicologia, 1º Tenente, aplicada em 29/06/2025: questões objetivas + redação (tema na p. 12). Caderno escaneado (imagem), 15 páginas, Prova Verde. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2025",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (gabarito final retificado)",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/CP-T-2025_gabarito%20FINAL_Retificado.pdf#page=10",
+   "arquivo": "provas-cpt/cpt-2025-gabarito-final.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. É o gabarito final, depois dos recursos, com todas as áreas: Psicologia está na página 10, colunas Amarela e Verde. A sua prova é a Verde. Nenhuma questão de Psicologia foi anulada."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "CP-T/2026: Psicologia, Prova Amarela (Quadro Técnico do Corpo Auxiliar da Marinha)",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/151957/marinha-2026-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf",
+   "arquivo": "provas-cpt/cpt-2026-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Marinha, CP-T 2026, área Psicologia, 1º Tenente: 50 questões de múltipla escolha + redação (dissertação argumentativa, 15 a 30 linhas, tema na p. 14). Caderno escaneado (imagem), 16 páginas, Prova Amarela. É a prova mais recente. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2026",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (gabarito final)",
+   "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/CP-T-2026_FINAL.pdf#page=11",
+   "arquivo": "provas-cpt/cpt-2026-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. É o gabarito final, depois dos recursos: Psicologia está na página 11, colunas Amarela e Rosa. A sua prova é a Amarela. As questões 01 e 32 foram anuladas: conte as duas como certas."
+  }
+ ],
+ "provas-eaoap": [
+  {
+   "tipo": "prova",
+   "titulo": "EAOAP 2019: Psicologia (PSC), Versão A (Exame de Admissão, Estágio de Adaptação de Oficiais de Apoio da Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/57165/aeronautica-2018-ciaar-primeiro-tenente-psicologia-prova.pdf",
+   "arquivo": "provas-eaoap/eaoap-2019-prova.pdf",
+   "minutos": 260,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aeronáutica, EAOAP 2019, Psicologia (PSC), Versão A: 30 questões de Gramática e Interpretação de Texto + 30 de Conhecimentos Especializados + redação (tema na p. 22). 24 páginas. Cobra mais resolução do CFP e conceito do que autor. Faça em 4 h 20, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2019",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/57165/aeronautica-2018-ciaar-primeiro-tenente-psicologia-gabarito.pdf",
+   "arquivo": "provas-eaoap/eaoap-2019-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. Gabarito oficial do EAOAP 2019, Psicologia, numa página: use as colunas da Versão A, à esquerda. A questão 12 foi anulada (aparece com #): conte-a como certa."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EAOAP 2022: Psicologia (PSC), Versão A (Exame de Admissão, Estágio de Adaptação de Oficiais de Apoio da Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/83800/aeronautica-2021-ciaar-primeiro-tenente-psicologia-prova.pdf",
+   "arquivo": "provas-eaoap/eaoap-2022-prova.pdf",
+   "minutos": 260,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aeronáutica, EAOAP 2022, Psicologia (PSC), Versão A: 30 questões de Gramática e Interpretação de Texto + 30 de Conhecimentos Especializados + redação (tema na p. 23). 28 páginas. Faça em 4 h 20, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2022",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/83800/aeronautica-2021-ciaar-primeiro-tenente-psicologia-gabarito.pdf",
+   "arquivo": "provas-eaoap/eaoap-2022-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. Gabarito oficial do EAOAP 2022, Psicologia (PSC), prova A, 60 questões, numa página."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EAOAP 2023: Psicologia, Versão A (Exame de Admissão, Estágio de Adaptação de Oficiais de Apoio da Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/90493/aeronautica-2022-ciaar-primeiro-tenente-psicologia-prova.pdf",
+   "arquivo": "provas-eaoap/eaoap-2023-prova.pdf",
+   "minutos": 260,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aeronáutica, EAOAP 2023, Psicologia, Versão A: 30 questões de Gramática e Interpretação de Texto + 30 de Conhecimentos Especializados + redação (tema na p. 20). 24 páginas. Faça em 4 h 20, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2023",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/90493/aeronautica-2022-ciaar-primeiro-tenente-psicologia-gabarito.pdf#page=9",
+   "arquivo": "provas-eaoap/eaoap-2023-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. Gabarito definitivo do EAOAP 2023 com todas as especialidades; Psicologia na página 9 (caderno tipo A)."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EAOAP 2024: Psicologia (PSC), Versão A (Exame de Admissão, Estágio de Adaptação de Oficiais de Apoio da Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/94716/aeronautica-2023-ciaar-oficial-de-apoio-da-aeronautica-psicologia-prova.pdf",
+   "arquivo": "provas-eaoap/eaoap-2024-prova.pdf",
+   "minutos": 260,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aeronáutica, EAOAP 2024, Psicologia (PSC), Versão A: 30 questões de Gramática e Interpretação de Texto + 30 de Conhecimentos Especializados + redação (tema na p. 24). 28 páginas. Faça em 4 h 20, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2024",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/94716/aeronautica-2023-ciaar-oficial-de-apoio-da-aeronautica-psicologia-gabarito.pdf#page=18",
+   "arquivo": "provas-eaoap/eaoap-2024-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. Gabarito definitivo com todas as especialidades. O da sua prova começa no pé da página 17, no título \"ESPECIALIDADE: Psicologia, Tipo de Prova: A\": as respostas vão da página 18 (questões 1 a 49) ao começo da 19 (50 a 60), antes de \"Tipo de Prova: B\". As anuladas aparecem com #: conte-as como certas."
+  }
+ ],
+ "provas-esfcex": [
+  {
+   "tipo": "prova",
+   "titulo": "EsFCEx 2020: CFO/QC, área Psicologia, Versão A (Vunesp)",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Cursos Azambuja)",
+   "url": "https://www.cursosazambuja.com.br/storage/app/media/PROVA%20E%20GABARITOS/EsFCEx/2020-21/2020-21%20-%20PSICOLOGIA.pdf",
+   "arquivo": "provas-esfcex/esfcex-2020-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Exército, Concurso de Admissão 2020, Psicologia, prova de 13/09/2020: 70 questões objetivas, de 1 a 30 de Conhecimentos Gerais (Português, História e Geografia) e de 31 a 70 de Psicologia, sem redação. 20 páginas. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2020",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Cursos Azambuja)",
+   "url": "https://www.cursosazambuja.com.br/storage/app/media/PROVA%20E%20GABARITOS/EsFCEx/2020-21/2020-21%20-%20GABARITOS.pdf#page=55",
+   "arquivo": "provas-esfcex/esfcex-2020-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. O arquivo traz as Versões A, B e C: a sua é a A, na primeira página. O arquivo não diz se é o gabarito preliminar ou o definitivo."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EsFCEx 2022: CFO/QC, área Psicologia, Versão A (Vunesp)",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Cursos Azambuja)",
+   "url": "https://www.cursosazambuja.com.br/storage/app/media/PROVA%20E%20GABARITOS/EsFCEx/2022-23/2022-23%20-%20PSICOLOGIA.pdf",
+   "arquivo": "provas-esfcex/esfcex-2022-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Exército, Concurso de Admissão 2022, Psicologia, prova de 11/09/2022: 60 questões objetivas, de 1 a 20 de Conhecimentos Gerais (Português, História e Geografia) e de 21 a 60 de Psicologia, sem redação. 16 páginas. Pule as questões 1, 2, 3, 4, 6, 7 e 8: são de Português e já estão na provinha de Português deste curso. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2022",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Cursos Azambuja)",
+   "url": "https://www.cursosazambuja.com.br/storage/app/media/PROVA%20E%20GABARITOS/EsFCEx/2022-23/2022-23%20-%20GABARITOS.pdf#page=49",
+   "arquivo": "provas-esfcex/esfcex-2022-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos sobre 53: as questões 1, 2, 3, 4, 6, 7 e 8 não contam, porque estão na provinha de Português. O arquivo traz as Versões A, B e C: a sua é a A, na primeira página. O arquivo não diz se é o gabarito preliminar ou o definitivo."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EsFCEx 2023: CFO/QC, área Psicologia, Versão A (Vunesp)",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Cursos Azambuja)",
+   "url": "https://www.cursosazambuja.com.br/storage/app/media/PROVA%20E%20GABARITOS/EsFCEx/2023-24/2023-24%20-%20PSICOLOGIA.pdf",
+   "arquivo": "provas-esfcex/esfcex-2023-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Exército, Concurso de Admissão 2023, Psicologia, prova de 03/09/2023: 60 questões objetivas, de 1 a 20 de Conhecimentos Gerais (Português, História e Geografia) e de 21 a 60 de Psicologia, sem redação. 16 páginas. Pule as questões 2, 3, 4, 7 e 8: são de Português e já estão na provinha de Português deste curso. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2023",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Cursos Azambuja)",
+   "url": "https://www.cursosazambuja.com.br/storage/app/media/PROVA%20E%20GABARITOS/EsFCEx/2023-24/2023-24%20-%20GABARITOS.pdf#page=46",
+   "arquivo": "provas-esfcex/esfcex-2023-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos sobre 55: as questões 2, 3, 4, 7 e 8 não contam, porque estão na provinha de Português. O arquivo traz as Versões A, B e C: a sua é a A, na primeira página. O arquivo não diz se é o gabarito preliminar ou o definitivo."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EsFCEx 2025: CFO/QC, área Psicologia, Versão A (Vunesp)",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/134594/vunesp-2025-esfcex-oficial-especialidade-psicologia-prova.pdf",
+   "arquivo": "provas-esfcex/esfcex-2025-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Exército, Concurso de Admissão 2025 (CFO do Quadro Complementar 2026), Psicologia, prova de 20/07/2025: 50 questões objetivas, sem redação. 16 páginas. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2025",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/134594/vunesp-2025-esfcex-oficial-especialidade-psicologia-gabarito.pdf",
+   "arquivo": "provas-esfcex/esfcex-2025-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. Gabarito da Versão A, 50 respostas, numa página (o PDF não escreve a área; o arquivo é do mesmo registro da prova de Psicologia)."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "EsFCEx 2026: CFO/QC, área Psicologia, Versão A (Vunesp)",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/155270/vunesp-2026-esfcex-oficial-especialidade-psicologia-prova.pdf",
+   "arquivo": "provas-esfcex/esfcex-2026-prova.pdf",
+   "minutos": 240,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Exército, Concurso de Admissão 2026 (CFO do Quadro Complementar 2027), Psicologia, prova de 12/07/2026: 50 questões objetivas (Conhecimentos Gerais + específicos), sem redação. 24 páginas. Faça em 4 h, sem consultar; o gabarito é o próximo item."
+  },
+  {
+   "tipo": "leitura",
+   "extra": false,
+   "titulo": "Gabarito da prova de 2026",
+   "fonte": "Vunesp / EsFCEx, Exército (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/155270/vunesp-2026-esfcex-oficial-especialidade-psicologia-gabarito.pdf",
+   "arquivo": "provas-esfcex/esfcex-2026-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "nota": "Corrija a prova que você acabou de fazer e conte os acertos. Gabarito da Versão A, 50 questões, numa página."
+  }
+ ],
+ "r-temas": [
+  {
+   "tipo": "leitura",
+   "titulo": "Treino: proposta de redação do CP-T/2026 (Marinha)",
+   "fonte": "Marinha do Brasil, SSPM (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/151957/marinha-2026-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf#page=14",
+   "arquivo": "provas-cpt/cpt-2026-prova.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "CP-T 2026, tema: \"A missão da Marinha do Brasil no combate ao narcotráfico na Amazônia Azul\". Dissertação argumentativa, 15 a 30 linhas, com título; texto de apoio sobre a Amazônia Azul. Leia a proposta e escreva a redação à mão, em até 1 hora, contando as linhas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Treino: proposta de redação do CP-T/2025 (Marinha)",
+   "fonte": "Marinha do Brasil, SSPM (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/133556/marinha-2025-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf#page=12",
+   "arquivo": "provas-cpt/cpt-2025-prova.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "CP-T 2025, tema: \"Os impactos sociais das ações de ajuda humanitária da Marinha do Brasil em desastres naturais ocorridos em território nacional\". Três textos de apoio; 15 a 30 linhas, com título. Leia a proposta e escreva a redação à mão, em até 1 hora, contando as linhas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Treino: proposta de redação do EAOAP 2024 (Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/94716/aeronautica-2023-ciaar-oficial-de-apoio-da-aeronautica-psicologia-prova.pdf#page=22",
+   "arquivo": "provas-eaoap/eaoap-2024-prova.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "EAOAP 2024, tema: \"Ferramentas do ensino a distância: tendências de um novo tempo\". Textos de apoio nas p. 22 e 23, proposta na p. 24; 15 a 30 linhas. Leia a proposta e escreva a redação à mão, em até 1 hora, contando as linhas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Treino: proposta de redação do EAOAP 2023 (Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/90493/aeronautica-2022-ciaar-primeiro-tenente-psicologia-prova.pdf#page=19",
+   "arquivo": "provas-eaoap/eaoap-2023-prova.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "EAOAP 2023, tema: \"O papel da Força Aérea Brasileira em ações cívico-sociais\". Textos de apoio na p. 19, proposta na p. 20; até 30 linhas. Leia a proposta e escreva a redação à mão, em até 1 hora, contando as linhas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Treino: proposta de redação do EAOAP 2022 (Aeronáutica)",
+   "fonte": "Comando da Aeronáutica, CIAAR (espelho Qconcursos)",
+   "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/83800/aeronautica-2021-ciaar-primeiro-tenente-psicologia-prova.pdf#page=22",
+   "arquivo": "provas-eaoap/eaoap-2022-prova.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "EAOAP 2022, tema: \"Linguagem neutra: uma consequência da mutabilidade e da dinamicidade da língua ou simples modismo?\". Textos de apoio na p. 22, proposta na p. 23; até 30 linhas. Leia a proposta e escreva a redação à mão, em até 1 hora, contando as linhas."
+  }
+ ],
+ "provas-smv": [
+  {
+   "tipo": "prova",
+   "titulo": "SMV oficiais 2026: Português (prova Amarela)",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (espelho Estratégia Militares)",
+   "url": "https://militares.estrategia.com/portal/wp-content/uploads/2026/02/SMV-OF-PORT-AMARELA.pdf",
+   "arquivo": "provas-smv/smv-of-2026-prova-amarela.pdf",
+   "minutos": 180,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "A prova do ciclo passado, aplicada em 22/02/2026: a mesma para todos os Distritos e no formato da sua (40 questões de Português, 5 alternativas). Faça em 3 h, sem consultar; o gabarito de 2026 vem junto."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Gabarito da prova de 2026",
+   "fonte": "Marinha do Brasil, Comando do 1º Distrito Naval, gabarito final (espelho Estratégia Militares)",
+   "url": "https://militares.estrategia.com/portal/wp-content/uploads/2026/04/GabFinal_PS-SMV-OF_2026_COM1DN.pdf#page=2",
+   "arquivo": "provas-smv/smv-of-2026-gabarito-final.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Corrija e conte os acertos. Use a página 2 (\"Demais áreas\"), coluna AMARELA; a página 1 é só de Medicina. Na Amarela, as questões 01, 04, 06 e 29 foram anuladas (contam ponto) e a 08, a 18 e a 30 tiveram a resposta alterada (já está no gabarito)."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "SMV oficiais 2024: Português (questões 1 a 25, prova Amarela)",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (cópia de militarestemporarios.com.br)",
+   "url": "https://www.militarestemporarios.com.br/marinha/provas-anteriores/oficial-temporario-2024.pdf#page=2",
+   "arquivo": "provas-smv/smv-of-2024-prova-e-gabarito.pdf",
+   "minutos": 110,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Formato antigo: a prova tinha 50 questões, e só as 25 primeiras são de Português (páginas 2 a 8). Pare na 25; o resto é formação naval, que não cai mais. Faça em 1 h 50, sem consultar. Cópia de site de terceiros, não da Marinha."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Gabarito da prova de 2024",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (cópia de militarestemporarios.com.br)",
+   "url": "https://www.militarestemporarios.com.br/marinha/provas-anteriores/oficial-temporario-2024.pdf#page=14",
+   "arquivo": "provas-smv/smv-of-2024-prova-e-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página 14, coluna AMARELA, questões 1 a 25. Onde diz \"Alterar opção\", vale a opção nova."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "SMV oficiais 2023: Português (questões 1 a 25, prova Amarela)",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (cópia de militarestemporarios.com.br)",
+   "url": "https://www.militarestemporarios.com.br/marinha/provas-anteriores/oficial-temporario-2023.pdf#page=2",
+   "arquivo": "provas-smv/smv-of-2023-prova-e-gabarito.pdf",
+   "minutos": 110,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Formato antigo: 50 questões, e só as 25 primeiras são de Português (páginas 2 a 7). Pare na 25. Faça em 1 h 50, sem consultar. Cópia de site de terceiros, não da Marinha."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Gabarito da prova de 2023",
+   "fonte": "Marinha do Brasil, Serviço de Seleção do Pessoal da Marinha (cópia de militarestemporarios.com.br)",
+   "url": "https://www.militarestemporarios.com.br/marinha/provas-anteriores/oficial-temporario-2023.pdf#page=15",
+   "arquivo": "provas-smv/smv-of-2023-prova-e-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página 15, coluna AMARELA, questões 1 a 25. A 11 foi anulada (conta ponto)."
+  },
+  {
+   "tipo": "prova",
+   "titulo": "SMV oficiais 2017: Português (questões 1 a 25, prova Amarela)",
+   "fonte": "Marinha do Brasil, Comando do 1º Distrito Naval (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/servico-auxiliar-voluntario-oficial-segunda-classe-psicologia-marinha-do-brasil-marinha-do-brasil-2017",
+   "arquivo": "provas-smv/smv-of-2017-prova.pdf",
+   "minutos": 110,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Formato antigo, a prova do 1º Distrito Naval: 50 questões, e só as 25 primeiras são de Português (páginas 2 a 5). Pare na 25; o resto é Estatuto dos Militares e história naval, que não cai mais. Faça em 1 h 50, sem consultar. Cópia de site de terceiros, não da Marinha."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Gabarito da prova de 2017",
+   "fonte": "Marinha do Brasil, Comando do 1º Distrito Naval (cópia do PCI Concursos)",
+   "url": "https://www.pciconcursos.com.br/provas/download/servico-auxiliar-voluntario-oficial-segunda-classe-psicologia-marinha-do-brasil-marinha-do-brasil-2017#gabarito",
+   "arquivo": "provas-smv/smv-of-2017-gabarito.pdf",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Página 2, quadro \"Área Técnica\" (o caderno das áreas fora da Medicina), coluna AMARELA, questões 1 a 25. É o gabarito divulgado logo depois da prova, antes dos recursos."
+  }
+ ]
+}

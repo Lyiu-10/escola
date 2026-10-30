@@ -1,0 +1,156 @@
+{
+ "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf": [
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, na hipótese de dúvida quanto à classificação de um instrumento em teste psicológico ou instrumento não psicológico, assinale a opção correta.",
+   "alternativas": [
+    "A psicóloga e o psicólogo deverão submeter diretamente o instrumento à CCAP, que o classificará como \"teste psicológico\" ou \"instrumento auxiliar\".",
+    "Ficam legitimados os Conselhos Regionais de Psicologia a submeter o instrumento à Comissão Consultiva em Avaliação Psicológica do CFP, e a psicóloga e o psicólogo poderão requerer ao CRP essa submissão.",
+    "Ficam legitimados os Conselhos Regionais de Psicologia a submeter o instrumento ao Plenário do CFP, que fará avaliação preliminar e o classificará como \"instrumento não privativo\" ou \"teste psicológico\".",
+    "Caso a CCAP considere o instrumento \"teste psicológico\", ele constará na lista de Testes com Parecer Favorável do SATEPSI até ser submetido à avaliação final.",
+    "Caso a CCAP considere o instrumento \"não privativo\", ele constará na lista de Testes Não Avaliados do SATEPSI até ser submetido, pelo responsável técnico, à avaliação final."
+   ],
+   "certa": 1,
+   "comentario": "Pelo art. 13, quem tem legitimidade para submeter o instrumento à CCAP são os CRPs; pelo art. 14, a psicóloga e o psicólogo poderão requerer ao CRP essa submissão, sem acesso direto à CCAP. A avaliação preliminar é da CCAP, não do Plenário. O instrumento classificado como \"teste psicológico\" vai para a lista de Testes Não Avaliados, e o \"não privativo\" vai para a lista de Instrumentos Não Privativos: as alternativas D e E trocam as listas.",
+   "trecho": "Na hipótese de dúvida quanto à classificação do instrumento em teste psicológico ou instrumento não psicológico, ficam legitimados os Conselhos Regionais de Psicologia (CRPs) a submeter o respectivo instrumento à Comissão Consultiva em Avaliação Psicológica (CCAP) do CFP para apreciação.",
+   "onde": 2,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, sobre os prazos de tramitação dos testes psicológicos submetidos ao SATEPSI, analise as afirmativas abaixo e assinale a opção correta.\nI- Serão designados 2 (dois) pareceristas \"ad hoc\" no prazo de 30 (trinta) dias, a partir da data de recebimento do teste psicológico completo.\nII- Os pareceristas terão 20 (vinte) dias, a partir da data de aceite da designação, para emitir os pareceres, sendo esse prazo improrrogável.\nIII- Os prazos de cada etapa serão calculados em dias corridos e seguirão o calendário de Reuniões da CCAP e da Plenária do CFP.\nIV- O requerente terá 30 (trinta) dias, a partir da comunicação da decisão do Plenário do CFP, para apresentar recurso nos casos de parecer desfavorável.\nV- Não serão aceitas novas análises estatísticas no recurso, visto que estas demandam nova avaliação de pareceristas.",
+   "alternativas": [
+    "Apenas as afirmativas I, II e IV são verdadeiras.",
+    "Apenas as afirmativas III e V são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, III, IV e V são verdadeiras."
+   ],
+   "certa": 3,
+   "comentario": "O art. 20 conta os prazos em dias úteis, não corridos (III falsa), e o prazo de 20 dias dos pareceristas pode ser prorrogado por igual período, mediante solicitação no próprio SATEPSI (II falsa). I, IV e V reproduzem os incisos I e V e a alínea \"b\" do inciso VI do art. 20.",
+   "trecho": "Os prazos para cada etapa descrita no art. 19 desta Resolução serão calculados em dias úteis e seguirão o calendário de Reuniões da CCAP e da Plenária do CFP, sendo de:",
+   "onde": 4,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo a Resolução CFP nº 31/2022, a utilização de testes psicológicos com parecer desfavorável, ou que constem na lista de Testes Psicológicos Não Avaliados no site do SATEPSI, será considerada:",
+   "alternativas": [
+    "falta ética, conforme a alínea \"c\" do art. 1º e a alínea \"f\" do art. 2º do Código de Ética Profissional do Psicólogo, aplicando-se também aos casos de pesquisa e às situações de ensino.",
+    "falta ética, conforme a alínea \"f\" do art. 1º e a alínea \"c\" do art. 2º do Código de Ética Profissional do Psicólogo, não se aplicando aos casos de pesquisa e às situações de ensino.",
+    "falta ética, conforme a alínea \"c\" do art. 1º e a alínea \"f\" do art. 2º do Código de Ética Profissional do Psicólogo, não se aplicando aos casos de pesquisa amparados pela legislação vigente e às situações de ensino com objetivo formativo e histórico.",
+    "falta ética, conforme a alínea \"c\" do art. 1º e a alínea \"f\" do art. 2º do Código de Ética Profissional do Psicólogo, salvo quando o teste for empregado apenas como fonte complementar de informação.",
+    "infração ao art. 13 da Lei nº 4.119/1962, não se aplicando aos casos de pesquisa amparados pela legislação vigente e às situações de ensino com objetivo formativo e histórico."
+   ],
+   "certa": 2,
+   "comentario": "O art. 12 qualifica o uso como falta ética, nos termos da alínea \"c\" do art. 1º e da alínea \"f\" do art. 2º do Código de Ética (a B inverte as alíneas), e o parágrafo único afasta a regra na pesquisa amparada pela legislação e no ensino com objetivo formativo e histórico. Não há exceção para uso como fonte complementar. O art. 13 da Lei nº 4.119/1962 é citado no art. 8º, para o uso privativo dos testes, não para esta falta.",
+   "trecho": "A previsão deste artigo não se aplica aos casos de pesquisa, amparadas pela legislação vigente, e às situações de ensino com objetivo formativo e histórico na Psicologia.",
+   "onde": 2,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, sobre as versões equivalentes de testes psicológicos aprovados no SATEPSI, assinale a opção INCORRETA.",
+   "alternativas": [
+    "Será considerada versão equivalente de um teste psicológico aquela com formato diferente de aplicação descrita na versão aprovada no SATEPSI.",
+    "Os testes psicológicos que apresentem formato de aplicação diferente daquele descrito no manual técnico da versão aprovada no SATEPSI deverão ser submetidos para apreciação da CCAP.",
+    "Na tramitação dos estudos de equivalência, será designado 1 (um) parecerista \"ad hoc\" para a análise dos estudos.",
+    "Compete ao responsável técnico a submissão ao SATEPSI de estudos de equivalência dos diferentes formatos de aplicação.",
+    "Os testes psicológicos que apresentem formato de correção diferente daquele descrito no manual técnico da versão aprovada deverão ser submetidos a nova avaliação, ainda que sejam rigorosamente seguidos os procedimentos dos manuais."
+   ],
+   "certa": 4,
+   "comentario": "O art. 24 separa aplicação de correção: formato de aplicação diferente exige apreciação da CCAP (§ 1º), mas formato de correção diferente não necessita de nova avaliação, desde que se sigam rigorosamente os manuais (§ 2º). As demais reproduzem o art. 24, caput, o art. 26, II (1 parecerista, e não 2 como no teste novo), e o art. 25, § 2º.",
+   "trecho": "Os testes psicológicos que apresentem formato de correção diferente daquele descrito no manual técnico da versão aprovada no SATEPSI não necessitam de nova avaliação, desde que sejam rigorosamente seguidos os procedimentos descritos nos respectivos manuais técnicos.",
+   "onde": 5,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo a Resolução CFP nº 31/2022, a partir da data de aprovação das normas atualizadas de um teste psicológico, os autores, laboratórios e responsáveis técnicos do material terão o prazo de:",
+   "alternativas": [
+    "180 dias úteis para disponibilizá-las à psicóloga e ao psicólogo juntamente com o manual técnico, podendo-se utilizar as tabelas normativas das versões anteriores até a data de vencimento dos estudos normativos.",
+    "180 dias corridos para disponibilizá-las à psicóloga e ao psicólogo juntamente com o manual técnico, vedada a utilização das tabelas normativas das versões anteriores a partir da aprovação.",
+    "60 dias úteis para disponibilizá-las à psicóloga e ao psicólogo juntamente com o manual técnico, podendo-se utilizar as tabelas normativas das versões anteriores até a data de vencimento dos estudos normativos.",
+    "180 dias úteis para disponibilizá-las à psicóloga e ao psicólogo juntamente com o manual técnico, cabendo ao Plenário do CFP determinar de que forma tal disponibilização será realizada.",
+    "30 dias úteis para disponibilizá-las à psicóloga e ao psicólogo juntamente com o manual técnico, podendo-se utilizar as tabelas normativas das versões anteriores por até 15 (quinze) anos."
+   ],
+   "certa": 0,
+   "comentario": "O art. 33, § 2º, dá 180 dias úteis, e o § 3º permite usar as tabelas normativas anteriores até o vencimento dos estudos normativos. A forma de disponibilização cabe aos autores, laboratórios, instituições e responsáveis técnicos (§ 1º), não ao CFP. Os 60 dias que aparecem na Resolução são o prazo da CCAP para apreciar o relatório (art. 32, II) e o da entrada em vigor (art. 46).",
+   "trecho": "A partir da data de aprovação das normas atualizadas, os autores, laboratórios e responsáveis técnicos do material terão o prazo de 180 dias úteis para aplicar o disposto no caput deste artigo.",
+   "onde": 7,
+   "estilo": "CP-T"
+  }
+ ],
+ "https://www.youtube.com/watch?v=HcGH53ychi4": [
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, a Avaliação Psicológica é um processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, com o objetivo de:",
+   "alternativas": [
+    "chegar a um diagnóstico clínico, no âmbito individual, com base em demandas, condições e finalidades específicas.",
+    "prover informações à tomada de decisão, no âmbito individual, grupal ou institucional, com base em demandas, condições e finalidades específicas.",
+    "identificar, descrever, qualificar e mensurar características psicológicas, por meio de procedimentos sistemáticos de observação e descrição do comportamento humano.",
+    "avaliar a qualidade técnico-científica de instrumentos psicológicos, a partir da verificação objetiva de um conjunto de requisitos técnicos.",
+    "prover informações à tomada de decisão, no âmbito exclusivamente individual, com base nas fontes fundamentais e complementares de informação."
+   ],
+   "certa": 1,
+   "comentario": "A definição do art. 1º, § 1º, fala em prover informações à tomada de decisão, nos âmbitos individual, grupal ou institucional. Chegar a diagnóstico é objetivo do psicodiagnóstico, modalidade clínica, e não da avaliação psicológica em geral. A C é a definição dos testes psicológicos (art. 7º) e a D é o objetivo do SATEPSI (art. 1º, § 2º).",
+   "trecho": "então que avalia o quê fenômenos psicológicos compostos de métodos técnicas e Instrumentos com o objetivo de prover informações à tomada de",
+   "onde": 100,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, correlacione as fontes de informação da Avaliação Psicológica aos recursos apresentados e assinale a opção que apresenta a sequência correta.\nFONTES\nI- Fonte fundamental de informação\nII- Fonte complementar de informação\nRECURSOS\n( ) Testes psicológicos aprovados pelo CFP para uso profissional da psicóloga e do psicólogo.\n( ) Documentos técnicos, tais como protocolos ou relatórios de equipes multiprofissionais.\n( ) Entrevistas psicológicas e anamneses.\n( ) Técnicas e instrumentos não psicológicos que possuam respaldo da literatura científica da área.\n( ) Protocolos ou registros de observação de comportamentos obtidos individualmente ou por meio de processo grupal.",
+   "alternativas": [
+    "(I) (I) (I) (II) (II)",
+    "(II) (II) (I) (I) (I)",
+    "(I) (II) (II) (II) (I)",
+    "(I) (II) (I) (II) (I)",
+    "(I) (II) (I) (I) (II)"
+   ],
+   "certa": 3,
+   "comentario": "Pelo art. 3º, são fontes fundamentais os testes aprovados pelo CFP, as entrevistas e anamneses e os protocolos ou registros de observação de comportamentos. Pelo art. 4º, são fontes complementares as técnicas e instrumentos não psicológicos com respaldo científico e os documentos técnicos, como protocolos ou relatórios de equipes multiprofissionais. A armadilha é a palavra \"protocolos\": o de observação de comportamento é fundamental, e o de equipe multiprofissional é complementar.",
+   "trecho": "Fontes complementares são aquelas Fontes que vão complementar a sua tomada de decis visão baseada nas fontes fundamentais tá são duas as fontes complementares técnicas e Instrumentos não psicológicos Porém respaldado na literatura científica",
+   "onde": 378,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo a Resolução CFP nº 31/2022, o teste psicológico e o seu respectivo manual técnico constituem tecnologia profissional da Psicologia. Os testes psicológicos abarcam os seguintes instrumentos:",
+   "alternativas": [
+    "testes, escalas, inventários, questionários e métodos projetivos e expressivos.",
+    "testes, escalas, inventários, questionários, entrevistas psicológicas e métodos projetivos e expressivos.",
+    "testes, escalas, inventários e métodos projetivos e expressivos.",
+    "testes, escalas, questionários, anamneses e métodos projetivos e expressivos.",
+    "testes, escalas, inventários, questionários, protocolos de observação e métodos projetivos."
+   ],
+   "certa": 0,
+   "comentario": "O art. 10 lista cinco instrumentos: testes, escalas, inventários, questionários e métodos projetivos e expressivos. Entrevistas, anamneses e protocolos de observação são fontes fundamentais de informação (art. 3º), mas não são testes psicológicos. A C tira os questionários da lista.",
+   "trecho": "os testes são uma categoria que abrange os seguintes instrumentos testes de escalas inventários questionários e métodos projetivos expressivos",
+   "onde": 814,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, no que se refere aos estudos de validade, precisão e normas dos testes psicológicos, coloque V (verdadeiro) ou F (falso) nas afirmativas abaixo e assinale a opção que apresenta a sequência correta.\n( ) Os estudos de validade, precisão e normas terão prazo máximo de 15 (quinze) anos, a contar da data da aprovação do teste psicológico pelo Plenário do CFP.\n( ) Os estudos de validade terão prazo máximo de 20 (vinte) anos e os de normas, de 15 (quinze) anos, a contar da data do relatório conclusivo da CCAP.\n( ) Caso novas versões do teste psicológico sejam apresentadas e recebam parecer favorável, versões anteriores poderão ser utilizadas até o vencimento dos estudos de normatização, validade e precisão.\n( ) Não sendo apresentada a revisão no prazo estabelecido, o teste psicológico perderá a condição de uso e será excluído da relação de testes com parecer favorável no SATEPSI.",
+   "alternativas": [
+    "(V) (F) (F) (V)",
+    "(F) (V) (V) (V)",
+    "(V) (F) (V) (V)",
+    "(V) (V) (F) (V)",
+    "(F) (F) (V) (F)"
+   ],
+   "certa": 2,
+   "comentario": "O art. 22 fixa prazo máximo único de 15 anos para validade, precisão e normas, contado da aprovação pelo Plenário do CFP, e não da CCAP. Os 20 anos para validade e 15 para normas eram a regra da Resolução nº 09/2018, que o § 1º mantém só para testes com parecer favorável anterior à nova Resolução. Os §§ 2º e 3º sustentam a terceira e a quarta afirmativas.",
+   "trecho": "na resolução 31 ela reduziu o prazo de validade normatização e precisão dos Testes psicológicos que passou a ser prazo máximo de 15 anos a contada a data da aprovação do teste pelo plenário do Conselho Federal",
+   "onde": 1401,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Resolução CFP nº 31/2022, os testes psicológicos, para serem reconhecidos para uso profissional, devem possuir consistência técnico-científica e atender obrigatoriamente a requisitos mínimos. Assinale a opção que NÃO apresenta um desses requisitos.",
+   "alternativas": [
+    "Apresentar fundamentação teórica, com especial ênfase na definição do(s) construto(s), e descrever os aspectos constitutivo e operacional.",
+    "Explicitar os objetivos do teste psicológico e o contexto de aplicação, com detalhes da população-alvo.",
+    "Apresentar ficha síntese, com indicação do autor, objetivo, público-alvo, material necessário, tipo de aplicação e correção, normas e síntese dos estudos psicométricos.",
+    "No caso de testes psicológicos informatizados, apresentar tutorial sobre como acessar o teste, com captura das telas, e o relatório gerado pela plataforma de correção.",
+    "Apresentar evidências empíricas sobre as características técnicas dos itens do teste psicológico, inclusive para os métodos projetivos ou expressivos."
+   ],
+   "certa": 4,
+   "comentario": "O inciso VII do art. 15 exige evidências empíricas sobre as características técnicas dos itens, exceto para os métodos projetivos ou expressivos; a E troca a exceção por \"inclusive\". As demais reproduzem os incisos I, II, X e XI do mesmo artigo.",
+   "trecho": "evidências empíricas sobre as características técnicas exceto no caso de métodos projetivos porque é mais difícil essa precisão",
+   "onde": 1185,
+   "estilo": "CP-T"
+  }
+ ]
+}

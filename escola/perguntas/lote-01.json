@@ -1,0 +1,1178 @@
+{
+ "https://www.youtube.com/watch?v=z0PX0-KjI6U": [
+  {
+   "enunciado": "Segundo a aula, qual é o primeiro passo da estratégia para resolver questões de interpretação de texto?",
+   "alternativas": [
+    "Ler o texto inteiro, sem interrupções, para achar a ideia central",
+    "Ler o enunciado das questões antes de ler o texto e identificar se é compreensão ou interpretação",
+    "Resolver as questões pela técnica do senso comum antes de qualquer outra coisa",
+    "Reler apenas o parágrafo cobrado pela questão"
+   ],
+   "certa": 1,
+   "comentario": "O passo um é ler o enunciado antes do texto, destacando as palavras-chave e vendo se a questão pede compreensão ou interpretação.",
+   "trecho": "Leia o enunciado das questões. Você vai ler o enunciado das questões antes de ler o texto,",
+   "onde": 34
+  },
+  {
+   "enunciado": "Segundo o professor, o que caracteriza uma questão de compreensão de texto?",
+   "alternativas": [
+    "Exige deduzir o que o autor quis dizer, mesmo sem estar escrito",
+    "Pede a opinião pessoal do candidato sobre o tema",
+    "Usa expressões como \"infere-se\" e \"conclui-se\" no enunciado",
+    "Cobra o que está escrito no texto, em geral parafraseado com outras palavras"
+   ],
+   "certa": 3,
+   "comentario": "Compreender é achar o que está escrito (\"control C, control V\"); a alternativa correta costuma ser uma paráfrase do texto.",
+   "trecho": "Compreender é o que está escrito, tá? Conttrol C, conttrol V, o que está escrito.",
+   "onde": 126
+  },
+  {
+   "enunciado": "Um candidato lê o enunciado: \"A partir da leitura do texto, conclui-se que...\". De acordo com a aula, como classificar essa questão?",
+   "alternativas": [
+    "Interpretação, porque a resposta não está escrita e deve ser deduzida da ideia do texto",
+    "Compreensão, porque a resposta está copiada no texto",
+    "Compreensão, porque menciona \"a leitura do texto\"",
+    "Não dá para classificar sem ler o texto antes"
+   ],
+   "certa": 0,
+   "comentario": "Expressões como \"conclui-se\", \"infere-se\" e \"é possível deduzir\" indicam interpretação: a resposta não está escrita, é preciso inferir.",
+   "trecho": "A questão de interpretação não está escrita, hein? Você vai deduzir, você vai concluir, é possível inferir.",
+   "onde": 561
+  },
+  {
+   "enunciado": "Em que consiste a técnica do senso comum, segundo a aula?",
+   "alternativas": [
+    "Responder a prova inteira pelo palpite, sem ler o texto em momento algum",
+    "Escolher sempre a alternativa mais longa e mais radical",
+    "Antes de ler o texto, ler as alternativas e excluir as absurdas pelo conhecimento de mundo e bom senso",
+    "Ler somente o último parágrafo e marcar a alternativa parecida"
+   ],
+   "certa": 2,
+   "comentario": "Antes de ler o texto, o candidato lê as alternativas e elimina as absurdas; muitas vezes dá para excluir três delas.",
+   "trecho": "Antes de ler o texto, você vai ler as alternativas da questão, certo? E aí, ó, você já consegue excluir, você já consegue excluir, hein, as alternativas absurdas.",
+   "onde": 623
+  },
+  {
+   "enunciado": "Segundo a aula, na leitura do texto inteiro (passo três), qual é o papel do último parágrafo?",
+   "alternativas": [
+    "Introduzir a ideia central do texto pela primeira vez",
+    "Retomar a ideia central e dar a posição final do autor",
+    "Apresentar exemplos e pesquisas sobre a ideia central",
+    "Trazer informações que não se relacionam com a ideia central"
+   ],
+   "certa": 1,
+   "comentario": "O primeiro parágrafo traz a ideia central, os do meio a justificam com exemplos, e o último a retoma e dá a posição final do autor.",
+   "trecho": "E o último parágrafo, Álvarol, o último parágrafo, que é a conclusão do texto lá, é uma retomada da ideia central.",
+   "onde": 1587
+  }
+ ],
+ "https://militares.estrategia.com/portal/materias-e-dicas/portugues/como-entender-a-interpretacao-de-textos-mistos/": [
+  {
+   "enunciado": "Segundo o texto, o que caracteriza a linguagem não verbal?",
+   "alternativas": [
+    "Usa palavras escritas ou faladas como meio de comunicação",
+    "Só existe em placas de trânsito escritas",
+    "Combina desenhos com falas escritas nos balões",
+    "Transmite significado sem palavras, por gestos, expressões, sons, imagens, símbolos visuais e cores"
+   ],
+   "certa": 3,
+   "comentario": "A linguagem não verbal comunica sem o uso de palavras; a placa de trânsito é o exemplo cotidiano dado.",
+   "trecho": "Está relacionada a tudo aquilo que transmite um significado sem o uso de palavras, como gestos, expressões faciais, sons, imagens, símbolos visuais e cores."
+  },
+  {
+   "enunciado": "Uma história em quadrinhos, com desenhos e falas escritas nos balões, é exemplo de qual tipo de linguagem, segundo o texto?",
+   "alternativas": [
+    "Mista, pois combina elementos verbais e não verbais num mesmo enunciado",
+    "Não verbal, pois tem desenhos",
+    "Verbal, pois tem texto escrito",
+    "Contextual, pois depende do leitor"
+   ],
+   "certa": 0,
+   "comentario": "A linguagem mista combina elementos verbais e não verbais em um único enunciado; quadrinhos e memes são os exemplos dados.",
+   "trecho": "a linguagem mista combina elementos verbais e não verbais em um único enunciado para fortalecer a clareza da comunicação."
+  },
+  {
+   "enunciado": "Por que o infográfico é citado como um excelente exemplo de texto misto?",
+   "alternativas": [
+    "Porque usa apenas gráficos e ícones, sem nenhuma palavra",
+    "Porque é sempre usado em campanhas publicitárias",
+    "Porque une gráficos, ícones e esquemas visuais a explicações escritas para transmitir dados complexos de forma didática",
+    "Porque substitui a linguagem verbal por imagens"
+   ],
+   "certa": 2,
+   "comentario": "O infográfico mistura elementos não verbais (gráficos, ícones) e verbais (explicações escritas) para ensinar dados complexos.",
+   "trecho": "Um infográfico é um excelente exemplo: ele utiliza gráficos, ícones, esquemas visuais (não verbais) aliados a explicações por escrito (verbais) para transmitir dados complexos de forma mais didática."
+  },
+  {
+   "enunciado": "De acordo com o texto, qual é a importância do contexto na leitura de textos mistos?",
+   "alternativas": [
+    "Dispensa a leitura dos elementos visuais",
+    "Entender local, momento e público ajuda a captar particularidades que não aparecem só na linguagem verbal",
+    "Serve apenas para identificar o autor da imagem",
+    "É irrelevante nas charges e nos memes"
+   ],
+   "certa": 1,
+   "comentario": "Uma imagem pode carregar crítica social, humor ou alusão cultural, e o contexto ajuda o leitor a perceber isso.",
+   "trecho": "Entender o local, o momento e o público para o qual o texto foi produzido ajuda o leitor a captar particularidades que não são visíveis apenas na linguagem verbal."
+  },
+  {
+   "enunciado": "Diante de charges, tirinhas, memes e propagandas, o que o texto recomenda ao candidato?",
+   "alternativas": [
+    "Concentrar-se só no texto escrito, pois a imagem é decorativa",
+    "Decorar a definição de cada gênero antes de interpretar",
+    "Ler apenas a imagem e ignorar as palavras",
+    "Observar com atenção os elementos verbais e os visuais, pois a chave da questão costuma estar na intersecção entre eles"
+   ],
+   "certa": 3,
+   "comentario": "A resposta costuma estar no cruzamento entre o que está escrito e o que está desenhado.",
+   "trecho": "é indispensável observar com atenção tanto os elementos verbais quanto os visuais, pois frequentemente a chave da questão se encontra nessa intersecção entre os dois códigos."
+  }
+ ],
+ "https://www.preparaenem.com/portugues/texto.htm": [
+  {
+   "enunciado": "Segundo o texto, como se define \"texto\" na concepção mais ampla?",
+   "alternativas": [
+    "Um conjunto coerente de signos que, por meio de um código, busca transmitir uma mensagem",
+    "Qualquer conjunto de palavras escritas",
+    "Apenas a produção literária de um autor",
+    "Somente a fala e a escrita formais"
+   ],
+   "certa": 0,
+   "comentario": "A definição ampla inclui qualquer código (gestos, placas, imagens), não só palavras.",
+   "trecho": "O texto é um conjunto coerente de signos que, por meio de um código, busca transmitir uma mensagem."
+  },
+  {
+   "enunciado": "Quais são os cinco tipos textuais apresentados no texto?",
+   "alternativas": [
+    "Descritivo, literário, argumentativo, expositivo e epistolar",
+    "Narrativo, poético, dissertativo, jornalístico e publicitário",
+    "Narrativo, descritivo, dissertativo, expositivo e injuntivo",
+    "Crônica, conto, romance, fábula e mito"
+   ],
+   "certa": 2,
+   "comentario": "Crônica, conto, romance e fábula são gêneros (usos práticos) do tipo narrativo, não tipos.",
+   "trecho": "Há cinco tipos textuais: narrativo, descritivo, dissertativo, expositivo e injuntivo."
+  },
+  {
+   "enunciado": "Qual é a diferença entre tipo e gênero textual, de acordo com o texto?",
+   "alternativas": [
+    "Gêneros são as categorias gerais de estrutura e tipos são as práticas sociais",
+    "Gêneros são os usos práticos dos tipos e nascem das necessidades de comunicação de cada sociedade em cada período",
+    "Tipo e gênero são sinônimos",
+    "Gêneros só existem em textos literários"
+   ],
+   "certa": 1,
+   "comentario": "Os tipos delimitam elementos estruturais comuns; os gêneros são os usos práticos, e um gênero pode misturar vários tipos.",
+   "trecho": "Já os gêneros textuais são os usos práticos desses tipos, ou seja, nascem das necessidades de comunicação de cada sociedade em cada período."
+  },
+  {
+   "enunciado": "Receitas, manuais de instrução e mensagens religiosas são exemplos de gêneros de qual tipo textual?",
+   "alternativas": [
+    "Dissertativo",
+    "Descritivo",
+    "Narrativo",
+    "Injuntivo"
+   ],
+   "certa": 3,
+   "comentario": "O tipo injuntivo busca instruir; receitas e manuais são gêneros típicos dele.",
+   "trecho": "Gêneros textuais injuntivos: manuais de instrução, mensagens religiosas, receitas etc."
+  },
+  {
+   "enunciado": "Segundo o texto, o que distingue o texto não literário do literário?",
+   "alternativas": [
+    "Tem finalidades práticas, como informar, descrever ou educar, e usa a linguagem de forma denotativa",
+    "Tem objetivo artístico e usa linguagem conotativa",
+    "É sempre não verbal",
+    "Não depende de contexto"
+   ],
+   "certa": 0,
+   "comentario": "O não literário supre necessidades práticas (reportagem, anúncio, texto didático) de forma denotativa; o literário tem objetivo artístico.",
+   "trecho": "Texto não literário: tem finalidades práticas, como informar (reportagem), descrever (anúncio) ou educar (textos didáticos), mas de forma denotativa."
+  }
+ ],
+ "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf#page=50": [
+  {
+   "enunciado": "Segundo o Manual de Redação da Presidência da República, por que a correção ortográfica merece atenção especial?",
+   "alternativas": [
+    "Porque o Acordo Ortográfico proíbe consultar dicionários",
+    "Porque só os textos oficiais precisam seguir a ortografia",
+    "Porque é requisito elementar de qualquer texto e ainda mais importante em textos oficiais",
+    "Porque erros de digitação nunca alteram o sentido de uma frase"
+   ],
+   "certa": 2,
+   "comentario": "O manual afirma que a correção ortográfica é requisito elementar de qualquer texto e que, no texto oficial, um lapso pode ter repercussões indesejáveis.",
+   "trecho": "A correção ortográfica é requisito elementar de qualquer texto, e ainda mais importante quando se trata de textos oficiais.",
+   "onde": 50
+  },
+  {
+   "enunciado": "Segundo o manual, o hífen é usado para quais finalidades?",
+   "alternativas": [
+    "Apenas separar sílabas no fim da linha",
+    "Ligar elementos de palavras compostas, unir pronomes átonos a verbos e indicar a separação silábica no fim da linha",
+    "Marcar sílaba tônica e indicar crase",
+    "Substituir a vírgula entre orações coordenadas"
+   ],
+   "certa": 1,
+   "comentario": "O manual lista três usos: palavras compostas (vice-ministro), pronomes átonos com verbos (agradeceu-lhe) e translineação (com-/parar).",
+   "trecho": "a) ligar os elementos de palavras compostas: vice-ministro; b) para unir pronomes átonos a verbos: agradeceu-lhe; e c) para, no final de uma linha, indicar a separação das sílabas de uma palavra em duas",
+   "onde": 51
+  },
+  {
+   "enunciado": "De acordo com o manual, qual das expressões abaixo é escrita SEM hífen?",
+   "alternativas": [
+    "Procurador-Geral",
+    "recém-casado",
+    "sem-vergonha",
+    "capitão de mar e guerra"
+   ],
+   "certa": 3,
+   "comentario": "O manual diz que não se usa hífen nas demais locuções, como \"fim de semana\" e \"capitão de mar e guerra\".",
+   "trecho": "Não se usa hífen nas demais locuções de qualquer tipo:",
+   "onde": 52
+  },
+  {
+   "enunciado": "Segundo o manual, o que ocorre com os prefixos \"des-\" e \"in-\" quando o segundo elemento perdeu o \"h\" inicial?",
+   "alternativas": [
+    "Não se usa hífen: desumano e inumano",
+    "Usa-se hífen sempre: des-umano",
+    "Usa-se hífen apenas com in-",
+    "O h é mantido e acompanhado de hífen: des-humano"
+   ],
+   "certa": 0,
+   "comentario": "A regra é de exceção: diferentemente de anti-higiênico ou super-homem, em desumano e inumano o h caiu e não há hífen.",
+   "trecho": "Atenção: Não se usa o hífen em formações que contêm os prefixos “des-” e “in-” nas quais o segundo elemento perdeu o “h” inicial:",
+   "onde": 53
+  },
+  {
+   "enunciado": "Qual alternativa traz as grafias corretas segundo o manual para formações com os prefixos \"ex-\" e \"vice-\"?",
+   "alternativas": [
+    "expresidente e vicereitor",
+    "ex presidente e vice reitor",
+    "ex-presidente e vice-reitor",
+    "ex-presidente e vicereitor"
+   ],
+   "certa": 2,
+   "comentario": "O manual determina o hífen nas formações com os prefixos ex- e vice-, como ex-almirante e vice-presidente.",
+   "trecho": "d) nas formações com os prefixos “ex-” e “vice-”:",
+   "onde": 54
+  }
+ ],
+ "https://www.youtube.com/watch?v=Xw74aXTBaoY": [
+  {
+   "enunciado": "Segundo a aula, quais são os dois processos básicos de formação das palavras?",
+   "alternativas": [
+    "Prefixação e sufixação",
+    "Derivação e composição",
+    "Aglutinação e justaposição",
+    "Parassíntese e regressão"
+   ],
+   "certa": 1,
+   "comentario": "A aula abre dizendo que os dois processos básicos são a derivação (palavras derivadas) e a composição (palavras compostas); prefixação, sufixação e os demais são subtipos.",
+   "trecho": "quando se fala em processo de formação das palavras existem dois processos básicos quais são esses processos ó nós vamos ver o que que é derivação palavras derivadas e composição palavras compostas",
+   "onde": 32
+  },
+  {
+   "enunciado": "O professor explica que \"ferro velho\" é palavra composta e \"ferradura\" é derivada de \"ferro\". Qual é o critério que diferencia as duas?",
+   "alternativas": [
+    "A palavra composta é mais longa que a derivada",
+    "A palavra composta é sempre escrita com hífen; a derivada nunca",
+    "A palavra derivada tem dois radicais; a composta tem apenas um",
+    "A palavra composta tem dois radicais; a derivada tem apenas um radical"
+   ],
+   "certa": 3,
+   "comentario": "Palavra composta tem dois ou mais radicais (ferro + velho); palavra derivada parte de um único radical, ao qual se acrescentam afixos.",
+   "trecho": "ferro velho é uma palavra composta composição Qual que é a diferença Alvaro a palavra composta gente ela tem dois radicais duas raízes",
+   "onde": 129
+  },
+  {
+   "enunciado": "Na aula, \"entristecer\" é classificada como derivação parassintética. Qual é a justificativa dada?",
+   "alternativas": [
+    "Tem prefixo e sufixo, e retirando só o prefixo ou só o sufixo a palavra deixa de existir",
+    "Tem prefixo e sufixo, e retirando um deles a palavra continua existindo",
+    "Tem apenas um prefixo e nenhum sufixo",
+    "É um substantivo derivado de verbo, por isso é menor que a palavra primitiva"
+   ],
+   "certa": 0,
+   "comentario": "Na parassíntese, prefixo e sufixo entram juntos: sem o en- ou sem o -ecer, a palavra não existe. Em infelizmente (prefixal e sufixal), tirar um deles ainda deixa palavra existente (felizmente, infeliz).",
+   "trecho": "agora a parassintética galera você não pode tirar o prefixo apenas e nem tirar o sufixo apenas então por exemplo entristecer se você tirar o em entristecer não existe",
+   "onde": 1089
+  },
+  {
+   "enunciado": "De acordo com a aula, que características têm as palavras formadas por derivação regressiva, como \"compra\", \"beijo\" e \"luta\"?",
+   "alternativas": [
+    "São verbos formados a partir de substantivos concretos",
+    "São adjetivos formados por prefixo e sufixo",
+    "São substantivos abstratos derivados de verbos de ação, e por isso menores que a palavra primitiva",
+    "São palavras compostas por aglutinação"
+   ],
+   "certa": 2,
+   "comentario": "Na derivação regressiva a palavra derivada é menor que a primitiva: compra vem de comprar, beijo de beijar, luta de lutar.",
+   "trecho": "mais difícil de você perceber mas você vai ver que é sempre o quê um substantivo vamos lá um substantivo abstrato tá derivado de verbo de ação",
+   "onde": 1338
+  },
+  {
+   "enunciado": "Por que \"vinagre\" é exemplo de composição por aglutinação, segundo a aula?",
+   "alternativas": [
+    "Porque as duas palavras foram só juntadas, sem alteração, como em passatempo",
+    "Porque as duas palavras (vinho e acre) se fundiram e perderam parte de sua forma, como em hidroelétrico e planalto",
+    "Porque tem prefixo e sufixo ao mesmo tempo",
+    "Porque é um substantivo derivado de verbo"
+   ],
+   "certa": 1,
+   "comentario": "Na aglutinação os elementos se fundem e algum som se perde (vinho acre → vinagre); na justaposição só se juntam (passatempo, couve-flor).",
+   "trecho": "então Vinagre é uma palavra composta por aglutinação duas palavras aí duas palavras gente Vinagre é um vinho Acre",
+   "onde": 1529
+  }
+ ],
+ "https://militares.estrategia.com/portal/materias-e-dicas/portugues/morfologia-estrutura-e-processos-de-formacao-de-palavras/": [
+  {
+   "enunciado": "Segundo o texto, como se identifica o radical de uma palavra?",
+   "alternativas": [
+    "Isolando a vogal que liga a palavra à sua desinência",
+    "Procurando a terminação que indica gênero e número",
+    "Localizando o elemento que vem sempre depois do sufixo",
+    "Olhando para a palavra na forma mais reduzida possível, sem acréscimo de outros morfemas"
+   ],
+   "certa": 3,
+   "comentario": "O radical é a partícula base; em \"casa\", por exemplo, é \"cas\", de onde saem as cognatas casinha, casarão, casebre.",
+   "trecho": "O radical é a partícula base de todas as palavras. Podemos identificá-lo quando olhamos para a palavra na forma mais reduzida possível, sem acréscimo de outros morfemas."
+  },
+  {
+   "enunciado": "De acordo com o texto, qual é a função das desinências?",
+   "alternativas": [
+    "Somar-se aos radicais para flexioná-los, em gênero e número (nominais) ou pessoa, número, tempo e modo (verbais)",
+    "Formar palavras novas a partir de outras, como os prefixos",
+    "Ligar radicais entre si apenas para melhorar o som",
+    "Indicar a conjugação a que o verbo pertence"
+   ],
+   "certa": 0,
+   "comentario": "As desinências flexionam o radical: as nominais marcam gênero e número, as verbais marcam pessoa/número e tempo/modo. Quem indica a conjugação é a vogal temática.",
+   "trecho": "As desinências são elementos que se somam aos radicais a fim de flexioná-los. Elas se dividem em desinências nominais (de gênero e número) e desinências verbais (de pessoa/número e tempo/modo)."
+  },
+  {
+   "enunciado": "Na palavra \"podemos\", o radical é \"pod\", a vogal temática é \"e\" e \"mos\" é a desinência verbal. Qual é o tema, segundo o texto?",
+   "alternativas": [
+    "pod",
+    "mos",
+    "pode",
+    "podemos"
+   ],
+   "certa": 2,
+   "comentario": "O tema é a junção do radical com a vogal temática: pod + e = pode.",
+   "trecho": "O tema é a junção do radical com a vogal temática, ou seja, radical + vogal temática = tema."
+  },
+  {
+   "enunciado": "Segundo o texto, o que caracteriza a derivação parassintética (como em \"entristecer\")?",
+   "alternativas": [
+    "Só há prefixo, sem nenhum sufixo",
+    "Há acréscimo simultâneo de prefixo e sufixo, e não se pode remover só um deles e ainda ter uma palavra com sentido",
+    "Há mudança da classe gramatical da palavra, sem acréscimo de afixos",
+    "A palavra nova é obtida reduzindo-se a palavra primitiva"
+   ],
+   "certa": 1,
+   "comentario": "Na parassíntese (circunfixação) prefixo e sufixo entram juntos; tirando só um, a palavra deixa de existir. A mudança de classe é a derivação imprópria, e a redução é a regressiva.",
+   "trecho": "Parassintética (circunfixação): neste caso, também há a colocação simultânea de prefixo e sufixo, no entanto, não há como remover uma dessas duas partículas e continuar com uma palavra que faça sentido."
+  },
+  {
+   "enunciado": "De acordo com o texto, qual é a diferença entre composição por aglutinação e por justaposição?",
+   "alternativas": [
+    "A aglutinação muda a classe gramatical; a justaposição reduz a palavra primitiva",
+    "Na aglutinação nenhum radical se altera (passatempo); na justaposição pelo menos um se altera (vinagre)",
+    "A aglutinação usa prefixos e a justaposição usa sufixos",
+    "Na aglutinação os radicais se juntam e pelo menos um sofre alteração (vinagre); na justaposição nenhum é alterado (passatempo)"
+   ],
+   "certa": 3,
+   "comentario": "Na aglutinação pelo menos um dos radicais é alterado (vinho + acre = vinagre); na justaposição os radicais são só unidos (passatempo, pontapé).",
+   "trecho": "Na composição por aglutinação há a junção de radicais e pelo menos um deles sofre alteração."
+  }
+ ],
+ "https://www.youtube.com/watch?v=ltrzPijgKi4": [
+  {
+   "enunciado": "Segundo a aula, o que é um substantivo?",
+   "alternativas": [
+    "Palavra que dá nome às coisas, seres, objetos, fenômenos, lugares, qualidades e ações",
+    "Palavra que dá característica a outra palavra",
+    "Palavra que indica circunstância de tempo, lugar ou modo",
+    "Palavra que liga dois termos ou duas orações"
+   ],
+   "certa": 0,
+   "comentario": "O substantivo é o nome das coisas e o núcleo do sintagma; pode ser flexionado em gênero, número e grau, e é acompanhado de artigo.",
+   "trecho": "substantivo é uma palavra que dá nome às coisas no meio aos seres seres objetos fenômenos lugares qualidades ações dentre outros",
+   "onde": 95
+  },
+  {
+   "enunciado": "Na frase \"Comprei um carro\", em comparação com \"Comprei o carro\", o artigo \"um\" é classificado, segundo a aula, como:",
+   "alternativas": [
+    "Definido, pois determina o substantivo de maneira precisa",
+    "Pronome possessivo",
+    "Indefinido, pois determina o substantivo de maneira vaga, um carro qualquer",
+    "Numeral cardinal, sem relação com o artigo"
+   ],
+   "certa": 2,
+   "comentario": "Os artigos indefinidos (um, uma, uns, umas) tratam o substantivo de forma vaga; \"o carro\" indica um carro específico.",
+   "trecho": "eles determinam substantivo de maneira vaga maneira vaga Como assim ó você falar eu comprei o carro já sabe de qual carro estou falando agora comprei um carro",
+   "onde": 1005
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é a função do pronome?",
+   "alternativas": [
+    "Ligar duas orações",
+    "Acompanhar o substantivo ou ficar no lugar dele",
+    "Exprimir emoções e sentimentos",
+    "Qualificar verbos, adjetivos e outros advérbios"
+   ],
+   "certa": 1,
+   "comentario": "O pronome ou substitui o substantivo (ele, você) ou o acompanha (minha bolsa, essa camisa), por isso o nome.",
+   "trecho": "pronomes são palavras que acompanham o substantivo ele pode acompanhar o substantivo Ou eles ficam no lugar dele então quer dizer que o pronome ou ele substitui um substantivo ou acompanha o substantivo",
+   "onde": 1198
+  },
+  {
+   "enunciado": "Na aula, o que se diz sobre as palavras terminadas em \"-mente\" (como pacientemente e normalmente)?",
+   "alternativas": [
+    "São sempre adjetivos de modo",
+    "São preposições que ligam dois termos",
+    "São sempre conjunções",
+    "São advérbios, com a ressalva de \"semente\", que não é advérbio"
+   ],
+   "certa": 3,
+   "comentario": "Toda palavra terminada em -mente é advérbio (de modo), menos \"semente\", que é substantivo.",
+   "trecho": "toda palavra terminada em mente é um advérbio Falou galera pacientemente Sutilmente normalmente palavra terminada em mente advérbio menos semente",
+   "onde": 1882
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a função da conjunção, como o \"mas\" em \"Andreia alugou um galpão novo ontem, mas não fez o pagamento ainda\"?",
+   "alternativas": [
+    "Ligar dois termos ou até duas orações",
+    "Acompanhar o substantivo para defini-lo",
+    "Dar nome às coisas",
+    "Indicar a quantidade ou a ordem dos seres"
+   ],
+   "certa": 0,
+   "comentario": "Conjunção liga termos ou orações; \"mas\", \"porém\", \"contudo\", \"entretanto\", \"todavia\" são sinônimos nesse papel.",
+   "trecho": "a conjunção é uma palavrinha e liga dois termos ou até duas orações",
+   "onde": 2414
+  }
+ ],
+ "https://daffy.ufs.br/uploads/page_attach/path/8822/Roteiro_de_estudos_VI-classes_de_palavras.pdf": [
+  {
+   "enunciado": "Quantas são as classes gramaticais, segundo o roteiro, e quais são elas?",
+   "alternativas": [
+    "Nove: as dez classes, exceto a interjeição",
+    "Oito: substantivo, adjetivo, artigo, pronome, verbo, advérbio, preposição e conjunção",
+    "Dez: substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição",
+    "Quatro: substantivo, adjetivo, verbo e advérbio"
+   ],
+   "certa": 2,
+   "comentario": "O roteiro organiza as palavras em dez classes gramaticais. A interjeição e o numeral fazem parte da lista.",
+   "trecho": "A gramática organiza as palavras nos seguintes grupos: substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição; contabilizando um conjunto de dez classes gramaticais (classes de palavras).",
+   "onde": 1
+  },
+  {
+   "enunciado": "De acordo com o roteiro, quais classes são palavras lexemáticas, classificadas pelo significado lexical?",
+   "alternativas": [
+    "Artigo, preposição e conjunção",
+    "Substantivo, adjetivo, verbo e advérbio",
+    "Pronome e numeral",
+    "Interjeição e numeral"
+   ],
+   "certa": 1,
+   "comentario": "Substantivo, adjetivo, verbo e advérbio são lexemáticas; pronomes e numerais são categoremáticas; artigos, preposições e conjunções são morfemáticas.",
+   "trecho": "Substantivo, adjetivo, verbo e advérbio são palavras lexemáticas. Classificadas de acordo com o significado lexical.",
+   "onde": 2
+  },
+  {
+   "enunciado": "Segundo o roteiro, como se diferenciam, na análise morfológica, o pronome substantivo e o pronome adjetivo?",
+   "alternativas": [
+    "O substantivo aparece acompanhando o substantivo; o adjetivo aparece isolado",
+    "O substantivo só ocorre nos pronomes pessoais; o adjetivo, nos relativos",
+    "Não há diferença: ambos são classificados do mesmo modo",
+    "O pronome substantivo surge isolado na frase; o pronome adjetivo acompanha o substantivo, caracterizando-o"
+   ],
+   "certa": 3,
+   "comentario": "Em \"Meu lápis\", \"meu\" é pronome adjetivo; já em \"Ele chegou\", \"ele\" aparece isolado e é pronome substantivo.",
+   "trecho": "Para estabelecer a diferença, na análise morfológica, verifica-se que os pronomes substantivos são aqueles que surgem isolados na frase, enquanto os pronomes adjetivo aparecem acompanhando os substantivos, caracterizando-os.",
+   "onde": 3
+  },
+  {
+   "enunciado": "Qual das palavras abaixo é uma conjunção adversativa, segundo a lista do roteiro?",
+   "alternativas": [
+    "porém",
+    "embora",
+    "logo",
+    "se"
+   ],
+   "certa": 0,
+   "comentario": "As adversativas do roteiro são mas, porém, entretanto, contudo e todavia; \"logo\" é conclusiva, \"embora\" é concessiva e \"se\" é condicional.",
+   "trecho": " Adversativas: mas, porém, entretanto, contudo, todavia; Fui às compras, mas esqueci o",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo o roteiro, o que caracteriza o verbo?",
+   "alternativas": [
+    "É palavra invariável que relaciona dois termos da oração",
+    "É palavra que modifica apenas adjetivos",
+    "É palavra variável que indica ação, estado ou fenômeno da natureza",
+    "É palavra que expressa emoção"
+   ],
+   "certa": 2,
+   "comentario": "O verbo é variável (número, pessoa, voz, modo, forma e tempo) e indica ação (comeu), estado (continuam) ou fenômeno da natureza (choveu).",
+   "trecho": "VERBO: palavra variável que indica ação, estado ou fenômeno da natureza. Flexionam em número, pessoa, voz, modo, formas e tempo.",
+   "onde": 6
+  }
+ ],
+ "https://www.preparaenem.com/portugues/flexao-verbal-classificacao-dos-verbos.htm": [
+  {
+   "enunciado": "Segundo o texto, de que depende a classificação dos verbos quanto à flexão?",
+   "alternativas": [
+    "Do tempo verbal em que o verbo aparece na frase",
+    "Do modo como o verbo é conjugado, seguindo ou não o paradigma estabelecido para a sua conjugação",
+    "De o verbo ser transitivo ou intransitivo",
+    "Do número de sílabas do infinitivo"
+   ],
+   "certa": 1,
+   "comentario": "Regular, irregular, defectivo e abundante classificam o verbo pela forma como ele se flexiona em relação ao paradigma da sua conjugação.",
+   "trecho": "Quanto à flexão, a classificação dos verbos depende do modo como essas palavras são conjugadas, seguindo ou não o paradigma estabelecido para a sua conjugação."
+  },
+  {
+   "enunciado": "Segundo o texto, o que são verbos regulares (como cantar, vender e partir)?",
+   "alternativas": [
+    "Verbos que não possuem certas formas na conjugação",
+    "Verbos que têm duas ou mais formas equivalentes no particípio",
+    "Verbos cujo radical se modifica na conjugação",
+    "Verbos que têm flexão de acordo com o modelo que representa o tipo comum da conjugação"
+   ],
+   "certa": 3,
+   "comentario": "Os regulares seguem o modelo da conjugação a que pertencem (1ª, 2ª ou 3ª).",
+   "trecho": "Verbos regulares: possuem flexão de acordo com o modelo que representa o tipo comum da conjugação."
+  },
+  {
+   "enunciado": "Por que, segundo o texto, o verbo \"dar\" (eu dou, tu dás, ele dá) é classificado como irregular?",
+   "alternativas": [
+    "Porque sofre modificação em seu radical, afastando-se do modelo do verbo regular",
+    "Porque lhe faltam as formas de algumas pessoas",
+    "Porque tem duas formas de particípio",
+    "Porque só se conjuga na 3ª pessoa"
+   ],
+   "certa": 0,
+   "comentario": "Comparado ao regular cantar, o verbo dar muda o radical e foge do paradigma da 1ª conjugação.",
+   "trecho": "Ao compará-lo com o verbo dar, é possível notar que este último sofre uma modificação em seu radical, afastando-se, assim, do modelo representado pelo verbo regular."
+  },
+  {
+   "enunciado": "Os verbos \"falir\" e \"doer\" são exemplos de qual classificação, de acordo com o texto?",
+   "alternativas": [
+    "Abundantes, porque têm duas formas equivalentes",
+    "Irregulares, porque o radical muda",
+    "Defectivos, porque não possuem certas formas em sua conjugação",
+    "Regulares, porque seguem a 3ª conjugação"
+   ],
+   "certa": 2,
+   "comentario": "Falir só tem as formas \"nós\" e \"vós\" no presente; doer só aparece na 3ª pessoa. Faltam formas, logo são defectivos.",
+   "trecho": "verbos defectivos: são aqueles que não possuem certas formas em sua conjugação."
+  },
+  {
+   "enunciado": "O que caracteriza os verbos abundantes, como aceitar (aceitado, aceito, aceite) e matar (matado, morto)?",
+   "alternativas": [
+    "Não possuem o particípio",
+    "Possuem duas ou mais formas equivalentes, normalmente no particípio",
+    "São conjugados apenas na 3ª pessoa",
+    "Modificam o radical no presente do indicativo"
+   ],
+   "certa": 1,
+   "comentario": "Abundantes têm formas equivalentes; o exemplo típico é o particípio duplo (matado/morto).",
+   "trecho": "verbos abundantes: são verbos que possuem duas ou mais formas equivalentes. Normalmente, essa equivalência ocorre no particípio."
+  }
+ ],
+ "https://www.youtube.com/watch?v=vJZI9v0ds-g": [
+  {
+   "enunciado": "Quais são os três modos verbais citados na aula?",
+   "alternativas": [
+    "Regular, irregular e defectivo",
+    "Presente, pretérito e futuro",
+    "Simples, composto e perfeito",
+    "Indicativo, subjuntivo e imperativo"
+   ],
+   "certa": 3,
+   "comentario": "Presente, pretérito e futuro são os tempos; os modos são indicativo, subjuntivo e imperativo.",
+   "trecho": "Quando a gente fala de modos, a gente tá falando de modo indicativo, de modo subjuntivo e de modo imperativo.",
+   "onde": 92
+  },
+  {
+   "enunciado": "Na frase \"Eu espero que ele traga um presente para mim\", como o professor classifica a forma \"traga\"?",
+   "alternativas": [
+    "Presente do subjuntivo, pois o subjuntivo indica uma hipótese",
+    "Futuro do presente do indicativo",
+    "Pretérito perfeito do indicativo",
+    "Pretérito mais-que-perfeito composto"
+   ],
+   "certa": 0,
+   "comentario": "A aula explica que \"traga\" não é futuro: é presente do subjuntivo, correlacionando bem com o presente do indicativo (\"espero\").",
+   "trecho": "Traga é presente subjuntivo, porque nesse caso o subjuntivo indica uma hipótese, correto?",
+   "onde": 310
+  },
+  {
+   "enunciado": "Na correlação do pretérito perfeito com o mais-que-perfeito (\"passou na prova de tanto que estudara\"), o que a aula diz sobre o uso atual?",
+   "alternativas": [
+    "A forma simples (estudara) é a mais usada hoje",
+    "A correlação deixou de ser possível",
+    "Hoje se usa o composto, como em \"havia estudado\" ou \"tinha estudado\"",
+    "Deve-se trocar o mais-que-perfeito por futuro do pretérito"
+   ],
+   "certa": 2,
+   "comentario": "A forma simples (estudara) quase não se fala mais; usa-se o mais-que-perfeito composto com haver ou ter.",
+   "trecho": "Agora se liga, hoje ninguém mais fala estudara, nós utilizamos o composto, né? Eu posso dizer, passou na",
+   "onde": 434
+  },
+  {
+   "enunciado": "Segundo a aula, qual correlação entre tempos e modos verbais é a mais cobrada em provas de concurso?",
+   "alternativas": [
+    "Presente do indicativo com presente do indicativo",
+    "Pretérito imperfeito do subjuntivo com futuro do pretérito do indicativo (\"Se estudasse, saberia\")",
+    "Futuro do subjuntivo com futuro do presente",
+    "Pretérito perfeito com pretérito imperfeito do indicativo"
+   ],
+   "certa": 1,
+   "comentario": "O exemplo \"Se você estudasse, saberia as respostas\" liga pretérito imperfeito do subjuntivo e futuro do pretérito.",
+   "trecho": "Essa é a correlação entre tempos e modos verbais mais cobrada em provas de concurso público.",
+   "onde": 558
+  },
+  {
+   "enunciado": "Com qual tempo o futuro do subjuntivo (\"quando eu passar\") se correlaciona bem, segundo a aula?",
+   "alternativas": [
+    "Pretérito imperfeito do subjuntivo",
+    "Presente do subjuntivo",
+    "Pretérito mais-que-perfeito",
+    "Futuro do presente do indicativo (\"avisarei\")"
+   ],
+   "certa": 3,
+   "comentario": "\"Quando eu passar por lá, avisarei a você\": os dois futuros se correlacionam bem.",
+   "trecho": "E a última correlação, futuro do subjuntivo. quando eu passar, quando eu disser, quando eu fizer, correlacionado com o futuro do presente.",
+   "onde": 711
+  }
+ ],
+ "https://www.youtube.com/watch?v=4eFlt2_et3M": [
+  {
+   "enunciado": "Segundo a aula, o que é uma oração?",
+   "alternativas": [
+    "A frase ou parte da frase constituída em torno de um verbo ou locução verbal",
+    "Qualquer frase, com ou sem verbo",
+    "Um conjunto de palavras sem sujeito",
+    "Toda sequência de palavras com mais de um núcleo nominal"
+   ],
+   "certa": 0,
+   "comentario": "Toda oração apresenta verbo ou locução verbal; a locução verbal conta como um único verbo.",
+   "trecho": "oração é a frase ou parte da frase constituída em torno de um verbo ou locução verbal Toda oração apresenta",
+   "onde": 0
+  },
+  {
+   "enunciado": "Qual dos exemplos abaixo é uma frase nominal, e portanto NÃO é oração, segundo a aula?",
+   "alternativas": [
+    "Ela saiu",
+    "Sanduíche de pernil é paixão nacional",
+    "Bom dia a todos",
+    "A chuva de meteoros deve atingir pico na noite desta sexta"
+   ],
+   "certa": 2,
+   "comentario": "Frases nominais não têm verbo (comuns em manchetes) e são apenas frases; as frases verbais, como \"Ela saiu\", são frases e orações.",
+   "trecho": "nem toda frase tem verbo nós temos as frases verbais que possuem verbo e temos as frases nominais que não possuem verbo",
+   "onde": 62
+  },
+  {
+   "enunciado": "Na aula, o objeto direto é definido como:",
+   "alternativas": [
+    "Complemento do verbo com preposição",
+    "Complemento do verbo sem preposição (quem compra, compra algo)",
+    "Complemento de um nome, geralmente substantivo abstrato",
+    "Termo que expressa circunstância de tempo ou lugar"
+   ],
+   "certa": 1,
+   "comentario": "\"Comprei um carro\": \"um carro\" completa o verbo sem preposição, logo é objeto direto. Com preposição seria indireto; complemento de nome é o complemento nominal.",
+   "trecho": "um carro e o objeto direto é o complemento do verbo é um complemento sem preposição Quem compra compra algo objeto direto",
+   "onde": 278
+  },
+  {
+   "enunciado": "Segundo a aula, quando o predicativo do sujeito é um termo essencial da oração?",
+   "alternativas": [
+    "Sempre que aparece em qualquer predicado",
+    "Quando estiver dentro de um predicado verbal",
+    "Nunca; é sempre termo acessório",
+    "Quando estiver dentro de um predicado nominal, como em \"Mariana está exausta\""
+   ],
+   "certa": 3,
+   "comentario": "Em \"Mariana está exausta\" o predicado é nominal e o predicativo é essencial. Em \"Mariana chegou exausta em casa\" o predicado é verbo-nominal e ele é acessório.",
+   "trecho": "o predicativo do sujeito ele vai ser um termo essencial quando ele estiver dentro de um predicado nominal",
+   "onde": 464
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é a regra sobre a vírgula com o vocativo (\"Mãe, a comida está pronta\")?",
+   "alternativas": [
+    "A vírgula é obrigatória com os vocativos, em qualquer posição",
+    "É facultativa",
+    "Só se usa no início da oração",
+    "Só é obrigatória quando o vocativo fica no fim da oração"
+   ],
+   "certa": 0,
+   "comentario": "O vocativo (termo usado para se dirigir a alguém) vem separado por vírgula no início, no meio (entre duas vírgulas) ou no fim, e a vírgula pode mudar o sentido.",
+   "trecho": "o que que é um vocativo é um termo que você usa para se Direcionar para falar com alguém Lembrando que o uso da vírgula é obrigatório com os vocativos",
+   "onde": 652
+  }
+ ],
+ "https://www.todamateria.com.br/termos-constituintes-da-oracao/": [
+  {
+   "enunciado": "Segundo o texto, quais são os termos essenciais da oração?",
+   "alternativas": [
+    "Adjunto adverbial e adjunto adnominal",
+    "Objeto direto e objeto indireto",
+    "Sujeito e predicado",
+    "Complemento nominal e agente da passiva"
+   ],
+   "certa": 2,
+   "comentario": "Os termos essenciais são sujeito e predicado; os complementos verbais, o complemento nominal e o agente da passiva são integrantes; adjuntos e aposto são acessórios.",
+   "trecho": "Os termos essenciais da oração são: sujeito e o predicado."
+  },
+  {
+   "enunciado": "Na frase \"Fizeram acusações sobre você\", qual é o tipo de sujeito, segundo o texto?",
+   "alternativas": [
+    "Simples",
+    "Indeterminado",
+    "Inexistente",
+    "Oculto"
+   ],
+   "certa": 1,
+   "comentario": "O sujeito indeterminado faz referência a alguém sem identificá-lo, e ocorre geralmente com verbo na 3ª pessoa do plural.",
+   "trecho": "O SUJEITO INDETERMINADO é aquele que faz referência a alguém, mas não o identifica."
+  },
+  {
+   "enunciado": "Em \"As pessoas permanecem caladas\", o predicado é classificado como nominal. Segundo o texto, por quê?",
+   "alternativas": [
+    "Porque não concorda com o sujeito",
+    "Porque expressa ação e tem um verbo como núcleo",
+    "Porque tem dois núcleos, um verbo e um nome",
+    "Porque indica estado ou qualidade e se liga ao sujeito por verbo de ligação, com núcleo em um nome"
+   ],
+   "certa": 3,
+   "comentario": "Predicado nominal: estado ou qualidade, verbo de ligação (ser, estar, permanecer...) e núcleo nominal (caladas).",
+   "trecho": "O PREDICADO NOMINAL é aquele que indica estado ou qualidade, sendo ligado ao sujeito por um verbo de ligação"
+  },
+  {
+   "enunciado": "De acordo com o texto, o que distingue o objeto indireto do objeto direto?",
+   "alternativas": [
+    "O objeto indireto é o complemento do verbo transitivo indireto e é obrigatoriamente acompanhado por preposição",
+    "O objeto indireto complementa substantivos e adjetivos",
+    "O objeto indireto indica o praticante da ação na voz passiva",
+    "O objeto indireto nunca aparece com o verbo \"gostar\""
+   ],
+   "certa": 0,
+   "comentario": "Em \"Marcela gosta de chocolates\", \"de chocolates\" é objeto indireto, com preposição obrigatória; o direto não exige preposição.",
+   "trecho": "O OBJETO INDIRETO é o complemento do verbo transitivo indireto (VTDI). Ele é, obrigatoriamente, acompanhado por preposição,"
+  },
+  {
+   "enunciado": "Em \"Brasília, capital do Brasil, foi construída na década de 60\", a expressão \"capital do Brasil\" é um aposto. Qual é a definição de aposto no texto?",
+   "alternativas": [
+    "Termo que indica o praticante da ação na voz passiva",
+    "Termo que complementa o sentido de um substantivo abstrato",
+    "Termo ou expressão que explica ou especifica outro termo da oração",
+    "Termo que tem a função de advérbio, indicando circunstância"
+   ],
+   "certa": 2,
+   "comentario": "O aposto é termo acessório que explica ou especifica outro termo; aqui, explica o que é Brasília.",
+   "trecho": "O aposto é o termo ou expressão que explica ou especifica outro termo da oração,"
+  }
+ ],
+ "https://www.youtube.com/watch?v=zf4hPL-BiaQ": [
+  {
+   "enunciado": "Segundo a aula, o que são conectivos, como as conjunções e as preposições?",
+   "alternativas": [
+    "Termos que têm função sintática de sujeito ou de objeto",
+    "Termos que não têm função sintática isoladamente e servem para ligar termos, orações ou frases",
+    "Termos que sempre iniciam oração principal",
+    "Termos exclusivos das orações coordenadas"
+   ],
+   "certa": 1,
+   "comentario": "Preposição e conjunção podem encabeçar termos com função sintática, mas isoladamente só têm função morfológica (classe gramatical).",
+   "trecho": "conectivos chamamos de conectivos termos que não tem função sintática como as conjunções e preposições os quais servem para ligar termos de uma oração orações de uma frase ou frases de um texto",
+   "onde": 73
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é a diferença de estrutura entre coordenação e subordinação?",
+   "alternativas": [
+    "A coordenação tem estrutura móvel e a subordinação tem estrutura fixa",
+    "As duas têm estrutura fixa",
+    "As duas têm estrutura móvel, mas só a coordenada tem conjunção",
+    "A coordenação tem estrutura fixa e a subordinação tem estrutura móvel"
+   ],
+   "certa": 3,
+   "comentario": "Nas coordenadas a ordem é fixa (primeiro a assindética, depois a sindética); a subordinada adverbial pode vir antes ou depois da principal.",
+   "trecho": "saibam que a coordenação tem uma estrutura fixa e a subordinação tem uma estrutura móvel como assim quando Nós",
+   "onde": 323
+  },
+  {
+   "enunciado": "Na aula, o macete lista as conjunções subordinativas adverbiais. Qual alternativa traz as classificações iniciadas por C, F, T e P?",
+   "alternativas": [
+    "Causais, consecutivas, comparativas, conformativas, concessivas e condicionais (C); finais (F); temporais (T); proporcionais (P)",
+    "Aditivas, adversativas, alternativas, explicativas e conclusivas",
+    "Causais, consecutivas, finais, aditivas, temporais e proporcionais",
+    "Causais, finais, temporais e proporcionais apenas"
+   ],
+   "certa": 0,
+   "comentario": "São nove adverbiais: seis com C, uma com F (finais), uma com T (temporais) e uma com P (proporcionais). Aditivas, adversativas, alternativas, explicativas e conclusivas são coordenativas.",
+   "trecho": "conjunções subordinativas adverbiais com a letra c e uma com a f uma com a t e uma com a p Então vamos lá nós temos as causais que indicam causa",
+   "onde": 576
+  },
+  {
+   "enunciado": "Em uma questão do Cebraspe, o trecho \"não só... mas também\" foi dado como introdutor de ideia de oposição. Segundo a aula, por que o gabarito é errado?",
+   "alternativas": [
+    "Porque \"mas também\" é conjunção explicativa",
+    "Porque \"mas\" nunca pode ser adversativa",
+    "Porque a estrutura correlativa \"não só... mas também\" expressa adição, e não oposição",
+    "Porque a estrutura indica concessão"
+   ],
+   "certa": 2,
+   "comentario": "O candidato desatento vê o \"mas\" e pensa em adversativa, mas o par \"não só... mas também\" soma ideias.",
+   "trecho": "mas veja o que nós temos aqui não só mas também então A ideia é de adição e não de oposição dessa forma gabarito errado",
+   "onde": 944
+  },
+  {
+   "enunciado": "Segundo a aula, como diferenciar o \"não obstante\" adversativo do concessivo?",
+   "alternativas": [
+    "Será concessiva no modo indicativo e adversativa no modo subjuntivo",
+    "Será adversativa no modo indicativo e concessiva no modo subjuntivo",
+    "Será sempre adversativa",
+    "Será sempre concessiva"
+   ],
+   "certa": 1,
+   "comentario": "Se \"não obstante\" estiver no enunciado como substituto, em geral dá certo; o inverso (pedir que ele seja trocado por \"porém\") exige olhar o modo verbal.",
+   "trecho": "vai ser uma adversativa se estiver no modo indicativo e vai ser uma concessiva se esver no modo subjuntivo",
+   "onde": 1727
+  }
+ ],
+ "https://vestibulares.estrategia.com/portal/materias/portugues/periodo-composto/": [
+  {
+   "enunciado": "Segundo o texto, o que diferencia o período simples do período composto?",
+   "alternativas": [
+    "O simples tem uma oração sem verbo; o composto tem várias frases",
+    "O simples é formado só por coordenadas; o composto só por subordinadas",
+    "O simples não tem sujeito; o composto sempre tem sujeito oculto",
+    "O simples tem apenas um verbo; o composto tem dois ou mais verbos"
+   ],
+   "certa": 3,
+   "comentario": "Período é o enunciado de uma ou mais orações. Com um verbo, é simples (A menina dormia profundamente); com dois ou mais, é composto.",
+   "trecho": "Quando contém apenas um verbo, é chamado de período simples; quando contém dois ou mais verbos, é chamado de período composto."
+  },
+  {
+   "enunciado": "De acordo com o texto, como se chamam as orações coordenadas ligadas por conectivos e as coordenadas sem conectivos?",
+   "alternativas": [
+    "Sindéticas (com conectivo) e assindéticas (sem conectivo)",
+    "Assindéticas (com conectivo) e sindéticas (sem conectivo)",
+    "Principais e subordinadas",
+    "Substantivas e adjetivas"
+   ],
+   "certa": 0,
+   "comentario": "\"Vim, vi, venci\" são coordenadas assindéticas (separadas por vírgula); \"Chegou em casa e tomou banho\" traz coordenada sindética, ligada pelo \"e\".",
+   "trecho": "Às orações coordenadas ligadas por conectivos, dá-se o nome de orações coordenadas sindéticas. Às orações coordenadas sem conectivos, dá-se o nome de orações coordenadas assindéticas."
+  },
+  {
+   "enunciado": "Segundo o texto, o que expressa a oração coordenada sindética adversativa, e como fica a conjunção quando vem depois do verbo?",
+   "alternativas": [
+    "Expressa soma de fatos; a conjunção vem sem vírgulas",
+    "Expressa conclusão; a conjunção vem no início da frase",
+    "Expressa oposição, contraste ou ressalva; a conjunção posterior ao verbo vem entre vírgulas",
+    "Expressa alternância; a conjunção é sempre \"ou\""
+   ],
+   "certa": 2,
+   "comentario": "Em \"Gosto de flores; prefiro, porém, folhas\", a adversativa \"porém\" vem entre vírgulas por estar depois do verbo.",
+   "trecho": "Relacionam pensamentos opostos. Expressa ressalva, oposição ou contraste. Quando posterior ao verbo, a conjunção vem entre vírgulas."
+  },
+  {
+   "enunciado": "Que dica o texto dá para identificar uma oração subordinada substantiva?",
+   "alternativas": [
+    "Verificar se há vírgula antes da oração",
+    "Substituir a oração subordinada pela palavra \"isso\"",
+    "Procurar a conjunção \"embora\"",
+    "Contar quantos verbos o período tem"
+   ],
+   "certa": 1,
+   "comentario": "Em \"Entendi que deveria ficar quieto\" (= Entendi isso), a oração substitui um substantivo; é a objetiva direta.",
+   "trecho": "DICA: Para identificar uma oração subordinada substantiva, substitua a oração subordinada pela palavra “ISSO”."
+  },
+  {
+   "enunciado": "Em \"Eu, que era muito indecisa, não consegui escolher a sobremesa\", a oração \"que era muito indecisa\" é qual tipo de subordinada adjetiva, segundo o texto?",
+   "alternativas": [
+    "Restritiva, pois limita o significado de \"eu\"",
+    "Substantiva apositiva",
+    "Adverbial causal",
+    "Explicativa, pois acrescenta uma qualidade e esclarece o significado do termo a que se refere"
+   ],
+   "certa": 3,
+   "comentario": "A adjetiva explicativa acrescenta uma qualidade ao termo (um dado novo sobre \"eu\"); a restritiva limita o significado do termo.",
+   "trecho": "Quando acrescenta qualidades ou esclarece melhor o significado do termo a que se refere, a oração é classificada como oração subordinada adjetiva explicativa."
+  }
+ ],
+ "https://www.youtube.com/watch?v=qFYxm6HrNrM": [
+  {
+   "enunciado": "Na frase \"Há cinco anos que estudo saúde pública\", o verbo haver indica tempo decorrido. Segundo a aula, como ele deve ficar?",
+   "alternativas": [
+    "No singular: \"Há cinco anos\"",
+    "No plural: \"Hão cinco anos\"",
+    "Concordando com \"cinco anos\", no plural, como o verbo existir",
+    "Pode ficar no singular ou no plural, a critério do candidato"
+   ],
+   "certa": 0,
+   "comentario": "Haver com sentido de tempo decorrido (e também de existir) fica sempre no singular; a legenda automática grafa \"singular\" como \"celular\".",
+   "trecho": "anos que eu estudo Você é um tempo decorrido esse tempo aí o verbo haver sempre vai tá no celular",
+   "onde": 158
+  },
+  {
+   "enunciado": "Na questão \"Cada um dos pais precisa assinar os documentos\", por que o verbo fica no singular, segundo a aula?",
+   "alternativas": [
+    "Porque \"pais\" é sempre singular",
+    "Porque o verbo \"precisar\" é impessoal",
+    "Porque, na expressão \"cada um dos\", a ação recai sobre um só de cada vez, e o verbo vai ao singular",
+    "Porque a expressão \"cada um dos pais\" forma sujeito composto"
+   ],
+   "certa": 2,
+   "comentario": "A expressão \"cada um de...\" individualiza: o verbo concorda com \"cada um\" (singular), e não com \"pais\".",
+   "trecho": "a parte de um é uma porção alguma coisa assim para a gente tem o número um um verbo vai para o singular porque apenas um dos Pais precisa sentar",
+   "onde": 279
+  },
+  {
+   "enunciado": "Segundo a aula, o que se observa na concordância nominal, em contraste com a verbal?",
+   "alternativas": [
+    "Observa-se apenas o sujeito",
+    "Observa-se o gênero (masculino e feminino), a concordância dos nomes entre si, como em \"maravilhosas tortas\"",
+    "Observa-se somente a pessoa do verbo",
+    "Observa-se apenas o verbo haver"
+   ],
+   "certa": 1,
+   "comentario": "Na verbal, olha-se o sujeito e o número; na nominal, olham-se gênero e número dos nomes (substantivo e adjetivo, artigo, numeral).",
+   "trecho": "Mas você fala concordância verbal e nominal nominal agora você olha muito masculino e feminino",
+   "onde": 746
+  },
+  {
+   "enunciado": "Na frase \"Antônio ou Paulo ___ o goleiro titular\", com a conjunção \"ou\" de exclusão, qual forma verbal a aula indica?",
+   "alternativas": [
+    "serão, no plural",
+    "seriam, sempre no futuro do pretérito",
+    "são, no presente",
+    "será, no singular, pois só um dos dois será o goleiro"
+   ],
+   "certa": 3,
+   "comentario": "Com \"ou\" excludente, apenas um dos sujeitos pratica a ação, então o verbo fica no singular; com sujeito composto somado (Isabela e Anna), fica no plural.",
+   "trecho": "Antônio ou Polo será o goleiro titular não vai ter dois",
+   "onde": 933
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a forma correta no lugar de \"Procura-se datilógrafos\"?",
+   "alternativas": [
+    "Procuram-se datilógrafos, pois o sujeito (datilógrafos) está no plural",
+    "Procura-se datilógrafos, que está certo",
+    "Procurar-se-ão datilógrafos",
+    "Procura-se de datilógrafos"
+   ],
+   "certa": 0,
+   "comentario": "Na voz passiva sintética o verbo concorda com o sujeito paciente: \"Procuram-se datilógrafos\"; a alternativa errada da questão era a que mantinha o singular.",
+   "trecho": "de procura-se datilógrafos o que que é procurado datilógrafos datilógrafos está noral não é procuram se",
+   "onde": 1031
+  }
+ ],
+ "https://setec.ufmt.br/ri/bitstream/1/91/3/Aspectos_Norma_Culta_2021.pdf#page=35": [
+  {
+   "enunciado": "Segundo o material, como o verbo concorda quando o sujeito é composto, como em \"Estados e municípios sofrem problemas de má gestão\"?",
+   "alternativas": [
+    "Concorda apenas com o último núcleo, no singular",
+    "Fica sempre na 3ª pessoa do singular",
+    "Concorda com a ideia de soma dos núcleos, sendo flexionado na 3ª pessoa do plural",
+    "Fica na 1ª pessoa do plural"
+   ],
+   "certa": 2,
+   "comentario": "No sujeito composto o verbo concorda com a ideia de soma dos núcleos (estados + municípios), indo para a 3ª pessoa do plural.",
+   "trecho": "No caso de orações com sujeito simples, o verbo concordará com o núcleo desse sujeito; no caso de orações com sujeito composto, o verbo concordará com a ideia de soma desses núcleos, sendo flexionado na 3a pessoa do plural.",
+   "onde": 35
+  },
+  {
+   "enunciado": "Na frase \"As pulgas de um cão transmitem doenças\", o verbo concorda com \"pulgas\" e não com \"cão\". Que dica do material justifica isso?",
+   "alternativas": [
+    "O núcleo do sujeito é sempre o último substantivo da frase",
+    "O núcleo do sujeito jamais vem introduzido por preposição",
+    "O verbo concorda com o termo mais próximo",
+    "O núcleo do sujeito é sempre o termo no singular"
+   ],
+   "certa": 1,
+   "comentario": "\"Cão\" vem introduzido pela preposição \"de\", logo não pode ser núcleo; o núcleo é \"pulgas\", e o verbo vai ao plural.",
+   "trecho": "Uma dica para ajudar você a fazer a concordância adequadamente é que um núcleo do sujeito jamais vem introduzido por preposição.",
+   "onde": 36
+  },
+  {
+   "enunciado": "Segundo o material, como se comporta o verbo \"haver\" quando indica a existência de algo (\"Já houve muitas guerras naquele continente\")?",
+   "alternativas": [
+    "É pessoal e concorda com o complemento (\"houveram guerras\")",
+    "Só pode ser usado em locuções com o verbo \"poder\"",
+    "Concorda sempre em número com o substantivo seguinte",
+    "É impessoal, não tem sujeito e fica na 3ª pessoa do singular"
+   ],
+   "certa": 3,
+   "comentario": "Diferentemente de \"existir\", que concorda com o sujeito, \"haver\" com sentido de existência é impessoal e vai ao singular, inclusive transmitindo isso ao auxiliar (\"Pode haver resistências\").",
+   "trecho": "No entanto, o verbo “haver”, quando indica a existência de algo, é impessoal. Como todo verbo impessoal, “haver”, nesses casos, não tem sujeito;",
+   "onde": 37
+  },
+  {
+   "enunciado": "De acordo com o material, qual é a forma correta, considerando o verbo acompanhado da partícula \"se\"?",
+   "alternativas": [
+    "Precisa-se de funcionários motivados neste setor",
+    "Precisam-se de funcionários motivados neste setor",
+    "Precisam-se funcionários motivados de neste setor",
+    "Precisa-se os funcionários motivados"
+   ],
+   "certa": 0,
+   "comentario": "Verbos transitivos diretos com \"se\" concordam com o sujeito (Vendem-se ovos); os demais, como \"precisar\" (que pede preposição), ficam na 3ª pessoa do singular.",
+   "trecho": "Já os demais tipos de verbos, quando acompanhados da partícula “se”, permanecem flexionados na 3a pessoa do singular.",
+   "onde": 39
+  },
+  {
+   "enunciado": "Segundo o material, qual é a forma correta de \"meio\" em \"___ equipe ficou gripada\" e em \"Mamãe ficou ___ triste\"?",
+   "alternativas": [
+    "Meia equipe; meia triste",
+    "Meio equipe; meio triste",
+    "Meia equipe; meio triste",
+    "Meio equipe; meia triste"
+   ],
+   "certa": 2,
+   "comentario": "Como numeral adjetivo (metade de) concorda com o substantivo feminino: \"meia equipe\". Como advérbio (um pouco) é invariável: \"meio triste\".",
+   "trecho": "No entanto, na segunda frase, a palavra “meio” funciona como numeral adjetivo (sinônimo de “metade de”), modificando o substantivo “equipe”.",
+   "onde": 41
+  }
+ ],
+ "https://www.youtube.com/watch?v=1IRO-p95oo0": [
+  {
+   "enunciado": "Segundo a aula, qual é a diferença entre regência verbal e regência nominal?",
+   "alternativas": [
+    "Na verbal rege-se o sujeito; na nominal rege-se o predicado",
+    "Na verbal o verbo rege um complemento; na nominal uma palavra que não é verbo também rege um complemento",
+    "A verbal só ocorre com preposição; a nominal, sem preposição",
+    "Não há diferença: os dois termos são sinônimos"
+   ],
+   "certa": 1,
+   "comentario": "Na regência nominal o termo regente é um nome (preocupada, capacidade, capaz), e o complemento é o complemento nominal.",
+   "trecho": "regência verbal gente é quando o verbo rege um complemento regência nominal é quando é uma palavra que não é o verbo e também vai reger um complemento",
+   "onde": 33
+  },
+  {
+   "enunciado": "Segundo a aula, o que é um verbo transitivo indireto, como \"chegar\" em \"A diretora não chegou a uma conclusão\"?",
+   "alternativas": [
+    "Verbo que não pede complemento",
+    "Verbo que pede complemento sem preposição",
+    "Verbo que só aceita sujeito oculto",
+    "Verbo que pede uma preposição e, por isso, objeto indireto"
+   ],
+   "certa": 3,
+   "comentario": "O transitivo direto não pede preposição (reprovar); o transitivo indireto rege preposição (chegar a).",
+   "trecho": "verbo transitivo direto não pede preposição verbo transitivo indireto é aquele que pede uma preposição verbo transitivo indireto objeto indireto",
+   "onde": 157
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a forma correta do verbo \"assistir\" no sentido de ver, observar?",
+   "alternativas": [
+    "Você está assistindo a uma aula, porque nesse sentido o verbo é transitivo indireto e exige a preposição \"a\"",
+    "Você está assistindo uma aula",
+    "Você está assistindo de uma aula",
+    "Você está assistindo em uma aula"
+   ],
+   "certa": 0,
+   "comentario": "Assistir no sentido de ver rege \"a\" (assisti ao filme). A aula alerta que o verbo tem quatro sentidos diferentes, e cada regência muda o sentido.",
+   "trecho": "você não está assistindo uma aula você está assistindo a uma aula porque o verbo assistir no sentido de ver observar é um verbo",
+   "onde": 850
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a regência correta do verbo \"preferir\"?",
+   "alternativas": [
+    "Prefiro futebol do que vôlei",
+    "Prefiro mais futebol a vôlei",
+    "Prefiro futebol a vôlei",
+    "Prefiro futebol que vôlei"
+   ],
+   "certa": 2,
+   "comentario": "Quem prefere prefere algo A algo; \"do que\" e \"mais\" são incorretos (o verbo já tem sentido comparativo).",
+   "trecho": "quem prefere prefere algo a algo não é do que hein Tá quem prefere prefere algo a algo não é do que",
+   "onde": 1249
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é a diferença de regência entre \"esquecer\" e \"esquecer-se\"?",
+   "alternativas": [
+    "Esquecer é transitivo indireto e esquecer-se é transitivo direto",
+    "Esquecer é transitivo direto (esqueci o caderno) e esquecer-se é transitivo indireto, com a preposição \"de\" (esqueci-me do caderno)",
+    "Ambos pedem a preposição \"de\" em qualquer caso",
+    "Nenhum dos dois pede complemento"
+   ],
+   "certa": 1,
+   "comentario": "O mesmo vale para lembrar (lembrei o nome) e lembrar-se (lembrei-me do nome): sem pronome, sem \"de\".",
+   "trecho": "o verbo esquecer é um verbo transitivo direto não pede preposição nenhuma agora esquecer-se é um verbo transitivo indireto Como assim Álvaro quem esquece",
+   "onde": 1374
+  }
+ ],
+ "https://files.ufgd.edu.br/arquivos/arquivos/78/PROTOCOLO/Normas%20Internas/Manual%20de%20Reda%C3%A7%C3%A3o%20da%20Presid%C3%AAncia%20da%20Rep%C3%BAblica%20-%203%C2%AA%20edi%C3%A7%C3%A3o,%20revista,%20atualizada%20e%20ampliada.pdf#page=73": [
+  {
+   "enunciado": "Segundo o Manual de Redação da Presidência da República, o que é regência em gramática?",
+   "alternativas": [
+    "A flexão de gênero dos adjetivos",
+    "A concordância do verbo com o sujeito",
+    "O uso da vírgula entre termos de estreita ligação",
+    "Sinônimo de dependência e subordinação: um termo rege o outro que o complementa"
+   ],
+   "certa": 3,
+   "comentario": "A sintaxe de regência trata das relações de dependência entre as palavras: termos regentes (substantivos, adjetivos, verbos) regem os regidos.",
+   "trecho": "Regência é, em gramática, sinônimo de dependência, subordinação. Assim, a sintaxe de regência trata das relações de dependência que as palavras mantêm na frase.",
+   "onde": 73
+  },
+  {
+   "enunciado": "Segundo o manual, qual das frases abaixo é incorreta na norma padrão, quando o verbo \"assistir\" significa estar presente, ver?",
+   "alternativas": [
+    "A reunião foi assistida por dez pessoas",
+    "Assisti a um documentário muito interessante",
+    "Não assisti à reunião ontem",
+    "Assisti a ele"
+   ],
+   "certa": 0,
+   "comentario": "Nesse sentido, \"assistir\" é transitivo indireto (preposição a) e não pode ser apassivado.",
+   "trecho": "Nesta acepção, o verbo não pode ser apassivado; assim, na norma padrão, é incorreta a frase: A reunião foi assistida por dez pessoas.",
+   "onde": 74
+  },
+  {
+   "enunciado": "Qual é a regência correta de \"consistir\", segundo o manual?",
+   "alternativas": [
+    "Consistir de alguma coisa",
+    "Consistir a alguma coisa",
+    "Consistir em alguma coisa; consistir de é anglicismo",
+    "Consistir por alguma coisa"
+   ],
+   "certa": 2,
+   "comentario": "O manual dá o exemplo \"O Plano consiste em promover uma trégua de preços\" e classifica \"consistir de\" como anglicismo.",
+   "trecho": "consistir em alguma coisa (consistir de é anglicismo): Exemplo:",
+   "onde": 75
+  },
+  {
+   "enunciado": "O manual trata de \"O Convênio implica na aceitação dos novos preços\". O que ele aconselha, com \"implicar\" no sentido de acarretar?",
+   "alternativas": [
+    "Usar \"implicar em\", por ser a forma mais correta",
+    "Manter a sintaxe originária, transitiva direta: implica isso, implica-o",
+    "Usar \"implicar de\"",
+    "Trocar por um verbo intransitivo"
+   ],
+   "certa": 1,
+   "comentario": "\"Implicar na\" é inovação frequente no Brasil, mas o manual aconselha a regência originária, sem preposição: \"O Convênio implica a aceitação\".",
+   "trecho": "Mesmo assim, aconselha-se manter a sintaxe originária: implica isso, implica-o.",
+   "onde": 76
+  },
+  {
+   "enunciado": "De acordo com a observação do manual, o que acontece com a preposição exigida pelo verbo quando a oração é introduzida por pronome relativo?",
+   "alternativas": [
+    "A preposição é abolida, em qualquer registro",
+    "A preposição vem depois do verbo",
+    "A preposição passa a ser sempre \"em\"",
+    "Na norma padrão o verbo mantém sua regência: \"os recursos de que o Estado dispõe\""
+   ],
+   "certa": 3,
+   "comentario": "Dizer \"recursos que dispõe\" é próprio da linguagem oral ou informal; na norma padrão, mantém-se a regência.",
+   "trecho": "Observação: Na norma padrão, os verbos que regem determinada preposição, ao serem empregados em orações introduzidas por pronome relativo, mantêm essa regência, embora a tendência da língua falada seja aboli-la.",
+   "onde": 78
+  }
+ ]
+}

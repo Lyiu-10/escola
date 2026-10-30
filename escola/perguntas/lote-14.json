@@ -1,0 +1,672 @@
+{
+ "https://www.youtube.com/watch?v=a34C1vD4yRA": [
+  {
+   "enunciado": "Segundo a aula, como o psicólogo deve pensar o contrato terapêutico?",
+   "alternativas": [
+    "Como um documento jurídico padrão, assinado na primeira sessão para proteger o profissional",
+    "Como um modelo pronto, copiado de colegas, cujas cláusulas não se discutem com o paciente",
+    "Como algo construído a partir da relação com o paciente, e não como mera formalidade burocrática",
+    "Como uma exigência do conselho profissional, a ser cumprida antes de qualquer escuta"
+   ],
+   "certa": 2,
+   "comentario": "A professora diz que é preciso deixar de pensar no contrato como mera formalidade ou coisa burocrática e vê-lo como algo construído a partir da relação com o paciente.",
+   "trecho": "a gente tem que deixar de pensar no contrato com uma mera formalidade né com uma coisa burocrática",
+   "onde": 0
+  },
+  {
+   "enunciado": "Quando, segundo a aula, o contrato terapêutico deve ser feito?",
+   "alternativas": [
+    "Depois que o terapeuta já tem alguma compreensão do paciente e ele confirma que quer a psicoterapia, não necessariamente na primeira consulta",
+    "Obrigatoriamente na primeira consulta, antes de qualquer conversa sobre a queixa",
+    "Somente ao final do primeiro mês, quando o vínculo já está consolidado",
+    "No primeiro telefonema, antes de agendar, para filtrar quem não aceita as regras"
+   ],
+   "certa": 0,
+   "comentario": "O contrato não precisa ser feito na primeira consulta: vem depois que o terapeuta compreende o que acontece com o paciente e os dois decidem fazer psicoterapia juntos.",
+   "trecho": "Então na verdade ele não precisa necessariamente ser feito na primeira consulta ele vai precisar ser feito após o terapeuta e tenta compreensão do que que tá acontecendo com patente",
+   "onde": 187
+  },
+  {
+   "enunciado": "Por que a professora recomenda sessões semanais, pelo menos no início do processo?",
+   "alternativas": [
+    "Porque o conselho profissional exige frequência mínima semanal",
+    "Porque sessões quinzenais nunca funcionam, em nenhuma situação",
+    "Porque assim o valor mensal pago pelo paciente é sempre maior",
+    "Porque a psicoterapia é um processo mais global, e não pontual, e a constância ajuda a pessoa a se aprofundar"
+   ],
+   "certa": 3,
+   "comentario": "Ela argumenta que o semanal ajuda no aprofundamento, pois a terapia é um processo global, não pontual, comparável à constância de uma atividade física. O quinzenal pode funcionar com quem já tem experiência de terapia.",
+   "trecho": "eu realmente acho que o semanal ajuda no viajar mento ajuda a pessoa a realmente entrar a discutir aqui é um processo que é mais Global não é pontual",
+   "onde": 769
+  },
+  {
+   "enunciado": "O que a aula orienta sobre o sigilo e suas exceções no início da terapia?",
+   "alternativas": [
+    "Deixar o assunto para quando surgir um risco, para não assustar o paciente",
+    "Combinar já no início em que condições o sigilo pode ser quebrado, valendo para todos os pacientes, pois não se sabe se haverá risco adiante",
+    "Garantir sigilo absoluto e nunca mencionar condições de quebra",
+    "Combinar as condições de quebra apenas com pacientes que já tenham falado em suicídio"
+   ],
+   "certa": 1,
+   "comentario": "A professora diz que se deve deixar claro desde o início em que condições o sigilo pode ser quebrado, para todos os pacientes, porque não se sabe se mais adiante surgirá risco para a pessoa ou para outros.",
+   "trecho": "em que condições a gente pode quebrar o sigilo e sem ter tem que ter alguma forma quer dizer para todos os patins porque a gente não sabe se lá para frente do",
+   "onde": 1203
+  },
+  {
+   "enunciado": "Segundo a aula, o contrato terapêutico precisa ser escrito?",
+   "alternativas": [
+    "Sim, a regulamentação do conselho obriga o contrato escrito e assinado",
+    "Não, deve ser sempre apenas verbal, porque o escrito atrapalha o vínculo",
+    "Não há obrigação; a forma, verbal ou escrita, fica a critério do profissional",
+    "Sim, mas apenas no atendimento online"
+   ],
+   "certa": 2,
+   "comentario": "A professora afirma que nenhuma regulamentação obriga a forma escrita e que a forma de estabelecer o contrato fica a critério do profissional.",
+   "trecho": "agora de que forma que a gente vai estabelecer fica a critério do profissional",
+   "onde": 1817
+  }
+ ],
+ "https://www.youtube.com/watch?v=77aTu8icrU4": [
+  {
+   "enunciado": "De onde surge a ideia de trabalho em equipe, segundo a aula?",
+   "alternativas": [
+    "Da necessidade de reduzir custos nos hospitais",
+    "De uma crítica ao saber fragmentado, que dificulta ter uma visão do objeto como um todo",
+    "De uma exigência dos conselhos profissionais de cada categoria",
+    "Da psicanálise, que propôs a escuta conjunta entre profissionais"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que o trabalho em equipe surge de uma crítica ao saber fragmentado, que impede ou dificulta uma visão do objeto como um todo.",
+   "trecho": "há essa ideia de trabalho em equipe e isso ela surge a partir de uma crítica ao saber fragmentado",
+   "onde": 151
+  },
+  {
+   "enunciado": "O que caracteriza a equipe multidisciplinar, em contraste com a interdisciplinar, segundo a aula?",
+   "alternativas": [
+    "Reuniões formais semanais com planejamento conjunto",
+    "Objetivos uniformes e comunicação formal e informal entre todos",
+    "Um único profissional que coordena e decide por todos",
+    "Profissionais de formação variada no mesmo ambiente, com trocas informais e ações independentes"
+   ],
+   "certa": 3,
+   "comentario": "Na multidisciplinar os profissionais atuam no mesmo ambiente, mas não necessariamente partilham tarefas e responsabilidades; as trocas são informais e as ações, independentes.",
+   "trecho": "a um grupo de trabalho não necessariamente partilham as suas tarefas constatações e responsabilidades realizando trocas informais e ações de forma independente",
+   "onde": 246
+  },
+  {
+   "enunciado": "Num hospital geral, diferentemente do consultório, com quem o psicólogo trabalha, segundo a aula?",
+   "alternativas": [
+    "Com uma tríade: o paciente, a família e a equipe",
+    "Apenas com o paciente, mas em ambiente institucional",
+    "Com o paciente e o médico responsável, que decide a conduta",
+    "Com a díade paciente e família, ficando a equipe como apoio administrativo"
+   ],
+   "certa": 0,
+   "comentario": "A aula afirma que, no hospital geral, o psicólogo trabalha com uma tríade que envolve o paciente, a família e a equipe.",
+   "trecho": "ele vai trabalhar com uma tríade e essa tríade ela envolve então o paciente a família ea equipe",
+   "onde": 768
+  },
+  {
+   "enunciado": "Quais são os dois aspectos que mais dificultam a integralidade da equipe, segundo a aula?",
+   "alternativas": [
+    "Excesso de reuniões formais e falta de sigilo",
+    "Falta de recursos materiais e carga horária elevada",
+    "O estabelecimento de hierarquias e assimetrias e o reducionismo profissional",
+    "A comunicação informal e a atuação interdisciplinar"
+   ],
+   "certa": 2,
+   "comentario": "A professora destaca dois aspectos: hierarquias e assimetrias entre as profissões e o reducionismo profissional, como o médico que reduz ou desconhece a função do psicólogo.",
+   "trecho": "dois aspectos que mais nos chamou a atenção o estabelecimento de hierarquias e assimetrias e o reducionismo profissional",
+   "onde": 858
+  },
+  {
+   "enunciado": "Que postura em relação aos demais membros da equipe de saúde a aula destaca como competência do psicólogo no hospital geral?",
+   "alternativas": [
+    "Assumir a coordenação da equipe, por ser o responsável pelos aspectos emocionais",
+    "Estabelecer uma relação simétrica, sem estar acima nem abaixo de ninguém",
+    "Subordinar-se ao médico, que detém o saber sobre o tratamento",
+    "Atuar de forma independente, evitando dialogar sobre o quadro clínico"
+   ],
+   "certa": 1,
+   "comentario": "A aula destaca que o psicólogo deve estabelecer uma relação simétrica com os demais membros da equipe, nem acima nem abaixo de ninguém.",
+   "trecho": "o psicólogo tem que estabelecer uma relação simétrica com os demais membros da equipe de saúde",
+   "onde": 1074
+  }
+ ],
+ "https://www.youtube.com/watch?v=me9jaFwAWv8": [
+  {
+   "enunciado": "Como Maria Júlia Kovács define o luto nesta conversa?",
+   "alternativas": [
+    "Um processo de elaboração de perdas, por morte ou por perda de uma situação significativa",
+    "Uma reação patológica à morte de alguém, que sempre exige tratamento",
+    "A tristeza que dura enquanto a pessoa não aceita a morte",
+    "Uma fase de negação que termina quando o enlutado volta à rotina"
+   ],
+   "certa": 0,
+   "comentario": "Ela define o luto como processo de elaboração de perdas, seja por morte ou pela perda de uma situação significativa, o que inclui a perda da normalidade na pandemia.",
+   "trecho": "o luto é um processo elaboração de perdas né por morte ou perda de situação significativa",
+   "onde": 380
+  },
+  {
+   "enunciado": "O que a professora recomenda diante dos sentimentos difíceis, como o medo, em situações de sofrimento?",
+   "alternativas": [
+    "Mostrar-se forte e otimista, evitando falar do medo para não contagiar os outros",
+    "Esperar o sentimento passar sozinho, pois falar sobre ele o prolonga",
+    "Buscar ajuda profissional apenas quando o sofrimento virar depressão",
+    "Procurar lidar com os sentimentos e conversar sobre eles, pois sentir medo e pedir ajuda não é fraqueza"
+   ],
+   "certa": 3,
+   "comentario": "Ela diz que é preciso procurar lidar com os sentimentos e conversar com as pessoas, e que não há nada de errado em sentir medo nem fraqueza em buscar ajuda.",
+   "trecho": "procurar lidar com esses sentimentos procurar conversar com pessoas sobre isso não é fraqueza não tem nada de errado em sentir medo",
+   "onde": 444
+  },
+  {
+   "enunciado": "O que a professora diz sobre a culpa no luto por suicídio?",
+   "alternativas": [
+    "Costuma estar ausente, porque a morte é vista como escolha da própria pessoa",
+    "Está presente em muitos lutos, mas no suicídio costuma ser aumentada, superdimensionada",
+    "É exclusiva dos familiares e nunca atinge amigos ou colegas",
+    "Desaparece quando os sinais de alerta eram evidentes"
+   ],
+   "certa": 1,
+   "comentario": "A culpa aparece em muitos processos de luto, mas no luto por suicídio ela é muitas vezes aumentada e superdimensionada.",
+   "trecho": "a questão da culpa está presente em muitas vezes no processo de luta mas no caso vestido ele é muitas vezes aumentado superdimensionado",
+   "onde": 1448
+  },
+  {
+   "enunciado": "Segundo Kovács, o que fazer com metáforas como \"virou estrelinha\" ao falar da morte com crianças?",
+   "alternativas": [
+    "São recomendadas, pois suavizam o sofrimento e protegem a criança da realidade",
+    "São indicadas apenas para crianças acima de dez anos",
+    "Devem ser evitadas, e a criança precisa de uma explicação que consiga entender",
+    "Devem ser trocadas por silêncio, para que a criança não faça perguntas"
+   ],
+   "certa": 2,
+   "comentario": "Kovács diz que as metáforas, principalmente com crianças, devem ser evitadas, porque a criança quer saber e precisa entender o que aconteceu.",
+   "trecho": "a Leila falou em metáforas e eu acho principalmente com crianças elas devem ser evitadas",
+   "onde": 2193
+  },
+  {
+   "enunciado": "O que muda no vínculo com a pessoa que morreu, segundo Kovács?",
+   "alternativas": [
+    "Perde-se o vínculo presencial, mas o vínculo continua, por meio de memórias, lembranças e rituais",
+    "O vínculo termina com a morte, e o luto serve para aceitar isso",
+    "O vínculo só permanece se a pessoa for religiosa",
+    "O vínculo se rompe, mas é substituído por um novo vínculo com outra pessoa"
+   ],
+   "certa": 0,
+   "comentario": "Ela explica que não haverá mais o vínculo presencial, mas o vínculo não acaba: permanece nas memórias e nos rituais de lembrança.",
+   "trecho": "a gente não vai ter mais o vínculo presencial com aquela pessoa não vai sentar no colo nunca ela não vai no no campo de futebol não vai fazer viagem junto mas a gente continua",
+   "onde": 2255
+  }
+ ],
+ "https://www.youtube.com/watch?v=7MsmewuUS04": [
+  {
+   "enunciado": "Quais características psicológicas o artigo 4º da Resolução CFP 01/2022 manda avaliar no interessado em registro e porte de arma de fogo?",
+   "alternativas": [
+    "Aspectos cognitivos, traços de personalidade e histórico familiar",
+    "Nível intelectual, estabilidade emocional e habilidade de tiro",
+    "Aspectos cognitivos, traços de personalidade e juízo crítico e comportamento",
+    "Somente atenção, memória e inteligência"
+   ],
+   "certa": 2,
+   "comentario": "O artigo 4º lista três grupos: aspectos cognitivos, traços de personalidade e juízo crítico e comportamento.",
+   "trecho": "devem avaliar as seguintes características psicológicas do interessado por registro porte de arma de fogo inciso 1 aspectos cognitivos e inciso dois traços de personalidades inciso 3 do juízo crítico e",
+   "onde": 680
+  },
+  {
+   "enunciado": "Segundo a aula, quem define os critérios para o credenciamento do psicólogo junto à Polícia Federal?",
+   "alternativas": [
+    "A própria Polícia Federal, por instrução normativa",
+    "O Conselho Federal de Psicologia, por resolução",
+    "Os Conselhos Regionais de Psicologia",
+    "O Ministério da Saúde, por portaria"
+   ],
+   "certa": 0,
+   "comentario": "A resolução do conselho não altera o credenciamento: quem define os critérios e exigências é a própria Polícia Federal, pela instrução normativa 78 de 2014.",
+   "trecho": "quem disciplina critérios itens ou exigências para credenciamento junto à polícia federal é a própria Polícia Federal",
+   "onde": 463
+  },
+  {
+   "enunciado": "O que a nova resolução acrescenta à bateria mínima exigida pela instrução normativa da Polícia Federal, segundo o professor?",
+   "alternativas": [
+    "A avaliação de atenção concentrada e difusa, antes não exigida",
+    "A substituição do teste de memória por um de inteligência",
+    "A exigência de um teste específico para funções executivas",
+    "A necessidade de avaliar também a inteligência, aplicando um teste de inteligência"
+   ],
+   "certa": 3,
+   "comentario": "A bateria mínima da Polícia Federal não exclui a avaliação da inteligência, que a resolução passa a exigir: é preciso aplicar também um teste de inteligência.",
+   "trecho": "como a instrução normativa da Polícia Federal fala de uma bateria mínima e isso não exclui agora necessidade de você avaliar a inteligência",
+   "onde": 870
+  },
+  {
+   "enunciado": "Como o professor sugere avaliar as funções executivas (controle inibitório e planejamento)?",
+   "alternativas": [
+    "Aplicando obrigatoriamente um novo teste específico de funções executivas",
+    "Por avaliação qualitativa dos resultados dos testes de atenção, inteligência e memória, sem novo teste",
+    "Apenas pela entrevista, dispensando testes",
+    "Por um teste projetivo de personalidade"
+   ],
+   "certa": 1,
+   "comentario": "Na opinião do professor não é preciso aplicar um novo teste: basta fazer uma avaliação qualitativa dos resultados dos testes de atenção, inteligência e memória.",
+   "trecho": "Na minha opinião não é necessário aplicar um novo teste para avaliar as funções executivas mas sim Fazer uma avaliação qualitativa dos resultados",
+   "onde": 994
+  },
+  {
+   "enunciado": "Para o psicólogo credenciado na Polícia Federal, qual é o prazo de validade do atestado para o candidato dar entrada no pedido?",
+   "alternativas": [
+    "Seis meses",
+    "Dois anos",
+    "Um ano",
+    "Três anos"
+   ],
+   "certa": 2,
+   "comentario": "A instrução normativa da Polícia Federal já define o prazo de um ano. O prazo máximo de dois anos da resolução vale quando o órgão não define prazo.",
+   "trecho": "se eu sou psicólogo credenciado da Polícia Federal eu já tenho um prazo definido pela instrução normativa da Polícia Federal que é um ano",
+   "onde": 1801
+  }
+ ],
+ "https://www.youtube.com/watch?v=2I7MV6t4pAg": [
+  {
+   "enunciado": "Segundo a aula, em que paradigma se apoia a pesquisa quantitativa?",
+   "alternativas": [
+    "Histórico-crítico, voltado a compreender fenômenos em profundidade",
+    "Positivista, voltado a observar e mensurar fenômenos e permitir que os estudos sejam replicados",
+    "Fenomenológico, voltado ao significado vivido pelo participante",
+    "Psicanalítico, voltado ao inconsciente do pesquisador"
+   ],
+   "certa": 1,
+   "comentario": "A pesquisa quantitativa tem foco em um paradigma positivista: observar e mensurar fenômenos e permitir a replicação pela descrição minuciosa dos métodos.",
+   "trecho": "a pesquisa quantitativa, ela tem como um foco um paradigma positivista de ciência, no qual nós estamos interessados em observar os fenômenos, mensurá-los",
+   "onde": 96
+  },
+  {
+   "enunciado": "Qual é a função da revisão de literatura, primeira fase comum aos delineamentos de pesquisa, segundo a aula?",
+   "alternativas": [
+    "Escolher os instrumentos e a amostra da pesquisa",
+    "Submeter o projeto ao comitê de ética",
+    "Analisar estatisticamente os dados coletados",
+    "Buscar lacunas ou problemas ainda não resolvidos, para contextualizar e justificar o problema de pesquisa"
+   ],
+   "certa": 3,
+   "comentario": "A revisão de literatura permite encontrar lacunas e problemas ainda não resolvidos e, a partir deles, contextualizar e justificar o problema de pesquisa.",
+   "trecho": "a revisão de literatura vai possibilitar que o pesquisador busque na literatura eventuais lacunas ou problemas que ainda não foram resolvidos",
+   "onde": 226
+  },
+  {
+   "enunciado": "Segundo a aula, pesquisas teóricas, como as revisões sistemáticas, precisam de aprovação de comitê de ética?",
+   "alternativas": [
+    "Não precisam da aprovação do comitê, mas os aspectos éticos devem ser cumpridos do mesmo modo",
+    "Sim, toda pesquisa precisa de aprovação do comitê de ética, sem exceção",
+    "Não, e por isso podem ser conduzidas com menos rigor ético",
+    "Sim, mas só quando houver meta-análise"
+   ],
+   "certa": 0,
+   "comentario": "Pesquisas mais teóricas não precisam de aprovação do comitê, mas isso não significa maior flexibilidade: os aspectos éticos valem para todas as pesquisas.",
+   "trecho": "pesquisas mais teóricas, a gente não precisa da aprovação de um comitê de ética. Isso não significa que a gente pode ser mais flexível nessas questões éticas.",
+   "onde": 390
+  },
+  {
+   "enunciado": "Qual é o principal problema das pesquisas com recorte longitudinal, segundo a aula?",
+   "alternativas": [
+    "Só permitem coletar dados em um único momento",
+    "Não permitem avaliar os efeitos de intervenções",
+    "A perda de participantes a cada coleta, o que compromete a análise final",
+    "Exigem sempre amostragem por bola de neve"
+   ],
+   "certa": 2,
+   "comentario": "A professora aponta como grande problema a perda de participantes: a cada coleta o número pode diminuir, comprometendo a análise final.",
+   "trecho": "pesquisas com recorte longitudinal, elas têm um grande problema, principalmente no que diz respeito à perda de participantes",
+   "onde": 719
+  },
+  {
+   "enunciado": "Na pesquisa qualitativa com bola de neve, o que indica o ponto de saturação, que permite encerrar a coleta?",
+   "alternativas": [
+    "Atingir o número de participantes calculado por técnicas estatísticas",
+    "As informações passam a se repetir, sem dados novos relevantes",
+    "O fim do prazo do projeto",
+    "Todos os participantes indicados terem sido entrevistados"
+   ],
+   "certa": 1,
+   "comentario": "O ponto de saturação ocorre quando as informações começam a se repetir e não surgem dados novos relevantes; então o pesquisador pode encerrar a coleta.",
+   "trecho": "quando a gente começa a observar que as informações estão se repetindo, significa que a gente está muito perto de não encontrar dados novos tão relevantes",
+   "onde": 912
+  }
+ ],
+ "https://www.youtube.com/watch?v=rJVeq7YI8wc": [
+  {
+   "enunciado": "Segundo o professor, qual é a relação entre comunicação e representação social?",
+   "alternativas": [
+    "São noções independentes, pois a representação depende só da cognição individual",
+    "A representação social antecede e dispensa a comunicação",
+    "A comunicação só importa depois que a representação já se consolidou",
+    "São interdependentes: para haver representação social é fundamental haver comunicação e compartilhamento da informação"
+   ],
+   "certa": 3,
+   "comentario": "O professor corrige a ideia de independência: a informação precisa ser compartilhada pelo grupo para virar representação social, então ambas andam interligadas.",
+   "trecho": "para que haja uma representação social é obrigatório, é, é fundamental que haja comunicação, porque precisa haver compartilhamento dessa informação",
+   "onde": 980
+  },
+  {
+   "enunciado": "Um grupo sem laços consanguíneos e sem conjugalidade se identifica como família. Segundo a aula, como o psicólogo social deve agir?",
+   "alternativas": [
+    "Respeitar essa constituição e compreender o grupo como um grupo familiar",
+    "Considerá-lo família apenas se houver filhos",
+    "Não o considerar família, pois o modelo nuclear segue hegemônico",
+    "Aguardar reconhecimento legal para tratá-lo como família"
+   ],
+   "certa": 0,
+   "comentario": "A aula diz que, mesmo sem laços consanguíneos ou conjugalidade, se o grupo se identifica como família é preciso respeitar essa constituição.",
+   "trecho": "mesmo que não haja conjugalidade, se aquele grupo se identifica como família, nós precisamos respeitar aquela",
+   "onde": 1382
+  },
+  {
+   "enunciado": "Na aula, o que é heurística no julgamento social?",
+   "alternativas": [
+    "O conjunto de elementos que forma a impressão sobre o outro",
+    "A forma como se mantém ou se altera o julgamento já feito",
+    "O atalho mental usado para chegar ao julgamento",
+    "O modelo típico esperado para um grupo"
+   ],
+   "certa": 2,
+   "comentario": "Heurística não é o julgamento em si, mas o atalho mental usado para julgar, o ponto de onde se busca a informação. A formação de impressão é o que embasa o julgamento.",
+   "trecho": "Então heurística é o atalho que eu vou usar, né? É aonde eu vou buscar a informação para isso",
+   "onde": 2363
+  },
+  {
+   "enunciado": "Segundo a aula, qual é o mandato de um conselheiro tutelar?",
+   "alternativas": [
+    "Dois anos, sem recondução",
+    "Quatro anos, com possibilidade de uma recondução mediante nova eleição",
+    "Quatro anos, sem recondução",
+    "Seis anos, com recondução livre"
+   ],
+   "certa": 1,
+   "comentario": "O professor corrige a alternativa que trazia dois anos: o mandato é de quatro anos, com possibilidade de uma recondução, feita por nova eleição.",
+   "trecho": "o mandato do Conselho, eh, Tutelar não é de dois anos, tá? O mandato é de quatro anos.",
+   "onde": 3203
+  },
+  {
+   "enunciado": "Na esfera das políticas públicas, qual lógica deve orientar a multidisciplinaridade, segundo o professor?",
+   "alternativas": [
+    "Vertical, com o profissional de maior formação coordenando os demais",
+    "Vertical, para uniformizar as condutas dos usuários",
+    "Horizontal, sem hierarquia e sem conhecimento superior a outro",
+    "Nenhuma, cada profissional atua isoladamente"
+   ],
+   "certa": 2,
+   "comentario": "O professor rejeita a lógica vertical e afirma a horizontal: a multidisciplinaridade não tem critério de hierarquia nem conhecimento superior a outro.",
+   "trecho": "Não, lógica horizontal. A ideia de que a multidisciplinaridade não tem um critério de hierarquia, que ela não há um conhecimento superior ou principal sobre outro.",
+   "onde": 4073
+  }
+ ],
+ "https://www.youtube.com/watch?v=GlMpXB8dSjg": [
+  {
+   "enunciado": "Segundo a aula, o que busca entender a abordagem das representações sociais?",
+   "alternativas": [
+    "O desenvolvimento cognitivo da criança em etapas",
+    "A relação de forças entre o indivíduo e o grupo em que ele está inserido",
+    "O comportamento do indivíduo isolado, sem influência do grupo",
+    "A formação de traços de personalidade por herança genética"
+   ],
+   "certa": 1,
+   "comentario": "A aula apresenta as representações sociais como abordagem da psicologia social que busca entender a relação de forças entre o indivíduo e o grupo em que está inserido.",
+   "trecho": "representações sociais na verdade é uma abordagem dentro do campo da psicologia social onde busca entender a relação de forças entre no devido e o grupo em que ele está inserido",
+   "onde": 31
+  },
+  {
+   "enunciado": "Como a aula descreve as representações sociais na teoria de Moscovici?",
+   "alternativas": [
+    "Um conjunto de reflexos condicionados aprendidos individualmente",
+    "Estruturas biológicas herdadas que determinam o comportamento",
+    "Um sistema de normas jurídicas que regula o grupo",
+    "Um conjunto de conhecimentos, opiniões e imagens que permite categorizar acontecimentos, pessoas e objetos"
+   ],
+   "certa": 3,
+   "comentario": "A aula define as representações sociais como um conjunto de conhecimentos, opiniões e imagens que nos permite categorizar acontecimentos, pessoas e objetos.",
+   "trecho": "representações sociais como um conjunto de conhecimento opiniões imagens que nos permite categorizar acontecimentos pessoas objetos",
+   "onde": 460
+  },
+  {
+   "enunciado": "O que o núcleo central das representações sociais guarda, segundo a aula?",
+   "alternativas": [
+    "Valores, normas e princípios das significações do grupo",
+    "Apenas informações novas, facilmente substituíveis",
+    "Os sentimentos individuais de cada membro, sem relação com o grupo",
+    "Os instrumentos de avaliação usados pelo psicólogo"
+   ],
+   "certa": 0,
+   "comentario": "Segundo a aula, o núcleo central guarda os valores, normas e princípios das significações e das memórias coletivas do grupo.",
+   "trecho": "as representações sociais possuem um núcleo Central o núcleo Central que esconde valores normas e princípios das significações",
+   "onde": 583
+  },
+  {
+   "enunciado": "O que a reatância psicológica busca explicar, segundo a aula?",
+   "alternativas": [
+    "A rápida adesão do indivíduo à opinião da maioria",
+    "A formação da identidade pelo pertencimento ao grupo",
+    "O processo psicossocial de resistência ao contraditório",
+    "A mudança de crenças após uma dissonância"
+   ],
+   "certa": 2,
+   "comentario": "A aula apresenta a reatância psicológica como teoria que busca entender o processo psicossocial de resistência ao contraditório.",
+   "trecho": "existe também uma teoria muito interessante chamada reatância psicológica e na verdade ela busca também entender como é a natureza desse processo psicossocial processo de resistência ao contraditório",
+   "onde": 615
+  },
+  {
+   "enunciado": "Qual função das representações sociais está ligada à identidade individual e ao senso de pertencimento?",
+   "alternativas": [
+    "A função cognitiva",
+    "A função identitária",
+    "A função de orientação",
+    "A função justificadora"
+   ],
+   "certa": 1,
+   "comentario": "A aula lista quatro funções; a identitária fornece a identidade individual e está muito ligada ao senso de pertencimento.",
+   "trecho": "a segunda função é a identitária porque o que ela fornece a identidade individual seja está muito ligado ao senso de pertencimento",
+   "onde": 676
+  }
+ ],
+ "https://www.youtube.com/watch?v=zUkW0IYxTYI": [
+  {
+   "enunciado": "De onde vem a palavra personalidade, segundo a aula?",
+   "alternativas": [
+    "Do grego psyché, que significa alma",
+    "Do latim persona, que designava o rosto verdadeiro da pessoa",
+    "Do latim persona, que se referia a uma máscara teatral usada pelos atores na Roma Antiga",
+    "Do alemão, termo criado por Freud para os traços herdados"
+   ],
+   "certa": 2,
+   "comentario": "A aula explica que a palavra vem do latim persona, a máscara teatral usada pelos atores na Roma Antiga, embora o conceito hoje vá muito além disso.",
+   "trecho": "Persona que se referia a uma máscara teatral usada na época da Roma Antiga esta máscara era usada pelos atores",
+   "onde": 190
+  },
+  {
+   "enunciado": "Como a aula define a personalidade, apesar de não haver definição única?",
+   "alternativas": [
+    "Um padrão de comportamentos, pensamentos e sentimentos únicos que dão consistência e individualidade ao comportamento de uma pessoa",
+    "O papel social que a pessoa desempenha em cada situação",
+    "O conjunto de traços herdados geneticamente",
+    "A soma dos conhecimentos adquiridos ao longo da vida"
+   ],
+   "certa": 0,
+   "comentario": "Os estudiosos entendem a personalidade como padrão de comportamentos, pensamentos e sentimentos únicos, indo além do papel desempenhado, que remete à ideia de máscara.",
+   "trecho": "de comportamentos pensamentos e sentimentos únicos que dão consistência e individualidade ao comportamento de uma pessoa",
+   "onde": 220
+  },
+  {
+   "enunciado": "Qual abordagem da personalidade a aula chama de terceira grande força da Psicologia, ao lado do existencialismo?",
+   "alternativas": [
+    "As teorias psicodinâmicas",
+    "As teorias dos traços",
+    "As teorias cognitivas e de aprendizagem",
+    "As teorias humanistas"
+   ],
+   "certa": 3,
+   "comentario": "A aula apresenta as teorias humanistas como a terceira grande força da Psicologia, ao lado do existencialismo, com foco no potencial humano de crescimento e autorrealização.",
+   "trecho": "as teorias humanistas que são consideradas a terceira grande força da Psicologia ao lado do existencialismo",
+   "onde": 282
+  },
+  {
+   "enunciado": "Qual das opções NÃO é uma das cinco grandes dimensões da teoria dos cinco fatores (Big Five), segundo a aula?",
+   "alternativas": [
+    "Neuroticismo",
+    "Psicoticismo",
+    "Amabilidade",
+    "Conscienciosidade"
+   ],
+   "certa": 1,
+   "comentario": "As cinco dimensões citadas são neuroticismo, extroversão, abertura à experiência, amabilidade e conscienciosidade. Psicoticismo não está entre elas.",
+   "trecho": "cinco grandes dimensões da personalidade neuroticismo extroversão abertura à experiência amabilidade e conscienciosidade",
+   "onde": 406
+  },
+  {
+   "enunciado": "Qual teoria destaca que os indivíduos aprendem por meio da observação e da modelagem de comportamentos de outras pessoas?",
+   "alternativas": [
+    "A teoria social cognitiva de Albert Bandura",
+    "A análise do comportamento de Skinner, com reforços e punições",
+    "A teoria dos construtos pessoais de George Kelly",
+    "A hierarquia das necessidades de Maslow"
+   ],
+   "certa": 0,
+   "comentario": "A teoria social cognitiva de Bandura investiga a aprendizagem por observação e modelagem. Skinner trata de reforços e punições.",
+   "trecho": "bandura que investiga como os indivíduos aprendem por meio da observação e da modelagem de comportamentos observados em outras pessoas",
+   "onde": 560
+  }
+ ],
+ "https://www.youtube.com/watch?v=tHFfCDiV6Zg": [
+  {
+   "enunciado": "O que é o \"plantation\", segundo a aula?",
+   "alternativas": [
+    "Troca de madeira por objetos de metal entre portugueses e indígenas",
+    "Cultivo variado de várias espécies para consumo próprio",
+    "Monocultura em grandes plantações, de uma só espécie, produzida em larga escala para exportação",
+    "Sistema que impedia navios estrangeiros de comerciar com a colônia"
+   ],
+   "certa": 2,
+   "comentario": "A aula define o plantation como forma de monocultura, o cultivo de uma única espécie em grandes plantações, em larga escala e voltado à exportação, o que interessava à metrópole.",
+   "trecho": "Que é essa forma de monocultura. Monocultura, no caso, é você cultivar apenas uma espécie.",
+   "onde": 368
+  },
+  {
+   "enunciado": "Quais são as duas características de um país escravista, segundo a aula?",
+   "alternativas": [
+    "Existência de escravos domésticos e proibição legal do trabalho assalariado",
+    "Escravidão legalizada e mão de obra vinda exclusivamente da África",
+    "Escravos concentrados nas cidades e donos de grandes latifúndios",
+    "Escravos como grande parte ou maioria da população e envolvidos nas atividades econômicas de maior importância"
+   ],
+   "certa": 3,
+   "comentario": "Para a professora, um país escravista tem escravos como grande parte ou maioria da população e os coloca nas atividades de maior importância econômica, como cana, café e mineração.",
+   "trecho": "Um país escravista tem que ter duas características. Primeiramente, os escravos têm que ser grande parte ou a maioria da população.",
+   "onde": 429
+  },
+  {
+   "enunciado": "A aula desconstrói a ideia de que os índios foram substituídos por serem preguiçosos. Que explicação ela dá sobre a cultura indígena?",
+   "alternativas": [
+    "Trabalhavam para a subsistência; produzir excedente e lucro não fazia sentido para eles",
+    "Eram fisicamente menos resistentes que os africanos",
+    "Não sabiam cultivar a terra nem extrair minério",
+    "Eram protegidos por lei desde 1500, o que impedia qualquer trabalho forçado"
+   ],
+   "certa": 0,
+   "comentario": "A professora diz que não se trata de preguiça: os indígenas trabalhavam para a subsistência e não valorizavam o lucro e o excedente como os europeus.",
+   "trecho": "Então pessoal, não é falando que os índios não gostavam de trabalhar ou que eles eram preguiçosos. Mas eles trabalhavam para sua subsistência",
+   "onde": 651
+  },
+  {
+   "enunciado": "No que consistia o Exclusivo Colonial, segundo a aula?",
+   "alternativas": [
+    "Liberdade para a colônia vender a qualquer nação europeia",
+    "A colônia só receber produtos portugueses e só vender para Portugal",
+    "Concessão de terras a poucos donatários",
+    "Monopólio do pau-brasil pela Igreja"
+   ],
+   "certa": 1,
+   "comentario": "O Exclusivo Colonial buscava garantir que o Brasil só recebesse produtos portugueses e só vendesse para Portugal, o que dava a Portugal lucro maior.",
+   "trecho": "o Exclusivo Colonial era garantir que o Brasil só recebesse produtos portugueses e só vendesse para Portugal",
+   "onde": 1501
+  },
+  {
+   "enunciado": "Por que a professora diz que os historiadores não usam mais o termo \"ciclo do açúcar\"?",
+   "alternativas": [
+    "Porque o açúcar nunca foi importante na economia colonial",
+    "Porque o açúcar surgiu só depois do ouro",
+    "Porque \"ciclo\" sugere início, meio e fim, e o açúcar continuou sendo produzido; preferem \"conjuntura\"",
+    "Porque o açúcar era produzido apenas em Pernambuco"
+   ],
+   "certa": 2,
+   "comentario": "Ciclo dá ideia de começo, meio e fim, mas o açúcar continuou sendo produzido mesmo depois do ouro. Por isso se prefere falar em conjuntura.",
+   "trecho": "os historiadores não usam mais o termo ciclo, justamente porque ciclo é uma coisa que dá ideia de início, meio e fim",
+   "onde": 1911
+  }
+ ],
+ "https://www.youtube.com/watch?v=NhpPJIlOq10": [
+  {
+   "enunciado": "Segundo a aula, o que as bandeiras buscavam no sertão?",
+   "alternativas": [
+    "Rotas de comércio com os espanhóis, terras para agricultura e conversão de indígenas",
+    "Índios para escravizar, escravos fugidos e riqueza, principalmente ouro e pedras preciosas",
+    "Apenas ouro e prata, sem interesse em capturar pessoas",
+    "Fugitivos da coroa, missionários e especiarias"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que as bandeiras iam ao interior em busca de três coisas: índios para escravizar, escravos fugidos e riqueza, sobretudo ouro e pedras preciosas.",
+   "trecho": "em busca de três coisas: índios para serem escravizados, escravos fugidos e riqueza",
+   "onde": 79
+  },
+  {
+   "enunciado": "Qual era, em geral, a relação dos bandeirantes com a coroa portuguesa, segundo a aula?",
+   "alternativas": [
+    "Obediência estrita, pois todas as bandeiras eram financiadas pela coroa",
+    "Indiferença, sem qualquer interesse da coroa nas expedições",
+    "Cooperação total, inclusive na divisão do ouro",
+    "Houve apoio em alguns casos, mas muito conflito, porque muitas vezes se recusavam a seguir as ordens"
+   ],
+   "certa": 3,
+   "comentario": "Algumas bandeiras tiveram apoio da coroa, mas houve muito conflito, pois os bandeirantes muitas vezes se recusavam a seguir as ordens.",
+   "trecho": "houve muito conflito entre os bandeirantes e a coroa, justamente porque eles se recusavam muitas vezes a seguir as ordens da coroa",
+   "onde": 212
+  },
+  {
+   "enunciado": "A convivência de indígenas, mestiços e brancos nas bandeiras indica uma sociedade democrática, segundo a aula?",
+   "alternativas": [
+    "Não: apesar de miscigenada, era hierárquica, sem participação igualitária para todos",
+    "Sim: a miscigenação prova a existência de uma democracia racial",
+    "Sim, pois todos dividiam igualmente o ouro encontrado",
+    "Não: as bandeiras eram formadas apenas por brancos"
+   ],
+   "certa": 0,
+   "comentario": "A professora desfaz o mito: os brancos eram hierarquicamente mais importantes, então a sociedade unificada não era democrática nem igualitária.",
+   "trecho": "Então o fato de eles terem construído de certa forma uma sociedade unificada, não quer dizer que era uma sociedade democrática ou com participação igualitária para todos",
+   "onde": 273
+  },
+  {
+   "enunciado": "Que feito a aula atribui a Domingos Jorge Velho, o mais famoso dos bandeirantes?",
+   "alternativas": [
+    "Descobrir as primeiras minas de ouro em Sabará",
+    "Liderar a Revolução de 1932",
+    "Destruir o Quilombo dos Palmares e matar Zumbi",
+    "Fundar a vila de São Paulo"
+   ],
+   "certa": 2,
+   "comentario": "Domingos Jorge Velho é apresentado como quem destruiu o Quilombo dos Palmares e matou seu líder, Zumbi, exemplo usado na discussão sobre heroizar os bandeirantes.",
+   "trecho": "foi a pessoa que destruiu o Quilombo dos Palmares e matou o líder deles, Zumbi",
+   "onde": 374
+  },
+  {
+   "enunciado": "Com que finalidade os historiadores paulistas Ellis Júnior e Taunay construíram a imagem heroica do bandeirante?",
+   "alternativas": [
+    "Denunciar a escravização indígena e a destruição de Palmares",
+    "Exaltar a elite paulista, que estava perdendo força política",
+    "Defender a subordinação de São Paulo à coroa",
+    "Comprovar que a maioria dos bandeirantes era branca"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que as obras desses historiadores exaltaram a elite paulista num momento em que ela perdia força política.",
+   "trecho": "Essas obras desses historiadores foram feitas justamente para exaltar a elite paulista no momento em que ela estava perdendo a sua força política",
+   "onde": 533
+  }
+ ]
+}

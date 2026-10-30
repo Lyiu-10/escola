@@ -1,0 +1,79 @@
+{
+ "https://books.scielo.org/id/z7ytj/pdf/alves-9788578791926.pdf#page=78": [
+  {
+   "enunciado": "Segundo Alves e Eulálio (in ALVES, 2011), a prevenção de terceiro nível tem campo e lugar de execução próprios. Com relação a esse nível de atenção, analise as afirmativas abaixo e assinale a opção correta.\nI- Está envolvida com a assistência aos problemas de alta complexidade derivados dos níveis primário e secundário e com as pesquisas em saúde.\nII- É realizada exclusivamente nos hospitais, ficando os centros de especialidades restritos à atenção secundária.\nIII- Inclui o seguimento de pacientes em tratamento clínico, cirúrgico, quimioterápico e radioterápico.\nIV- É nela que a saúde mental tem sua maior expressão, por se voltar às assistências especializadas de seguimento.",
+   "alternativas": [
+    "Apenas as afirmativas I e III são verdadeiras.",
+    "Apenas as afirmativas I, II e III são verdadeiras.",
+    "Apenas as afirmativas II e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas III e IV são verdadeiras."
+   ],
+   "certa": 0,
+   "comentario": "I e III reproduzem a definição das autoras: alta complexidade vinda do 1º e 2º níveis, pesquisa em saúde e seguimento de tratamentos clínico, cirúrgico, quimioterápico e radioterápico. II erra no \"exclusivamente\": em geral se faz nos hospitais, mas pode também ser feita nos centros de especialidades. IV descreve a atenção secundária, onde, segundo as considerações finais, a saúde mental tem sua maior expressão.",
+   "trecho": "Está involucrada com a assistência aos problemas de alta complexidade derivados dos outros níveis de atenção (1º e 2º) e com as pesquisas em saúde. Em geral, faz-se nos hospitais. Entretanto, pode também ser feita nos centros de especialidades.",
+   "onde": 78,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo Alves e Eulálio (in ALVES, 2011), Friedman e Rosenman (1959) assinalam seis áreas principais em que se desenvolvem linhas de pesquisa em Psicologia da Saúde. A preparação para cirurgia, para procedimentos médicos não cirúrgicos e para a hospitalização insere-se na área denominada:",
+   "alternativas": [
+    "compreensão da gênese e manutenção dos problemas de saúde.",
+    "prevenção e promoção da saúde.",
+    "facilitação e potenciação do diagnóstico e tratamento.",
+    "adesão ao tratamento.",
+    "melhora do sistema de cuidados da saúde."
+   ],
+   "certa": 2,
+   "comentario": "A terceira área, facilitação e potenciação do diagnóstico e tratamento, reúne a preparação para procedimentos médicos estressantes, como a cirurgia, e para a hospitalização. A melhora do sistema de cuidados trata das variáveis físicas e organizativas do meio sanitário e da relação profissional/paciente, não da preparação do paciente. A gênese e manutenção dos problemas é onde entra o padrão de conduta Tipo A.",
+   "trecho": "3 – facilitação e potenciação do diagnóstico e tratamento (Preparação para procedimentos médicos estressantes como: cirurgia, preparação para procedimentos médicos não cirúrgicos, preparação para a hospitalização)",
+   "onde": 82,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Alves e Eulálio (in ALVES, 2011) apresentam uma lista de atividades utilizadas na prevenção e intervenção terciária. Assinale a opção que NÃO apresenta uma atividade dessa lista.",
+   "alternativas": [
+    "Assistir os profissionais de saúde, cuidando dos cuidadores.",
+    "Fazer consulta/interconsulta com outras equipes de saúde.",
+    "Estimular as crianças ingressadas em UTI neonatal.",
+    "Elaborar, em conjunto com a equipe multiprofissional, programas de seguimento/adesão de tratamentos médicos.",
+    "Atuar nas urgências psicológicas através de plantões em serviços substitutivos aos hospitais psiquiátricos."
+   ],
+   "certa": 3,
+   "comentario": "A elaboração de programas de seguimento/adesão com a equipe multiprofissional aparece na lista do nível anterior, junto com o encaminhamento a especialistas e o uso da neuropsicologia (Trindade e Teixeira, 2007). As demais opções estão na lista terciária, inclusive os plantões em serviços substitutivos aos hospitais psiquiátricos (CAPS, Residências Terapêuticas, centros de dia para idosos), que costuma ser descartada por parecer atenção secundária.",
+   "trecho": "assistir os profissionais de saúde – cuidar dos cuidadores (REVISTA CIÊNCIA E PROFISSÃO, 2006 ); • fazer consulta/interconsulta com outras equipes de saúde; • desenvolver atividades com crianças (recreação, por exemplo); • preparar os enfermos para as cirurgias;",
+   "onde": 83,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com Antón e Méndez (1999, apud Alves e Eulálio (in ALVES, 2011)), as intervenções cirúrgicas são situações estressantes que implicam efeitos negativos ao funcionamento psicológico do enfermo. Sobre a preparação psicológica para cirurgias e as atividades do psicólogo hospitalar descritas no capítulo, assinale a opção correta.",
+   "alternativas": [
+    "A informação proporcionada antes da operação modifica as respostas cognitivas, mas não produz mudanças nas respostas psicofisiológicas.",
+    "A preparação para as cirurgias é atividade pouco corrente na assistência aos adultos, sendo empregada sobretudo na pediatria.",
+    "Com as crianças, as informações preparatórias são substituídas por técnicas de redução ou enfrentamento da ansiedade.",
+    "Yamamoto e Cunha (1998) descrevem como atividade própria do psicólogo hospitalar a preparação do paciente para a cirurgia, com o objetivo de reduzir o tempo de internação.",
+    "Com as crianças, somam-se às informações preparatórias um passeio pelo hospital e a apresentação dos equipamentos hospitalares, técnicas que objetivam desmistificar a hospitalização."
+   ],
+   "certa": 4,
+   "comentario": "Com as crianças também se usam informações preparatórias, às quais se somam o passeio pelo hospital e a apresentação dos equipamentos, para desmistificar a hospitalização e os procedimentos. A informação pré-operatória, segundo Antón e Méndez, pode mudar também as respostas psicofisiológicas, e a preparação é muito corrente com adultos. Yamamoto e Cunha (1998) citam a preparação para a readaptação após diagnóstico de câncer, SIDA ou outros, visando uma nova expectativa de vida.",
+   "trecho": "Somam-se às informações, por exemplo, um passeio pelo hospital, a apresentação dos equipamentos hospitalares utilizados nas assistências. Técnicas que objetivam desmistificar a hospitalização e os procedimentos a que se lhes submeterá.",
+   "onde": 79,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo Alves e Eulálio (in ALVES, 2011), uma boa atuação dos psicólogos em saúde pública/coletiva deve sopesar a adequação de cada ação a seu nível de atenção. Correlacione os níveis de atenção às suas características e assinale a opção que apresenta a sequência correta.\nNÍVEIS\nI- Primário\nII- Secundário\nIII- Terciário\nCARACTERÍSTICAS\n( ) Assistências guiadas prioritariamente pelas pesquisas dos processos psicossociais da saúde-doença, englobando também cuidados de pacientes hospitalizados para tratamentos de alta complexidade.\n( ) Intervenções que objetivam a saúde geral através de ações voltadas à promoção da saúde e à prevenção de enfermidades.\n( ) Intervenções voltadas às assistências especializadas de seguimento, em que a saúde mental tem sua maior expressão.\n( ) Seguimento de pacientes em tratamento quimioterápico e radioterápico.",
+   "alternativas": [
+    "(II) (I) (III) (III)",
+    "(III) (I) (II) (III)",
+    "(III) (II) (I) (III)",
+    "(I) (III) (II) (II)",
+    "(III) (I) (III) (II)"
+   ],
+   "certa": 1,
+   "comentario": "Nas considerações finais, a atenção primária visa a saúde geral (promoção e prevenção), a secundária volta-se às assistências especializadas de seguimento, onde a saúde mental tem maior expressão, e a terciária é guiada prioritariamente pela pesquisa, englobando a alta complexidade hospitalar. O seguimento de tratamento quimioterápico e radioterápico está na definição de prevenção terciária. A armadilha é pôr a saúde mental no terciário por associação com o hospital.",
+   "trecho": "que as intervenções de saúde primária objetivam a saúde geral através de ações voltadas à promoção da saúde e à prevenção de enfermidades; que as intervenções de saúde secundária devem voltar-se às assistências especializadas de seguimento",
+   "onde": 83,
+   "estilo": "CP-T"
+  }
+ ]
+}

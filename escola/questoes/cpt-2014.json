@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2014",
+ "cor": "AMARELA",
+ "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/45571/marinha-2014-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/GABARITO%20_CP-T-2014%20alterado.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato(2010), em relação à entrevista de seleção, é correto afirmar que:",
+   "alternativas": [
+    "a principal vantagem da entrevista não-diretiva é a alta consistência baseada, exclusivamente, na segurança do entrevistador.",
+    "a melhor construção do processo de entrevista e o treinamento dos entrevistadores são duas providências necessárias para melhorar o grau de confiança e de validade da entrevista.",
+    "por apresentar forte componente subjetivo e impreciso, a entrevista pessoal é aquela que menos influencia a decisão final a respeito dos candidatos.",
+    "a entrevista de seleção deve sempre se apresentar estruturada e com roteiro preestabelecido.",
+    "na entrevista não-diretiva o entrevistador não se preocupa com a sequência ou roteiro das perguntas e nem com o nível de profundidade que a entrevista pode alcançar."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "comentario": "Chiavenato aponta que a entrevista, embora tenha forte componente subjetivo, é a técnica que mais influencia a decisão final; para aumentar sua confiabilidade e validade, é preciso construir melhor o processo e treinar os entrevistadores. A C erra justamente ao dizer que ela é a que menos pesa na decisão. A entrevista não diretiva (livre) dispensa roteiro, mas isso reduz a consistência, ao contrário do que diz a A, e a E exagera ao dizer que o entrevistador nem se preocupa com a profundidade. A D erra no \"sempre\": há entrevistas padronizadas, semipadronizadas e livres."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "Em relação à abordagem da redução de danos, mencionada na Política do Ministério da Saúde para a Atenção Integral a Usuários de Álcool e outras Drogas (BRASIL, 2003), assinale a opção correta.",
+   "alternativas": [
+    "Tem a abstinência como único objetivo a ser alcançado, baseando-se na associação drogas/comportamento antissocial (álcool) ou criminoso (drogas ilícitas).",
+    "É uma estratégia criticada por não reconhecer a singularidade de cada usuário na definição da direção do seu tratamento.",
+    "Considera que tratar significa aumentar o grau de liberdade, de corresponsabilidade daquele que está se tratando.",
+    "Implica o estabelecimento de vínculo com os profissionais, porém, sem que estes tenham qualquer responsabilidade pelos caminhos a serem construídos pela vida do usuário.",
+    "Reconhece os usuários como um grupo homogêneo e, por isso, traça estratégias gerais a serem aplicadas a todos."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://www.youtube.com/watch?v=rPpcPcQ0qec",
+   "comentario": "(Cobra além deste material.) Na Política de 2003, a redução de danos parte da singularidade de cada usuário e entende que tratar é aumentar o grau de liberdade e de corresponsabilidade de quem se trata, sem impor a abstinência como meta única. A A descreve justamente o modelo que a política critica, e a B e a E invertem a lógica ao dizer que ela ignora a singularidade ou trata os usuários como grupo homogêneo. A D erra porque o vínculo implica corresponsabilidade do profissional pelos caminhos construídos com o usuário."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "Segundo Moscovici (2003), para o feedback tornar-se realmente um processo útil, ele precisa apresentar, tanto quanto possível, determinados requisitos. Assinale a opção que apresenta um desses requisitos.",
+   "alternativas": [
+    "Ser descritivo, ao invés de avaliativo.",
+    "Ser geral, ao invés de específico.",
+    "Ser compatível apenas com as necessidades do receptor.",
+    "Ser compatível apenas com as necessidades do comunicador.",
+    "Ser imposto, ao invés de solicitado."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "Entre os requisitos do feedback útil apresentados por Moscovici está ser descritivo e não avaliativo: relatar o comportamento observado e seu efeito, sem julgar a pessoa, reduz a defensividade de quem recebe. As outras opções invertem os requisitos: o feedback deve ser específico (não geral), compatível com as necessidades de ambos, comunicador e receptor (não de um só), e de preferência solicitado, não imposto."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "Gonçalves e Brandão (2004), destacam a importância da mediação familiar para o Poder Judiciário no Brasil. De acordo com os autores, assinale a opção INCORRETA.",
+   "alternativas": [
+    "O mediador deve ter o cuidado de não se deter na análise das determinações psíquicas do conflito do casal, pois corre o risco de prolongar o atendimento para além do tempo disponível no Judiciário.",
+    "A figura do mediador busca a resolução das controvérsias de forma pacífica, evitando o litígio e indo ao encontro de acordos que as partes possam compor entre si.",
+    "A mediação pode ser pública, privada ou ambos, desde que necessariamente envolva todos os pontos do divórcio e não se limite somente às questões de guarda da criança e de sua visitação.",
+    "Alguns juristas admitem que, em certas áreas judicativas, o tradicional processo litigioso não é o melhor meio para reivindicação efetiva dos direitos. O movimento de acesso à justiça encontra razões para caminhar em direção a formas alternativas de resolução de conflitos, entre elas, a mediação.",
+    "A prática da mediação é abordada por diversas teorias e técnicas, tendo elas em comum o objetivo de devolver ao casal a competência para gerar a própria solução do conflito."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A questão pede a INCORRETA: a mediação não precisa abranger todos os pontos do divórcio e pode tratar só de parte do conflito, como a guarda dos filhos e as visitas. As demais refletem a ideia central da mediação nos autores: resolução pacífica e consensual, construída pelas próprias partes, como alternativa ao processo litigioso. O mediador ajuda o casal a recuperar a competência para gerar a própria solução, sem se deter na análise psíquica do conflito, que caberia a uma psicoterapia."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "Para Faissal et al (2009), no estilo de descrição tradicional do perfil, o cargo é observado em função:",
+   "alternativas": [
+    "das tarefas que o compõe, independentemente dos valores e posicionamento estratégico da empresa no mercado.",
+    "dos conhecimentos, das habilidades e das atitudes necessários para fazer o trabalho.",
+    "somente a partir dos valores e do posicionamento estratégico da empresa no mercado.",
+    "dos desafios, das habilidades necessárias ao desempenho do cargo, assim como do posicionamento estratégico da empresa no mercado.",
+    "das pessoas com histórico de sucesso na atividade dentro ou fora da organização."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "No estilo tradicional de descrição do perfil, o cargo é visto pelas tarefas que o compõem, sem relação com os valores e o posicionamento estratégico da empresa. A B e a D descrevem estilos mais modernos, que olham o cargo pelas competências (conhecimentos, habilidades e atitudes) ou pelos desafios ligados à estratégia da empresa. A C isola a estratégia e esquece as tarefas, e a E toma como referência pessoas de sucesso na função, e não as tarefas do cargo."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "A teoria das necessidades de McClelland (apud ROBBINS, 2009), é considerada uma teoria contemporânea sobre a motivação. Assinale a opção que apresenta os três principais motivos ou necessidades no trabalho.",
+   "alternativas": [
+    "De realização, de segurança e de associação.",
+    "De realização, de poder e de associação.",
+    "De segurança, fisiológica e de associação.",
+    "De poder, fisiológica e de associação.",
+    "De realização, de feedback e de segurança."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "McClelland propõe três necessidades aprendidas que movem o comportamento no trabalho: realização (fazer melhor, superar padrões), poder (influenciar e controlar os outros) e associação ou afiliação (relações próximas e amistosas). Segurança e necessidades fisiológicas são níveis da hierarquia de Maslow, o que derruba A, C, D e E, e feedback não é uma necessidade da teoria."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "Em relação à mudança cultural nas organizações, de acordo com Robbins (2009), coloque V (verdadeiro) ou F (falso), nas afirmativas abaixo, assinalando a seguir a opção que apresenta a sequência correta.\n( ) Mesmo em condições favoráveis, os administradores não devem buscar executar mudanças imediatas ou radicais na cultura organizacional.\n( ) Quanto mais jovem a organização mais enraizada sua cultura. Desta forma, a comunicação de novos valores pode vir a desestabilizar a estrutura organizacional recém-criada, trazendo sérios riscos à sobrevivência da empresa.\n( ) Em culturas mais fracas, o processo de mudança constantemente vem acompanhado de uma reestruturação no quadro de funcionário, em virtude da dificuldade em promover a alocação dos novos valores culturais.\n( ) Uma crise em curso ou a ser criada representa um choque que desestabiliza o status quo e exige o questionamento da relevância da cultura vigente.\n( ) A seleção de uma pessoa que apresente um novo estilo de liderança, oriunda do mercado de trabalho e, portanto, não pertencente à estrutura da empresa, pode aumentar a chance de êxito na introdução de novos valores culturais.",
+   "alternativas": [
+    "(V) (V) (V) (F) (V)",
+    "(V) (F) (F) (V) (V)",
+    "(F) (F) (V) (V) (V)",
+    "(F) (V) (V) (V) (V)",
+    "(V) (F) (V) (V) (F)"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/4006/400638287004.pdf",
+   "comentario": "(Cobra além deste material.) Robbins lista como condições que favorecem a mudança cultural uma crise que abale o status quo, a chegada de uma liderança de fora com novos valores, uma organização jovem e pequena e uma cultura fraca; mesmo nessas condições, a mudança é lenta e não deve ser imediata ou radical (V, F, F, V, V). A segunda afirmativa inverte a ideia, porque quanto mais jovem a organização, menos enraizada é sua cultura. A terceira erra porque a cultura fraca facilita a mudança, em vez de exigir reestruturação do quadro de funcionários."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "De acordo com o modelo da Psicometria Clássica, descrito por Pasquali (2009), assinale a opção correta.",
+   "alternativas": [
+    "A grande tarefa desse modelo é eliminar totalmente qualquer erro.",
+    "O escore verdadeiro (V) é sempre idêntico ao escore bruto ou empírico (T).",
+    "Não há correlação entre o escore verdadeiro e o erro.",
+    "O desempenho do sujeito numa tarefa (item do teste) se explica em função de um conjunto de traços latentes.",
+    "Há correlação entre os erros cometidos num teste qualquer e num teste paralelo."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Na teoria clássica dos testes descrita por Pasquali, o escore observado (T) é a soma do escore verdadeiro (V) com o erro (E), e um dos pressupostos é que o erro não se correlaciona com o escore verdadeiro nem com os erros de um teste paralelo; por isso a E está errada. A B também erra, porque T só coincidiria com V se não houvesse erro, e o modelo não pretende eliminar o erro, mas estimá-lo e controlá-lo (A). A D descreve a Teoria de Resposta ao Item, que explica o desempenho no item por traços latentes."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "Assinale a opção que para Chiavenato (2010), apresenta uma vantagem e uma desvantagem da Avaliação 360°, respectivamente.",
+   "alternativas": [
+    "Facilidade de compreensão e utilização; o sistema é administrativamente simples para combinar todas as avaliações.",
+    "O sistema não requer treinamento dos avaliadores para funcionar bem; custo operacional elevado por exigir a assessoria de um especialista.",
+    "Avalia o desempenho excepcionalmente bom e excepcionalmente ruim; não provoca a retroação de dados, e tampouco permite comparações.",
+    "Enfatiza os clientes internos/externos e o espírito de equipe; as pessoas podem fazer conluio ou jogo para dar avaliação inválida para as outras.",
+    "Enfatiza a melhoria do desempenho e o alcance dos resultados; a retroação fornecida pelo entorno não favorece o autodesenvolvimento do avaliado."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "Na avaliação 360°, a pessoa é avaliada por todos ao seu redor (chefe, colegas, subordinados, clientes internos e externos), o que valoriza o cliente e o espírito de equipe; entre as desvantagens está o risco de conluio ou de \"jogo\" entre as pessoas para dar avaliações inválidas. A A e a B dizem o contrário do método, que é administrativamente complexo e exige treinar os avaliadores. A C não descreve a 360°, cuja essência é justamente a retroação, e a E erra ao dizer que o retorno do entorno não favorece o autodesenvolvimento."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato (2010), a seleção de pessoal comporta quatro modelos de tratamento. Qual é o modelo de tratamento que escapa da mera comparação com o cargo a ser ocupado e vai além, focalizando o abastecimento e provisão de competências para a organização?",
+   "alternativas": [
+    "Colocação.",
+    "Agregação de valor.",
+    "Seleção.",
+    "Classificação.",
+    "Reversão."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "Chiavenato descreve quatro modelos de tratamento na seleção: colocação (um candidato para uma vaga), seleção (vários candidatos para uma vaga), classificação (vários candidatos para várias vagas) e agregação de valor, que vai além da comparação com o cargo e busca abastecer a organização das competências de que ela precisa. Os três primeiros ainda se prendem ao cargo a ser ocupado, e \"reversão\" não é um dos modelos."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "Em relação ao Código de ética profissional do psicólogo, assinale a opção correta.",
+   "alternativas": [
+    "É dever do psicólogo prestar serviços profissionais em situações de calamidade pública ou de emergência, mesmo que em benefício pessoal.",
+    "Nos documentos que embasam as atividades realizadas em equipe multiprofissional, o psicólogo sempre registrará todas as informações que possui.",
+    "Em caso de extinção do serviço de Psicologia, o psicólogo responsável deverá destruir todos os arquivos confidenciais.",
+    "No atendimento à criança, ao adolescente ou ao interdito, deve ser comunicado aos responsáveis o estritamente essencial para se promoverem medidas em seu benefício.",
+    "O psicólogo poderá emprestar a leigos instrumentos e técnicas psicológicas, desde que supervisione o uso e responsabilize-se pelo material."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/12/Nota_0192444_SEI_CFP___0108451___Nota_Tecnica.pdf",
+   "comentario": "(Cobra além deste material.) Código de Ética (Res. CFP 010/2005), art. 13: no atendimento à criança, ao adolescente ou ao interdito, deve ser comunicado aos responsáveis o estritamente essencial para promover medidas em seu benefício. As outras erram: o art. 1º manda prestar serviços em calamidade ou emergência sem visar benefício pessoal; o art. 12 manda registrar nos documentos de equipe só as informações necessárias; o art. 15 manda dar destino aos arquivos confidenciais com o CRP, não destruí-los; e o art. 18 proíbe ceder ou emprestar a leigos instrumentos e técnicas psicológicas."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "Em relação ao Teste Palográfico, é correto afirmar que:",
+   "alternativas": [
+    "a produtividade é calculada somando-se o número de traços (palos) realizados em cada tempo de um minuto da 1ª parte (fase de treinamento) e da 2ª parte do teste.",
+    "o Nível de Oscilação Rítmica (NOR) é obtido dividindo-se o total das diferenças existentes entre cada um dos cinco intervalos consecutivos por 100.",
+    "valores muito baixos do Nível de Oscilação Rítmica (NOR entre 0 e 2,1 pontos) revelam alta irregularidade no rendimento do trabalho, com flutuações e instabilidade no desempenho da tarefa.",
+    "para se avaliar a produtividade, não é necessário consultar as normas referentes ao grau de escolaridade do examinando, mas a tabela referente à sua faixa etária.",
+    "a manutenção das margens é um indicador da capacidade organizadora do indivíduo e de como ele se adapta ao ambiente."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Palográfico, a disposição das margens é lida como indicador da capacidade de organização e do modo como a pessoa se adapta ao ambiente. A produtividade é calculada só na segunda parte (os cinco intervalos cronometrados), sem somar a fase de treino, o que derruba a A. O NOR resulta da soma das diferenças entre intervalos consecutivos multiplicada por 100 e dividida pelo total de palos (B errada), e NOR baixo indica ritmo regular, não instável (C errada). A D erra porque a escolaridade conta na interpretação da produtividade."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "Em relação às Escalas de Personalidade de Comrey (CPS), é correto afirmar que:",
+   "alternativas": [
+    "apresenta capacidade de avaliar, somente quantitativamente, diversos fatores da personalidade.",
+    "a principal característica do CPS e que o diferencia dos demais testes voltados a esse tipo de avaliação é a possibilidade de realização de aplicação individual ou coletiva.",
+    "a escala R-Tendenciosidade na Resposta é um poderoso recurso de verificação da consistência das respostas dos sujeitos e integra com a escala T-Confiança X Atitude Defensiva o critério de validação do CPS.",
+    "na escala C-Conformidade X Inconformidade Social os indivíduos que apresentam altos escores nesse fator de personalidade descreveram-se como sendo pessoas que acreditam mais na honestidade básica, fidedignidade e boas intenções dos outros.",
+    "apresenta capacidade de avaliação rápida e objetiva de diversos fatores da personalidade que ajuda os psicólogos a selecionarem candidatos e a realocarem, com maior eficiência e ajustamento, funcionários eventualmente incompatíveis, sob aspectos de personalidade, com suas funções atuais."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "As Escalas de Personalidade de Comrey são um inventário que avalia de forma rápida e objetiva vários fatores de personalidade, útil para selecionar candidatos e realocar funcionários incompatíveis com a função, como diz a E. A C erra porque as escalas de validação do CPS são a V (validade) e a R (tendenciosidade na resposta), e a T (Confiança x Atitude Defensiva) é um fator de personalidade. A D descreve quem pontua alto em T, não em C, e a possibilidade de aplicação individual ou coletiva não é o que distingue o CPS de outros inventários (B)."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Segundo Paim (1993), analise o exemplo a seguir citado por Bumke.\n\"Boa tarde! Sim, boa tarde, se a vida é tão doce como mel. Gosta também de açúcar? - fábrica de açúcar - a cana e corda - não quer enforcar-se? Você assassino - pai do assassino - o colarinho - o colarinho da camisa - branca como a neve é a inocência - ah, a ingênua inocência! (...)\".\nComo é denominada a perturbação do pensamento apresentada no trecho acima?",
+   "alternativas": [
+    "Pensamento vago.",
+    "Reificação.",
+    "Perseveração.",
+    "Incoerência.",
+    "Fuga de ideias."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "comentario": "O trecho de Bumke é exemplo clássico de fuga de ideias: o pensamento salta de uma ideia para outra por associações superficiais, de som ou de contiguidade (mel, açúcar, fábrica de açúcar, cana, corda, enforcar), perde a finalidade, mas cada elo ainda é compreensível, como é típico da mania. Na incoerência, a ligação entre as ideias se perde por completo e o discurso fica ininteligível. A perseveração é a repetição da mesma ideia ou palavra, e o pensamento vago é impreciso e pobre, sem esses saltos."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "Quanto ao desenvolvimento de pessoas, de acordo com Pacheco et al (2009), é correto afirmar que:",
+   "alternativas": [
+    "o processo de desenvolvimento das pessoas inclui o treinamento, mas não abrange o autodesenvolvimento, já que este é intrínseco a cada indivíduo.",
+    "uma vez realizado um aprendizado, o indivíduo está preparado para outros desafios, nos quais pode utilizar-se de novos aprendizados que sejam, exclusivamente, complementares aos propostos anteriormente.",
+    "o processo de desenvolvimento considera irrelevante que as pessoas estejam em lugares em conformidade com seus perfis, interesses e sonhos.",
+    "entende-se por desenvolvimento uma linha de crescimento que contempla diversos estágios em que um não retroage ao outro.",
+    "o desenvolvimento de pessoas se restringe à sala de aula e o papel do professor consiste em ampliar a visão de mundo e os processos cognitivos do indivíduo."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.youtube.com/watch?v=jEZ7mcdBow4",
+   "comentario": "Para Pacheco et al., desenvolvimento é uma linha de crescimento em estágios, em que uma etapa alcançada não retroage à anterior. As demais contrariam a ideia: o desenvolvimento inclui o autodesenvolvimento (A), não se limita a aprendizados complementares (B), considera importante colocar as pessoas em lugares compatíveis com seus perfis e interesses (C) e não se restringe à sala de aula (E)."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "De acordo com Goldstein (1993), citado por Spector (2010) no livro Psicologia nas Organizações, a avaliação das necessidades de treinamento deve considerar três níveis:",
+   "alternativas": [
+    "a organização, o trabalho e a pessoa.",
+    "a elaboração, a validação e o projeto.",
+    "os pensamentos, os sentimentos e os comportamentos.",
+    "a produção, a qualidade e a supervisão.",
+    "a assimilação, a acomodação e o ritmo de aprendizado."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "Goldstein propõe que a avaliação das necessidades de treinamento examine três níveis: a organização (onde o treinamento é necessário e se há apoio a ele), o trabalho ou tarefa (o que a função exige) e a pessoa (quem precisa ser treinado e em quê). As outras opções misturam etapas de construção de instrumentos (B), a tríade da terapia cognitiva (C), indicadores de produção (D) e conceitos de Piaget (E)."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "Um candidato ao realizar o Z-Teste (Técnica de Zulliger), forma coletiva, deu a seguinte resposta ao diapositivo I: \"Parece um inseto\"; e circulou toda a figura. No inquérito escreveu: \"um inseto devido aos contornos (cabeça, corpo e patas) e à cor preta\". Assinale a opção que classifica a resposta desse candidato, respectivamente, quanto à Localização, ao Determinante e ao Conteúdo.",
+   "alternativas": [
+    "Dd, CF, A",
+    "D,F±, Ad",
+    "G, FC', A",
+    "G, C'F, Ad",
+    "G, FC, A"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "A resposta usa a mancha inteira, então a localização é G, e \"inseto\" inteiro é conteúdo animal A, não Ad (parte de animal). O determinante é FC': a forma (os contornos) vem primeiro e a cor preta, acromática, entra como secundária. Por isso FC (cor cromática) e C'F (cor acromática predominando sobre a forma) não servem, e Dd ou D não correspondem à localização."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "Segundo Pasquali (2009), a validade de construto de um teste pode ser trabalhada sob vários ângulos. Como é denominada a técnica apresentada pelo autor que \"implica no cálculo das correlações de cada item individualmente com o restante do teste\"?",
+   "alternativas": [
+    "Erro de estimação.",
+    "Análise da consistência interna.",
+    "Análise fatorial.",
+    "Análise por hipótese.",
+    "Análise teórica dos itens."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Pasquali chama de análise da consistência interna a técnica de correlacionar cada item com o restante do teste: se o item mede o mesmo construto que o conjunto, deve correlacionar-se com o escore total. A análise fatorial, outro caminho para a validade de construto, busca os fatores comuns subjacentes aos itens, e a análise por hipótese testa predições teóricas sobre o construto. A análise teórica dos itens é feita por juízes, antes de o teste ser aplicado, e não envolve correlações."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "De acordo com Paim (1993), assinale a opção que corresponde a \"uma percepção deformada de um objeto real e presente\".",
+   "alternativas": [
+    "Alucinose.",
+    "Pseudoalucinação.",
+    "Alucinação.",
+    "Ilusão.",
+    "Delírio."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://www.youtube.com/watch?v=1fCmjabKTd8",
+   "comentario": "(Cobra além deste material.) Ilusão é a percepção deformada de um objeto real e presente, como tomar uma sombra por um vulto. Alucinação é a percepção sem objeto, e a pseudoalucinação não tem a nitidez e a projeção no espaço externo da percepção real. Alucinose é a alucinação que o próprio paciente reconhece como estranha, e o delírio é alteração do juízo, não da sensopercepção."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "De acordo com a Resolução do CFP N.º 007/2003, qual a modalidade de documento que \"certifica uma determinada situação ou estado psicológico, tendo como finalidade afirmar sobre as condições psicológicas de quem, por requerimento, o solicita\"?",
+   "alternativas": [
+    "Declaração.",
+    "Atestado psicológico.",
+    "Relatório.",
+    "Laudo psicológico.",
+    "Parecer psicológico."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://www.youtube.com/watch?v=zp6DEkDtCVQ",
+   "comentario": "O atestado psicológico certifica uma situação ou estado psicológico, afirmando sobre as condições psicológicas de quem o solicita. A declaração só informa fatos objetivos, como comparecimento e horário, sem falar de estado psicológico; relatório e laudo descrevem um processo de avaliação ou atendimento, e o parecer responde a uma consulta técnica. A Res. 007/2003 foi revogada pela Res. CFP 06/2019, que mantém o atestado com essa função."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "Cavalcanti et al. (2009), destaca que a Liderança Transformacional baseia-se em valores como justiça, dignidade, moral, liberdade, estando voltada para o crescimento e o desenvolvimento das pessoas e para a mudança de seus níveis de consciência. Assinale a opção que, segundo os autores, corresponde às características dos líderes transformacionais.",
+   "alternativas": [
+    "Estímulo intelectual, recompensa contingente, laissez-faire e autocrítica.",
+    "Autoconhecimento, habilidade de articulação, inspiração e laissez-faire.",
+    "Recompensa contingente, consideração individualizada, administração por exceção e integridade.",
+    "Carisma, inspiração, estímulo intelectual e consideração individualizada.",
+    "Habilidade de articulação, carisma, administração por exceção e inspiração."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "Os líderes transformacionais se caracterizam por carisma, inspiração, estímulo intelectual e consideração individualizada. Recompensa contingente e administração por exceção são marcas da liderança transacional, e laissez-faire é a ausência de liderança. Por isso A, B, C e E misturam traços de outros estilos."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "Um candidato participou de um processo seletivo para função de atendimento ao cliente e realizou o teste Pirâmides Coloridas de Pfister. Foi verificado que o candidato utilizou o branco e os tons esbranquiçados concentrados em uma camada inteira (corte) no preenchimento de uma pirâmide. Em outra, o candidato utilizou o branco no topo da Pirâmide (espaço 1), dando a impressão de uma pirâmide decepada (mutilação). Para Villemor-Amaral (1978), citado no livro \"As Pirâmides Coloridas de Pfister\" (VILLERMOR-AMARAL, 2012) esse fenômeno pode assinalar casos graves de:",
+   "alternativas": [
+    "esquizoidia ou esquizofrenia com suas implicações de fragilidade estrutural e prováveis alterações do pensamento.",
+    "histeria ou histeroidia com suas implicações de fragilidade estrutural e prováveis alterações da memória.",
+    "histeroide ou histeria sem implicações de fragilidade estrutural, mas com prováveis alterações do pensamento.",
+    "esquizoidia ou esquizofrenia com suas implicações de fragilidade estrutural com fortes indícios de alterações da atenção.",
+    "esquizoidia ou esquizofrenia com suas implicações de fragilidade estrutural com fortes indícios de alterações da orientação."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Segundo Villemor-Amaral, o branco em camada inteira (corte) e no topo da pirâmide, que fica com aspecto decepado (mutilação), pode assinalar casos graves de esquizoidia ou esquizofrenia, com fragilidade estrutural e prováveis alterações do pensamento. A B e a C trocam o quadro por histeria. A D e a E mantêm o quadro, mas trocam a função alterada por atenção e orientação, quando o que se associa a ele é a alteração do pensamento."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "Analise a situação abaixo.\n\"Um consultor especializado em pesquisa sobre o trabalho da polícia percebeu que, em uma comunidade, os policiais chegavam ao trabalho, entravam nos carros e ficavam dando voltas pela principal avenida da cidade durante todo turno. Esse trafegar incessante pouco tem a ver com o bom trabalho de policiamento, mas foi possível ao consultor entender esse comportamento quando descobriu que a municipalidade utilizava a quilometragem dos veículos policiais como base para a avaliação da eficácia do trabalho da instituição\" (SPECTOR, 2010).\nO autor utiliza o exemplo acima para ilustrar a importância dos critérios de avaliação. Assinale a opção que apresenta as três categorias de critérios mais comuns, de acordo com Spector (2010).",
+   "alternativas": [
+    "Estrutura da tarefa, comportamentos e traços.",
+    "Resultados grupais da tarefa, comunicação e estratégia.",
+    "Estratégia, comunicação e comportamentos.",
+    "Expectativas, estrutura da tarefa e resultados.",
+    "Resultados individuais da tarefa, comportamentos e traços."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Quais são os três elementos que, segundo Vasconcelos (2008), compõem o conflito interpessoal?",
+   "alternativas": [
+    "Relação interpessoal, mediação e arbitragem.",
+    "Conciliação, arbitragem e trama ou processo.",
+    "Negociação, relação interpessoal e arbitragem.",
+    "Problema objetivo, mediação e negociação.",
+    "Relação interpessoal, problema objetivo e trama ou processo."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para Vasconcelos, todo conflito interpessoal tem três elementos: a relação interpessoal entre as partes, o problema objetivo (a questão concreta em disputa) e a trama ou processo (a dinâmica pela qual o conflito se desenvolve). Mediação, conciliação, negociação e arbitragem não compõem o conflito: são formas de resolvê-lo, e por isso aparecem como distratores nas outras opções."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Em relação ao conceito de transferência apresentado por Freud (1996) em seu texto \"A Dinâmica da transferência\" (1912), coloque V (verdadeiro) ou F (falso) nas afirmativas abaixo e, em seguida, assinale a opção que apresenta a sequência correta.\n( ) A transferência, no tratamento analítico, aparece, desde o início, como a arma mais forte da resistência.\n( ) As características da transferência não devem ser atribuídas à neurose, mas sim à própria psicanálise.\n( ) Contratransferência é o termo utilizado para descrever a transferência negativa ou a transferência positiva de impulsos eróticos reprimidos.\n( ) Nas formas curáveis de psiconeurose, a transferência negativa é encontrada lado a lado com a transferência afetuosa, dirigidas simultaneamente para a mesma pessoa.\n( ) Os fenômenos da transferência prestam o inestimável serviço de tornar imediatos e manifestos os impulsos eróticos e ocultos do paciente.",
+   "alternativas": [
+    "(F) (V) (F) (V) (V)",
+    "(V) (F) (V) (F) (V)",
+    "(F) (V) (F) (V) (F)",
+    "(V) (F) (F) (V) (V)",
+    "(F) (V) (V) (F) (V)"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=kESXXd111h4",
+   "comentario": "Em \"A dinâmica da transferência\" (1912), Freud diz que a transferência aparece no tratamento como a arma mais forte da resistência, que nas formas curáveis de psiconeurose a transferência negativa coexiste com a afetuosa, dirigidas à mesma pessoa, e que ela presta o inestimável serviço de tornar imediatos e manifestos os impulsos ocultos (V, F, F, V, V). A segunda é falsa porque Freud atribui as características da transferência à neurose, e não à psicanálise. A terceira é falsa porque contratransferência é a reação do analista ao paciente, não um tipo de transferência do paciente."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "Considere a distribuição 4,4,4,5,5,6,6,9 e 20. Qual das opções abaixo apresenta a média, a moda e a mediana, respectivamente?",
+   "alternativas": [
+    "9, 4 e 6",
+    "7, 6 e 5",
+    "7, 4 e 5",
+    "5, 6 e 7",
+    "7, 6 e 6"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Somando os nove valores (4+4+4+5+5+6+6+9+20 = 63) e dividindo por 9, a média é 7. A moda é o valor que mais se repete (4, três vezes), e a mediana é o valor central da série ordenada, o 5º de 9 valores, que é 5. As opções com moda 6 confundem os valores que aparecem duas vezes, e as que dão mediana 6 ou média 9 erram a conta; note que o valor extremo 20 puxa a média para cima, mas não mexe na mediana."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato(2010), quando o processo seletivo se baseia em competências desejadas pela organização, a colheita de dados se concentra na definição das competências:",
+   "alternativas": [
+    "essenciais da organização.",
+    "funcionais.",
+    "grupais.",
+    "individuais.",
+    "acessórias da organização."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "comentario": "(Cobra além deste material.) Quando a seleção se baseia nas competências que a organização deseja, Chiavenato orienta a colheita de dados para a definição das competências individuais que o candidato precisa ter. As competências essenciais da organização são o ponto de partida estratégico, mas o que se busca e se mede no candidato é a competência individual que contribui para elas. \"Funcionais\", \"grupais\" e \"acessórias\" não são o foco que o autor indica."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "Em relação à psicoterapia breve, como Gilliéron (2004) denomina \"um conjunto de fatores que compreendem os determinantes socioculturais da psicoterapia e os parâmetros fixos do tratamento\"?",
+   "alternativas": [
+    "Hipótese.",
+    "Supervisão.",
+    "Intervenção.",
+    "Planejamento.",
+    "Enquadre."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "comentario": "(Cobra além deste material.) Gilliéron chama de enquadre o conjunto que reúne os determinantes socioculturais da psicoterapia e os parâmetros fixos do tratamento, como duração, frequência, posição face a face e pagamento. Hipótese, intervenção e planejamento são momentos do trabalho clínico que acontecem dentro desse enquadre, e supervisão é um recurso de formação do terapeuta."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "No que se refere ao Z-Teste (Técnica de Zulliger) é correto afirmar que:",
+   "alternativas": [
+    "as respostas localizadas no Detalhe comum (D) são interpretadas como indicativo da capacidade de análise e senso de observação, revelando sinais de exatidão, minúcias e busca de confiabilidade nas pequenas coisas.",
+    "as respostas de Movimento humano (M) são interpretadas como indicador de oposicionismo e ansiedade situacional.",
+    "a Forma (F%) é a expressão do controle geral que a pessoa tem sobre seus dinamismos psíquicos, como instintos, reações afetivo-emocionais e impulsivas.",
+    "as respostas de conteúdos animais expressam a necessidade de contato humano e de interação social e revela o funcionamento adequado do pensamento lógico em seus aspectos de precisão, coerência e organização.",
+    "o diapositivo I é considerado como estímulo que representa a capacidade do sujeito para lidar com suas reações afetivas e revela boa capacidade de relacionamento interpessoal."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Zulliger, como no Rorschach, o F% expressa o controle geral que a pessoa exerce, pela razão, sobre seus dinamismos psíquicos: impulsos, afetos e emoções. As outras trocam as interpretações: análise minuciosa e busca de exatidão nas pequenas coisas se ligam ao detalhe incomum (Dd), não ao detalhe comum (D), que indica senso prático. O movimento humano (M) se relaciona à vida interior e à empatia, não ao oposicionismo, e o conteúdo animal em excesso indica pensamento estereotipado, não necessidade de contato humano."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "Em relação ao genetograma e ao ciclo de vida familiar abordado por McGoldrick e Gerson no livro \"Mudanças no ciclo de vida familiar\" (CARTER e McGOLDRICK, 1995), assinale a opção correta.",
+   "alternativas": [
+    "Um dos problemas do genetograma é que ele não consegue mostrar relacionamentos prévios que podem interferir com o atual vínculo conjugal.",
+    "O genetograma permite antecipar os desenvolvimentos da próxima geração.",
+    "O genetograma não pode ser útil para predizer ou compreender as reações dos membros da família em diferentes pontos no ciclo da vida.",
+    "Quando se examina o genetograma é irrelevante observar as idades dos membros da família na medida em que se movem através do ciclo da vida.",
+    "O genetograma apresenta um retrato do ciclo familiar, omitindo o funcionamento e os relacionamentos da família."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "https://www.redalyc.org/pdf/2290/229017444003.pdf",
+   "comentario": "(Cobra além deste material.) Para McGoldrick e Gerson, o genetograma mostra a família ao longo de várias gerações e, por isso, ajuda a compreender e prever as reações dos membros em diferentes pontos do ciclo de vida e a antecipar desenvolvimentos da próxima geração. As outras negam o que o instrumento faz: ele registra relacionamentos prévios (A) e o funcionamento e os relacionamentos da família (E), e as idades dos membros são justamente o que permite situar a família no ciclo de vida (D), assim como a C nega sua utilidade preditiva."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Segundo Minicucci (2002), como é denominada a teoria criada por Festinger \"para explicar por que uma pessoa mantém dada opinião ou manifesta determinado comportamento\"?",
+   "alternativas": [
+    "Teoria da comparação social.",
+    "Teoria da representação sociométrica.",
+    "Teoria de campo.",
+    "Teoria da influência social.",
+    "Teoria da dissonância cognitiva."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=412",
+   "comentario": "Na teoria da dissonância cognitiva de Festinger, quando crenças, atitudes e comportamentos entram em conflito, a pessoa sente desconforto e tende a reduzi-lo mudando um deles, o que explica por que mantém certa opinião ou comportamento. A teoria da comparação social também é de Festinger, mas trata de como a pessoa se avalia comparando-se aos outros. A teoria de campo é de Lewin, e influência social é um tema amplo, não a teoria pedida."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "No livro de Chiavenato (2010), \"Gestão de Pessoas\", o modelo de Thomas, que retrata cinco estilos de administração de conflitos, é relacionado com a criação de diferentes resultados. Qual estilo tende a criar um conflito do tipo ganhar/perder e ocorre quando cada parte dá algo e ganha algo de valor, mas nenhuma parte fica totalmente satisfeita e os antecedentes para futuros conflitos ficam mantidos?",
+   "alternativas": [
+    "Competição.",
+    "Compromisso.",
+    "Evitação.",
+    "Acomodação.",
+    "Colaboração."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "No modelo de Thomas, o compromisso ocorre quando cada parte cede algo e ganha algo, sem que nenhuma fique totalmente satisfeita, o que mantém os antecedentes para conflitos futuros. A competição busca a vitória de um lado sobre o outro, a evitação foge do conflito e a acomodação atende ao outro em detrimento dos próprios interesses. A colaboração é o estilo que busca satisfazer plenamente as duas partes."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "De acordo com Zimerman (2000), em relação às contribuições de Bion para a teoria das grupoterapias, assinale a opção que corresponde ao termo que designa \"a aptidão de cada indivíduo combinar com os demais, em função dos fatores inconscientes de cada um\".",
+   "alternativas": [
+    "Valência.",
+    "Sinergia.",
+    "Identificação.",
+    "Grupo de trabalho.",
+    "Cultura do grupo."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf",
+   "comentario": "Bion chamou de valência a aptidão de cada indivíduo de combinar-se com os outros do grupo em função de seus fatores inconscientes, termo emprestado da química. Grupo de trabalho é o nível do grupo voltado à tarefa, de forma racional e consciente, em oposição aos supostos básicos. Cultura do grupo é o resultado do embate entre os desejos individuais e a mentalidade grupal, e sinergia e identificação não são o conceito descrito."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Qual o conceito de Vygotsky que, segundo Baeta(2006), \"ajuda muito para subsidiar as avaliações diagnósticas, fazer o planejamento das atividades e principalmente compreender que a turma não é um todo homogêneo, e as atividades, o modo de dar aula, deve considerar a heterogeneidade sempre presente\"?",
+   "alternativas": [
+    "Zona de Desenvolvimento Proximal.",
+    "Zona de Assimilação Cognitiva.",
+    "Zona de Acomodação Proximal.",
+    "Zona de Desenvolvimento Principal.",
+    "Zona de Equilibração Cognitiva."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+   "comentario": "A zona de desenvolvimento proximal de Vygotsky é a distância entre o que a criança faz sozinha (desenvolvimento real) e o que consegue fazer com a ajuda de alguém mais experiente (desenvolvimento potencial). Como cada aluno está num ponto diferente, o conceito leva o professor a considerar a heterogeneidade da turma. Assimilação, acomodação e equilibração são conceitos de Piaget, e \"zona de desenvolvimento principal\" não existe na teoria."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Analise a tabela a seguir.\n[Tabela com colunas ESCOLA, MÉDIA ARITMÉTICA e DESVIO PADRÃO: AMARELA 4,34 e 2,49; AZUL 3,71 e 2,12; BRANCA 4,94 e 0,94; VERDE 7,08 e 1,73; DOURADA 5,37 e 3,09]\nPor conta do baixo desempenho obtido pelos alunos no Exame Nacional do Ensino Médio (ENEM), o prefeito de uma cidade do interior do país pediu que sua Secretaria de Educação realizasse um levantamento sobre a qualidade de ensino das cinco escolas existentes denominadas Amarela, Azul, Branca, Verde e Dourada. Desta forma, todos os alunos do último ano do ensino médio, foram submetidos a uma prova de conhecimentos. A tabela acima ilustra os resultados obtidos por cada escola em termos de média aritmética e desvio padrão. Levando-se em conta os dados apresentados, qual escola apresentou-se mais homogênea?",
+   "alternativas": [
+    "Amarela.",
+    "Dourada.",
+    "Branca.",
+    "Verde.",
+    "Azul."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Homogeneidade se mede pela dispersão: quanto menor o desvio padrão, mais próximas da média estão as notas, e a Branca tem o menor (0,94). Mesmo pelo coeficiente de variação (desvio dividido pela média), a Branca segue a mais homogênea, com cerca de 0,19 contra cerca de 0,24 da Verde. A Verde tem a maior média, o que fala de desempenho e não de homogeneidade, e a Dourada, com o maior desvio, é a mais heterogênea."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "A Bateria Fatorial de Personalidade (BFP) foi criada com base em itens de escalas previamente construídas que avaliam individualmente os cinco fatores: neuroticismo, extroversão, socialização, realização e abertura. Assinale a opção que apresenta as quatro facetas do fator neuroticismo.",
+   "alternativas": [
+    "pró-sociabilidade, liberalismo, altivez e depressão.",
+    "vulnerabilidade, instabilidade, passividade e depressão.",
+    "pró-sociabilidade, liberalismo, altivez e instabilidade.",
+    "amabilidade, vulnerabilidade, depressão e instabilidade.",
+    "liberalismo, vulnerabilidade, pró-sociabilidade e ponderação."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Na BFP, o neuroticismo se divide em quatro facetas: vulnerabilidade, instabilidade emocional, passividade/falta de energia e depressão. Amabilidade e pró-sociabilidade são facetas da socialização, liberalismo é faceta da abertura, altivez é da extroversão e ponderação é da realização. Por isso todas as outras opções misturam facetas de outros fatores."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "De acordo com Cunha(2000), quanto ao aspecto formal, as entrevistas podem ser divididas em:",
+   "alternativas": [
+    "estruturadas, semiestruturadas e de livre estruturação.",
+    "anamnese, triagem e diagnóstica.",
+    "anamnese, diagnóstica e livre estruturação.",
+    "diagnóstica-estrutural, semidiagnóstica e diagnóstica.",
+    "estruturada, diagnóstica e triagem."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en",
+   "comentario": "(Cobra além deste material.) Em Cunha, quanto ao aspecto formal, as entrevistas se dividem em estruturadas, semiestruturadas e de livre estruturação, conforme o grau de padronização das perguntas e da condução. Anamnese, triagem e entrevista diagnóstica são classificações pela finalidade da entrevista, não pela forma. Por isso B, C, D e E misturam os dois critérios."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Em relação às Técnicas de Coleta de Informações para Análise do Trabalho, em Spector (2010), assinale a opção que apresenta, respectivamente, uma vantagem e uma limitação da Técnica de Observação dos Funcionários no Trabalho.",
+   "alternativas": [
+    "Eficaz e barato; fornece uma visão totalmente subjetiva do trabalho.",
+    "Fácil de quantificar e analisar estatisticamente; não mostra o contexto em que as tarefas são feitas.",
+    "Mostra as diferenças entre os encarregados no mesmo trabalho; ignora o contexto do trabalho.",
+    "Fácil de quantificar e analisar estatisticamente; exige longos treinamentos do analista.",
+    "Fornece uma visão relativamente objetiva do trabalho; demorado."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf",
+   "comentario": "(Cobra além deste material.) Para Spector, observar os funcionários no trabalho dá ao analista uma visão relativamente objetiva das tarefas, mas é demorado. Ser fácil de quantificar e analisar estatisticamente é vantagem dos questionários, não da observação, o que derruba B e D. A A contradiz o método ao chamá-lo de totalmente subjetivo, e a C erra ao dizer que a observação ignora o contexto, que é justamente o que ela permite ver."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "De acordo com Robbins (2009), qual a abordagem que encoraja a ocorrência de conflitos, por acreditar que um grupo harmonioso, pacífico, tranquilo e cooperativo está na iminência de tornar-se estático, apático, incapaz de responder à necessidade de mudança e inovação e que, portanto, os líderes precisam ser encorajados a sustentar um nível mínimo constante de contestação, o suficiente para manter o grupo ativo, autocrítico e criativo?",
+   "alternativas": [
+    "Visão Tradicional.",
+    "Visão de Relações Humanas.",
+    "Visão Integralista.",
+    "Visão Interacionista.",
+    "Visão Bilateral."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "Robbins descreve três visões do conflito: a tradicional, que o vê como sempre nocivo e a ser evitado; a de relações humanas, que o vê como natural e inevitável nos grupos; e a interacionista, que o encoraja por acreditar que o grupo harmonioso demais fica estático e que um nível mínimo de conflito mantém o grupo autocrítico e criativo. \"Integralista\" e \"bilateral\" não fazem parte dessa classificação."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Em relação aos Componentes da Cultura Organizacional, Chiavenato (2010) destaca que toda cultura se apresenta em três diferentes níveis. Como se denomina o primeiro nível que se refere a todas as coisas ou eventos que podem indicar aos indivíduos visual e auditivamente como é a cultura da organização?",
+   "alternativas": [
+    "Pressuposições Básicas.",
+    "Valores Compartilhados.",
+    "Artefatos.",
+    "Linguagem.",
+    "Ação Traduzida."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=AjgMgRMpKc0",
+   "comentario": "(Cobra além deste material.) Chiavenato, com base em Schein, descreve três níveis da cultura: os artefatos, o nível mais visível (o que se vê e se ouve, como ambiente físico, rituais, histórias e vestuário), os valores compartilhados e as pressuposições básicas, o nível mais profundo e inconsciente. Linguagem é um exemplo de artefato, não um nível, e \"ação traduzida\" não faz parte do modelo."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "Segundo Villemor-Amaral (2012), o aspecto formal nas Pirâmides Coloridas de Pfister constitui um dos elementos fundamentais da análise e é importante por indicar as possibilidades de controle racional que um indivíduo tem sobre as emoções e afetos. Assinale a opção que apresenta o aspecto formal considerado pela autora como mais sofisticado, pois envolve não apenas a noção da disposição horizontal das camadas, mas também uma possível inter-relação entre estas, levando em conta o plano vertical da pirâmide.",
+   "alternativas": [
+    "Tapetes.",
+    "Formações.",
+    "Estruturas.",
+    "Matizes.",
+    "Amplitudes."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Villemor-Amaral considera as estruturas o aspecto formal mais sofisticado do Pfister, porque, além da disposição horizontal das camadas, envolvem a inter-relação entre elas no plano vertical da pirâmide. Os tapetes são o aspecto formal mais primitivo e as formações organizam camadas horizontais, sem essa integração vertical. Matizes e amplitude não são aspectos formais, mas outros indicadores do teste."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "Gilliéron (2004) aponta que, atualmente, todos os autores interessados em formas breves de psicoterapia \"reveladora\", estão de acordo quanto a alguns pontos. Assinale a opção que apresenta um desses pontos.",
+   "alternativas": [
+    "Convém limitar-se a um aspecto particular do sofrimento do paciente, centrar-se, por exemplo, em um sintoma.",
+    "Não é indicado dizer ao paciente, desde logo, que o tratamento terá duração limitada.",
+    "Adotar, desde o início, uma atitude menos ativa, priorizando a escuta e evitando qualquer interpretação até a psicoterapia estar bem avançada.",
+    "Colocar o paciente sobre um divã ou similar, de modo a evitar o contato face a face e, assim, facilitar seu processo associativo.",
+    "Aumentar a frequência das sessões ao máximo possível a fim de intensificar a psicoterapia e compensar sua brevidade."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "comentario": "(Cobra além deste material.) Gilliéron aponta como consenso entre os autores das psicoterapias breves reveladoras limitar o trabalho a um aspecto particular do sofrimento, um foco, como um sintoma ou um conflito central. As outras opções contrariam esse consenso: o paciente é informado desde o início de que o tratamento terá duração limitada, o terapeuta adota postura mais ativa e interpreta cedo, e o atendimento é face a face. Aumentar ao máximo a frequência também não faz parte do modelo, que em geral trabalha com sessões espaçadas."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Segundo Bock (2006), na proposta de orientação profissional sócio-histórica, o ponto de partida da escolha profissional é:",
+   "alternativas": [
+    "a mensuração das aptidões do indivíduo.",
+    "o diagnóstico do indivíduo a partir de sua história de vida.",
+    "a identificação do padrão de personalidade.",
+    "a imagem construída pela pessoa em relação à profissão.",
+    "a compreensão do contexto social em que está inserido o sujeito."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.youtube.com/watch?v=GZkzw6MSfxc",
+   "comentario": "Na orientação profissional sócio-histórica de Bock, a escolha não é vista como expressão de aptidões ou de traços de personalidade, por isso A e C, típicas do modelo de traço e fator, estão erradas, e a B foca no diagnóstico individual, próprio da abordagem clínica. Para a banca, o ponto de partida do processo é a imagem que a pessoa construiu da profissão, que é social e historicamente produzida e que a orientação ajuda a examinar. A compreensão do contexto social (E) atravessa toda a abordagem, mas a banca não a tomou como ponto de partida da escolha."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "De acordo com Baeta (2006), Piaget menciona quatro períodos de desenvolvimento. Ainda conforme a autora, qual deles \"se caracteriza basicamente pela subordinação do real ao possível, obtida pela dedução necessária de hipóteses formuladas graças à combinatória de operações que se tornaram independentes do concreto e consequentemente alcançaram flexibilidade máxima\"?",
+   "alternativas": [
+    "Período Pré-Operacional.",
+    "Período Proposicional.",
+    "Período Operacional Concreto.",
+    "Período Sensório-Motor.",
+    "Período Interacionista."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://periodicos.pucpr.br/psicologiaargumento/article/download/23749/pdf/50989",
+   "comentario": "(Cobra além deste material.) O período descrito é o das operações formais, que Baeta chama de proposicional: o adolescente raciocina sobre hipóteses e possibilidades, subordinando o real ao possível, com operações independentes do concreto. No operacional concreto as operações ainda dependem de objetos concretos, o pré-operacional é marcado pelo pensamento simbólico e egocêntrico e o sensório-motor pela inteligência prática. \"Interacionista\" não é um período de Piaget."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Em seu texto \"Observações sobre o amor transferencial\" (1915[1914]), Freud trata das dificuldades que o analista pode encontrar, no manejo da transferência, quando se depara com o caso \"em que uma paciente demonstra, mediante indicações inequívocas, ou declara abertamente, que se enamorou do médico que a está analisando\". Com relação a esse enamoramento da paciente, segundo o autor, cabe ao médico/analista:",
+   "alternativas": [
+    "permitir que a necessidade e anseio da paciente nela persistam, a fim de poderem servir de forças que a incitem a trabalhar e efetuar mudanças.",
+    "instigar a paciente a suprimir, renunciar ou sublimar seus instintos, no momento em que ela admite a transferência erótica.",
+    "entender que o enamoramento da paciente é induzido por características pessoais do analista, não apresentando qualquer relação com o processo analítico.",
+    "interromper o tratamento o quanto antes, a fim de evitar que este provoque maiores danos ao psiquismo da paciente.",
+    "compreender que, diferentemente de um amor genuíno, o amor de transferência exibe apenas características novas, originadas na situação atual."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.redalyc.org/pdf/2820/282021763014.pdf",
+   "comentario": "(Cobra além deste material.) Em \"Observações sobre o amor transferencial\", Freud recomenda que o analista não satisfaça nem reprima o amor da paciente: deve deixar que a necessidade e o anseio persistam, como forças que a impulsionem ao trabalho e à mudança (a regra da abstinência). Exigir que ela suprima ou sublime os instintos (B) seria inútil, e interromper o tratamento (D) só levaria a paciente a repetir a situação com outro analista. Freud também afirma que o enamoramento é induzido pela situação analítica, não pelos encantos do analista (C), e que o amor transferencial repete padrões infantis, não sendo feito só de traços novos (E)."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Considerando o Fenômeno Motivacional, de acordo com Cavalcanti et al. (2009), qual das opções abaixo se refere especificamente à Teoria da Equidade?",
+   "alternativas": [
+    "As pessoas concentram seus esforços em direção a objetivos, de forma que o estabelecimento de metas energiza um indivíduo, direcionando seus pensamentos para uma finalidade. Os objetivos, portanto, devem fazer sentido para os indivíduos e não entrar em conflito com seus valores pessoais.",
+    "As pessoas são influenciadas por necessidades diferentes, em momentos diferentes, dependendo da situação, que podem ser de três tipos: realização, afiliação e poder. Contudo, cada indivíduo possui uma tendência dominante para uma determinada necessidade, desenvolvida ao longo da vida, a partir de suas história e experiência.",
+    "As pessoas necessitam saber o quanto estão avançando em relação ao alcance das metas. Por isso, esperam receber retornos precisos sobre seu desempenho a fim de que possam monitorar seu progresso e ajustar sua metodologia de trabalho no sentido de obter uma melhor recompensa.",
+    "As pessoas se empenham quando tiverem como resultado situações bastante desejadas, tais como reconhecimento, prêmios, promoções. Assim, elas valorizam a recompensa e acreditam que um esforço adicional as levariam a um desempenho melhor e que o desempenho melhor resultará em recompensas maiores.",
+    "As pessoas não estão apenas interessadas nas recompensas absolutas que recebem pelo seu trabalho, e são sensíveis às diferenças relativas entre seus pares, desta forma, comparam a relação entre as suas contribuições ao trabalho e as recompensas recebidas com a relação entre as contribuições e recompensas de pessoas semelhantes."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "A teoria da equidade diz que as pessoas comparam a relação entre suas contribuições e recompensas com a de pessoas semelhantes, e se motivam ou desmotivam conforme percebam justiça nessa comparação. A A descreve a teoria do estabelecimento de metas, a B a teoria das necessidades de McClelland e a C o papel do retorno sobre o desempenho dentro da teoria de metas. A D descreve a teoria da expectativa."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato (2010), a avaliação dos resultados do recrutamento é importante para aferir se esse processo está realmente cumprindo a sua função e a que custo. Considere uma empresa X que utiliza o número ou percentagem de: cargos preenchidos; cargos preenchidos dentro do tempo normal; cargos preenchidos a custos baixos (custo de admissão); cargos preenchidos por pessoas que permaneçam por mais de um ano na empresa e cargos preenchidos por pessoas que estão satisfeitas com suas novas posições. Desta forma, assinale a opção que indica qual é a medida de critério utilizada pela empresa X para avaliar seu recrutamento?",
+   "alternativas": [
+    "Global.",
+    "Orientado para o recrutador.",
+    "Orientado para o método de recrutamento.",
+    "Orientado para o mercado de trabalho.",
+    "Sintético."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "",
+   "comentario": "Chiavenato divide as medidas de avaliação do recrutamento em globais, orientadas para o recrutador e orientadas para o método de recrutamento. As globais olham o resultado do processo como um todo: número ou percentual de cargos preenchidos, preenchidos no prazo, a baixo custo, por pessoas que ficam mais de um ano e que estão satisfeitas, exatamente o caso da empresa X. As orientadas para o recrutador avaliam o desempenho de cada recrutador, e as orientadas para o método comparam fontes e meios de recrutamento."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Em relação aos serviços de atenção psicossocial apresentados por Amarante (2008), assinale a opção INCORRETA.",
+   "alternativas": [
+    "Devem ter uma estrutura flexível para que não se tornem espaços burocratizados, pois tais atitudes representam que estariam deixando de lidar com pessoas e sim com as doenças.",
+    "Devem ser lugares onde a crise possa ser acolhida e, por isso, pode ser que tenham de oferecer leitos de suporte nos quais as pessoas possam ser internadas por um longo período.",
+    "Procuram dispor de operadores de diversas categorias profissionais, muitas consideradas 'externas' à área da saúde, tais como músicos, artistas plásticos, etc.",
+    "Devem procurar desenvolver ao máximo suas habilidades em atuar no território, o qual não se reduz ao espaço geográfico.",
+    "Devem sair da sede do serviço e buscar na sociedade vínculos que complementem e ampliem os recursos existentes."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://laps.ensp.fiocruz.br/arquivos/documentos/19",
+   "comentario": "A questão pede a INCORRETA: para Amarante, os serviços de atenção psicossocial devem acolher a crise, mas os leitos de suporte servem a acolhimentos breves, não a internações por longo período, que reproduziriam a lógica manicomial. As demais descrevem bem o modelo: estrutura flexível e não burocratizada, equipe com profissionais de fora da saúde, como artistas e músicos, atuação no território entendido como mais que espaço geográfico e busca de vínculos e recursos na comunidade."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "No Questionário de Avaliação Tipológica (QUATI), baseado na tipologia Junguiana, são consideradas funções perceptivas de receber a informação:",
+   "alternativas": [
+    "Introversão (I) e Sensação (Ss).",
+    "Pensamento (Ps) e Intuição (In).",
+    "Sensação (Ss) e Pensamento (Ps).",
+    "Intuição (In) e Sensação (Ss).",
+    "Sentimento (St) e Sensação (Ss)."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Na tipologia de Jung usada pelo QUATI, sensação e intuição são as funções perceptivas, ligadas a como a pessoa recebe a informação, enquanto pensamento e sentimento são as funções de julgamento, ligadas a como ela decide. Introversão é uma atitude, não uma função, por isso a A está errada, e B, C e E misturam funções de julgamento com as de percepção."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Spector (2010) destaca que \"métodos diferentes podem ser utilizados para conduzir uma análise de trabalho; nenhum deles se destaca por ser superior aos outros, cada método tem suas próprias vantagens e limitações\". Dentre as opções abaixo, qual apresenta, segundo o autor, os quatro métodos mais populares de Análise do Trabalho?",
+   "alternativas": [
+    "Inventário dos componentes do trabalho, análise funcional do trabalho, questionário de análise de posição e inventário das tarefas.",
+    "Análise funcional do trabalho, formulário de classificação por gráficos, escala padrão mista e inventário das tarefas.",
+    "Escala padrão mista, formulário de classificação por gráficos, inventário dos componentes do trabalho e questionário de análise do comportamento.",
+    "Questionário de análise do comportamento, análise funcional do processo, escala padrão mista e inventário de atitudes.",
+    "Escala padrão mista, questionário de análise de posição, formulário de classificação mista e inventário dos componentes do trabalho."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://www.youtube.com/watch?v=NtEbyak5Uac",
+   "comentario": "(Cobra além deste material.) Spector cita como os quatro métodos mais populares de análise do trabalho o Inventário dos Componentes do Trabalho, a Análise Funcional do Trabalho, o Questionário de Análise de Posição e o Inventário de Tarefas. Escala padrão mista e formulário de classificação por gráficos são formatos de avaliação de desempenho, não de análise do trabalho, o que elimina B, C e E. \"Questionário de análise do comportamento\" e \"inventário de atitudes\" não fazem parte da lista, o que derruba a D."
+  }
+ ]
+}

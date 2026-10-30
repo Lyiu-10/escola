@@ -1,0 +1,339 @@
+[
+ {
+  "enunciado": "O território brasileiro está contido na Plataforma Americana, que é uma das três grandes unidades geológicas da América do Sul. Essa Plataforma abrange três vastos escudos cristalinos. Assinale a alternativa que apresenta esses três escudos.",
+  "alternativas": [
+   "das Guianas, do Parnaíba e do Paraná",
+   "Atlântico, Amazônico e do Parnaíba",
+   "do Paraná, Brasil Central e Amazônico",
+   "Brasil Central, Atlântico e das Guianas",
+   "do Parnaíba, Amazônico e do Paraná"
+  ],
+  "certa": 3,
+  "comentario": "Os três escudos cristalinos da Plataforma Sul-Americana no Brasil são o das Guianas, o Brasil Central e o Atlântico. As outras alternativas misturam escudos com bacias sedimentares (Parnaíba, Paraná).",
+  "fonte": "EsPCEx 2010, Geografia, questão 29 (modelo B)",
+  "prova": "EsPCEx 2010",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/prova_fis_qui_geo_his_2010-A0x3O34jPoSyVaRK.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/gabarito_concurso_espcex_2010-AE0EnE2xa8ip8P32.pdf"
+ },
+ {
+  "texto": "A Terra possui cerca de 4,6 bilhões de anos. Nosso planeta passou e continua passando por diversas transformações. Agentes endógenos e exógenos agiram ao longo das eras geológicas e determinaram as formas da superfície terrestre. As estruturas geológicas emersas da Terra são caracterizadas pela origem e idade das rochas, que podem ser classificadas em escudos cristalinos, dobramentos modernos e bacias sedimentares.\nI – Escudos cristalinos, também denominados de crátons, são encontrados nas áreas de consolidação da crosta terrestre na formação mais recente do tempo geológico. São constituídos de minerais metálicos e não metálicos.\nII – Dobramentos modernos apresentam elevadas altitudes e forte instabilidade tectônica, possuem formação relativamente recente no tempo geológico, como por exemplo as Cordilheiras dos Andes e do Himalaia.\nIII – Bacias sedimentares são áreas de depressão formadas por fragmentos minerais e sedimentos orgânicos. Nestes locais podem ser encontradas jazidas de petróleo e de gás natural.\nDas afirmações acima está(ão) correta(s) apenas",
+  "enunciado": "Sobre as estruturas geológicas é correto afirmar que:",
+  "alternativas": [
+   "I.",
+   "I e III.",
+   "III.",
+   "II e III.",
+   "I e II."
+  ],
+  "certa": 3,
+  "comentario": "Dobramentos modernos (Andes, Himalaia) têm altitudes elevadas e instabilidade tectônica; bacias sedimentares são depressões com sedimentos e podem conter petróleo e gás. A afirmação I erra: os escudos cristalinos são as áreas mais antigas, não as mais recentes.",
+  "fonte": "EsPCEx 2022, Geografia, questão 24 (modelo D)",
+  "prova": "EsPCEx 2022",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-prova-dia-2-modelo-d-mp8MbrL09Gs0qWLw.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-gabarito-2-dia-YD0roNKn9Gu3M788.pdf"
+ },
+ {
+  "texto": "As consequências do fenômeno El Niño ocorrem de forma diferenciada sobre o espaço brasileiro. Em algumas áreas, ocorrem chuvas acima da média histórica, enquanto em outras a quantidade de chuvas diminui. Há outras áreas, entretanto, que não sofrem os efeitos desse fenômeno, mantendo as mesmas médias históricas.",
+  "enunciado": "Sobre os efeitos do El Niño nas chuvas sobre o território brasileiro, podemos afirmar que esse fenômeno",
+  "alternativas": [
+   "intensifica as chuvas na Amazônia e provoca estiagem prolongada na Região Sul.",
+   "mantém as chuvas com as mesmas médias históricas nas Regiões Sul e Sudeste.",
+   "provoca precipitações acima da média na Região Sul, com enchentes e inundações anormais durante o verão.",
+   "acarreta chuvas abaixo da média no Sertão nordestino e chuvas acima da média em toda a Amazônia.",
+   "provoca grande estiagem na Região Sul e eleva as médias pluviométricas na Região Nordeste."
+  ],
+  "certa": 2,
+  "comentario": "Nos eventos de El Niño o Sul do Brasil recebe chuva acima da média, enquanto o Norte e o Nordeste tendem a ter menos chuva. As demais alternativas invertem esses efeitos.",
+  "fonte": "EsPCEx 2010, Geografia, questão 33 (modelo B)",
+  "prova": "EsPCEx 2010",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/prova_fis_qui_geo_his_2010-A0x3O34jPoSyVaRK.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/gabarito_concurso_espcex_2010-AE0EnE2xa8ip8P32.pdf"
+ },
+ {
+  "texto": "Na Serra do Mar, na região Sudeste do Brasil, durante o verão, ocorrem deslizamentos de terra, causando prejuízos e perdas humanas. Esses deslizamentos, em grande medida, são desencadeados por intensas chuvas __________________, que decorrem do movimento ascensional forçado da umidade oceânica, oriunda da massa de ar _______________, pelas escarpas litorâneas. Ao atingir elevadas altitudes, essa massa de ar perde temperatura, provocando condensação do vapor e consequente precipitação.",
+  "enunciado": "Assinale a alternativa cujos termos completam correta e respectivamente as lacunas acima:",
+  "alternativas": [
+   "orográficas - Tropical atlântica",
+   "frontais - Polar atlântica",
+   "convectivas - Equatorial atlântica",
+   "orográficas - Polar atlântica",
+   "frontais - Tropical atlântica"
+  ],
+  "certa": 0,
+  "comentario": "Chuva orográfica é a que se forma quando o ar úmido vindo do oceano é forçado a subir a escarpa; no verão, a massa que traz essa umidade ao litoral do Sudeste é a Tropical atlântica. Frontal seria a chuva associada ao encontro com a massa Polar.",
+  "fonte": "EsPCEx 2017, Geografia, questão 26 (modelo D)",
+  "prova": "EsPCEx 2017",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2017-prova-dia-2-modelo-d-YZ9ME9bo5wCqKOxe.pdf",
+  "gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/55750/exercito-2017-espcex-cadete-do-exercito-2-dia-gabarito.pdf"
+ },
+ {
+  "texto": "O Brasil é um país de dimensões continentais com uma vasta diversidade climática. Isso favorece a heterogeneidade da nossa vegetação, desde florestas tropicais a campos naturais. Apesar das intensas atividades antrópicas ao longo dos séculos, os biomas brasileiros ainda são elementos marcantes na paisagem.\nI – A Floresta Amazônica é a maior floresta tropical do mundo. Em seu relevo predominam planícies e planaltos de baixas altitudes e apresentam 3 (três) substratos de vegetação: mata de terra firme, mata de igapó e mata de várzea. Com solos profundos e alta fertilidade que proporciona uma rica biodiversidade.\nII – A Mata Atlântica possui uma formação muito densa e uma rica biodiversidade. Originalmente cobria, ao longo do litoral, uma área desde o Rio Grande do Norte até o Rio Grande do Sul e alargando-se para interior de Minas Gerais e São Paulo.\nIII – A Caatinga predomina em clima semiárido. A vegetação é xerófila, com folhas pequenas e estreitas, árvores retorcidas e arbustos espinhosos. Rios intermitentes e solos rasos são características desse bioma.\nIV – No Cerrado, nascem curso de água que escoam para as bacias dos rios Amazonas, Tocantis, Parnaíba, São Francisco, Paraná e Paraguai. A vegetação é adaptada ao clima tropical, com chuvas abundantes no verão e períodos de seca no inverno.\nV – Os Pampas ou campos naturais têm formações rasteiras ou herbáceas constituídas por gramíneas que atingem até 60 cm de altura. O relevo é caracterizado por ser acidentado e com presença de escarpas.",
+  "enunciado": "Sobre os biomas e formações vegetais do Brasil, pode-se afirmar que:",
+  "alternativas": [
+   "II, III e IV.",
+   "I, II e III.",
+   "I, III e V.",
+   "I, III e IV.",
+   "II, III e V."
+  ],
+  "certa": 0,
+  "comentario": "A Mata Atlântica, a Caatinga e o Cerrado estão descritos corretamente. A I erra ao falar em solos férteis na Amazônia (são em geral pobres), e a V erra ao descrever o relevo dos Pampas como acidentado com escarpas (é de coxilhas, suavemente ondulado).",
+  "fonte": "EsPCEx 2022, Geografia, questão 25 (modelo D)",
+  "prova": "EsPCEx 2022",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-prova-dia-2-modelo-d-mp8MbrL09Gs0qWLw.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-gabarito-2-dia-YD0roNKn9Gu3M788.pdf"
+ },
+ {
+  "texto": "Com um clima de predominância úmida, o Brasil possui uma extensa e densa rede hidrográfica. Os rios são usados para diversos fins, como: irrigação, lazer, consumo humano e transporte fluvial.\nI – Predominam os rios de planície, muitos dos quais escoam por áreas de elevado índice pluviométrico.\nII – Os rios perenes predominam no Brasil, e rios de regimes intermitentes encontram-se em locais de clima semiárido.\nIII – Os rios da Região Norte, como o Amazonas, o Madeira e o Tapajós, são de grande importância no transporte fluvial.\nIV – Todos os rios brasileiros possuem regime simples pluvial.",
+  "enunciado": "Sobre a hidrografia do Brasil, pode-se afirmar que:",
+  "alternativas": [
+   "I, II e III.",
+   "II, III e IV.",
+   "I e II.",
+   "I e III.",
+   "II e III."
+  ],
+  "certa": 4,
+  "comentario": "Predominam os rios perenes, e os intermitentes ficam no semiárido (II); os rios da Região Norte são importantes para o transporte fluvial (III). A I erra porque predominam os rios de planalto, e a IV erra porque nem todos os rios têm regime simples pluvial.",
+  "fonte": "EsPCEx 2022, Geografia, questão 31 (modelo D)",
+  "prova": "EsPCEx 2022",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-prova-dia-2-modelo-d-mp8MbrL09Gs0qWLw.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-gabarito-2-dia-YD0roNKn9Gu3M788.pdf"
+ },
+ {
+  "texto": "I- a água doce dos rios e dos lagos de todo o planeta é responsável pela maior parte da água doce da Terra.\nII- no mundo inteiro, mais de 1,5 bilhão de pessoas dependem principalmente da água de reservas subterrâneas para suprir suas necessidades básicas.\nIII- apesar de grande parte do Estado de São Paulo situar-se sobre o Aquífero Guarani, o sistema de abastecimento do Estado não utiliza fontes subterrâneas.\nIV- as calotas polares e as geleiras são as mais importantes, em termos quantitativos, reservas de água doce de nosso planeta.",
+  "enunciado": "Sobre as reservas e a utilização dos recursos hídricos no Brasil e no Mundo, podemos afirmar que:",
+  "alternativas": [
+   "I e II",
+   "I, II e III",
+   "I, III e IV",
+   "II e IV",
+   "III e IV"
+  ],
+  "certa": 3,
+  "comentario": "A maior parte da água doce do planeta está nas calotas polares e geleiras (IV), e mais de 1,5 bilhão de pessoas dependem de água subterrânea (II). A I erra porque rios e lagos são pequena fração da água doce; a III erra porque parte do abastecimento paulista usa fontes subterrâneas.",
+  "fonte": "EsPCEx 2011, Geografia, questão 8 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "enunciado": "Assinale a alternativa que apresenta um significativo acontecimento que, a partir de 1998, provocou uma mudança no campo da pesquisa e extração de petróleo e de gás natural no território brasileiro.",
+  "alternativas": [
+   "Privatização da Petrobras",
+   "Estatização da Petrobras",
+   "Fim do monopólio da Petrobras",
+   "Início da produção de petróleo em áreas continentais",
+   "Proibição da participação das empresas estrangeiras no setor energético brasileiro"
+  ],
+  "certa": 2,
+  "comentario": "A abertura do setor, após a Lei do Petróleo de 1997, acabou com o monopólio da Petrobras e permitiu a outras empresas pesquisar e explorar petróleo e gás. A Petrobras não foi privatizada.",
+  "fonte": "EsPCEx 2011, Geografia, questão 11 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "texto": "\"A influência de cada cidade no conjunto de rede depende da sua capacidade de oferecer bens e serviços. As cidades que exercem influência sobre todo o território ocupam os postos mais altos na hierarquia urbana\".\nFonte: MAGNOLI, Demétrio. Geografia para o Ensino Médio. 2. ed. São Paulo: Atual, 2012, p.268.\nI – São Paulo e Rio de Janeiro são classificados como Grandes Metrópoles Nacionais, pois concentram a maior parte das sedes das grandes empresas nacionais e transnacionais que atuam no Brasil.\nII – Belo Horizonte, Salvador e Fortaleza são exemplos de Metrópoles.\nIII – Brasília é classificada como Metrópole Nacional.\nIV – Todas as capitais dos estados da Federação são classificadas como Metrópoles por exercer alguma influência, mesmo em escala regional.\nDas afirmações acima, estão corretas apenas",
+  "enunciado": "De acordo com a hierarquia dos centros urbanos definida pelo Instituto Brasileiro de Geografia e Estatística, pode-se afirmar que:",
+  "alternativas": [
+   "II e III.",
+   "I, II e III.",
+   "I, III.",
+   "III e IV.",
+   "I, II e IV."
+  ],
+  "certa": 0,
+  "comentario": "Na classificação do IBGE usada pela banca, Belo Horizonte, Salvador e Fortaleza são metrópoles e Brasília é metrópole nacional. A I erra porque só São Paulo é grande metrópole nacional, e a IV erra porque nem toda capital é classificada como metrópole.",
+  "fonte": "EsPCEx 2022, Geografia, questão 28 (modelo D)",
+  "prova": "EsPCEx 2022",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-prova-dia-2-modelo-d-mp8MbrL09Gs0qWLw.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-gabarito-2-dia-YD0roNKn9Gu3M788.pdf"
+ },
+ {
+  "texto": "A urbanização ocorre quando a população urbana supera a população rural. No Brasil, este processo ocorreu principalmente após a Segunda Guerra Mundial e apoiou-se basicamente no êxodo rural, pois, devido à modernização das técnicas de trabalho rural, muitos trabalhadores do campo foram para a cidade em busca de novas oportunidades.",
+  "enunciado": "Sobre a urbanização do Brasil, é correto afirmar:",
+  "alternativas": [
+   "O processo de urbanização no país ocorreu de forma igualitária em todas as regiões do Brasil, em meados dos anos de 1970.",
+   "Até os anos de 1980, o Brasil tinha a maioria da população vivendo na zona rural, e somente na década de 1990 essa marca foi superada.",
+   "Na Região Sul, o processo de urbanização ocorreu na mesma época que na Região Sudeste, pois essas duas regiões receberam um grande investimento em suas indústrias, o que favoreceu o êxodo rural.",
+   "A urbanização do Centro-Oeste foi impulsionada pela fundação de Brasília, em 1960, e pelas novas rodovias que surgiram e que ligavam a região ao Sudeste do país. Atualmente, o Centro-Oeste apresenta o segundo maior índice de urbanização do Brasil.",
+   "A única região do Brasil que não tem a maioria da população vivendo na zona urbana atualmente é a Nordeste, pelo fato de a região basear sua economia em pequenas propriedades rurais."
+  ],
+  "certa": 3,
+  "comentario": "A urbanização do Centro-Oeste acompanhou Brasília e a malha rodoviária, e a região tem hoje o segundo maior índice do país, atrás do Sudeste. As outras alternativas erram: a urbanização foi desigual entre as regiões, o Brasil ficou majoritariamente urbano já nos anos 1960-70, e o Nordeste também é majoritariamente urbano.",
+  "fonte": "EsPCEx 2022, Geografia, questão 32 (modelo D)",
+  "prova": "EsPCEx 2022",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-prova-dia-2-modelo-d-mp8MbrL09Gs0qWLw.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2022-gabarito-2-dia-YD0roNKn9Gu3M788.pdf"
+ },
+ {
+  "texto": "\"O processo de urbanização é geral mas não é regionalmente uniforme. Do ponto de vista regional, registram-se fortes diferenças no ritmo da transferência da população do meio rural para o meio urbano\". (Magnoli & Araujo, 2005, p.184).\nI- graças a sua grande dinâmica industrial, a Região Sul é a segunda mais urbanizada do País.\nII- as regiões que apresentam os menores níveis de urbanização são a Centro-Oeste e a Norte.\nIII- a urbanização do Centro-Oeste acentuou-se na segunda metade do século passado, com a elevada concentração fundiária e com a mecanização da agricultura da soja.\nIV- as desigualdades no ritmo da urbanização entre as regiões brasileiras refletem as disparidades econômicas regionais e a inserção diferenciada de cada região na economia nacional.",
+  "enunciado": "Sobre a urbanização brasileira podemos afirmar que:",
+  "alternativas": [
+   "I e II",
+   "I, II e III",
+   "I e IV",
+   "II e IV",
+   "III e IV"
+  ],
+  "certa": 4,
+  "comentario": "A urbanização do Centro-Oeste se acentuou com a concentração fundiária e a mecanização da soja (III), e o ritmo desigual entre regiões reflete as disparidades econômicas regionais (IV). A I erra porque a segunda região mais urbanizada era o Centro-Oeste, e a II erra porque os menores níveis estão no Nordeste e no Norte. Texto de 2011, com a situação da época.",
+  "fonte": "EsPCEx 2011, Geografia, questão 14 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "texto": "I – conseguiu melhorar a produtividade e reduzir as quebras de safra causadas por enchentes ou pragas.\nII – ampliou o emprego intensivo de trabalho humano, reduzindo drasticamente o êxodo rural.\nIII – deflagrou processos de valorização das terras e de concentração fundiária.\nIV – incentivou a policultura e a difusão de práticas tradicionais da agricultura de subsistência como a coivara e a rotação de terras.\nV – exigiu maior capitalização dos agricultores e maior especialização da força de trabalho.",
+  "enunciado": "Sobre a Revolução Verde e seus efeitos na agricultura dos países subdesenvolvidos, podemos afirmar que",
+  "alternativas": [
+   "I e IV",
+   "II e IV",
+   "I, II e V",
+   "I, III e V",
+   "II, III e IV"
+  ],
+  "certa": 3,
+  "comentario": "A Revolução Verde elevou a produtividade (I), valorizou as terras e concentrou a propriedade (III) e exigiu mais capital e especialização (V). Ela não ampliou o emprego de mão de obra nem reduziu o êxodo rural, e substituiu práticas tradicionais, em vez de incentivá-las.",
+  "fonte": "EsPCEx 2010, Geografia, questão 34 (modelo B)",
+  "prova": "EsPCEx 2010",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/prova_fis_qui_geo_his_2010-A0x3O34jPoSyVaRK.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/gabarito_concurso_espcex_2010-AE0EnE2xa8ip8P32.pdf"
+ },
+ {
+  "enunciado": "Uma das principais dificuldades que alguns países periféricos ou semi-periféricos, como o Brasil, encontram no mercado mundial de produtos agrícolas é",
+  "alternativas": [
+   "a concessão de subsídios agrícolas que países como os Estados Unidos e os da União Europeia cedem aos seus respectivos produtores.",
+   "a política anti-protecionista que os países desenvolvidos adotam em relação à importação desses produtos.",
+   "o alto custo de produção de todos os seus produtos agrícolas em relação aos custos desses produtos nos países desenvolvidos.",
+   "o reduzido interesse de mercados fortes como o asiático, que apresenta baixa importação desses produtos.",
+   "a baixa produtividade agrícola apresentada por esses países, não sendo suficiente para que haja excedente para ser exportado."
+  ],
+  "certa": 0,
+  "comentario": "Os subsídios que os países ricos pagam a seus produtores barateiam artificialmente a produção deles e reduzem a competitividade do agro brasileiro. A alternativa B afirma o contrário da realidade, já que esses países são protecionistas.",
+  "fonte": "EsPCEx 2011, Geografia, questão 7 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "texto": "I- aumento da taxa de mortalidade infantil associado à carência dos serviços públicos essenciais no País.\nII- estreitamento do corpo da pirâmide etária como resultado da significativa redução do número de jovens.\nIII- o ingresso do Brasil no período de passagem da chamada \"janela demográfica\" devido ao significativo aumento percentual da população em idade ativa no País.\nIV- aumento do número de óbitos associado ao crescimento absoluto da população e ao aumento da participação percentual de idosos no conjunto total dela.\nV- redução da fecundidade, para nível inferior ao preconizado pela Organização das Nações Unidas como taxa de reposição da população, e aumento da esperança de vida da população.",
+  "enunciado": "No Brasil observa-se nítido processo de transição demográfica, especialmente nas duas últimas décadas, cujos censos demográficos realizados pelo IBGE revelam",
+  "alternativas": [
+   "I, II e IV",
+   "I, III e IV",
+   "I, II e V",
+   "II, III e V",
+   "III, IV e V"
+  ],
+  "certa": 4,
+  "comentario": "Os censos mostram a janela demográfica (III), mais óbitos em termos absolutos com mais idosos (IV) e fecundidade abaixo da reposição com maior esperança de vida (V). A I erra, pois a mortalidade infantil caiu, e a II erra ao dizer que o corpo da pirâmide estreita (o que estreita é a base).",
+  "fonte": "EsPCEx 2017, Geografia, questão 24 (modelo D)",
+  "prova": "EsPCEx 2017",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2017-prova-dia-2-modelo-d-YZ9ME9bo5wCqKOxe.pdf",
+  "gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/55750/exercito-2017-espcex-cadete-do-exercito-2-dia-gabarito.pdf"
+ },
+ {
+  "texto": "\"(...) uma população jovem e numerosa, em virtude de elevadas taxas de natalidade, não é causa, mas consequência do subdesenvolvimento.(...) Foi constatado que quanto maior a escolaridade da mulher, menor é o número de filhos e a taxa de mortalidade infantil.\" (http://www.brasilescola.com, consulta em 05/04/2010)",
+  "enunciado": "O trecho acima reflete aspectos defendidos pela teoria",
+  "alternativas": [
+   "Reformista.",
+   "Malthusiana.",
+   "Neomalthusiana.",
+   "Ecomalthusiana.",
+   "da Explosão Demográfica."
+  ],
+  "certa": 0,
+  "comentario": "Para a teoria reformista, a alta natalidade é consequência do subdesenvolvimento (e a escolaridade da mulher a reduz), e não sua causa. Malthusianos e neomalthusianos defendem o contrário: o crescimento populacional causaria a pobreza.",
+  "fonte": "EsPCEx 2011, Geografia, questão 3 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "texto": "I- o IDH do Brasil não reflete as condições de vida vigentes no País como um todo, em virtude de este apresentar fortes desigualdades regionais.\nII- o PIB percapta é, por si só, um dado suficiente para se avaliar as condições socioeconômicas de um país.\nIII- tanto a taxa de analfabetismo como o nível de instrução possuem estreita relação com o rendimento (renda) da população.\nIV- o cálculo do IDH baseia-se em três indicadores socioeconômicos: a expectativa de vida, o nível de instrução e a taxa de mortalidade infantil.",
+  "enunciado": "Sobre os indicadores socioeconômicos podemos afirmar que:",
+  "alternativas": [
+   "I e II",
+   "I e III",
+   "I, II e IV",
+   "II, III e IV",
+   "III e IV"
+  ],
+  "certa": 1,
+  "comentario": "O IDH médio esconde as desigualdades regionais do Brasil (I), e analfabetismo e instrução se relacionam com a renda (III). A II erra porque o PIB per capita sozinho não basta, e a IV erra porque o IDH usa expectativa de vida, educação e renda, não a mortalidade infantil.",
+  "fonte": "EsPCEx 2011, Geografia, questão 15 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "texto": "Brasil e México são dois países de destaque no cenário latino-americano, apresentando semelhanças quanto à formação histórica e socioeconômica.\nI – Na década de 1990, Brasil e México passaram a integrar blocos econômicos regionais, que tinham objetivos bem limitados, tendo-se restringido, em ambos os casos, a zonas de livre-comércio.\nII – Os dois países são considerados global traders, ou seja, possuem uma grande variedade de parceiros comerciais, apesar do protagonismo ocupado pela China como o principal destino de suas exportações.\nIII – Em ambos os países, o processo de industrialização pós-Segunda Guerra Mundial teve por base o tripé: capital estatal, investimento nacional e investimento estrangeiro.\nIV – Após a década de 1980, marcada pela crise da dívida externa e elevada inflação, ambos os países iniciaram, nos anos 1990, processos de estabilização econômica e de abertura a produtos e capitais estrangeiros.",
+  "enunciado": "Sobre suas semelhanças no campo econômico, analise as alternativas a seguir:",
+  "alternativas": [
+   "I e II",
+   "I e III",
+   "II e III",
+   "II e IV",
+   "III e IV"
+  ],
+  "certa": 4,
+  "comentario": "Nos dois países a industrialização do pós-guerra se apoiou no tripé capital estatal, nacional e estrangeiro (III), e ambos abriram a economia e estabilizaram os preços nos anos 1990, depois da crise da dívida (IV). A I e a II erram: o Mercosul foi além de uma zona de livre comércio, e a China não era o principal destino das exportações do México.",
+  "fonte": "EsPCEx 2021, Geografia, questão 24 (modelo D)",
+  "prova": "EsPCEx 2021",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2021---espcex---dia-2---mod-d-YKbPWQQ6kVIy5Qbl.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2021-gabarito-2-dia-de-prova-AwvOb2xoLpuywkMy.pdf"
+ },
+ {
+  "texto": "\"A indústria aparece na Amazônia sob a forma de enclaves, estabelecidos a partir de incentivos federais ou para explorar recursos minerais.\" (MAGNOLI, D. Geografia para o Ensino Médio. 1ed. São Paulo: Atual, 2012, p. 310.)\nEntre os enclaves industriais na Amazônia, destaca-se a Zona Franca de Manaus (ZFM), criada em 1967, sob a supervisão da Superintendência da Zona Franca de Manaus (Suframa).\nI- a implantação da ZFM consistiu numa estratégia geopolítica, cuja principal meta era reforçar o poder nacional na considerada região \"de fronteira\".\nII- os capitais dominantes são transnacionais e praticamente não se utilizam matérias-primas ou insumos regionais na produção industrial nessa área.\nIII- a balança comercial da ZFM é positiva no intercâmbio com o mercado externo, haja vista que, com a isenção de impostos sobre a exportação, suas mercadorias destinam-se, prioritariamente, a esse mercado.\nIV- na década de 1990, a política de abertura da economia nacional, com a redução das tarifas de importação, foi muito positiva para a ZFM, pois ampliou as vendas para o mercado interno e propiciou o aumento do número de empregos diretos e indiretos no polo industrial amazônico.",
+  "enunciado": "Sobre a ZFM, pode-se afirmar que",
+  "alternativas": [
+   "I e II",
+   "I e III",
+   "I e IV",
+   "II e III",
+   "II e IV"
+  ],
+  "certa": 0,
+  "comentario": "A Zona Franca de Manaus foi criada em 1967 como estratégia geopolítica de ocupação da fronteira (I) e é dominada por capital transnacional que usa pouco insumo regional (II). A III e a IV erram: a produção se destina sobretudo ao mercado interno, e a abertura dos anos 1990, com a queda das tarifas de importação, prejudicou o polo.",
+  "fonte": "EsPCEx 2017, Geografia, questão 27 (modelo D)",
+  "prova": "EsPCEx 2017",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2017-prova-dia-2-modelo-d-YZ9ME9bo5wCqKOxe.pdf",
+  "gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/55750/exercito-2017-espcex-cadete-do-exercito-2-dia-gabarito.pdf"
+ },
+ {
+  "texto": "\"... Os países emergentes hoje produzem 44% das manufaturas do planeta, ante 66% nos países ricos. Mas o Brasil vem perdendo espaço. O País representava 10% de toda a produção industrial das economias em desenvolvimento há 15 anos, em 1995. Dez anos depois, caiu para 7,2%.\" (Jornal O Estado de São Paulo, 20/04/2010)\nI- O elevado custo de deslocamento dos produtos para exportação, por conta de carências nas áreas de infraestrutura e logística.\nII- Com exceção de alguns produtos industriais, o componente tecnológico das exportações brasileiras é muito baixo, acarretando contínua queda no valor médio da tonelada exportada.\nIII- A cotação da moeda brasileira, fortemente desvalorizada em relação ao dólar, torna nossos produtos pouco competitivos no comércio mundial.\nIV- O fato de o Brasil concentrar seu intercâmbio externo majoritariamente com os EUA, seu maior parceiro comercial na atualidade, limita, em muito, a participação de seus produtos em outros mercados.",
+  "enunciado": "Dentre as razões que têm limitado um maior crescimento da participação dos produtos industrializados brasileiros no comércio mundial, podemos destacar:",
+  "alternativas": [
+   "I e II",
+   "I e III",
+   "I, III e IV",
+   "II, III e IV",
+   "II e IV"
+  ],
+  "certa": 0,
+  "comentario": "O custo de deslocar a produção por deficiências de infraestrutura e logística (I) e o baixo conteúdo tecnológico da maior parte das exportações (II) limitam a participação do país. A III erra ao falar em moeda fortemente desvalorizada (em 2010 o real estava valorizado), e a IV erra porque os EUA não eram o maior parceiro comercial. Dados do texto-base são de 2010.",
+  "fonte": "EsPCEx 2011, Geografia, questão 5 (modelo J)",
+  "prova": "EsPCEx 2011",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-modelo-j-geografia-historia-e-ingles-YZ9MZM4qn2SPK89b.pdf",
+  "gabarito": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2011-gabaritos-A3QBjB4PEQuGgW2Z.pdf"
+ },
+ {
+  "texto": "Na década de 1990, a abertura da economia brasileira à concorrência internacional trouxe uma nova configuração à economia nordestina, buscando conectar a Região Nordeste aos fluxos de investimentos globalizados e ao mercado mundial.\nI- um redirecionamento dos investimentos para o setor de indústrias de base, com produção destinada à exportação, incentivados pelos baixos custos da força de trabalho da Região.\nII- um engajamento dos governos estaduais nordestinos em diversificar os focos de incentivo ao capital para os mais diferentes setores da economia, contudo não mais com a finalidade de atender às necessidades do mercado do Sudeste, mas ao mercado externo.\nIII- o surgimento de enclaves econômicos modernos na agropecuária no oeste baiano e no sul do Maranhão e do Piauí, onde é forte a presença das culturas mecanizadas de soja, milho, arroz e feijão, associadas ao fluxo migratório de agricultores do sul do País.\nIV- a execução de reformas estruturais no meio rural, como a reforma agrária, a qual suprimiu a hegemonia dos grandes proprietários de terra no Sertão e contribuiu para a redução da pobreza na Região.\nV- a diversificação dos focos dos incentivos econômicos, direcionados também para o setor de serviços no qual o turismo recebeu prioridade através da implementação de empreendimentos hoteleiros.",
+  "enunciado": "Nessa nova configuração, observa-se que ocorreu",
+  "alternativas": [
+   "I, II e III",
+   "I, III e IV",
+   "I, III e V",
+   "II, III e V",
+   "II, IV e V"
+  ],
+  "certa": 3,
+  "comentario": "Nos anos 1990 os governos estaduais nordestinos diversificaram os incentivos, mirando também o mercado externo (II); surgiram enclaves agropecuários modernos no oeste baiano e no sul do Maranhão e do Piauí (III); e o turismo e os serviços ganharam prioridade (V). A I e a IV erram: não houve foco em indústrias de base para exportação nem reforma agrária estrutural no Sertão.",
+  "fonte": "EsPCEx 2017, Geografia, questão 28 (modelo D)",
+  "prova": "EsPCEx 2017",
+  "url": "https://assets.zyrosite.com/YD0ryggN57CPDMzv/2017-prova-dia-2-modelo-d-YZ9ME9bo5wCqKOxe.pdf",
+  "gabarito": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/55750/exercito-2017-espcex-cadete-do-exercito-2-dia-gabarito.pdf"
+ }
+]

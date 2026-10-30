@@ -1,0 +1,364 @@
+{
+  "p-etica": [
+    {
+      "tipo": "aula",
+      "titulo": "CÓDIGO DE ÉTICA PROFISSIONAL DA PSICÓLOGA E DO PSICÓLOGO PARA CONCURSOS DE PSICOLOGIA",
+      "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+      "url": "https://www.youtube.com/watch?v=1MVmB5iFdms",
+      "minutos": 19,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Visão geral do Código de Ética (Res. CFP 10/2005): princípios fundamentais, deveres e vedações, voltada a concurso."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Código de Ética Profissional do Psicólogo (2005)",
+      "fonte": "CFP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+      "arquivo": "p-etica/codigo-etica.pdf",
+      "minutos": 60,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Texto completo do Código de Ética exigido pela Marinha e pelo Exército; leia todo, são 20 páginas."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Nota Técnica CFP nº 02/2019 (registro profissional de bacharel)",
+      "fonte": "CFP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2019/12/Nota_0192444_SEI_CFP___0108451___Nota_Tecnica.pdf",
+      "arquivo": "p-etica/nota-tecnica-02-2019.pdf",
+      "minutos": 9,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Pedida pelo edital do Exército; só 3 páginas sobre registro no CRP de bacharel em Psicologia."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Reta Final ENARE Psicologia | Código de Ética e Documentos Psicológicos",
+      "fonte": "Gran Cursos Saúde",
+      "url": "https://www.youtube.com/watch?v=7WOXYfT9Ws4",
+      "minutos": 66,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Aula longa que revisa o Código de Ética e os documentos psicológicos (revisão com questões)."
+    }
+  ],
+  "p-documentos": [
+    {
+      "tipo": "aula",
+      "titulo": "[RESUMO] APRENDA TUDO SOBRE COMO ELABORAR DOCUMENTOS PSICOLÓGICOS! - RESOLUÇÃO CFP N 6/2019",
+      "fonte": "Dra. Monique Arantes | Educação em Psicologia",
+      "url": "https://www.youtube.com/watch?v=zp6DEkDtCVQ",
+      "minutos": 38,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Resumo da Res. CFP 06/2019: declaração, atestado, relatório psicológico e multiprofissional, laudo e parecer."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Resolução CFP 06/2019 comentada",
+      "fonte": "CFP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+      "arquivo": "p-documentos/resolucao-06-2019-comentada.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "A resolução com comentários do CFP, 35 páginas; leia tudo (o tempo está no teto de 90 min)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "ELABORAÇÃO DE DOCUMENTOS PSICOLÓGICOS | QUESTÕES DE CONCURSOS DE PSICOLOGIA #08",
+      "fonte": "Dra. Monique Arantes | Educação em Psicologia",
+      "url": "https://www.youtube.com/watch?v=GmQ84nXuOgg",
+      "minutos": 21,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Questões de concurso comentadas sobre a Res. 06/2019, para fixar."
+    }
+  ],
+  "p-avaliacao": [
+    {
+      "tipo": "aula",
+      "titulo": "RESOLUÇÃO CONSELHO FEDERAL DE PSICOLOGIA (CFP) 31/2022: ENTENDA O QUE MUDOU (CONCURSOS PSICOLOGIA)",
+      "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+      "url": "https://www.youtube.com/watch?v=HcGH53ychi4",
+      "minutos": 28,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Avaliação psicológica e SATEPSI para concurso; a Res. 31/2022 revogou a 09/2018, e o vídeo mostra o que mudou."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Resolução CFP nº 31/2022 (norma vigente de avaliação psicológica e SATEPSI)",
+      "fonte": "CFP (via DOU de 16/12/2022)",
+      "url": "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf",
+      "arquivo": "p-avaliacao/resolucao-31-2022.pdf",
+      "minutos": 69,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "A norma em vigor (DOU de 16/12/2022): diretrizes da avaliação psicológica e o SATEPSI. Revogou a 09/2018, que o edital do Exército ainda cita."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Cartilha Avaliação Psicológica, 3ª ed. (2022)",
+      "fonte": "CFP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf",
+      "arquivo": "p-avaliacao/cartilha-avaliacao.pdf",
+      "minutos": 84,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leia as págs. 10 a 37 (questões gerais sobre avaliação e uso dos testes); trânsito, arma de fogo e outros contextos ficam para depois. Minutos contam só essas."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Resolução CFP nº 09/2018 (avaliação psicológica e SATEPSI)",
+      "fonte": "CFP / SATEPSI",
+      "url": "https://satepsi.cfp.org.br/docs/ResolucaoCFP009-18.pdf",
+      "arquivo": "p-avaliacao/resolucao-09-2018.pdf",
+      "minutos": 87,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "A resolução que o edital do Exército cita; foi revogada pela 31/2022. Leia para comparar, se der tempo."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Resolução CFP 009/2018",
+      "fonte": "Estudo Dirigido Psi",
+      "url": "https://www.youtube.com/watch?v=x5oHJN3DnOQ",
+      "minutos": 13,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Explicação curta da Res. 09/2018."
+    }
+  ],
+  "p-alcool-drogas": [
+    {
+      "tipo": "aula",
+      "titulo": "Políticas Nacionais para Drogas e Álcool com Alexandre Sampaio",
+      "fonte": "Gran Cursos Saúde",
+      "url": "https://www.youtube.com/watch?v=rPpcPcQ0qec",
+      "minutos": 69,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Aula de concurso sobre a política de atenção a usuários de álcool e outras drogas, redução de danos e rede (CAPS ad)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "A Política do Ministério da Saúde para a Atenção Integral a Usuários de Álcool e Outras Drogas (2003)",
+      "fonte": "Ministério da Saúde (cópia no UNODC)",
+      "url": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf",
+      "arquivo": "p-alcool-drogas/politica-ms-2003.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leia da introdução até a seção 5 (págs. 7 a 40 do livro); o resto é bibliografia e endereços. O site do Ministério estava fora do ar, por isso a cópia hospedada no UNODC."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Referências Técnicas para atuação de psicólogas(os) em políticas públicas de álcool e outras drogas (2019)",
+      "fonte": "CFP / CREPOP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf",
+      "arquivo": "p-alcool-drogas/rt-cfp-alcool-drogas.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leia os eixos 1 e 2 (págs. 28 a 66 do PDF: ética-política da atuação e psicólogo na rede psicossocial); eixos 3 e 4 são complemento. Teto de 90 min."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Lançamento da RT para Atuação de Psicólogas(os) em Políticas Públicas de Álcool e Outras Drogas",
+      "fonte": "CRP-23",
+      "url": "https://www.youtube.com/watch?v=TvXCUn8jFpc",
+      "minutos": 67,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Lançamento da Referência Técnica do CFP lida acima, com a visão do conselho."
+    }
+  ],
+  "p-lei-10216": [
+    {
+      "tipo": "aula",
+      "titulo": "Resumão de Saúde Mental para SEDES DF (Lei 10.216)",
+      "fonte": "Gran Cursos Saúde e Gran Cursos Online",
+      "url": "https://www.youtube.com/watch?v=jXxlMGRIR2Q",
+      "minutos": 34,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Aula de concurso sobre a Lei 10.216/2001: direitos, tipos de internação, reforma psiquiátrica."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Lei nº 10.216, de 6 de abril de 2001",
+      "fonte": "Planalto (Presidência da República)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+      "minutos": 10,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Texto da lei, curto (13 artigos); página web, sem PDF baixado."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Reforma Psiquiátrica e política de Saúde Mental no Brasil (Caracas +15, 2005)",
+      "fonte": "Ministério da Saúde / OPAS",
+      "url": "https://www.unifateb.edu.br/wp-content/uploads/2023/03/07-Reforma-psiquiatrica-e-Politica-de-Saude-Mental-no-Brasil.pdf",
+      "arquivo": "p-lei-10216/reforma-psiquiatrica-ms-2005.pdf",
+      "minutos": 27,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Explica a reforma psiquiátrica; leia as págs. 7 a 15 do PDF (histórico da reforma e início da desinstitucionalização). Documento do Ministério da Saúde (bvsms estava fora do ar); cópia hospedada na Unifateb."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Conheça a Reforma Psiquiátrica, que mudou a realidade dos cuidados com a saúde mental no Brasil",
+      "fonte": "TV Senado",
+      "url": "https://www.youtube.com/watch?v=ZEutLNKR4VM",
+      "minutos": 28,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Reportagem longa sobre a reforma e a Lei Paulo Delgado."
+    }
+  ],
+  "p-saude-mental": [
+    {
+      "tipo": "aula",
+      "titulo": "Resumão de Rede de Atenção Psicossocial para SEDES DF (RAPS)",
+      "fonte": "Gran Cursos Saúde",
+      "url": "https://www.youtube.com/watch?v=HyXJy2ZIbwo",
+      "minutos": 31,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "RAPS e seus componentes (CAPS, UA, SRT etc.) em aula de concurso."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Saúde Mental no SUS: Os Centros de Atenção Psicossocial (2004)",
+      "fonte": "Ministério da Saúde (cópia no LAPS/Fiocruz)",
+      "url": "https://laps.ensp.fiocruz.br/arquivos/documentos/19",
+      "arquivo": "p-saude-mental/caps-saude-mental-sus-2004.pdf",
+      "minutos": 63,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leia as págs. 9 a 29 do PDF (o que é CAPS, tipos, funcionamento); a partir da pág. 30 são anexos. Substitui o livro pago do edital (Amarante)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Reta Final ENARE Psicologia | Psicologia no SUS, RAPS e Atuação do Psicólogo",
+      "fonte": "Gran Cursos Saúde",
+      "url": "https://www.youtube.com/watch?v=39sYaPF5N2M",
+      "minutos": 67,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Foca o papel do psicólogo no SUS e na RAPS."
+    }
+  ],
+  "p-emergencias": [
+    {
+      "tipo": "aula",
+      "titulo": "ATUAÇÃO DE PSICÓLOGAS E PSICÓLOGOS EM DESASTRES - ESTUDOS PARA CONCURSOS DE PSICOLOGIA",
+      "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+      "url": "https://www.youtube.com/watch?v=DF8gLKhS-hY",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Atuação do psicólogo em emergências e desastres, voltada a concurso."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Referências Técnicas para atuação de psicólogas(os) na Gestão Integral de Riscos, Emergências e Desastres (2021)",
+      "fonte": "CFP / CREPOP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2021/10/Crepop-RT-Emerge%CC%82ncias-e-Desastres-web_v2.pdf",
+      "arquivo": "p-emergencias/rt-emergencias-desastres.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leia os eixos 1 e 2 (págs. 26 a 58 do PDF); o eixo 3 (a partir da pág. 59) é o de atuação prática, leia se sobrar tempo. Teto de 90 min."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Nota Técnica CFP nº 22/2024 (desastres: preparação, resposta e reconstrução)",
+      "fonte": "CFP",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2024/09/SEI_1812191_Nota_Tecnica_22.pdf",
+      "arquivo": "p-emergencias/nota-tecnica-22-2024.pdf",
+      "minutos": 30,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Atualização das orientações para atuar nas três fases de um desastre; 10 páginas."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "PSICOLOGIA NAS EMERGÊNCIAS E DESASTRES",
+      "fonte": "Conselho Federal de Psicologia",
+      "url": "https://www.youtube.com/watch?v=fAH7w4dtqiw",
+      "minutos": 17,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Vídeo do próprio CFP sobre o tema."
+    }
+  ],
+  "p-suicidio": [
+    {
+      "tipo": "aula",
+      "titulo": "Suicídio: Fatores de risco e intervenções Parte 1",
+      "fonte": "Estudo Dirigido Psi",
+      "url": "https://www.youtube.com/watch?v=i7klFU1wReo",
+      "minutos": 27,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Fatores de risco e intervenções no comportamento suicida, na ordem do edital."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Prevenção do Suicídio: manual dirigido a profissionais das equipes de saúde mental (2006)",
+      "fonte": "Ministério da Saúde / OPAS / Unicamp",
+      "url": "https://www.cvv.org.br/wp-content/uploads/2017/05/manual_prevencao_suicidio_profissionais_saude.pdf",
+      "arquivo": "p-suicidio/prevencao-suicidio-ms-2006.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leia as págs. 7 a 20 (dimensão do problema e fatores de risco), 33 a 50 (depressão, álcool, personalidade) e 55 a 72 (como abordar e encaminhar); esquizofrenia (págs. 21 a 32) fica para depois. Teto de 90 min. O link do Ministério não abre; PDF veio do site do CVV."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "A PSICOLOGIA NA PREVENÇÃO AO SUICÍDIO",
+      "fonte": "Conselho Federal de Psicologia",
+      "url": "https://www.youtube.com/watch?v=Oh2XB3gt3oM",
+      "minutos": 20,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Vídeo do CFP sobre o papel da Psicologia na prevenção."
+    }
+  ],
+  "p-porte-arma": [
+    {
+      "tipo": "aula",
+      "titulo": "A nova Resolução do Conselho sobre Avaliação para porte de arma de fogo. Aula Completa",
+      "fonte": "Psicólogo Manoel Carvalho",
+      "url": "https://www.youtube.com/watch?v=7MsmewuUS04",
+      "minutos": 35,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Aula sobre a Res. CFP 01/2022 (avaliação psicológica para registro e porte de arma)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Manual: Avaliação Psicológica para manuseio de arma de fogo (CFP e Polícia Federal, 2022)",
+      "fonte": "CFP / Polícia Federal",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2022/06/manual_arma_fogo-5-1.pdf",
+      "arquivo": "p-porte-arma/manual-cfp-pf-arma-fogo.pdf",
+      "minutos": 66,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Orientações conforme a Res. CFP 01/2022 e a Instrução Normativa PF 78/2014: características avaliadas, procedimentos, impedimentos, validade."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Resolução CFP nº 01, de 21 de janeiro de 2022",
+      "fonte": "CFP (publicada no Diário Oficial da União)",
+      "url": "https://www.in.gov.br/en/web/dou/-/resolucao-n-1-de-21-de-janeiro-de-2022-376060371",
+      "minutos": 15,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Texto da norma vigente (validade máxima de 2 anos, impedimentos do psicólogo avaliador); página web, sem PDF baixado."
+    }
+  ]
+}

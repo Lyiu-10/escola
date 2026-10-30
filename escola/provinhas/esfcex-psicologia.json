@@ -1,0 +1,320 @@
+[
+ {
+  "enunciado": "Segundo o Código de Ética Profissional do Psicólogo, assinale a alternativa INCORRETA quanto ao que é vedado ao psicólogo.",
+  "alternativas": [
+   "Induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito, quando do exercício de suas funções profissionais.",
+   "Levar ao conhecimento das instâncias competentes o exercício ilegal ou irregular da profissão, transgressões a princípios e diretrizes deste Código ou da legislação profissional.",
+   "Induzir qualquer pessoa ou organização a recorrer a seus serviços.",
+   "Desviar para serviço particular ou de outra instituição, visando a benefício próprio, pessoas ou organizações atendidas por instituição com a qual mantenha qualquer tipo de vínculo profissional.",
+   "Pleitear ou receber comissões, empréstimos, doações ou vantagens outras de qualquer espécie, além dos honorários contratados, assim como intermediar transações financeiras."
+  ],
+  "certa": 1,
+  "comentario": "Levar ao conhecimento das instâncias competentes o exercício ilegal da profissão ou as transgressões ao Código é um dever do psicólogo, não uma vedação. As outras quatro alternativas descrevem condutas vedadas.",
+  "fonte": "Fundatec 2022 (SPGG-RS), Psicólogo, questão 38",
+  "prova": "Fundatec SPGG-RS 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48434.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48434.pdf"
+ },
+ {
+  "enunciado": "A Resolução CFP nº 6, de 29 de março de 2019, institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional. De acordo com a Resolução, é correto afirmar que",
+  "alternativas": [
+   "a declaração tem por finalidade detalhar a prestação do serviço realizado e deve conter o registro de sintomas, situações ou estados psicológicos.",
+   "é obrigatório, no atestado psicológico, o uso da Classificação Internacional de Doenças (CID) como fonte para enquadramento de diagnóstico.",
+   "o relatório visa a comunicar a atuação profissional da(o) psicóloga(o) em diferentes processos de trabalho já desenvolvidos com finalidade de produzir diagnóstico psicológico.",
+   "orienta-se no relatório multiprofissional que cada profissional faça sua análise separadamente, identificando, com subtítulo, o nome e a categoria profissional.",
+   "o laudo psicológico deve fornecer informações que ultrapassem a demanda e relatar o diagnóstico, o prognóstico, a evolução do caso e a medida institucional a ser tomada."
+  ],
+  "certa": 3,
+  "comentario": "A Resolução CFP 06/2019 orienta que, no relatório multiprofissional, cada profissional analise separadamente e se identifique com subtítulo, nome e categoria. As demais atribuem aos documentos finalidades que eles não têm; por exemplo, a declaração não registra sintomas ou estados psicológicos.",
+  "fonte": "FGV 2024 (PC-SC), Psicólogo Policial Civil, questão 92 (caderno Tipo 1)",
+  "prova": "FGV PC-SC 2024",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49180.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49180.pdf"
+ },
+ {
+  "enunciado": "Segundo Jurema Cunha, a bateria de testes é utilizada em psicodiagnóstico porque nenhum teste isoladamente oferece uma visão abrangente do indivíduo e para",
+  "alternativas": [
+   "respeitar princípios míticos de cuidado com o indivíduo avaliado.",
+   "obter uma validação intertestes dos dados obtidos.",
+   "conquistar dados conclusivos que possam justificar desvios.",
+   "selecionar categorias a serem pesquisadas.",
+   "aprimorar os instrumentos de coleta de dados no foco do cliente."
+  ],
+  "certa": 1,
+  "comentario": "Como nenhum teste isolado dá uma visão abrangente do indivíduo, o psicodiagnóstico usa uma bateria de testes, o que permite cruzar e validar os dados entre os instrumentos (validação intertestes).",
+  "fonte": "FCC 2022 (TJ-SC), Psicólogo, questão 39 (caderno E, Tipo 001)",
+  "prova": "FCC TJ-SC 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48320.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48320.pdf"
+ },
+ {
+  "enunciado": "Um profissional foi incumbido de realizar uma pesquisa, com o objetivo de identificar a opinião da população de um território em relação aos serviços prestados pela unidade de saúde instalada no local. O tipo de pesquisa que poderá atender a esse objetivo é a",
+  "alternativas": [
+   "experimental.",
+   "descritiva.",
+   "explicativa.",
+   "participante.",
+   "documental."
+  ],
+  "certa": 1,
+  "comentario": "Levantar a opinião de uma população sobre um serviço é descrever um fenômeno tal como ele se apresenta, sem manipular variáveis: é o objetivo da pesquisa descritiva.",
+  "fonte": "VUNESP 2019 (Pref. Valinhos), Psicólogo, questão 51",
+  "prova": "VUNESP Pref. Valinhos 2019",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/47897.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/47897.pdf"
+ },
+ {
+  "enunciado": "Para avaliar o potencial cognitivo de uma criança de dez anos, especificamente o fator relacionado à Velocidade de Processamento (VP), um psicólogo utilizou a Wechsler Intelligence Scale for Children – WISC IV. As provas que permitem avaliar esse fator são:",
+  "alternativas": [
+   "Arranjo de Figuras; Vocabulário.",
+   "Informação; Completar Figuras.",
+   "Labirintos; Raciocínio Matricial.",
+   "Sequência de Números e Letras; Cubos.",
+   "Códigos; Procurar Símbolos."
+  ],
+  "certa": 4,
+  "comentario": "No WISC-IV, o índice Velocidade de Processamento é composto pelos subtestes Códigos e Procurar Símbolos.",
+  "fonte": "VUNESP 2019 (Pref. Valinhos), Psicólogo, questão 42",
+  "prova": "VUNESP Pref. Valinhos 2019",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/47897.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/47897.pdf"
+ },
+ {
+  "enunciado": "Segundo Dalgalarrondo (2008), embora muitos autores utilizem os termos ansiedade e angústia como sinônimos, cabe ressaltar que ambos apresentam diferenças. Em relação às diferenças entre angústia e ansiedade, analise as afirmativas seguir. I. A ansiedade é definida como estado de humor desconfortável, apreensão negativa em relação ao futuro e inquietação interna desagradável. II. O termo angústia relaciona-se diretamente à sensação de aperto no peito e na garganta, de compressão e sufocamento. III. A angústia assemelha-se muito à ansiedade, tendo conotação menos corporal e mais relacionada ao presente. IV. Do ponto de vista existencial, a ansiedade tem significado mais marcante, é algo que define a condição humana; trata-se de um tipo de vivência pesada; porém, fundamental. Está correto o que se afirma em",
+  "alternativas": [
+   "I, II, III e IV.",
+   "I e II, apenas.",
+   "I e III, apenas.",
+   "II e III, apenas."
+  ],
+  "certa": 1,
+  "comentario": "Pelo gabarito, só I e II estão corretas. O item III contradiz o II (a angústia é a mais ligada às sensações corporais), e o IV atribui à ansiedade o peso existencial que, nessa distinção, é da angústia.",
+  "fonte": "Consulplan 2022 (MP-PA), Técnico – Psicólogo, questão 46 (Tipo 1)",
+  "prova": "Consulplan MP-PA 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48577.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48577.pdf"
+ },
+ {
+  "enunciado": "O DSM-5 indica que, para diagnosticar transtorno bipolar tipo I, é necessário o preenchimento dos critérios de um episódio maníaco. O episódio maníaco pode ter sido antecedido ou seguido por episódios",
+  "alternativas": [
+   "de confusão mental ou depressivos menores.",
+   "hipomaníacos ou depressivos maiores.",
+   "de tristeza ou depressivos menores.",
+   "de esquizofrenia ou depressivos.",
+   "depressivos menores ou tremores."
+  ],
+  "certa": 1,
+  "comentario": "No DSM-5, o diagnóstico de transtorno bipolar tipo I exige ao menos um episódio maníaco, que pode vir antes ou depois de episódios hipomaníacos ou depressivos maiores.",
+  "fonte": "FCC 2022 (TJ-SC), Psicólogo, questão 29 (caderno E, Tipo 001)",
+  "prova": "FCC TJ-SC 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48320.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48320.pdf"
+ },
+ {
+  "enunciado": "Vera completou cinco anos como advogada em uma firma, mas sua carreira está estagnada porque ela não consegue falar em público. Vera teme tropeçar nas palavras, ruborizar, transpirar excessivamente, e vem se esquivando de participar de reuniões com clientes e de comparecer a eventos representando a firma, temendo ser alvo de avaliações negativas. O quadro apresentado por Vera sugere o diagnóstico de",
+  "alternativas": [
+   "agorafobia.",
+   "transtorno de estresse pós traumático.",
+   "síndrome de Burnout.",
+   "fobia social.",
+   "transtorno depressivo persistente."
+  ],
+  "certa": 3,
+  "comentario": "Medo de tropeçar nas palavras, ruborizar e ser avaliada negativamente, com esquiva de situações de exposição, caracteriza a fobia social (transtorno de ansiedade social).",
+  "fonte": "FGV 2024 (PC-SC), Psicólogo Policial Civil, questão 75 (caderno Tipo 1)",
+  "prova": "FGV PC-SC 2024",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49180.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49180.pdf"
+ },
+ {
+  "enunciado": "Na ótica eriksoniana, em cada fase do ciclo vital, existe uma crise psicossocial, isto é, uma necessidade de",
+  "alternativas": [
+   "questionar suas próprias experiências no mundo.",
+   "se rebelar contra o ambiente para poder se diferenciar.",
+   "solucionar conflitos oriundos das pressões parentais.",
+   "ajustamento pessoal às solicitações do ambiente social.",
+   "buscar gratificação pessoal nos relacionamentos estabelecidos."
+  ],
+  "certa": 3,
+  "comentario": "Em Erikson, cada fase do ciclo vital traz uma crise psicossocial: o confronto entre as necessidades do indivíduo e as solicitações do ambiente social, cuja resolução pede ajustamento pessoal.",
+  "fonte": "FCC 2022 (TJ-SC), Psicólogo, questão 36 (caderno E, Tipo 001)",
+  "prova": "FCC TJ-SC 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48320.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48320.pdf"
+ },
+ {
+  "enunciado": "Considere que você é psicólogo escolar em instituição de ensino superior. Um graduando de licenciatura o procura com uma queixa de baixo rendimento escolar e desmotivação em prosseguir com o curso. Ante esta demanda espontânea, no que diz respeito às condutas profissionais adequadas ao setor de psicologia neste caso, analise os itens seguintes. I Utilização de testes de orientação profissional, de modo a auxiliar o aluno a identificar outra carreira com a qual possua maior identificação. II Encaminhamento ao atendimento clínico para o devido acompanhamento psicoterapêutico. III Aplicação de testes padronizados e utilização de outros instrumentos para identificação do contexto no qual a queixa se insere. IV Desenvolvimento de plano de ação multidisciplinar que favoreça o desenvolvimento pessoal e acadêmico do aluno em questão. Estão corretos",
+  "alternativas": [
+   "I e II, apenas.",
+   "II e III, apenas.",
+   "I e IV, apenas.",
+   "II e IV, apenas.",
+   "III e IV, apenas."
+  ],
+  "certa": 4,
+  "comentario": "Diante de queixa de baixo rendimento e desmotivação, o psicólogo escolar investiga o contexto em que a queixa se insere, com testes padronizados e outros instrumentos (III), e monta um plano de ação multidisciplinar (IV). Reorientar a carreira de saída (I) ou encaminhar direto à clínica (II) não parte dessa leitura do contexto.",
+  "fonte": "CEPS-UFPA 2018 (UFPA), Psicólogo – Área Educacional, questão 33",
+  "prova": "CEPS-UFPA 2018",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/45140.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/45140.pdf"
+ },
+ {
+  "enunciado": "Mais conhecido pelas suas pesquisas básicas acerca dos processos de aprendizagem, em diversos momentos de sua obra, B. F. Skinner refletiu sobre as implicações de seus achados no contexto escolar. O autor chegou afirmar que, “quando encontrar seus métodos mais efetivos, a educação será quase totalmente dedicada à tarefa de estabelecer e manter uma melhor forma de vida”. Com base na perspectiva analítico-comportamental de educação, é correto afirmar:",
+  "alternativas": [
+   "A aprendizagem deveria acontecer a partir do contato direto com as contingências, de modo que instituições como a escola poderiam ser consideradas desnecessárias para o desenvolvimento humano.",
+   "Um dos problemas do contexto escolar é o uso excessivo de contingências arbitrárias, como notas e prêmios, enquanto o aprendiz deveria ser colocado em situações de contato direto com o produto de sua ação.",
+   "Processos como motivação e estados emocionais são considerados eventos privados, logo, não devem ser inseridos na análise funcional dos comportamentos observáveis, foco da aprendizagem.",
+   "Procedimentos de ensino deveriam ser desenvolvidos a partir de evidências de eficácia no controle do comportamento, de modo a direcionar a modelagem de um repertório de acordo com os interesses docentes.",
+   "O planejamento de práticas de sala de aula é considerado essencial para que esta possa ser administrada com o rigor de controle de variáveis obtido em situação de laboratório, de modo a garantir a eficácia dos processos."
+  ],
+  "certa": 1,
+  "comentario": "Na perspectiva analítico-comportamental de Skinner, um problema da escola é o uso excessivo de contingências arbitrárias, como notas e prêmios, em vez de pôr o aprendiz em contato direto com o produto de sua ação.",
+  "fonte": "CEPS-UFPA 2018 (UFPA), Psicólogo – Área Educacional, questão 38",
+  "prova": "CEPS-UFPA 2018",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/45140.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/45140.pdf"
+ },
+ {
+  "enunciado": "Muito embora o experimento social desenvolvido pelo psicólogo Stanley Milgram, em 1964, com imposição de choques elétricos, esteja sendo questionado atualmente, prêmios foram concedidos à pesquisa, pois se tratou de iniciativa pioneira para entender algumas das dinâmicas associadas ao nazismo. Aquela experiência social buscou analisar",
+  "alternativas": [
+   "a tolerância à frustração.",
+   "o apego à figura materna.",
+   "a obediência à autoridade.",
+   "a inteligência adaptativa.",
+   "o estresse pós-traumático."
+  ],
+  "certa": 2,
+  "comentario": "O experimento de Milgram, com choques elétricos, investigou a obediência à autoridade.",
+  "fonte": "FGV 2024 (PC-SC), Psicólogo Policial Civil, questão 87 (caderno Tipo 1)",
+  "prova": "FGV PC-SC 2024",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49180.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49180.pdf"
+ },
+ {
+  "enunciado": "Assinale o conceito a seguir que não faz parte da Teoria de Personalidade desenvolvida por Jung.",
+  "alternativas": [
+   "Inconsciente coletivo.",
+   "Anima e animus.",
+   "Arquétipo de Grande Mãe.",
+   "Projeção da sombra.",
+   "Zona de Desenvolvimento Proximal."
+  ],
+  "certa": 4,
+  "comentario": "Inconsciente coletivo, anima e animus, arquétipos (como a Grande Mãe) e sombra são conceitos de Jung. A Zona de Desenvolvimento Proximal é de Vygotsky.",
+  "fonte": "FGV 2024 (PC-SC), Psicólogo Policial Civil, questão 85 (caderno Tipo 1)",
+  "prova": "FGV PC-SC 2024",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49180.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49180.pdf"
+ },
+ {
+  "enunciado": "A abordagem de Hersey e Blanchard foca uma grande parte de sua atenção sobre as características dos seguidores em determinar o comportamento apropriado para liderança. O ponto de Hersey e Blanchard é que os subordinados variem em nível de",
+  "alternativas": [
+   "produção.",
+   "exatidão.",
+   "prontidão.",
+   "planejamento.",
+   "execução."
+  ],
+  "certa": 2,
+  "comentario": "Na liderança situacional de Hersey e Blanchard, o comportamento adequado do líder depende do nível de prontidão dos seguidores.",
+  "fonte": "FCC 2022 (TJ-SC), Psicólogo, questão 21 (caderno E, Tipo 001)",
+  "prova": "FCC TJ-SC 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48320.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48320.pdf"
+ },
+ {
+  "enunciado": "Gestão de conflitos é parte fundamental na administração de recursos humanos, mas nem sempre foi reconhecido o potencial positivo dos conflitos. A posição de que os conflitos devem ser estimulados no ambiente corporativo, já que instigam a curiosidade e a concorrência positivamente, produzindo alternativas criativas, é a defendida pela Escola:",
+  "alternativas": [
+   "clássica;",
+   "de relações humanas;",
+   "interacionista;",
+   "da administração científica;",
+   "das estruturas móveis."
+  ],
+  "certa": 2,
+  "comentario": "A escola interacionista é a que defende estimular o conflito no ambiente de trabalho, por seu potencial de gerar criatividade. A visão clássica o trata como algo a evitar.",
+  "fonte": "FGV 2022 (TJDFT), Analista Judiciário – Psicologia, questão 57 (Tipo 1)",
+  "prova": "FGV TJDFT 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48450.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48450.pdf"
+ },
+ {
+  "enunciado": "Hans Selye está entre os grandes representes dos modelos teóricos que visam explicar o estresse com a proposição das fases de adaptação, especialmente a Síndrome de Adaptação Geral (SAG). Sobre a SAG, assinale a afirmativa correta.",
+  "alternativas": [
+   "A fase de exaustão é caracterizada pela resistência do organismo e nela ocorre o aumento da liberação de hormônios, da frequência cardíaca e da temperatura corporal.",
+   "A resistência é a segunda fase e nela há a manutenção do aumento da atividade do sistema nervoso simpático, dos níveis de cortisol no organismo e das demandas energéticas do corpo.",
+   "Após um evento estressor, a resposta adaptativa ao estresse segue a sequência das três fases da SAG – alarme, exaustão e resistência, para que então esteja emocionalmente preparado para uma ação de “luta ou fuga”.",
+   "A primeira fase é chamada de alarme, pois o corpo se prepara para “luta ou fuga” e mobiliza o sistema nervoso parassimpático, promovendo aumento progressivo da frequência cardíaca, respiratória e da demanda sanguínea para o corpo."
+  ],
+  "certa": 1,
+  "comentario": "Na Síndrome de Adaptação Geral de Selye, a resistência é a segunda fase e mantém a ativação simpática e o cortisol elevados. A exaustão é a terceira fase, e na fase de alarme o corpo se prepara para luta ou fuga com ativação simpática, não parassimpática.",
+  "fonte": "Consulplan 2022 (MP-PA), Técnico – Psicólogo, questão 64 (Tipo 1)",
+  "prova": "Consulplan MP-PA 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48577.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48577.pdf"
+ },
+ {
+  "enunciado": "A abordagem terapêutica desenvolvida por Jacob Moreno, aplicável a intervenções individuais e grupais, que permite a expressão livre e a exploração de sentimentos e pensamentos é",
+  "alternativas": [
+   "o teatro do oprimido.",
+   "o psicodrama.",
+   "a terapia cognitivo comportamental.",
+   "a terapia holística.",
+   "a terapia existencial."
+  ],
+  "certa": 1,
+  "comentario": "O psicodrama foi desenvolvido por Jacob Moreno e pode ser aplicado em intervenções individuais e grupais.",
+  "fonte": "FGV 2024 (PC-SC), Psicólogo Policial Civil, questão 90 (caderno Tipo 1)",
+  "prova": "FGV PC-SC 2024",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49180.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49180.pdf"
+ },
+ {
+  "enunciado": "Em “Sobre o início do tratamento (Novas recomendações sobre a técnica da psicanálise I)” (1913), Freud recomenda fazer um tratamento de ensaio no início do atendimento do paciente, antes da análise propriamente dita, para evitar uma interrupção posterior que possa causar a impressão desagradável de tentativa fracassada de cura. Tal ensaio segue as regras do método analítico e tem também motivação diagnóstica. Seguidor de Freud, Lacan considera esse preâmbulo fundamental, sendo a porta de entrada para a análise propriamente dita. Tal trabalho prévio é chamado por Lacan de:",
+  "alternativas": [
+   "travessia do fantasma;",
+   "holding terapêutico;",
+   "anamnese subjetiva;",
+   "entrevistas preliminares;",
+   "acolhimento integral da demanda."
+  ],
+  "certa": 3,
+  "comentario": "O trabalho prévio à análise propriamente dita, de ensaio e com motivação diagnóstica, é chamado por Lacan de entrevistas preliminares.",
+  "fonte": "FGV 2022 (TJDFT), Analista Judiciário – Psicologia, questão 42 (Tipo 1)",
+  "prova": "FGV TJDFT 2022",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/48450.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/48450.pdf"
+ },
+ {
+  "enunciado": "Considerando os fundamentos e práticas da psicologia da saúde, segundo Baptista e Dias (2010), assinale a alternativa incorreta.",
+  "alternativas": [
+   "É uma área do conhecimento que estuda a influência de aspectos psicológicos no processo saúde-doença",
+   "Refere-se a ações e programas de saúde mental desenvolvidos apenas em ambientes hospitalares",
+   "Enquanto prática, abrange quaisquer ações e/ou programas que tenham como foco a saúde individual ou coletiva",
+   "A psicologia da saúde tem como foco tanto a saúde física quanto a mental, podendo se estender do Hospital geral ao Hospital Psiquiátrico",
+   "Inclui ações de promoção, prevenção, recuperação e reabilitação da saúde, devendo ocorrer em todos os níveis de atenção à saúde"
+  ],
+  "certa": 1,
+  "comentario": "A psicologia da saúde não se restringe ao ambiente hospitalar: abrange ações de saúde individual e coletiva, em todos os níveis de atenção. Por isso a alternativa que a limita a hospitais é a incorreta.",
+  "fonte": "IBFC 2023 (EBSERH), Psicólogo – Psicologia Hospitalar, questão 50",
+  "prova": "IBFC EBSERH 2023",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49294.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49294.pdf"
+ },
+ {
+  "enunciado": "A psicologia da saúde e hospitalar tem seu foco na tríade paciente, família e equipe de saúde. Monteiro, Magalhães e Machado (2017) conduziu uma investigação ampla sobre as repercussões da terminalidade para os familiares de pacientes graves internados em Unidade de Terapia Intensiva (UTI). Constatou-se que a morte iminente do paciente promove grande angústia e sofrimento. Neste cenário ocorre um processo através do qual os familiares conseguem se preparar cognitiva e emocionalmente para a morte iminente de forma adaptativa. Assinale a alternativa correta quanto a este recurso.",
+  "alternativas": [
+   "Cooping focado no problema",
+   "Cooping focado na emoção",
+   "Luto patológico",
+   "Luto antecipatório",
+   "Cooping por etapas"
+  ],
+  "certa": 3,
+  "comentario": "O processo pelo qual os familiares se preparam cognitiva e emocionalmente para uma morte iminente é o luto antecipatório.",
+  "fonte": "IBFC 2023 (EBSERH), Psicólogo – Psicologia Hospitalar, questão 49",
+  "prova": "IBFC EBSERH 2023",
+  "url": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/prova/49294.pdf",
+  "gabarito": "https://s3-improved-files-sec1.iesde.com.br/resolucaoq/prova/gabarito/49294.pdf"
+ }
+]

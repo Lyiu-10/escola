@@ -1,0 +1,34 @@
+{
+  "smv": {
+    "arquivo": "smv.jpg",
+    "titulo": "Navio-Veleiro Cisne Branco (U20) atracado no Terminal Marítimo de Passageiros de Natal-RN",
+    "autor": "Marinha do Brasil",
+    "licenca": "CC BY-SA 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Navio-Veleiro_Cisne_Branco_(U20)_atracadoo_no_Terminal_Mar%C3%ADtimo_de_Passageiros_de_Natal-RN,_no_Bairro_da_Ribeira._(52297343604).jpg",
+    "mostra": "O Navio-Veleiro Cisne Branco, da Marinha, atracado no Terminal Marítimo de Passageiros de Natal, no bairro da Ribeira, em 2022."
+  },
+  "cpt": {
+    "arquivo": "cpt.jpg",
+    "titulo": "Centro de Instrução Almirante Wandenkolk (CIAW)",
+    "autor": "Marinha do Brasil",
+    "licenca": "CC BY-SA 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Centro_de_Instru%C3%A7%C3%A3o_Almirante_Wandenkolk_(CIAW)_(52652713420).jpg",
+    "mostra": "O Centro de Instrução Almirante Wandenkolk, na Ilha das Enxadas, vista da baía de Guanabara com a ponte Rio-Niterói ao fundo."
+  },
+  "eaoap": {
+    "arquivo": "eaoap.jpg",
+    "titulo": "Esquadrilha da Fumaça - Brasil 001",
+    "autor": "Adrianoflorianopolis",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Esquadrilha_da_Fuma%C3%A7a_-_Brasil_001.JPG",
+    "mostra": "Seis aeronaves Tucano da Esquadrilha da Fumaça, da Força Aérea Brasileira, em formação no céu."
+  },
+  "esfcex": {
+    "arquivo": "esfcex.jpg",
+    "titulo": "Formatura de oficiais do quadro complementar ESAEX (2009) (b)",
+    "autor": "Ronaldo Silva/Agecom",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Formatura_de_oficiais_do_quadro_complementar_ESAEX_(2009)_(b).jpg",
+    "mostra": "Formatura de oficiais do quadro complementar na Escola de Administração do Exército (ESAEX), em 2009."
+  }
+}

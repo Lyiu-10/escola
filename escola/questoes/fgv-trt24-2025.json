@@ -1,0 +1,518 @@
+{
+ "prova": "FGV TRT-24 2025",
+ "cor": "Tipo 1",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/area-apoio-especializado-psicologiacns108-tipo-1.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabaritodefinitivo_trt24-analista.pdf",
+ "questoes": [
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Edson, 30 anos, foi diagnosticado com Transtorno do Espectro Autista (TEA) nível 1 de suporte. Ele foi aprovado no concurso para servidor do TRT utilizando a cota destinada a pessoas com deficiência. Sobre essa situação, assinale a afirmativa correta.",
+   "alternativas": [
+    "Embora o TEA seja um transtorno neurocognitivo, há indivíduos autistas que se destacam pelo desempenho intelectual acima da média",
+    "Classificar o TEA como um transtorno do neurodesenvolvimento é uma forma de capacitismo e exclusão de pessoas com capacidades cognitivas normais",
+    "O TEA nível 1 de suporte não é considerado uma doença ou deficiência, na medida em que é apenas uma neurodiversidade que dispensa qualquer intervenção terapêutica",
+    "Edson fez uso indevido da política afirmativa para pessoas neurodivergentes, a qual é reservada a pessoas com o TEA nível 2 e 3 de suporte, entre outras patologias",
+    "A legislação que garante direitos a pessoas com deficiência abrange o TEA nível 1 de suporte e garante o acesso de pessoas com diagnóstico de TEA a políticas de inclusão"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pela legislação brasileira, a pessoa com TEA é considerada pessoa com deficiência para todos os efeitos legais (Lei 12.764/2012), sem distinção de nível de suporte, o que inclui o nível 1 nas políticas de inclusão e nas cotas. As outras erram: o TEA é transtorno do neurodesenvolvimento, não neurocognitivo (A); a classificação diagnóstica não é capacitismo (B); o nível 1 ainda exige suporte (C); e a lei não restringe a política aos níveis 2 e 3 (D)."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "Mesmo com o expressivo crescimento da presença feminina no mercado de trabalho, persistem desigualdades nas condições de trabalho e o preconceito direcionado às mulheres. As opções a seguir apresentam exemplos dessa situação, **_à exceção de uma_**. Assinale-a.",
+   "alternativas": [
+    "A disparidade salarial entre homens e mulheres",
+    "A desigualdade na promoção de mulheres a cargos de chefia e liderança",
+    "As restrições na contratação de mulheres em idade reprodutiva ou com filhos pequenos",
+    "O questionamento sobre a vocação das mulheres para funções ligadas à assistência, à saúde e à educação",
+    "A sobrecarga da dupla jornada devido aos afazeres domésticos, historicamente atribuídos às mulheres"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A exceção é questionar a suposta vocação feminina para assistência, saúde e educação: isso contesta o estereótipo de gênero, não é exemplo de desigualdade. Disparidade salarial, barreiras à chefia, restrição de contratação de mães e mulheres em idade reprodutiva e a dupla jornada são, todas, expressões documentadas da desigualdade de gênero no trabalho."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Na instituição em que Eduardo atua como psicólogo organizacional, a avaliação de desempenho dos colaboradores é uma prática regular. Eduardo propôs à equipe a realização da avaliação de desempenho 360, que consiste em",
+   "alternativas": [
+    "analisar o desempenho com base em competências técnicas e comportamentais essenciais para a função, permitindo um alinhamento com os objetivos da instituição",
+    "medir o desempenho de acordo com metas previamente estabelecidas, com foco nos resultados alcançados e na contribuição para os objetivos da organização",
+    "cada colaborador avaliar o próprio desempenho, analisando as conquistas, as dificuldades e os pontos de melhoria, de modo a incentivar a autorreflexão e o autodesenvolvimento",
+    "receber feedback de múltiplas fontes, incluindo superiores, colegas, subordinados e até usuários, proporcionando uma visão mais completa e imparcial sobre o desempenho do avaliado",
+    "registrar situações específicas em que o colaborador teve um desempenho excepcionalmente positivo ou negativo, permitindo uma análise qualitativa baseada em eventos concretos"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "A avaliação 360 graus reúne feedback de várias fontes ao redor do avaliado: chefia, pares, subordinados e até clientes ou usuários, o que reduz o viés de um avaliador único. As demais descrevem outros métodos: avaliação por competências (A), por objetivos ou metas (B), autoavaliação (C) e incidentes críticos (E)."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Considerada um problema de saúde pública, a obesidade é uma doença de causalidade multifatorial cujo tratamento é complexo e multidisciplinar. Por esse motivo, a prevenção primária da obesidade ocupa um lugar estratégico na política pública de saúde. Entre as medidas de prevenção primária à obesidade, consta",
+   "alternativas": [
+    "o tratamento farmacológico para o controle da hipertensão, da diabetes e das taxas elevadas de colesterol",
+    "o incentivo à prática de exercícios físicos para reduzir o sedentarismo e aumentar o gasto calórico diário",
+    "a educação nutricional voltada à população de maior renda, na qual se observa maior incidência de obesidade mórbida",
+    "o aumento do acesso da população a cirurgias bariátricas na rede pública de saúde",
+    "a mudança nos padrões estéticos, os quais incentivam um ideal de magreza inatingível para a maioria das pessoas"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "",
+   "comentario": "Prevenção primária age antes de a doença se instalar, sobre fatores de risco na população; incentivar a atividade física para reduzir o sedentarismo é o exemplo clássico. Tratar hipertensão, diabetes e colesterol (A) e ampliar a cirurgia bariátrica (D) já atuam sobre doença instalada; a educação nutricional dirigida só à população de maior renda (C) parte de premissa falsa, e a mudança de padrões estéticos (E) não é medida de prevenção da obesidade."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "O **DSM-5 (Manual Diagnóstico e Estatístico de Transtornos Mentais)** identifica determinados transtornos alimentares que estão diretamente relacionados ao desenvolvimento da obesidade. Entre eles, destaca-se",
+   "alternativas": [
+    "o hipotireoidismo",
+    "a anorexia nervosa",
+    "a bulimia nervosa",
+    "o transtorno dismórfico corporal",
+    "o transtorno de compulsão alimentar"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "O transtorno de compulsão alimentar, um dos transtornos alimentares do DSM-5, tem episódios recorrentes de ingestão excessiva com perda de controle e sem comportamentos compensatórios, o que o associa diretamente à obesidade. Hipotireoidismo (A) é doença endócrina, não transtorno mental; anorexia (B) cursa com baixo peso; na bulimia (C) as purgações compensam a compulsão; e o dismórfico corporal (D) fica no grupo obsessivo-compulsivo, não no dos alimentares."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "João, motorista de uma empresa, foi vítima de um assalto à mão armada durante o exercício de sua função, ocasião em que o caminhão foi levado. Após o ocorrido, passou a apresentar sintomas como pesadelos, hipervigilância, crises de pânico e evitação de situações associadas ao evento. Em razão desses sintomas, recebeu diagnóstico de Transtorno de Estresse Pós-Traumático (TEPT), diretamente relacionado ao trauma vivenciado no ambiente de trabalho. Entre as medidas institucionais que podem ser adotadas em favor de João, destaca-se a",
+   "alternativas": [
+    "licença para tratamento de reabilitação psicológica",
+    "realocação para perícia médica e psicossocial",
+    "preparação para a aposentadoria por invalidez",
+    "readaptação à função de motorista",
+    "reintegração ao emprego"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Diante de um TEPT relacionado ao trabalho, a primeira medida institucional é afastar o trabalhador com licença para tratamento e reabilitação psicológica, antes de pensar em retorno ou mudança de função. Aposentadoria por invalidez (C) é medida extrema e precoce; readaptar à mesma função de motorista (D) contradiz o próprio conceito de readaptação e o expõe ao gatilho do trauma; e reintegração (E) pressupõe um desligamento que não houve."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "Marcela, 31 anos, usuária de álcool e outras drogas, deixou a filha Teresa de 1 ano sozinha em casa e só retornou no dia seguinte. Os vizinhos chamaram o Conselho Tutelar, alertados pelo choro da criança. O Conselho Tutelar conseguiu localizar Gilberto, o avô de Teresa, e entregou para ele a criança na sede do órgão. A psicóloga do Conselho Tutelar deu as orientações cabíveis naquele momento. Diante dessa situação e considerando as medidas possíveis no melhor interesse de Marcela e de Teresa, é correto afirmar que",
+   "alternativas": [
+    "Gilberto pode requerer judicialmente a interdição de Marcela e a curatela de Teresa",
+    "Marcela deve ser internada em um serviço residencial terapêutico para um tratamento de redução de danos",
+    "Teresa deve ser encaminhada para uma instituição de acolhimento onde permanecerá até ser adotada por uma família sem vícios",
+    "Marcela é inimputável por sua condição de dependente química, portanto, não será detida por abandono de incapaz e poderá cuidar de Teresa",
+    "Marcela pode ser acolhida em um dos serviços da Rede de Atenção Psicossocial, sendo o Centro de Atenção Psicossocial Álcool e Drogas (CAPS AD) uma das principais portas de entrada para o seu atendimento"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "A resposta em saúde para Marcela é o cuidado em liberdade na Rede de Atenção Psicossocial, e o CAPS AD é uma das principais portas de entrada para usuários de álcool e outras drogas. Interdição e curatela (A) não se aplicam ao caso; o Serviço Residencial Terapêutico (B) é moradia para egressos de longas internações, não lugar de tratamento de redução de danos; acolhimento institucional até a adoção (C) ignora a família extensa (o avô); e a dependência não gera inimputabilidade automática (D)."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "O assédio moral organizacional é um processo que compromete a saúde física e mental dos trabalhadores. No caso de Suzana, bancária, o modelo de gestão adotado pelo banco — baseado em ameaças de demissão e descontos salariais diante do não cumprimento de metas de produtividade — resultou no desenvolvimento da Síndrome de Burnout. Assinale a opção que identifica corretamente o modelo de gestão a que Suzana esteve submetida.",
+   "alternativas": [
+    "A gestão pelo medo",
+    "O gaslighting institucional",
+    "O mansplaining organizacional",
+    "A precarização da mão de obra",
+    "O sexismo nas relações de trabalho"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Gestão por ameaças de demissão e descontos salariais para forçar metas é a chamada gestão pelo medo, forma típica de assédio moral organizacional, em que a violência vem da própria política da empresa. Gaslighting (B) é manipulação que faz a vítima duvidar da própria percepção; mansplaining (C) é o homem explicar à mulher o óbvio de modo condescendente; precarização (D) diz respeito a vínculos e condições de trabalho; e sexismo (E) supõe discriminação por gênero, que o caso não descreve."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "Emergências e desastres impactam de forma trágica indivíduos e comunidades, não apenas no plano material, mas também no emocional. Entre as abordagens utilizadas na intervenção em crises, destacam-se aquelas voltadas à reestruturação de pensamentos disfuncionais e ao desenvolvimento de estratégias de enfrentamento mais saudáveis. Essas intervenções têm como referencial técnico",
+   "alternativas": [
+    "a psicologia fenomenológica de E. Husserl",
+    "a terapia cognitivo-comportamental de Aaron Beck",
+    "a psicologia positiva de Martin Seligman",
+    "a psicologia humanista de Carl Rogers",
+    "a análise transacional de Eric Berne"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "Reestruturar pensamentos disfuncionais e treinar estratégias de enfrentamento são técnicas centrais da terapia cognitivo-comportamental de Aaron Beck, muito usada na intervenção em crises. A fenomenologia de Husserl (A) é método filosófico; a psicologia positiva de Seligman (C) foca forças e bem-estar; a abordagem de Rogers (D) é centrada na pessoa e não diretiva; e a análise transacional de Berne (E) trabalha estados do ego e transações."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Erika, psicóloga hospitalar, foi acionada para acompanhar Henrique, de 75 anos, internado devido à piora de uma doença degenerativa. Henrique expressou o desejo de receber alta para poder “morrer com dignidade” em sua residência, junto de seus familiares e animais de estimação. Considerando esse quadro, é possível deduzir que",
+   "alternativas": [
+    "O hospital incorre em crime de responsabilidade se der a alta hospitalar, privando o paciente das estratégias de suporte artificial da vida",
+    "Henrique apresenta um quadro de negação da gravidade de suas condições de saúde e deve ser mantido em ambiente hospitalar",
+    "Henrique apresenta plena posse de suas faculdades mentais e, diante disso, pode optar por receber cuidados paliativos em sua residência",
+    "A família de Henrique deve ser chamada para manifestar sua concordância com a morte assistida por se tratar de paciente idoso",
+    "Henrique é um paciente terminal que se encontra na fase de depressão profunda, e seria uma forma de maleficência submetê-lo à ortotanásia"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-luto",
+   "item": "",
+   "comentario": "Um paciente lúcido, capaz de decidir, pode escolher receber cuidados paliativos em casa, junto da família, o que respeita a autonomia e a ideia de morte digna (ortotanásia). Não há crime na alta a pedido (A); o desejo de morrer em casa não é sinal de negação (B); a família não precisa autorizar, e o caso não é de morte assistida (D); e chamar a ortotanásia de maleficência (E) inverte o conceito, já que ela evita prolongar artificialmente o sofrimento."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "A partir das suas próprias experiências como prisioneiro em um campo de concentração, Victor Frankl considera que o encontro do sentido da vida funciona como a maior força motivadora das pessoas. Ele preceitua que a criação ou o desenvolvimento de manifestações artísticas pode ajudar nesse processo de autoconhecimento. A proposta teórica de Frankl é conhecida como",
+   "alternativas": [
+    "logoterapia",
+    "psicanálise",
+    "psicologia dos complexos",
+    "psicologia analítica",
+    "orgonoterapia"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "A logoterapia de Viktor Frankl, formulada também a partir da experiência nos campos de concentração, põe a busca de sentido como a principal força motivadora do ser humano. Psicanálise (B) é de Freud; psicologia dos complexos e psicologia analítica (C e D) são nomes da teoria de Jung; e orgonoterapia (E) é de Wilhelm Reich."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "A violência doméstica e familiar contra a mulher é um problema crescente que tem recebido mais atenção e registrado maior número de notificações, especialmente após a promulgação da Lei Maria da Penha, em 2006. As afirmativas a seguir descrevem corretamente aspectos relacionados à violência doméstica e familiar contra a mulher, **_à exceção de uma_**. Assinale-a.",
+   "alternativas": [
+    "A maior parte das mulheres agredidas sofreu violências praticadas pelo marido ou companheiro",
+    "A forma mais recorrente de violência contra a mulher é a psicológica",
+    "As situações de crise - separação do casal, desemprego, morte, migração - podem ser fatores para eclosão da violência",
+    "As mulheres vítimas de agressão recorrem à família e a instituições de apoio, como igrejas e delegacias",
+    "A maior parte das vítimas vivencia a primeira agressão na maturidade"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A afirmativa falsa é a de que a primeira agressão costuma ocorrer na maturidade: os estudos mostram que a violência em geral começa cedo, ainda na juventude e no início da relação. As demais são retratos aceitos do fenômeno: o agressor mais frequente é o parceiro íntimo, a violência psicológica é a mais recorrente, crises familiares podem precipitar a violência e as vítimas buscam família, igrejas e delegacias."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "A psicóloga Olívia é perita em Vara de Família e está atuando em um processo de disputa de guarda do menino Adolfo, de 8 anos, junto da assistente social Edith. No mesmo processo foi contratada a psicóloga Rita, para atuar como assistente técnica de Bonifácio, pai de Adolfo. Com relação à situação descrita, é correto afirmar que",
+   "alternativas": [
+    "Olívia poderá elaborar quesitos que deverão ser respondidos por Rita",
+    "Rita e Olívia deverão escutar conjuntamente Adolfo para elaboração de relatório comum",
+    "Olívia pode realizar visita domiciliar junto da assistente social Edith como parte do processo avaliativo",
+    "Olívia deve decidir sobre a concessão da guarda do menino ao genitor que for mais protetivo",
+    "é recomendável que a perita formalize seu trabalho mediante Termo de Compromisso com os pais do menino"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A perita pode usar a visita domiciliar como recurso da avaliação, inclusive com a assistente social da equipe, desde que fundamentada. As erradas: quesitos são formulados pelas partes e pelo juiz para o perito, não pelo perito ao assistente técnico (A); perito e assistente técnico fazem trabalhos independentes, sem escuta e relatório conjuntos (B); quem decide a guarda é o juiz (D); e a perita responde ao juízo, não firma termo com os pais (E). A Res. CFP 08/2010 trata da atuação do perito e do assistente técnico no Judiciário."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Sobre a atuação dos psicólogos nas políticas públicas e em programas sociais, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n(   ) O(A) psicólogo(a) deve abandonar visões que patologizam as famílias e/ou as suas relações, construindo saberes e fazeres diante da emergência das vulnerabilidades familiares.\n(   ) O(A) psicólogo(a) deve atuar na promoção das potencialidades das famílias atendidas, contribuindo também para o desenvolvimento da política pública.\n(   ) O(A) psicólogo(a) pode contribuir para a compreensão e potencialização de práticas de cuidado de famílias atendidas na Proteção Social Básica do Sistema Único de Assistência Social (SUAS).\n(   ) O(A) psicólogo(a) deve considerar o padrão familiar como o da família nuclear, composta por pais e filhos, unidos especialmente pela responsabilidade compartilhada na manutenção financeira dos seus membros.\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    "V – V – V – V",
+    "V – V – V – F",
+    "V – V – F – F",
+    "V – F – F – F",
+    "F – F – F – F"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As três primeiras afirmativas refletem a orientação do CFP para o trabalho com famílias no SUAS: superar visões patologizantes, promover as potencialidades das famílias e apoiar práticas de cuidado na Proteção Social Básica. A quarta é falsa porque toma a família nuclear como padrão, quando a política reconhece a diversidade de arranjos familiares, unidos por laços de afeto e cuidado."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Nos estudos sobre estresse desenvolvidos por Lazarus e Folkman, o coping é definido como um",
+   "alternativas": [
+    "agente estressor extra organizacional, tal como problemas econômicos e familiares e distância do trabalho / transporte",
+    "agente estressor organizacional, tal como problemas de relacionamento ou comunicação e sobrecarga de trabalho",
+    "processo sistemático de capacitação de recursos humanos para desenvolver habilidades específicas dos funcionários",
+    "processo sistemático de análise do desempenho e funcionamento de uma empresa ou grupo",
+    "tipo de processo adaptativo desenvolvido pelas pessoas para lidar com exigências internas e externas estressantes"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Para Lazarus e Folkman, coping é o conjunto de esforços cognitivos e comportamentais que a pessoa usa para lidar com demandas internas ou externas avaliadas como estressantes, ou seja, um processo de adaptação. As alternativas A e B descrevem estressores (fora e dentro da organização), não a resposta a eles; C é treinamento e D é diagnóstico organizacional."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Luana foi recentemente contratada como gestora na empresa Ambiente Alegre, ocupando um cargo anteriormente almejado por Elvira, que agora atua como sua subordinada. Inconformada com a contratação, Elvira passou a adotar comportamentos hostis, como lançar indiretas diante dos colegas e boicotar as orientações da nova gestora, gerando situações de constrangimento para Luana no ambiente organizacional. Com base na situação descrita, assinale a opção que caracteriza corretamente a conduta de Elvira.",
+   "alternativas": [
+    "Assédio moral interpessoal misto",
+    "Assédio moral interpessoal descendente",
+    "Assédio moral interpessoal ascendente",
+    "Assédio moral institucional horizontal",
+    "Assédio moral interpessoal horizontal"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "O assédio moral é ascendente quando parte de subordinado contra o superior hierárquico, como Elvira, subordinada, contra a gestora Luana. Descendente (B) é da chefia contra o subordinado; horizontal (E) ocorre entre colegas do mesmo nível; misto (A) combina agressões de chefia e de colegas; e o assédio institucional (D) vem da política da empresa, não de uma pessoa."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "O estudo do clima organizacional vem se revelando um valioso mecanismo de gestão de recursos humanos, de melhoria da produtividade e da qualidade de vida no trabalho e nas organizações. A noção de “clima organizacional” refere-se",
+   "alternativas": [
+    "a valores, crenças e comportamentos compartilhados dentro de uma empresa, definindo sua identidade e orientando o comportamento dos colaboradores",
+    "à percepção que os funcionários têm do ambiente de trabalho, influenciada por fatores como relações interpessoais, liderança e processos",
+    "ao conjunto de estratégias e ações motivadoras que guiam uma equipe e uma organização para alcançar resultados e criar um ambiente de trabalho positivo",
+    "aos fatores que impulsionam e direcionam o comportamento dos colaboradores em uma organização, para aumentar a produtividade, o desempenho e o engajamento",
+    "à realocação profissional motivada pela manifestação de alguma limitação física ou mental do colaborador de forma a preservar o vínculo laboral"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "",
+   "comentario": "Clima organizacional é a percepção compartilhada que os trabalhadores têm do ambiente de trabalho, influenciada por relações, liderança e processos. A alternativa A é a definição de cultura organizacional (valores, crenças e identidade), a confusão mais cobrada; C e D falam de motivação e estratégia de gestão; e E descreve readaptação funcional."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "As Lesões por Esforço Repetitivo/Distúrbios Osteomusculares Relacionados ao Trabalho (LER/DORT) provocam sequelas irreversíveis aos trabalhadores e, dentre seus fatores psicossociais, constam",
+   "alternativas": [
+    "repetitividade de movimentos, posturas estáticas e falta de pausas",
+    "predisposições orgânicas diante da forma de funcionamento laborativo, inadequação do ambiente e esgotamento físico",
+    "sobrecarga de trabalho, posturas inadequadas e esforço repetitivo",
+    "insatisfação com o emprego, alta pressão mental, problemas na relação com colegas e estresse",
+    "ritmo intenso de trabalho, sobrecarga de grupos musculares por posturas ruins e ausência de controle sobre o trabalho"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Os fatores psicossociais da LER/DORT são os da organização e das relações de trabalho: insatisfação, alta pressão mental, conflitos com colegas e estresse. As alternativas A, C e E misturam fatores biomecânicos e ergonômicos (repetitividade, posturas, sobrecarga muscular), que são causas físicas, e B fala de predisposição orgânica e ambiente, também fora do plano psicossocial."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Da mesma forma que a motivação dos funcionários é um componente importante para o sucesso global da organização, a desmotivação pode implicar em muitos problemas organizacionais. Assinale a afirmativa que indica comportamentos sugestivos da desmotivação laboral.",
+   "alternativas": [
+    "Queda na produtividade, falta de pontualidade e assiduidade, comentários negativos sobre a empresa, funções ou pessoas",
+    "Falta de interação entre os funcionários, baixos índices de turnover e absenteísmo",
+    "Desinteresse pelas tarefas, bom relacionamento no trabalho, resistência a mudanças",
+    "Procrastinação na execução de tarefas, engajamento na comunicação com os pares e bom feedback",
+    "Falta de entusiasmo pelo trabalho, desejo de contribuir na tarefa, busca por conhecimento e aprimoramento"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "Queda de produtividade, atrasos, faltas e comentários negativos sobre a empresa, as funções ou as pessoas são sinais clássicos de desmotivação. As outras misturam um sinal real com indicadores de motivação: baixo turnover e absenteísmo (B), bom relacionamento (C), engajamento e bom feedback (D) e desejo de contribuir e de se aprimorar (E)."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Atualmente, têm sido desenvolvidas estratégias organizacionais com o objetivo de tornar o processo de aposentadoria mais positivo para os trabalhadores. Nesse sentido, os programas de preparação para a aposentadoria podem contribuir significativamente na\nI. identificação de novas habilidades e interesses;\nII. reconstrução da identidade social;\nIII. aceleração do desligamento do funcionário que não deseja se aposentar.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "",
+   "comentario": "Programas de preparação para a aposentadoria ajudam o trabalhador a identificar novos interesses e habilidades e a reconstruir a identidade social, que costuma estar muito apoiada no papel profissional. O item III é falso: o programa existe para tornar a transição planejada e positiva, não para acelerar o desligamento de quem não quer se aposentar."
+  },
+  {
+   "numero": 51,
+   "texto": "",
+   "enunciado": "Camila atua como assistente técnica e foi demandada a apresentar uma análise sobre um documento psicológico produzido por uma perita, tendo sido ele questionado em juízo. De acordo com a RESOLUÇÃO CFP 06/2019, o documento confeccionado por Camila com tal escopo denomina-se:",
+   "alternativas": [
+    "prontuário, uma vez que se trata do resultado de um processo de avaliação psicológica",
+    "laudo, por ter como objetivo responder a uma questão-problema do campo psicológico",
+    "relatório, pois visa certificar uma determinada situação, estado ou funcionamento psicológico sem produzir diagnóstico",
+    "parecer, por se tratar de pronunciamento por escrito com finalidade de apresentar uma análise técnica sobre um documento psicológico questionado",
+    "declaração, haja vista apresentar informações técnicas dos fenômenos psicológicos, considerando os condicionantes históricos e sociais da pessoa, grupo ou instituição atendida"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "",
+   "comentario": "Pela Res. CFP 06/2019, o parecer é o pronunciamento por escrito que analisa tecnicamente uma questão ou um documento psicológico questionado, exatamente o que a assistente técnica faz com o laudo da perita. Prontuário (A) é registro do atendimento, não documento de análise; laudo (B) resulta de uma avaliação psicológica feita pela própria psicóloga; e as definições de relatório (C) e declaração (E) estão trocadas e não descrevem a análise de outro documento."
+  },
+  {
+   "numero": 52,
+   "texto": "",
+   "enunciado": "O psicanalista húngaro Sándor Ferenczi teve papel fundamental no desenvolvimento da psicanálise, destacando-se por sua originalidade técnica. Entre suas contribuições, propôs uma abordagem na qual o analista, além de interpretar, deveria intervir diretamente durante as sessões por meio de ordens e proibições. Tal procedimento ficou conhecido como",
+   "alternativas": [
+    "holding",
+    "técnica ativa",
+    "tempo lógico",
+    "associação livre",
+    "atenção flutuante"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Ferenczi propôs a técnica ativa, em que o analista, além de interpretar, intervém com injunções e proibições para mobilizar o material e vencer a estagnação da análise. Holding (A) é conceito de Winnicott; tempo lógico (C) é de Lacan; e associação livre e atenção flutuante (D e E) são as regras fundamentais da técnica freudiana, para o paciente e para o analista."
+  },
+  {
+   "numero": 53,
+   "texto": "",
+   "enunciado": "A conferência de Estela Scheinvar no Seminário Nacional de Psicologia e Políticas Públicas foi sobre “O trabalho com a população de rua: deslocamentos do paradigma da garantia de direitos” (2022). Em sua abordagem, Estela Scheinvar, destaca a relevância de determinadas abordagens da prática psi no Brasil no enfrentamento das desigualdades sociais, na luta contra a criminalização da população em situação de rua e no combate aos olhares discriminatórios dirigidos àqueles que vivem fora dos modelos sociais normativos — seja por falta de recursos, seja por recusá-los. Com base em autores como Michel Foucault e Félix Guattari, a autora desenvolve uma análise crítica da atuação psi nesse contexto. A esse respeito, avalie as afirmativas a seguir.\nI. A dimensão coletiva e a ordem política que produz as relações de rua ficam invisibilizadas em muitas das rotinas de atendimento, sendo vistas como se fossem somente de ordem pessoal e familiar.\nII. O governo da população circunscrito à lógica do direito é endereçado às práticas de julgamento disseminadas em suas múltiplas modalidades, cujo horizonte é a prática penal.\nIII. A referência ao direito como mecanismo central de socialização tem trazido efeitos de fortalecimento das relações liberais-capitalistas.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 54,
+   "texto": "",
+   "enunciado": "Maiara exerce a atividade profissional de perita psicológica, prestando assessoramento ao sistema de Justiça. Por isso, foi designada para realizar a avaliação de um caso de litígio familiar que envolve aspectos relacionados à insegurança alimentar e à saúde mental. A respeito do processo avaliativo realizado por Maiara, assinale a afirmativa correta.",
+   "alternativas": [
+    "O uso de testes psicológicos tem como único objetivo conferir legitimidade ao laudo psicológico",
+    "Em atendimentos com finalidade jurídica, é comum que as pessoas verbalizem espontaneamente seus pensamentos sem censurá-los",
+    "Maiara pode dispensar a escuta de uma das partes da lide se dispor de provas documentais a seu respeito, formulando assim, conclusões psicológicas relativas a ela",
+    "Cabe a Maiara entrevistar ambas as partes do processo e conduzir a avaliação com imparcialidade, mesmo atuando como assistente técnica e não como perita",
+    "Pode ser necessário encaminhar as famílias para a inclusão em políticas sociais específicas, sendo também atribuição da(o) psicóloga(o) jurídica(o) contribuir na composição da rede pública de assistência e de saúde"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "No trabalho pericial, a psicóloga pode identificar necessidades sociais e encaminhar as famílias às políticas públicas, articulando-se com a rede de assistência e de saúde. As erradas: os testes servem para responder à demanda avaliativa, não para dar legitimidade ao laudo (A); em contexto judicial as pessoas tendem a se censurar, não a falar livremente (B); concluir sobre alguém sem ouvi-lo, só com documentos, contraria a ética da avaliação (C); e entrevistar ambas as partes com imparcialidade é papel do perito, não do assistente técnico (D)."
+  },
+  {
+   "numero": 55,
+   "texto": "",
+   "enunciado": "De acordo com a Organização Mundial da Saúde (OMS), a violência representa um grave problema de saúde pública, sendo as violências sexuais contra crianças e adolescentes especialmente preocupantes, por impactarem de forma profunda o desenvolvimento dessa faixa etária. A respeito desse tipo de violência e da atuação de psicólogas(os) na rede de proteção às crianças e adolescentes, assinale a afirmativa correta.",
+   "alternativas": [
+    "A atuação psicológica na rede de proteção deve ser operacionalizada com foco na cessação da periculosidade e na punição do agressor",
+    "Mesmo que a violência possa ser considerada multicausal e multifacetada, o modelo mais indicado para a intervenção psicológica é o da clínica individual",
+    "A lógica da Proteção Integral, ao mesmo tempo que reconhece a criança como sujeito de direitos, também a reconhece em sua condição de menor em situação irregular",
+    "As condições institucionais e sociais do contexto em que os profissionais atuam influenciam a compreensão e a forma de agir perante as situações de violência sexual",
+    "Os profissionais que atuam nas entidades de saúde integrantes do Sistema Único de Saúde são obrigados a notificar os casos de violência contra crianças e adolescentes somente quando confirmados"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As condições institucionais e sociais em que o profissional trabalha influenciam a forma como ele compreende a violência sexual e age diante dela. As erradas: a atuação psicológica na rede de proteção visa a proteção e o cuidado, não a punição do agressor (A); a violência multicausal pede intervenção em rede, não só a clínica individual (B); \"menor em situação irregular\" é a doutrina do antigo Código de Menores, superada pela Proteção Integral (C); e a notificação é obrigatória também nos casos suspeitos, não só nos confirmados (E)."
+  },
+  {
+   "numero": 56,
+   "texto": "",
+   "enunciado": "Elaborado por Gastão Wagner Campos na década de 1990, o matriciamento tem servido como base para a construção de um modelo de cuidado colaborativo entre a saúde mental e a atenção primária no Brasil. Com relação ao matriciamento, assinale a afirmativa correta.",
+   "alternativas": [
+    "Refere-se a uma intervenção psicossocial coletiva realizada apenas pelo profissional de saúde mental",
+    "Trata-se de uma prática que se define de forma precisa dentro dos limites de cada disciplina ou profissão, com o objetivo de promover o cuidado colaborativo",
+    "É análogo à supervisão clínico-institucional, pois o matriciador não pode participar ativamente do projeto terapêutico",
+    "Consiste em um processo de trabalho interdisciplinar por natureza, com práticas que envolvem intercâmbio e construção do conhecimento",
+    "Funciona por meio da articulação entre equipes, com o objetivo de encaminhar os usuários ao especialista, que será responsável pelo atendimento individual na área de saúde mental"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://www.youtube.com/watch?v=39sYaPF5N2M",
+   "comentario": "O apoio matricial, proposto por Gastão Wagner Campos, é interdisciplinar por natureza: a equipe de saúde mental e a da atenção primária constroem juntas o cuidado, com troca de saberes e responsabilidade compartilhada. As erradas: não é feito só pelo profissional de saúde mental (A); não se limita às fronteiras de cada disciplina (B); o matriciador participa ativamente do projeto terapêutico (C); e o objetivo é justamente evitar o encaminhamento automático ao especialista (E)."
+  },
+  {
+   "numero": 57,
+   "texto": "",
+   "enunciado": "Com base na Atenção Primária à Saúde, assinale a opção correta sobre os cuidados prestados nesse nível de atenção",
+   "alternativas": [
+    "Profissionais de saúde da Atenção Primária, quando comparados com especialistas, lidam com uma variedade menor de problemas",
+    "A Atenção Primária envolve o manejo de pacientes que, geralmente, têm múltiplos diagnósticos e queixas confusas as quais não podem ser encaixadas em diagnósticos conhecidos",
+    "No nível da Atenção Primária considera-se que a saúde de um indivíduo ou de uma população é determinada principalmente por sua combinação genética, e não pelo ambiente social e físico",
+    "A prevenção e promoção da saúde na Atenção primária transcendem as enfermidades específicas, considerando unicamente o contexto direto de convivência do indivíduo, isto é, sua família",
+    "A Atenção primária foca no tratamento de enfermidades, incluindo as condições de saúde raras, dispensando a necessidade de coordenação do cuidado"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Na visão clássica de Atenção Primária (Starfield), o profissional lida com pacientes de múltiplos problemas e queixas vagas, que muitas vezes não se encaixam em diagnósticos conhecidos. As erradas invertem os atributos: a APS lida com variedade maior de problemas que o especialista (A), considera os determinantes sociais e ambientais (C), não se restringe à família como contexto (D) e tem a coordenação do cuidado como atributo essencial (E)."
+  },
+  {
+   "numero": 58,
+   "texto": "",
+   "enunciado": "No Brasil, a atenção psicossocial configura um campo capaz de congregar e nomear todo o conjunto de práticas substitutivas ao paradigma asilar. Com relação à atenção psicossocial, assinale a afirmativa correta.",
+   "alternativas": [
+    "É despida de uma dimensão propriamente política, a despeito de ofertar atendimento individual e coletivo aos usuários",
+    "Visa a produção de subjetividade singularizada, tanto nas relações imediatas com o usuário quanto nas relações com o território",
+    "Constitui serviços de reabilitação social para pacientes graves e crônicos, que utilizam grupos em detrimento de técnicas clínicas",
+    "Consolida-se como nível especializado, no que diz respeito às formas de organização das relações intrainstitucionais, preconizando a verticalização",
+    "Possui, como um de seus pontos críticos, a conformação de um modelo assistencial que vem progressivamente excluindo o médico psiquiatra da assistência ao doente mental"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "O modo psicossocial, que substitui o paradigma asilar, busca produzir subjetividade singularizada, tanto na relação com o usuário quanto na relação com o território. As erradas: a atenção psicossocial tem dimensão política forte, ligada à reforma psiquiátrica (A); não troca técnicas clínicas por grupos nem se reduz à reabilitação de crônicos (C); defende relações horizontais, não verticalizadas (D); e o modelo inclui o psiquiatra na equipe multiprofissional, não o exclui (E)."
+  },
+  {
+   "numero": 59,
+   "texto": "",
+   "enunciado": "O Manual Diagnóstico e Estatístico de Transtornos Mentais, 5ª Edição (DSM-V), ao tratar do uso de substâncias psicoativas,",
+   "alternativas": [
+    "enfatiza a dimensão da compulsividade, que passa a ser central na caracterização do uso de substâncias como comportamento patológico",
+    "ressalta os transtornos mentais orgânicos, separando o psíquico do físico na construção dos critérios diagnósticos no campo de drogas",
+    "considera como padrão problemático o uso de substâncias quando há comprometimento ou sofrimento significativo durante um período de dois meses",
+    "menciona a tolerância ao uso da substância, haja vista a necessidade de quantidades progressivamente menores para atingir a intoxicação ou o efeito desejado",
+    "inclui a fissura como um dos critérios diagnósticos, em que a substância é consumida em maiores quantidades ou por um período mais longo do que o pretendido"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "No DSM-5, o transtorno por uso de substância é caracterizado por um padrão de uso compulsivo e com perda de controle, mantido apesar dos prejuízos, e a banca toma essa compulsividade como eixo da definição. As erradas: o período de referência é de 12 meses, não de dois (C); tolerância é precisar de quantidades cada vez maiores, não menores (D); a fissura é critério, mas a alternativa E a descreve com o texto de outro critério (consumir mais ou por mais tempo que o pretendido); e o manual não separa psíquico e físico em transtornos orgânicos (B)."
+  },
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "Sobre a atuação do psicólogo na abordagem da saúde mental no contexto da Atenção Básica à Saúde, assinale a afirmativa correta.",
+   "alternativas": [
+    "Considera a interdependência do sofrimento de pessoas, famílias, comunidades e territórios",
+    "Enfatiza a doença e os sintomas de sofrimento do sujeito, em detrimento do contexto em que estes aparecem",
+    "Mantém a objetividade pertinente à cientificidade da área, para não afetar o processo de cuidado em saúde mental",
+    "Privilegia a clínica individual, enquanto estratégia de cuidado considerada como intervenção em saúde mental",
+    "Fundamenta a produção de diagnósticos a fim de encaminhar os usuários para a atenção psicossocial especializada"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://www.youtube.com/watch?v=39sYaPF5N2M",
+   "comentario": "Na Atenção Básica, o cuidado em saúde mental considera o sofrimento em sua relação com as famílias, a comunidade e o território, numa perspectiva ampliada e não centrada na doença. As erradas descrevem o modelo biomédico que se quer superar: foco nos sintomas sem contexto (B), neutralidade objetivista (C), primazia da clínica individual (D) e diagnóstico só para encaminhar ao serviço especializado (E)."
+  }
+ ]
+}

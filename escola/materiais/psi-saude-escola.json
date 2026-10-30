@@ -1,0 +1,430 @@
+{
+  "p-saude": [
+    {
+      "tipo": "aula",
+      "titulo": "REVISÃO DE PSICOSSOMÁTICA - Profª Luana Amaro",
+      "fonte": "Luana Amaro Psicóloga (YouTube)",
+      "url": "https://www.youtube.com/watch?v=XP0VGNLFpsg",
+      "minutos": 53,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Revisão de psicossomática (Marinha e Aeronáutica): conceitos, escolas e a relação mente-corpo no adoecimento."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "A Psicologia no hospital geral: aspectos históricos, conceituais e práticos",
+      "fonte": "Estudos de Psicologia (Campinas), 2016, via PUC-Campinas",
+      "url": "https://periodicos.puc-campinas.edu.br/estpsi/article/download/8007/5519/31949",
+      "arquivo": "p-saude/azevedo-crepaldi-psicologia-hospital-geral.pdf",
+      "minutos": 42,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Origem da Psicologia da Saúde, o papel do psicólogo na atenção à saúde e a tríade paciente, família e equipe (14 páginas)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Uma integração teórica entre psicossomática, stress e doenças crônicas de pele (Silva e Müller, 2007)",
+      "fonte": "Estudos de Psicologia (Campinas), 24(2), 2007 (acesso aberto, Redalyc)",
+      "url": "https://www.redalyc.org/pdf/3953/395336186011.pdf",
+      "arquivo": "p-saude/silva-muller-psicossomatica-stress.pdf",
+      "minutos": 30,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Visão geral da abordagem psicossomática (conceito, história, visão integral mente-corpo e biopsicossocial) e do stress; a parte final aplica à dermatologia. Ler as 10 páginas do artigo (pp. 247-256); a capa do Redalyc não conta. Complementa o texto sobre psicologia no hospital geral."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "INTRODUÇÃO À PSICOLOGIA DA SAÚDE E HOSPITALAR - CONCURSOS DE PSICOLOGIA",
+      "fonte": "Prof. Monique Mistura - Concursos de Psicologia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=NxmOFpBEoUk",
+      "minutos": 15,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Introdução curta à Psicologia da Saúde e à hospitalar, voltada a concurso."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "O Tratamento Psicoterápico Fenomenológico em Pacientes Psicossomáticos: Uma Revisão Integrativa",
+      "fonte": "Id on Line Revista de Psicologia",
+      "url": "https://idonline.emnuvens.com.br/id/article/download/3934/5970/15345",
+      "arquivo": "p-saude/psicossomatica-fenomenologia.pdf",
+      "minutos": 51,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Psicossomática: perspectiva histórica e leitura clínica; vale pela parte conceitual e histórica, a abordagem fenomenológica é só uma das visões (17 páginas)."
+    }
+  ],
+  "p-hospitalar": [
+    {
+      "tipo": "aula",
+      "titulo": "Aula Gratuita ISGH - Psicologia Hospitalar - Psicologia",
+      "fonte": "Curso MS - Concursos na Saúde (YouTube)",
+      "url": "https://www.youtube.com/watch?v=Dtpy12uWMpE",
+      "minutos": 71,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Aula gratuita de cursinho sobre atuação do psicólogo no hospital, voltada a concurso."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Referências Técnicas para atuação de psicólogas(os) nos serviços hospitalares do SUS",
+      "fonte": "CFP / CREPOP, 2019",
+      "url": "https://site.cfp.org.br/wp-content/uploads/2019/11/ServHosp_web1.pdf",
+      "arquivo": "p-hospitalar/cfp-servicos-hospitalares.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Documento oficial: atuação do psicólogo no hospital, adoecimento, família e luto. Ler o capítulo \"Atuação da Psicologia nos hospitais\" (páginas impressas 43 a 89); o resto é opcional (126 páginas no total)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Psicologia da Saúde, cap. 2: intervenção terciária e hospitalar (Alves e Eulálio)",
+      "fonte": "EDUEPB, 2011 (acesso aberto, SciELO Livros)",
+      "url": "https://books.scielo.org/id/z7ytj/pdf/alves-9788578791926.pdf#page=78",
+      "arquivo": "p-hospitalar/alves-psicologia-da-saude.pdf",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Ler as páginas 78 a 83 (fim do cap. 2). Atividades do psicólogo na intervenção terciária: apoio ao paciente internado e à família, UTI, preparação para cirurgia, cuidado dos cuidadores. É texto de psicologia da saúde, não específico de hospital."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Preparatório para residência Psi INCA - Aula Manual de Psicologia Hospitalar - Mapa da Doença (I)",
+      "fonte": "Jaqueline Cabral @psinaoncologia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=HdCZvhtewlw",
+      "minutos": 30,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Aula sobre o Manual de Psicologia Hospitalar (Simonetti), a bibliografia do Exército: adoecimento e hospitalização."
+    }
+  ],
+  "p-luto": [
+    {
+      "tipo": "aula",
+      "titulo": "Perdas, morte e luto, com Maria Júlia Kovács",
+      "fonte": "CVV Oficial (YouTube)",
+      "url": "https://www.youtube.com/watch?v=me9jaFwAWv8",
+      "minutos": 42,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "A própria Kovács (autora da bibliografia do Exército) fala de perdas, morte, luto e atitudes diante da morte."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Educação para a Morte",
+      "fonte": "Psicologia: Ciência e Profissão, 2005 (SciELO), Maria Júlia Kovács",
+      "url": "https://www.scielo.br/j/pcp/a/SkwBgq7Xm8GLKJpQxmMMpDh/",
+      "arquivo": "p-luto/kovacs-educacao-morte.pdf",
+      "minutos": 42,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Artigo da Kovács sobre atitudes diante da morte, luto e educação para a morte (14 páginas)."
+    }
+  ],
+  "p-desenvolvimento": [
+    {
+      "tipo": "aula",
+      "titulo": "Especial 100k - Desafio Imparáveis da Saúde: Psicologia – Desenvolvimento humano com Lorena Silva",
+      "fonte": "Gran Cursos Saúde (YouTube)",
+      "url": "https://www.youtube.com/watch?v=sCxZx6xnLH4",
+      "minutos": 83,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Aula de cursinho (canal oficial) sobre desenvolvimento humano ao longo da vida; é longa, pode ser vista em duas sessões."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Teoria do apego: bases conceituais e desenvolvimento dos modelos internos de funcionamento",
+      "fonte": "Arquivos Brasileiros de Psicologia, 2005 (Redalyc), Dalbem e Dell'Aglio",
+      "url": "https://www.redalyc.org/pdf/2290/229017444003.pdf",
+      "arquivo": "p-desenvolvimento/dalbem-apego.pdf",
+      "minutos": 42,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Bowlby e o apego da infância à vida adulta (14 páginas); cobre a parte de Bowlby da bibliografia."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Pensamento e linguagem: Vygotsky, Wallon, Chomsky e Piaget, caps. 1 e 2 (Dongo-Montoya)",
+      "fonte": "Editora UNESP, 2021 (acesso aberto, SciELO Livros)",
+      "url": "https://books.scielo.org/id/5vwmw/pdf/dongo-9786557140505.pdf#page=39",
+      "arquivo": "p-desenvolvimento/dongo-pensamento-linguagem-vygotsky-wallon-piaget.pdf",
+      "minutos": 60,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Ler as páginas 39 a 58 (caps. 1 e 2). A crítica de Vygotsky a Piaget e a tese vygotskiana da determinação histórico-social do pensamento e da linguagem. Ficou como extra: é um debate teórico sobre pensamento e linguagem, e os editais pedem o desenvolvimento ao longo da vida; Piaget, Vygotsky e Wallon já estão em Teorias da aprendizagem."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Pensamento e linguagem: Vygotsky, Wallon, Chomsky e Piaget, cap. 5, Debate entre Wallon e Piaget (Dongo-Montoya)",
+      "fonte": "Editora UNESP, 2021 (acesso aberto, SciELO Livros)",
+      "url": "https://books.scielo.org/id/5vwmw/pdf/dongo-9786557140505.pdf#page=91",
+      "arquivo": "p-desenvolvimento/dongo-pensamento-linguagem-vygotsky-wallon-piaget.pdf",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Ler as páginas 91 a 96 (cap. 5). Wallon: do ato ao pensamento, inteligência prática e verbal, em contraponto a Piaget."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "René Spitz e a teoria do desenvolvimento das relações de objeto e da organização do Ego",
+      "fonte": "universoacademicovideo (YouTube)",
+      "url": "https://www.youtube.com/watch?v=75JX_G-dqFo",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Spitz: organizadores do psiquismo e hospitalismo (canal pequeno, conferir com o Papalia)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Conheça a PSICOLOGIA DO DESENVOLVIMENTO HUMANO | Introdução à Psicologia #5",
+      "fonte": "Educação em Psicologia, Dra. Monique Arantes (YouTube)",
+      "url": "https://www.youtube.com/watch?v=nqzjCuHamUI",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Visão geral das fases do desenvolvimento, para começar."
+    }
+  ],
+  "p-escolar": [
+    {
+      "tipo": "aula",
+      "titulo": "Psicologia Escolar e Educacional | Revisão | Prof. Dr. Diego Vinícius",
+      "fonte": "Psicólogo Dr. Diego Vinícius (YouTube)",
+      "url": "https://www.youtube.com/watch?v=ELL-78HzODg",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Revisão de psicologia escolar e educacional para concurso: relação entre psicologia e educação e atuação do psicólogo escolar."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Orientação à Queixa Escolar (Souza, org.)",
+      "fonte": "Instituto de Psicologia da USP, 2020 (livro gratuito e oficial)",
+      "url": "https://orientacaoaqueixaescolar.ip.usp.br/wp-content/uploads/sites/462/2020/10/Livro-OQE.pdf",
+      "arquivo": "p-escolar/livro-oqe.pdf",
+      "minutos": 90,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Livro de 421 páginas; ler o Cap. 4 (Apresentando a Orientação à Queixa Escolar, p. 97) e o Cap. 10 (Funcionamentos escolares e a produção de fracasso escolar, p. 241); o Cap. 1 (p. 27) é um bom complemento. Páginas da numeração impressa do livro."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "\"Por que aprender isso, professora?\", cap. 2, Desenvolvimento e aprendizagem na Psicologia Histórico-Cultural (Asbahr)",
+      "fonte": "Editora UNESP, 2017 (acesso aberto, SciELO Livros)",
+      "url": "https://books.scielo.org/id/5zs3s/pdf/asbahr-9788595461772.pdf#page=35",
+      "arquivo": "p-escolar/asbahr-desenvolvimento-aprendizagem-historico-cultural.pdf",
+      "minutos": 72,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Ler as páginas 35 a 58 (cap. 2). Como Vigotski classifica as teorias sobre desenvolvimento e aprendizagem (Piaget entre elas), a zona de desenvolvimento próximo e o papel da escola. Ficou como extra: repete o que Teorias da aprendizagem já cobre (Piaget e Vygotsky)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "OQE - Introdução - Parte 01",
+      "fonte": "Orientação à Queixa Escolar, IP-USP (YouTube)",
+      "url": "https://www.youtube.com/watch?v=km7XmZu3CHY",
+      "minutos": 19,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Introdução do próprio grupo da USP à abordagem de queixa escolar."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Quinta da Psicologia - Revisão IRJ: Psicologia Escolar com Lorena Costa",
+      "fonte": "Gran Cursos Saúde (YouTube)",
+      "url": "https://www.youtube.com/watch?v=3D9P-QiqcR4",
+      "minutos": 73,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Revisão de cursinho (canal oficial) de psicologia escolar, com intervenção do psicólogo na escola."
+    }
+  ],
+  "p-aprendizagem": [
+    {
+      "tipo": "aula",
+      "titulo": "Piaget, Vygotsky e Wallon para Concurso",
+      "fonte": "Fabiana Firmino (YouTube)",
+      "url": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+      "minutos": 50,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Os três autores citados no edital do Exército, em aula voltada a concurso."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Um Diálogo entre Piaget, Vygotski e Wallon sobre as categorias de Desenvolvimento e Aprendizagem",
+      "fonte": "Id on Line Revista de Psicologia, 2020, Cláudio Romero P. de Araújo",
+      "url": "https://idonline.emnuvens.com.br/id/article/download/2369/3654/9465",
+      "arquivo": "p-aprendizagem/araujo-piaget-vygotski-wallon.pdf",
+      "minutos": 45,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Compara como Piaget, Vygotsky e Wallon tratam desenvolvimento e aprendizagem (15 páginas)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Déficits cognitivos entre crianças em idade escolar com transtornos de aprendizagem: revisão de publicações nacionais",
+      "fonte": "Psicologia Argumento (PUCPR), Teixeira e Valente",
+      "url": "https://periodicos.pucpr.br/psicologiaargumento/article/download/23749/pdf/50989",
+      "arquivo": "p-aprendizagem/teixeira-deficits-cognitivos.pdf",
+      "minutos": 75,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Abordagem cognitiva dos transtornos de aprendizagem (Aeronáutica): quais funções cognitivas aparecem prejudicadas (25 páginas)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "AULA 7 DISLEXIA, DISGRAFIA, DISCALCULIA, DISORTOGRAFIA",
+      "fonte": "Prof. Diego Miranda (YouTube)",
+      "url": "https://www.youtube.com/watch?v=ymCmrUDA1CQ",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Visão rápida dos transtornos específicos de aprendizagem (canal pequeno, conferir com o DSM-5)."
+    }
+  ],
+  "p-orientacao": [
+    {
+      "tipo": "aula",
+      "titulo": "Principais Teorias em Orientação Profissional e de Carreira",
+      "fonte": "Vinicius Oliveira (YouTube)",
+      "url": "https://www.youtube.com/watch?v=GZkzw6MSfxc",
+      "minutos": 28,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Teorias de orientação profissional e de carreira."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "A Orientação Profissional no contexto da Educação e Trabalho",
+      "fonte": "Revista Brasileira de Orientação Profissional, 2004, Melo-Silva, Lassance e Soares (cópia no site da UNESP)",
+      "url": "https://www.feis.unesp.br/Home/DSAA/DSAA/ProjetoGQT-SCM/documentos/educacao/orineta%E7%E3opara%20otrabalho.pdf",
+      "arquivo": "p-orientacao/melo-silva-op-educacao-trabalho.pdf",
+      "minutos": 66,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Marcos históricos, práticas e tendências da orientação profissional no Brasil (22 páginas)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Preparação para a Aposentadoria como parte da Educação ao Longo da Vida",
+      "fonte": "Psicologia: Ciência e Profissão, 2009 (Redalyc), França e Soares",
+      "url": "https://www.redalyc.org/pdf/2820/282021779007.pdf",
+      "arquivo": "p-orientacao/franca-aposentadoria.pdf",
+      "minutos": 45,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Preparação para aposentadoria (Aeronáutica): fundamentos e papel do psicólogo nos programas (15 páginas)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Preparação para a Aposentadoria",
+      "fonte": "LIOP UFSC (YouTube)",
+      "url": "https://www.youtube.com/watch?v=-hvdqpVhAN4",
+      "minutos": 14,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Vídeo curto da UFSC sobre preparação para a aposentadoria."
+    }
+  ],
+  "p-social": [
+    {
+      "tipo": "aula",
+      "titulo": "Psicologia Social - Resolvendo questões com Prof. Rafael Vieira",
+      "fonte": "Gran Cursos Saúde (YouTube)",
+      "url": "https://www.youtube.com/watch?v=rJVeq7YI8wc",
+      "minutos": 71,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Psicologia social para concurso, por questões comentadas; serve para ver como a banca cobra."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Sílvia Lane e o projeto do \"Compromisso Social da Psicologia\"",
+      "fonte": "Psicologia & Sociedade, 2007 (Redalyc), Bock et al.",
+      "url": "https://www.redalyc.org/pdf/3093/309326391017.pdf",
+      "arquivo": "p-social/bock-silvia-lane.pdf",
+      "minutos": 36,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Psicologia social crítica brasileira a partir de Lane (da bibliografia): objeto, finalidades e compromisso social (12 páginas)."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "A melhor Aula sobre Representações Sociais",
+      "fonte": "Cognição Plus (YouTube)",
+      "url": "https://www.youtube.com/watch?v=GlMpXB8dSjg",
+      "minutos": 14,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Representações sociais (Moscovici), item do edital do Exército."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Sofrimento ético-político: uma análise do estado da arte",
+      "fonte": "Psicologia & Sociedade, 2014 (Redalyc), Bertini",
+      "url": "https://www.redalyc.org/pdf/3093/309332930007.pdf",
+      "arquivo": "p-social/bertini-sofrimento-etico-politico.pdf",
+      "minutos": 33,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Exclusão social e subjetividade (Sawaia): panorama do conceito de sofrimento ético-político (11 páginas)."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Psychology 2e, cap. 12: psicologia social, self e atitudes (OpenStax)",
+      "fonte": "OpenStax / Rice University, 2020 (acesso aberto, CC BY, openstax.org)",
+      "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=412",
+      "arquivo": "p-personalidade/openstax-psychology-2e.pdf",
+      "minutos": 45,
+      "idioma": "en",
+      "extra": true,
+      "nota": "Ler as páginas 412 a 426 (seções 12.1 a 12.3). Objeto da psicologia social, atribuição, esquemas, estereótipos, atitudes e persuasão; sem a vertente crítica brasileira."
+    }
+  ],
+  "p-metodologia": [
+    {
+      "tipo": "aula",
+      "titulo": "QUAIS SÃO OS TIPOS DE PESQUISA EM PSICOLOGIA? | METODOLOGIA DE PESQUISA EM PSICOLOGIA",
+      "fonte": "Educação em Psicologia, Dra. Monique Arantes (YouTube)",
+      "url": "https://www.youtube.com/watch?v=2I7MV6t4pAg",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Tipos de pesquisa em psicologia."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Delineamentos de Pesquisa em Psicologia Clínica: Classificação e Aplicabilidade",
+      "fonte": "Psicologia: Ciência e Profissão, 2021 (SciELO), Marin",
+      "url": "https://www.scielo.br/j/pcp/a/6RBYrsv88tHdJVzgBN49k6r/",
+      "arquivo": "p-metodologia/marin-delineamentos.pdf",
+      "minutos": 51,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Tipos e delineamentos de pesquisa com vantagens e limites (17 páginas); os exemplos são de psicologia clínica."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Psychology 2e, cap. 2: pesquisa em psicologia (OpenStax)",
+      "fonte": "OpenStax / Rice University, 2020 (acesso aberto, CC BY, openstax.org)",
+      "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=48",
+      "arquivo": "p-personalidade/openstax-psychology-2e.pdf",
+      "minutos": 69,
+      "idioma": "en",
+      "extra": true,
+      "nota": "Ler as páginas 48 a 70 (seções 2.1 a 2.3). Método científico, pesquisa descritiva, correlacional e experimental, variáveis, amostragem, confiabilidade e validade."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "Metodologia Científica - Aula 01 - Dra. Raquel Sales",
+      "fonte": "Residências Uni e Multiprofissional da UFC (YouTube)",
+      "url": "https://www.youtube.com/watch?v=QcoXDtCsW30",
+      "minutos": 47,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Aula universitária de metodologia científica: problema, etapas e delineamento da pesquisa."
+    }
+  ]
+}

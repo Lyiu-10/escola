@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2024",
+ "cor": "AMARELA",
+ "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/CP-T-2024_PSICOLOGIA_AMARELA.zip",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/GabFinal_CP-T2024.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Toledo et al. (2015) (in FRANCO, 2015) ressaltam a importância do autocuidado como prevenção em saúde mental para os profissionais envolvidos na prestação de serviço às vítimas e aos familiares afetados pelo acontecimento traumático. Os fatores individuais de vulnerabilidade dos profissionais apontados pelos autores são:",
+   "alternativas": [
+    "contexto familiar, experiência traumática similar e a personalidade.",
+    "histórico psiquiátrico, personalidade e falta de apoio social.",
+    "pouca experiência, falta de treinamento adequado e contexto familiar.",
+    "falta de apoio social, pouca experiência e falta de treinamento adequado.",
+    "personalidade, falta de treinamento adequado e falta de disponibilidade de tempo."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-emergencias",
+   "item": "https://www.youtube.com/watch?v=DF8gLKhS-hY",
+   "comentario": "Toledo et al. separam os fatores individuais de vulnerabilidade do profissional (histórico psiquiátrico, personalidade e falta de apoio social) dos fatores ligados à preparação e à organização do trabalho. Por isso, pouca experiência e falta de treinamento adequado, que aparecem em C, D e E, não entram na lista de fatores individuais: são lacunas de formação e de preparo da equipe. Em A, a experiência traumática similar e o contexto familiar trocam o histórico psiquiátrico e a falta de apoio social, e a lista deixa de bater com a dos autores."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "Segundo Rodrigues et al (2022), a tendência de membros de um grupo a despender menos esforços quando trabalham em grupo do que quando trabalham sozinhos trata-se do conceito de:",
+   "alternativas": [
+    "facilitação social.",
+    "desindividuação.",
+    "coesão grupal.",
+    "comportamento grupal.",
+    "vadiagem social."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "comentario": "Vadiagem social (social loafing) é a tendência a fazer menos esforço no grupo do que sozinho, porque a contribuição individual se dilui e fica menos identificável. Facilitação social é o oposto: melhorar o desempenho em tarefas simples na presença de outros. Desindividuação é a perda do senso de identidade e de responsabilidade pessoal na multidão, e coesão grupal é a força que mantém os membros unidos ao grupo."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "De acordo com Robbins (2010), muitos trabalhos requerem a “expressão das emoções desejadas pela organização feita pelos funcionários durante os relacionamentos interpessoais no trabalho”. Essa definição corresponde ao conceito de:",
+   "alternativas": [
+    "esforço emocional.",
+    "dissonância emocional.",
+    "emoções sentidas.",
+    "emoções demonstradas.",
+    "dissonância cognitiva."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf",
+   "comentario": "(Cobra além deste material.) Para Robbins, esforço emocional (trabalho emocional) é a expressão, durante as interações no trabalho, das emoções que a organização deseja, como o sorriso do atendente. Dissonância emocional é o conflito que surge quando a pessoa precisa exibir uma emoção diferente da que sente. Emoções sentidas são as que a pessoa realmente tem, emoções demonstradas são as exigidas pela organização, e dissonância cognitiva trata de incoerência entre atitudes e comportamento, não de emoções."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "Segundo Caballo (2016), o bruxismo é um transtorno psicofisiológico associado a uma contratura excessiva dos maxilares, produzido por fatores de caráter físico, psicológico e/ou neurofisiológico. Sobre esse transtorno, assinale a opção correta.",
+   "alternativas": [
+    "Embora possa aparecer em qualquer idade, é um fenômeno particularmente frequente na idade adulta.",
+    "Ocorre somente durante a noite, enquanto o sujeito dorme.",
+    "Apesar da contratura excessiva, não se observa desgaste anormal dos dentes ou lesões nas áreas circundantes.",
+    "Junto ao tratamento odontológico tradicional, as técnicas de modificação de comportamento demonstraram relativa eficácia clínica no bruxismo noturno, enquanto os procedimentos de condicionamento aversivo, no bruxismo diurno.",
+    "A primeira técnica a ser utilizada para o tratamento é a dessensibilização sistemática."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://periodicos.puc-campinas.edu.br/estpsi/article/download/8007/5519/31949",
+   "comentario": "(Cobra além deste material.) Caballo descreve o bruxismo com tratamento combinado: junto ao odontológico, técnicas de modificação de comportamento têm relativa eficácia no bruxismo noturno, e o condicionamento aversivo, no diurno. As outras erram em pontos centrais do quadro: o bruxismo pode ser diurno ou noturno (a própria alternativa D trata dos dois), e a contratura excessiva provoca desgaste anormal dos dentes e lesões nas estruturas vizinhas. A dessensibilização sistemática não é apontada como primeira técnica do tratamento, e a afirmação sobre a idade em A não corresponde à descrição do autor."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "Rice (in CABALLO, 2007), ao tratar do enfrentamento do estresse, aponta que os recursos de enfrentamento constituem a linha de abastecimento de estratégias de enfrentamento. No que diz respeito aos recursos de enfrentamento, analise as afirmativas abaixo e assinale, a seguir, a opção correta.\nI- Entre os traços pessoais estão uma boa saúde e um mínimo de estabilidade financeira.\nII- Os recursos de enfrentamento são as vantagens físicas, pessoais e sociais que uma pessoa leva consigo à situação.\nIII- Os recursos de enfrentamento referem-se às atuações e aos planos diretos utilizados para diminuir ou eliminar o estresse.\nIV- Os recursos de enfrentamento são as formas habituais ou estereotipadas de se enfrentar uma crise.\nV- Autoeficácia e otimismo são recursos de enfrentamento na categoria “traços pessoais”.",
+   "alternativas": [
+    "Apenas as afirmativas II e V são verdadeiras.",
+    "Apenas as afirmativas I e IV são verdadeiras.",
+    "Apenas as afirmativas I e III são verdadeiras.",
+    "Apenas as afirmativas I, II, e IV são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/SaudeDoTrabalhador_WEB_FINAL_1_outubro.pdf",
+   "comentario": "(Cobra além deste material.) Rice distingue recursos de enfrentamento (as vantagens físicas, pessoais e sociais que a pessoa leva para a situação) das estratégias (ações e planos diretos para reduzir o estresse) e dos estilos (formas habituais de enfrentar crises); por isso II está certa e III e IV descrevem outros conceitos. Autoeficácia e otimismo são traços pessoais, o que torna V verdadeira. Em I, boa saúde e estabilidade financeira são recursos físicos e materiais, não traços pessoais."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "De acordo com Pasquali (2013), a validade de conteúdo de um teste é praticamente garantida pela técnica de construção do teste. Correlacione os passos necessários para esboçar essa técnica à sua descrição, assinalando, a seguir, a opção correta.\nPASSOS NECESSÁRIOS\nI- Definição do domínio cognitivo\nII- Definição do universo de conteúdo\nIII- Definição da representatividade de conteúdo\nIV- Elaboração da tabela de especificação\nV- Construção do teste\nVI- Análise teórica dos itens\nVII- Análise empírica dos itens\nDESCRIÇÃO\n( ) Elaboração de itens.\n( ) Proporção de cada tópico/subtópico.\n( ) Utilização de taxonomia.\n( ) Técnica da Teoria da Resposta ao Item (TRI) pode ser de grande valia.\n( ) Delimitação de divisões e subdivisões/subclassificações.\n( ) Compreensão das tarefas propostas.\n( ) Relaciona os conteúdos com os processos cognitivos.",
+   "alternativas": [
+    "(I) (II) (V) (VI) (III) (VII) (IV)",
+    "(VII) (VI) (III) (IV) (V) (I) (II)",
+    "(V) (III) (I) (VII) (II) (VI) (IV)",
+    "(VI) (II) (I) (IV) (III) (V) (VII)",
+    "(II) (IV) (III) (V) (VI) (I) (VII)"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "Na técnica de Pasquali, a elaboração dos itens é a construção do teste (V), a proporção de cada tópico é a representatividade do conteúdo (III), a taxonomia (como a de Bloom) define o domínio cognitivo (I) e a TRI ajuda na análise empírica dos itens (VII). A delimitação de divisões e subdivisões define o universo de conteúdo (II), a verificação de que as tarefas são compreendidas é a análise teórica dos itens (VI) e a tabela de especificação cruza conteúdos e processos cognitivos (IV). A sequência V, III, I, VII, II, VI, IV corresponde à alternativa C."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "Para Pasquali (2013), a medida é um procedimento empírico e não existe procedimento empírico isento de erro. O problema não é tanto a existência desses erros, que são inevitáveis, mas sim identificar suas fontes e propor meios de reduzi-los. Sobre esse tema, assinale a opção que NÃO apresenta o controle adequado para tipo e causa.",
+   "alternativas": [
+    "Tipo: instrumental\nCausa: instrumento\nControle: calibração",
+    "Tipo: pessoal (observador)\nCausa: diferenças individuais\nControle: atenção/treinamento",
+    "Tipo: sistemático\nCausa: fator específico\nControle: das variáveis",
+    "Tipo: aleatório\nCausa: não conhecida\nControle: teoria do erro",
+    "Tipo: amostragem\nCausa: seleção da amostra\nControle: representatividade da amostra"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "Pasquali associa cada fonte de erro a um controle: o instrumental se controla com calibração, o do observador com atenção e treinamento, o aleatório (de causa desconhecida) pela teoria do erro, e o de amostragem pela representatividade da amostra. A linha do erro sistemático é a que não corresponde ao quadro do autor, por isso é a resposta da questão, que pede o controle inadequado. Atenção ao comando com NÃO: as quatro outras alternativas reproduzem pares corretos."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "A Resolução nº 6/2019 do CRP aborda os diversos documentos produzidos pelo psicólogo. Sobre os documentos psicológicos, é correto afirmar:",
+   "alternativas": [
+    "ao produzir documentos escritos, a(o) psicóloga(o) deve basear no que dispõe o artigo 1º, alínea “c”, do Código de Ética Profissional do Psicólogo, prestando serviços psicológicos de qualidade, em condições de trabalho dignas e apropriadas à natureza desses serviços, utilizando princípios, conhecimentos e técnicas reconhecidamente fundamentados nas ciências humanas, na ética e na legislação profissional.",
+    "os documentos psicológicos devem ser escritos de forma impessoal, na terceira pessoa, com coerência que expresse a ordenação de ideias e a independência dos diferentes itens da estrutura do documento.",
+    "a linguagem escrita deve basear-se nas normas cultas da língua portuguesa, na técnica da Psicologia, na subjetividade da comunicação e na garantia dos direitos fundamentais (observando os Princípios Fundamentais do Código de Ética Profissional do Psicólogo e as Resoluções CFP nº. 01/1999, 18/2002 e 01/2018, ou outras que venham a alterá-las ou substituí-las).",
+    "sempre que o trabalho exigir, poderá a(o) psicóloga(o), mediante solicitação, intervir sobre a demanda e construir um projeto de trabalho que aponte para a formulação dos condicionantes que provocam o sofrimento psíquico, a violação dos direitos humanos e a manutenção ou prática de preconceito, discriminação, violência e exploração como formas de dominação e segregação.",
+    "à(ao) psicóloga(o) é vedado, sob toda e qualquer condição, o uso dos instrumentos, técnicas psicológicas e experiência profissional de forma a sustentar modelo institucional e ideológico de segregação dos diferentes modos de subjetivação."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+   "comentario": "A Res. CFP 06/2019 veda à(ao) psicóloga(o), sob toda e qualquer condição, o uso de instrumentos, técnicas e da experiência profissional para sustentar modelos institucionais e ideológicos de segregação dos diferentes modos de subjetivação. As outras alternativas trocam palavras do texto da resolução: os conhecimentos devem ser fundamentados na ciência psicológica (não 'nas ciências humanas'), os itens do documento são interdependentes (não 'independentes') e a linguagem se baseia na objetividade da comunicação (não na 'subjetividade'). Em D, a construção do projeto de trabalho não depende de 'solicitação' e aponta para a reformulação dos condicionantes do sofrimento, não para sua 'formulação'."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "Sobre a psicopatologia e semiologia dos transtornos mentais (DALGALARRONDO, 2019), assinale a opção correta.",
+   "alternativas": [
+    "A amnésia orgânica, na qual há perda de elementos mnêmicos seletivos, pode surgir em sequência a um episódio de trauma emocional e/ou relacionada à fuga dissociativa.",
+    "A labilidade e a incontinência afetiva são consideradas formas de hipoestesia emocional, indicando ausência e inadequação da reatividade afetiva.",
+    "Os atos impulsivos são reconhecidos pelo indivíduo como indesejáveis e inadequados e há a tentativa de refreá-los ou adiá-los.",
+    "O delírio é passível de remoção e refutação, mediante a apresentação de provas explícitas da realidade, por argumentos lógicos, plausíveis e aparentemente convincentes.",
+    "As alucinações audioverbais podem ocorrer nos transtornos de humor como, por exemplo, em episódios de mania, com conteúdos de grandeza ou místico-religioso, e, na depressão grave, com conteúdo negativo, de ruína ou culpa."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "comentario": "Dalgalarrondo descreve alucinações audioverbais também nos transtornos do humor, com conteúdo congruente: grandeza ou místico-religioso na mania, ruína e culpa na depressão grave. A amnésia ligada a trauma emocional e à fuga dissociativa é psicogênica, não orgânica, e labilidade e incontinência afetiva são alterações da modulação do afeto, não hipoestesia emocional. O ato que a pessoa reconhece como indesejável e tenta adiar é o compulsivo, não o impulsivo, e o delírio, por definição, é irredutível à argumentação lógica e às provas da realidade."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "Sobre a Teoria da Medida Conjunta (TMC), segundo Hutz et al. (2015), é correto afirmar que:",
+   "alternativas": [
+    "o foco é nos escores observados produzidos pelos instrumentos psicométricos e em quanto erro de medida eles apresentam.",
+    "é especialmente útil quando a intenção é construir escalas intervalares para mensurar variáveis de natureza intrínseca.",
+    "é separada em quatro níveis de mensuração: nominal, ordinal, intervalar e de razão.",
+    "recorre a elementos não necessariamente observados como causas das respostas dos indivíduos aos itens dos testes.",
+    "uma de suas limitações se refere à avaliação do ajuste dos modelos."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "A Teoria da Medida Conjunta busca construir escalas intervalares para variáveis de natureza intrínseca (não observáveis diretamente), testando se os dados obedecem às propriedades aditivas da medida. A alternativa A descreve a Teoria Clássica dos Testes, que se ocupa do escore observado e do erro, e C repete os níveis de mensuração de Stevens. D descreve a Teoria de Resposta ao Item, que recorre a traços latentes como causa das respostas aos itens."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "Segundo Limogi-França e Rodrigues (2002), stress é um recurso importante e útil para uma pessoa fazer frente às diferentes situações da vida que ela enfrenta em seu quotidiano. A resposta ao stress é ativada pelo organismo com o objetivo de mobilizar recursos que possibilitem às pessoas enfrentarem situações que são percebidas como difíceis e que exigem delas esforço. Em relação ao processo adaptativo relacionado ao stress, assinale a opção correta.",
+   "alternativas": [
+    "Quando fazemos algo desagradável e nos sentimos desvalorizados pelo esforço despendido, estamos em eustress.",
+    "O eustress favorece o surgimento de enfermidades psicossomáticas.",
+    "Adotando um modelo relacional, a resposta biológica de stress é associada diretamente ao estímulo estressor, independentemente do processo avaliativo do indivíduo (cognitivo e emocional).",
+    "Os fatores psicossociais não intervêm no processo de adoecimento psicossomático.",
+    "No eustress o esforço de adaptação gera sensação de realização pessoal, bem estar e satisfação das necessidades, mesmo que decorrente de esforços inesperados."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf",
+   "comentario": "No eustress, o esforço de adaptação produz sensação de realização, bem-estar e satisfação das necessidades, mesmo quando decorre de esforço inesperado. Fazer algo desagradável e sentir-se desvalorizado é distress, e é o distress, não o eustress, que favorece o adoecimento psicossomático. O modelo relacional dá peso justamente à avaliação cognitiva e emocional do indivíduo, e os fatores psicossociais participam do adoecimento, o que derruba C e D."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "No que diz respeito ao atendimento em emergências apresentada por Costa et al. (in Franco, 2015), assinale a opção correta.",
+   "alternativas": [
+    "Os integrantes das equipes de atendimento de primeira resposta ao acidente, ou seja, vítimas de primeiro nível, raramente necessitam de alguma intervenção nas primeiras horas.",
+    "As vítimas de terceiro, quarto, quinto e sexto níveis frequentemente estarão presentes no local do desastre e serão atendidas pelo serviço de psicologia nas primeiras horas.",
+    "A aproximação dos familiares no momento da crise é um dos grandes desafios para os psicólogos, podendo ocorrer posturas reativas, como evitação e agressividade.",
+    "A confiança é conquistada sem a necessidade de contato, possibilitando a empatia, mantendo uma postura tranquila, atenta, disponível e congruente.",
+    "Assim como nas abordagens psicoterápicas, o psicólogo que atua nas emergências trabalha em um contexto de estabilidade, de manutenção do ambiente físico aparentemente seguro e estável e das normas regentes."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-emergencias",
+   "item": "https://www.youtube.com/watch?v=DF8gLKhS-hY",
+   "comentario": "Costa et al. apontam a aproximação dos familiares na crise como um grande desafio, porque eles podem reagir com evitação ou agressividade. A alternativa A erra a classificação e a conduta: as equipes de primeira resposta não são vítimas de primeiro nível (este é o dos diretamente atingidos) e também podem precisar de cuidado. A confiança se constrói no contato, e a emergência é justamente um contexto instável, diferente do setting psicoterápico protegido descrito em E."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "Segundo Freud (apud GARCIA-ROZA, 2008), é nas lacunas das manifestações conscientes que temos de procurar o caminho do inconsciente. Essas formações do inconsciente se expressam por meio de:",
+   "alternativas": [
+    "desejos, repetições e recalcamentos.",
+    "sonhos, lapsos, atos falhos, chistes e sintomas.",
+    "reversão, sublimação e recalcamento.",
+    "pulsões sexuais, libido e instintos.",
+    "Id, Ego e Superego."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.redalyc.org/pdf/2820/282021763014.pdf",
+   "comentario": "(Cobra além deste material.) Para Freud, o inconsciente aparece nas lacunas da consciência por meio das formações do inconsciente: sonhos, lapsos, atos falhos, chistes e sintomas. Recalcamento, sublimação e reversão são mecanismos ou destinos da pulsão, não formações. Id, Ego e Superego são instâncias da segunda tópica, e pulsão e libido são conceitos da teoria pulsional, não manifestações em que o inconsciente se expressa."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Segundo Dejours et al. (2014), o conflito entre organização do trabalho e funcionamento psíquico pode ser reconhecido como fonte de sofrimento, ao mesmo tempo como chave de sua possibilidade de análise, mas o sofrimento suscita estratégias defensivas. Sobre as estratégias defensivas, é INCORRETO afirmar que:",
+   "alternativas": [
+    "são construídas, organizadas e gerenciadas coletivamente.",
+    "levam à eufemização da percepção que os trabalhadores têm da realidade.",
+    "a operação é estritamente mental.",
+    "não estão presentes em todas as situações de trabalho.",
+    "funcionam como heurísticas."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "comentario": "Para Dejours, as estratégias defensivas coletivas são construídas e mantidas pelo coletivo, e agem de modo estritamente mental: não transformam a realidade que faz sofrer, apenas eufemizam a percepção que os trabalhadores têm dela. A banca considera incorreta a ideia de que elas 'funcionam como heurísticas', porque sua função é proteger contra o sofrimento, não servir de atalho para resolver problemas do trabalho. As afirmações sobre construção coletiva, eufemização e operação mental reproduzem a teoria."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "Segundo Fiorini (2004), a maneira pela qual o terapeuta maneja a primeira entrevista com o paciente pode ter uma influência decisiva na continuidade ou abandono do tratamento e, caso este seja mantido, na eficácia que o processo terapêutico possa vir a alcançar. Sobre a primeira entrevista, assinale a opção correta.",
+   "alternativas": [
+    "O terapeuta não deve expor ao paciente o que pensa sobre as informações fornecidas acerca do transtorno apresentado, tampouco deve fornecer um prognóstico relacionado a uma perspectiva de tratamento.",
+    "O terapeuta deve demarcar o desnível de papéis entre ele e o paciente, combinando seletivamente as respostas no manifesto a interpretações sobre o latente ou entre interpretações de conteúdo a interpretações de forma.",
+    "A busca por dados, realizada pelo terapeuta, deve ser seletiva, guiada por uma atividade de análise e síntese, orientada para a construção de um modelo compreensivo preliminar global, etiopatogênico, clínico e psicodinâmico.",
+    "É essencial, nessa etapa, o terapeuta buscar compreender em conjunto (terapeuta-paciente) o comportamento do paciente.",
+    "O terapeuta não deve incentivar o paciente a questionar, formular dúvidas e objeções sobre as colocações que tenha feito (o terapeuta)."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://seer.ufrgs.br/index.php/hcpa/article/view/125095",
+   "comentario": "(Cobra além deste material.) Fiorini atribui à primeira entrevista a tarefa de buscar compreender em conjunto, terapeuta e paciente, o comportamento e o problema do paciente, o que já fortalece a aliança. Ao contrário de A e E, ele recomenda que o terapeuta diga o que pensa sobre o quadro, ofereça uma perspectiva de tratamento e estimule o paciente a perguntar e objetar. Também não se trata de marcar o desnível de papéis, como sugere B, e sim de uma relação mais simétrica e participativa."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "A requisição médica por psicodiagnóstico clínico em idosos é cada vez mais recorrente. Sobre as principais demandas e quadros observados em pacientes idosos (ARGIMON, IRIGARAY E ZIBETTI in HUTZ et al., 2016), assinale a opção INCORRETA.",
+   "alternativas": [
+    "Nos transtornos neurocognitivos, observam-se perdas nas funções cognitivas devido a acometimentos cerebrais, as quais causam prejuízos à vida diária do paciente. Há várias etiologias para esses transtornos. Nesses casos, é critério diagnóstico, segundo o DSM-V, o desempenho do paciente nos testes neurocognitivos. Nos estágios iniciais dos quadros neurodegenerativos, é mais fácil ao psicólogo avaliar e discernir sobre o diagnóstico, pois os sintomas se apresentam claramente e o paciente ainda está orientado.",
+    "A experiência clínica associa o surgimento de depressão em idosos a fatores psicossociais como, por exemplo, a perda de status econômico em relação a antes de adoecer, a falta de acesso à cultura, quando analfabetos, a avaliação negativa sobre a situação geral de saúde, a pouca interação social, entre outros.",
+    "Na pseudodemência depressiva, a manifestação da depressão apresenta prejuízos cognitivos que podem ser confundidos com um quadro demencial como, por exemplo, sintomas de redução do interesse geral e, em alguns casos, prejuízos da memória. Alguns sinais podem ajudar o clínico a realizar o diagnóstico diferencial, como a presença de história de depressão e prejuízo mais grave nos testes de memória que envolvam evocação livre.",
+    "Existem condições de saúde (psiquiátricas, neurológicas e endócrinas) que podem simular quadros depressivos. Dessa forma, o auxílio de exames médicos é indispensável para que o diagnóstico seja preciso.",
+    "Nessa faixa etária, a manifestação do transtorno de ansiedade generalizada é marcada pela presença de ansiedade, preocupações exageradas, medos sociais e depressão. A experiência clínica associa a menor capacidade de ingerência sobre a vida dos familiares ao estabelecimento do quadro."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "comentario": "A afirmação incorreta é a de que, nos estágios iniciais dos quadros neurodegenerativos, é mais fácil avaliar e diagnosticar: é justamente no início que os sintomas são sutis e o diagnóstico diferencial é mais difícil. As demais descrevem bem a clínica do idoso: fatores psicossociais ligados à depressão, a pseudodemência depressiva que imita demência, condições médicas que simulam depressão e a ansiedade generalizada associada à menor ingerência sobre a vida dos familiares."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "Na Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas, sobre a promoção de ações preventivas ao uso prejudicial de álcool, é correto afirmar que deve:",
+   "alternativas": [
+    "ser pontual, esporádica e de curta duração.",
+    "promover a redução dos obstáculos relativos ao tratamento e à atenção integral, fornecer informações sobre os transtornos decorrentes, as opções de atenção disponíveis e seus benefícios.",
+    "apresentar uma narrativa combativa, alarmista e moralista.",
+    "incentivar a discriminação e a estigmatização dos usuários como forma de persuasão.",
+    "apresentar um discurso econômico liberal, de controle do consumo pelo próprio mercado, não havendo necessidade de controle social e político, porque o Brasil é um país democrático."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf",
+   "comentario": "A política do Ministério da Saúde pede ações preventivas que reduzam os obstáculos ao tratamento e à atenção integral e informem sobre os transtornos, as opções de atenção e seus benefícios. As outras contrariam o texto: a prevenção deve ser contínua, não pontual; deve evitar o discurso alarmista e moralista e combater, não incentivar, a estigmatização dos usuários. A ideia de deixar o consumo só ao mercado, sem controle social, também não tem amparo na política."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "De acordo com Franco (2015), o processo de luto desencadeado por desastres promove o rompimento de um mundo presumido que dava sustentação às decisões, à identidade, ao senso de pertencimento do indivíduo. Dentre as considerações aplicáveis às estratégias de apoio psicológico ao enlutado, é INCORRETO afirmar que:",
+   "alternativas": [
+    "trabalhar com pessoas enlutadas requer a clareza de identificar em que aspectos o mundo presumido mudou e com o que a pessoa pode contar para efetivar essa mudança e construir para si um novo significado.",
+    "no modelo do Processo Dual, os diferentes processos de luto oscilam dentro de um espectro que transita entre o enfoque orientado para a perda e o enfrentamento orientado para a restauração.",
+    "entre as inúmeras perdas a ser enfrentadas no luto por desastre, a perda da fé é um dos grandes fatores desorganizadores do funcionamento psíquico do enlutado.",
+    "não há possibilidade de transformação e crescimento pós-traumático diante de situações que desafiam ou invalidam o mundo presumido.",
+    "o luto experimentado por perdas em situações de desastres, frequentemente, são vividos de forma rígida e defensiva."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-emergencias",
+   "item": "https://www.youtube.com/watch?v=DF8gLKhS-hY",
+   "comentario": "Franco admite a possibilidade de transformação e de crescimento pós-traumático mesmo quando o mundo presumido é invalidado, por isso a alternativa D é a incorreta. As demais estão de acordo com o texto: o trabalho com o enlutado exige ver o que mudou no mundo presumido e com que recursos a pessoa conta, o Modelo do Processo Dual (Stroebe e Schut) oscila entre perda e restauração, e o luto por desastre costuma ser vivido de forma rígida e defensiva, com a perda da fé como fator desorganizador."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "Sobre as possibilidades de quebra de sigilo profissional previstas no Código de Ética Profissional do Psicólogo (2005), é correto afirmar que:",
+   "alternativas": [
+    "conforme o artigo 11, quando requisitado a depor em juízo, o psicólogo não deve prestar informações.",
+    "conforme o artigo 12, em documentos que embasam as atividades de equipe multidisciplinar, o psicólogo fará registro minucioso das informações coletadas no atendimento com o paciente e a conduta realizada.",
+    "no atendimento à criança, ao adolescente ou ao interdito, o psicólogo deve reportar aos responsáveis as informações que lhes foram prestadas.",
+    "o psicólogo que realiza atendimentos psicossociais em organizações de trabalho, quando solicitado, poderá prestar informações pessoais dos trabalhadores aos dirigentes, de forma a contribuir para o desempenho organizacional.",
+    "em caso de quebra de sigilo previsto no artigo 10, o psicólogo deverá restringir-se a prestar as informações estritamente necessárias."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+   "comentario": "Código de Ética (Res. CFP 010/2005), art. 10, parágrafo único: na quebra de sigilo, o psicólogo se restringe às informações estritamente necessárias. As outras erram: pelo art. 11, ao depor em juízo ele pode prestar informações, considerando o Código; pelo art. 12, nos documentos de equipe registra só o necessário, não um registro minucioso; e pelo art. 13, aos responsáveis de criança, adolescente ou interdito comunica apenas o estritamente essencial para medidas em benefício do atendido. Repassar informações pessoais de trabalhadores aos dirigentes viola o sigilo."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "De acordo com Franco (2015), o campo da psicologia em desastres tem como focos a saúde mental e as necessidades psicossociais. Sobre o apoio psicossocial conferido, analise as afirmativas abaixo e assinale a opção correta.\nI- Tem como propósito evitar maiores danos, aliviar o sofrimento imediato e dar apoio efetivo para seu enfrentamento.\nII- Deve ser realizado preferencialmente em acompanhamentos individuais, nos quais é ofertada a escuta e o suporte aos pacientes.\nIII- Deve identificar problemas e necessidades imediatos, para desenvolvimento de estratégias de enfrentamento práticas e eficazes.\nIV- Deve propor soluções para o sofrimento e conferir segurança física, justiça social e dignidade humana para os acometidos.\nV- Busca capacitar a população afetada a promover adaptações, fortalecendo o uso de recursos e soluções locais e sustentáveis.",
+   "alternativas": [
+    "Apenas as afirmativas I, II e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e V são verdadeiras.",
+    "Apenas as afirmativas III, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-emergencias",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2021/10/Crepop-RT-Emerge%CC%82ncias-e-Desastres-web_v2.pdf",
+   "comentario": "O apoio psicossocial em desastres busca evitar danos maiores e aliviar o sofrimento imediato (I), identificar problemas e necessidades imediatas para montar estratégias práticas (III) e fortalecer a capacidade da população afetada, usando recursos e soluções locais (V). A afirmativa II erra ao preferir atendimentos individuais, quando o foco é comunitário e coletivo. A IV promete o que não cabe ao psicólogo: dar solução ao sofrimento e garantir segurança física e justiça social."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "Dalgalarrondo (2019) descreve que o impulso ou compulsão para ingesta rápida de grandes quantidades de álcool chama-se:",
+   "alternativas": [
+    "potomania.",
+    "dipsomania.",
+    "alcoofilia.",
+    "poriomania.",
+    "neuropatia alcoólica."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://www.youtube.com/watch?v=1fCmjabKTd8",
+   "comentario": "(Cobra além deste material.) Dipsomania é o impulso periódico e irresistível de ingerir grandes quantidades de álcool, descrito por Dalgalarrondo entre as alterações da volição. Potomania é a ingestão compulsiva de líquidos em geral (água, por exemplo), e poriomania é o impulso de vagar ou fugir sem rumo. Alcoofilia não é o termo técnico do quadro, e neuropatia alcoólica é dano neurológico causado pelo álcool, não um impulso."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "De acordo com Bueno e Ricarte (in LINS e BORSA, 2017), no que se refere ao processo de avaliação psicológica, assinale a opção correta.",
+   "alternativas": [
+    "Os testes se distinguem pela possibilidade de captação de dados com uma interferência reduzida do avaliador.",
+    "As primeiras medidas associadas à Psicologia eram de natureza psicológica, uma vez que mediavam atributos cognitivos e emocionais.",
+    "Todo teste psicológico faz uso de números para descrever o comportamento, colocando a psicologia no patamar de outras ciências já estabelecidas na segunda metade do século XIX.",
+    "A aplicação das técnicas de entrevista e observação impossibilita o enviesamento, pela interferência de quem as realiza, tanto na captação quanto na interpretação das informações.",
+    "Os testes projetivos, por não fazerem uso de números para descrever o comportamento, não apresentam a padronização de procedimentos, em sua maioria, propõem interpretações do simbolismo presente na realização de certas tarefas."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "De acordo com Siqueira (2014), o bem-estar no trabalho, compreende um estado mental positivo formado pela articulação de três vínculos, também positivos, denominados satisfação no trabalho, envolvimento com o trabalho e comprometimento organizacional afetivo. Com relação a esse estado mental, assinale a opção correta.",
+   "alternativas": [
+    "A satisfação no trabalho refere-se à sensação de harmonia entre as habilidades profissionais do empregado e as exigências impostas pelas atividades que ele realiza.",
+    "O comprometimento organizacional afetivo se refere a um estado mental positivo pela possibilidade de o trabalhador vivenciar períodos em que emergem dentro dele, de forma interligada, sentimentos positivos promovidos por aspectos presentes no ambiente de trabalho.",
+    "Os três componentes do modelo teórico contemplam aspectos psicológicos de natureza afetiva (emocional), nos quais estão inseridos sentimentos estritamente positivos e que emergem no contexto organizacional de trabalho.",
+    "Satisfação no trabalho traz, para o modelo mental positivo de bem-estar no trabalho, três categorias de fontes de satisfação: os relacionamentos sociais no ambiente de trabalho, as retribuições oferecidas pela organização e as atividades que realiza.",
+    "Para levar o indivíduo ao “estado de fluxo”, relacionado ao envolvimento no trabalho, a atividade precisa atender, entre outras, à condição de retribuições oferecidas pela organização por meio de políticas de gestão de pessoas."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.redalyc.org/pdf/1005/100517107007.pdf",
+   "comentario": "No modelo de bem-estar no trabalho de Siqueira, a satisfação no trabalho reúne três fontes: as relações sociais no trabalho, as retribuições da organização e as próprias atividades realizadas. A harmonia entre as habilidades do empregado e as exigências da tarefa, citada em A, é condição do estado de fluxo ligado ao envolvimento, e retribuições da organização não são condição desse estado, o que derruba E. O comprometimento afetivo é o vínculo emocional com a organização, não o que B descreve, e C exagera ao falar em sentimentos 'estritamente' positivos e todos afetivos."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "O relatório multiprofissional é resultante da atuação do psicólogo em contexto multiprofissional, podendo ser produzido em conjunto com profissionais de outras áreas, preservando-se a autonomia e a ética profissional dos envolvidos. No que diz respeito à estrutura, o relatório multiprofissional deve apresentar, no que tange à atuação do psicólogo, as informações da estrutura apresentada na Resolução CFP nº 6/2019 em forma de itens ou texto corrido. Assim, a estrutura é composta pelos seguintes itens:",
+   "alternativas": [
+    "identificação, descrição da demanda, procedimento, análise e conclusão.",
+    "identificação, fundamentação, finalidade, conclusão e comentários.",
+    "fundamentação, identificação, descrição da demanda, análise e conclusão.",
+    "conceito, descrição da demanda, identificação, comentários e conclusão.",
+    "identificação, descrição da demanda, execução, análise e conclusão."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+   "comentario": "Pela Res. CFP 06/2019, o relatório multiprofissional segue, na parte da Psicologia, a estrutura do relatório psicológico: identificação, descrição da demanda, procedimento, análise e conclusão. As outras alternativas misturam itens que pertencem a outros documentos ou não existem nessa estrutura, como fundamentação, finalidade e comentários, ou trocam procedimento por 'execução'. Vale memorizar que a sequência começa pela identificação e termina na conclusão."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Segundo Moscovici (2021), no processo psicossocial de mudança, como é denominada a fase que consiste na decisão pela mudança e sua implementação pela aprendizagem de novos padrões de percepção, conhecimentos, atitudes e ações?",
+   "alternativas": [
+    "Incorporação.",
+    "Ajustamento.",
+    "Estabilização.",
+    "Descongelamento.",
+    "Interiorização."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/2410/241016430005.pdf",
+   "comentario": "(Cobra além deste material.) Moscovici, a partir do modelo de Lewin, descreve a mudança em três fases: descongelamento, incorporação (quando a pessoa decide mudar e aprende novos padrões de percepção, conhecimentos, atitudes e ações) e estabilização (o novo padrão se consolida). Descongelamento é a fase anterior, de abandonar os padrões antigos, e estabilização é a posterior. Ajustamento e interiorização não são os nomes dessa fase no modelo."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "Segundo Martins (in SIQUEIRA, 2008), a partir de 1990, muitos autores passaram a estudar Clima Organizacional, em vários ambientes de trabalho: escolas, hospitais, organizações financeiras etc. Decorrente desses estudos, o conceito de Clima Organizacional foi sendo apurado, a partir da diferenciação em relação a outros conceitos. Sobre os conceitos associados ao ambiente organizacional, assinale a opção correta.",
+   "alternativas": [
+    "A satisfação no Trabalho corresponde à ligação individual no contexto de trabalho.",
+    "A cultura organizacional é moldada a partir do clima organizacional e está relacionada ao que pode ser experimentado de modo mais imediato.",
+    "O clima organizacional consiste em percepções compartilhadas que membros desenvolvem através das suas relações com as políticas, as práticas e os procedimentos organizacionais, tanto formais como informais.",
+    "O clima psicológico se refere ao julgamento avaliativo, positivo ou negativo, que o trabalhador faz sobre seu trabalho ou situação de trabalho.",
+    "O clima organizacional é uma atitude e, como tal, constitui-se por elementos afetivos e cognitivos, enquanto a satisfação no trabalho é uma variável de natureza cognitiva."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/4006/400638287004.pdf",
+   "comentario": "Clima organizacional são as percepções compartilhadas que os membros desenvolvem a partir das políticas, práticas e procedimentos da organização, formais e informais. A cultura é que molda o clima, e não o contrário; o clima é o aspecto mais imediato e a cultura o mais profundo e estável. O julgamento avaliativo, positivo ou negativo, que o trabalhador faz do trabalho é a definição de satisfação no trabalho, não de clima psicológico, e a satisfação é tratada como vínculo afetivo, não como variável só cognitiva."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Segundo Maslach (in LIMONGI-FRANÇA; RODRIGUES, 2002), burnout é uma resposta emocional a situação de stress crônica em função de relações intensas - em situações de trabalho - com outras pessoas ou de profissionais que apresentam grandes expectativas em relação a seus desenvolvimentos profissionais e dedicação à profissão; no entanto, em função de diferentes obstáculos, não alcançaram o retorno esperado. Assim, assinale a opção que apresenta corretamente os três aspectos básicos que caracterizam essa síndrome.",
+   "alternativas": [
+    "Exaustão emocional; alienação; e redução de desempenho.",
+    "Distress; eustress; e adoecimento.",
+    "Exaustão emocional; despersonalização; e redução da realização pessoal e profissional.",
+    "Ansiedade; depressão; e suicídio.",
+    "Inibição; impotência; e sofrimento psíquico."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/SaudeDoTrabalhador_WEB_FINAL_1_outubro.pdf",
+   "comentario": "(Cobra além deste material.) Maslach define o burnout por três dimensões: exaustão emocional, despersonalização (distanciamento e frieza com as pessoas atendidas) e redução da realização pessoal e profissional. A alternativa A é a mais tentadora, mas troca despersonalização por 'alienação' e reduz a terceira dimensão a 'desempenho'. Ansiedade, depressão e suicídio podem ser consequências, e distress e eustress são conceitos da teoria do stress, não componentes da síndrome."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "Conforme a lei nº 10.216/2001, que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental, é correto afirmar que:",
+   "alternativas": [
+    "na hospitalização involuntária, a pessoa portadora de transtorno mental não precisa ser esclarecida por um médico sobre a necessidade ou não de sua internação.",
+    "pacientes portadores de transtorno mental podem ser internados em instituições com características asilares.",
+    "o psicólogo, mediante a emissão de laudo circunstanciado, pode realizar uma internação psiquiátrica.",
+    "pode-se realizar internação psiquiátrica, mesmo quando há recursos extra-hospitalares suficientes para o tratamento do paciente.",
+    "a pessoa portadora de transtorno mental deve ser tratada em ambiente terapêutico pelos meios menos invasivos possíveis."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+   "comentario": "Lei 10.216/2001, art. 2º, parágrafo único, VIII: a pessoa com transtorno mental tem direito a ser tratada em ambiente terapêutico pelos meios menos invasivos possíveis. As outras contrariam a lei: o paciente deve ser esclarecido sobre a necessidade da internação (art. 2º), a internação em instituições com características asilares é vedada (art. 4º) e a internação só é indicada quando os recursos extra-hospitalares forem insuficientes. A internação exige laudo médico circunstanciado (art. 6º), não laudo do psicólogo."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "Conforme a Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas, são fatores de risco para o uso de álcool e outras drogas:",
+   "alternativas": [
+    "assertividade, desenvolvimento de valores e compartilhamento de tarefas no lar, baixa autoestima e rejeição às regras.",
+    "responsabilidade e comunicabilidade, troca de informações entre os membros da família sobre as suas rotinas e práticas diárias e vinculação familiar afetiva.",
+    "envolvimento com atividades recreativas, esportivas e religiosas, pares que não usam drogas, vulnerabilidade social e falta do elemento paterno.",
+    "doenças pré-existentes (por exemplo, TDAH), vulnerabilidade psicossocial, padrão familiar disfuncional, falta de habilidade de convivência com grupos, baixa autoestima, utilização e aprovação de uso de álcool e outras drogas por pessoas significativas (pais e amigos).",
+    "a participação de estudantes em decisões sobre questões escolares, habilidade de resolver problemas, apresentação de habilidade social, disponibilidade de álcool e drogas na comunidade e amigos usuários."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf",
+   "comentario": "A política do Ministério da Saúde lista como fatores de risco doenças pré-existentes (como TDAH), vulnerabilidade psicossocial, padrão familiar disfuncional, dificuldade de convivência em grupo, baixa autoestima e uso ou aprovação do consumo por pessoas significativas. As outras alternativas misturam fatores de proteção com fatores de risco: assertividade, vínculos familiares afetivos, atividades esportivas e religiosas, pares que não usam drogas, participação escolar e habilidade social protegem. Em cada uma delas, pelo menos um item de proteção torna a lista errada."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "Sobre doença mental e trabalho, segundo Dejours (2015), é correto afirmar que:",
+   "alternativas": [
+    "a exploração do sofrimento pela organização do trabalho não cria doenças mentais específicas.",
+    "deve-se levar em consideração três componentes da relação homem-organização do trabalho: a fadiga, o sistema passividade-agressividade reativa e a organização do trabalho.",
+    "a síndrome subjetiva pós-traumática caracteriza-se por uma grande variedade de problemas disfuncionais, ou seja, na sua maioria, com substrato orgânico, ou pela persistência anormal de um sintoma que apareceu depois do acidente.",
+    "O medo, longe de ser inadequado, pode ser considerado, no contexto de trabalho, uma doença mental.",
+    "As descompensações psicóticas e neuróticas dependem da estrutura das personalidades, adquirida muito antes do engajamento na produção. Entretanto, a estrutura da personalidade não pode explicar a forma sob a qual aparece a descompensação e seu conteúdo."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "comentario": "Em A loucura do trabalho, Dejours afirma que a exploração do sofrimento pela organização do trabalho não cria doenças mentais específicas: as descompensações dependem da estrutura de personalidade, e o trabalho age sobre ela. A alternativa B troca o sistema frustração-agressividade reativa por 'passividade-agressividade', e a síndrome subjetiva pós-traumática se caracteriza justamente por queixas sem substrato orgânico. O medo, para Dejours, é parte do trabalho e pode ser defendido, não é uma doença mental."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Cox et al. (in CABALLO, 2007) apresentam o modelo conceitual das habilidades de enfrentamento para o comportamento de beber. Com base nesse modelo, analise as afirmativas abaixo e assinale a opção correta:\nI- O tratamento é estruturado para abordar comportamentos relacionados à vulnerabilidade subjacente, ao consumo de álcool em si, e aos déficits e excessos comportamentais específicos identificados no paciente.\nII- Considera-se que os déficits nas habilidades de enfrentamento desempenham um papel essencial no comportamento de beber em excesso.\nIII- Oferece maior proveito se a vida dos bebedores carece de objetivos importantes e se eles utilizam o álcool principalmente como um meio de tentar conseguir a satisfação emocional que são incapazes de encontrar nas áreas de sua vida que não se encontram relacionadas com a bebida.\nIV- Os indivíduos aprendem estratégias de enfrentamento diferentes à do consumo do álcool, com a finalidade de atenuar os déficits comportamentais, o afeto negativo e a ativação excessiva.\nV- A intervenção nesse modelo é feita por meio de quatro fases: a avaliação ampla, a preparação para mudança, a identificação de padrões motivacionais desadaptativos e o assessoramento motivacional.",
+   "alternativas": [
+    "Apenas as afirmativas II, III e V são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e V são verdadeiras.",
+    "Apenas as afirmativas I, II, e IV são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://www.youtube.com/watch?v=rPpcPcQ0qec",
+   "comentario": "(Cobra além deste material.) No modelo de habilidades de enfrentamento, o déficit de habilidades tem papel central no beber excessivo (II), o tratamento aborda a vulnerabilidade subjacente, o consumo e os déficits e excessos do paciente (I) e ensina estratégias alternativas ao álcool para lidar com afeto negativo e ativação (IV). As afirmativas III e V descrevem outro modelo, o motivacional: quem bebe para buscar uma satisfação que falta na vida, e as fases de avaliação, preparação, identificação de padrões motivacionais e assessoramento motivacional."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "De acordo com Beck (2014), é essencial que o terapeuta comece a desenvolver o rapport com o paciente desde o primeiro contato. Para se obter o desenvolvimento da relação terapêutica, é correto afirmar a necessidade de o terapeuta:",
+   "alternativas": [
+    "demonstrar simpatia e compreensão das histórias do paciente.",
+    "ajudar o paciente a eliminar o sofrimento.",
+    "compartilhar a sua interpretação com o paciente e lhe perguntar se “isso lhe soa bem”.",
+    "solicitar o feedback do paciente em toda sessão, exceto quando sua aliança já for forte o suficiente.",
+    "variar seu estilo."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "Judith Beck orienta o terapeuta a adaptar e variar seu estilo conforme o paciente, como parte da construção do rapport e da aliança. Em A, o termo esperado é empatia, não simpatia, e em B o objetivo é ajudar o paciente a resolver problemas e aliviar o sofrimento, não prometer eliminá-lo. Em D, o feedback deve ser pedido em toda sessão, sem a exceção da aliança forte."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Inteligência emocional, segundo Salovey e Mayer (in ZANELLI et al., 2014), compreende as “habilidades para monitorar sentimentos e emoções pessoais e de outras pessoas, fazer distinções entre eles e usar estas informações para guiar os próprios pensamentos e ações”. Goleman (in ZANELLI et al., 2014) contribuiu com o conceito, ao sugerir cinco categorias de habilidades interdependentes como integrantes da inteligência emocional. Sobre essas categorias, assinale a opção correta:",
+   "alternativas": [
+    "Empatia: avalia ações introspectivas de reconhecer, analisar, refletir, nomear e identificar os próprios sentimentos.",
+    "Sociabilidade: habilidade de identificar sentimentos, desejos, intenções, problemas e interesse dos outros por meio da leitura e da compreensão de comportamentos não verbais de comunicação.",
+    "Autoconsciência: refere-se à persistência, à coragem, à força, ao otimismo e ao entusiasmo com que o indivíduo maneja objetivos e planos para sua vida.",
+    "Autoestima: constitui-se de sentimentos sobre competência e valor pessoais, refletindo a capacidade individual de lidar com os desafios impostos pela vida e de se tornar feliz",
+    "Autocontrole: capacidade de ponderação, cautela e controle que o indivíduo tem diante de fatos desagradáveis, provocações, agressões, desaforos, insultos, conflitos, sentimentos perturbadores e impulsos."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://www.youtube.com/watch?v=NtEbyak5Uac",
+   "comentario": "(Cobra além deste material.) Na proposta de Goleman, autocontrole é a capacidade de ponderação, cautela e controle diante de provocações, conflitos, sentimentos perturbadores e impulsos. As outras alternativas trocam as definições: reconhecer e nomear os próprios sentimentos é autoconsciência, e não empatia; ler sentimentos e intenções dos outros pelo comportamento não verbal é empatia, e não sociabilidade. A persistência, o otimismo e o entusiasmo com que se perseguem metas correspondem à automotivação, e não à autoconsciência."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Segundo Robbins (2010), costumamos utilizar diversas simplificações quando julgamos outras pessoas, o que pode ser valioso, pois nos permite chegar rapidamente a percepções precisas e oferece dados válidos para previsões. Sobre essas simplificações, analise as afirmativas abaixo e assinale a opção correta.",
+   "alternativas": [
+    "A tendência de atribuir o próprio sucesso a fatores internos e de colocar a culpa dos fracassos em fatores externos trata-se de viés de autorreferência.",
+    "No efeito de halo, formamos uma impressão geral de alguém com base em uma única característica.",
+    "Na estereotipagem, a nossa reação a alguém é sempre influenciada pelas outras pessoas que encontramos recentemente.",
+    "Como não podemos assimilar tudo o que observamos, nós percebemos um pouco de cada vez. No efeito de contraste, esse pouco não é escolhido aleatoriamente, mas de acordo com nossos interesses, experiências passadas e atitudes.",
+    "Quando julgamos alguém com base em nossa percepção do grupo ao qual ela pertence, utilizamos a percepção seletiva."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf",
+   "comentario": "(Cobra além deste material.) No efeito de halo, formamos uma impressão geral de alguém a partir de uma única característica. As outras trocam os nomes: atribuir o sucesso a si e o fracasso aos outros é viés de autoconveniência, e ser influenciado pelas pessoas vistas antes é efeito de contraste. Perceber só uma parte, de acordo com interesses e experiências, é percepção seletiva, e julgar alguém pelo grupo a que pertence é estereotipagem."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Conforme Corrêa (2022), sobre os fatores de risco ao suicídio, é correto afirmar que:",
+   "alternativas": [
+    "quem pratica autolesão sem intenção suicida (ASIS) está mais sujeito a tentar suicídio do que aqueles que não praticam.",
+    "experiências traumáticas na infância (abusos físico, emocional e sexual) não alteram a trajetória do desenvolvimento e o funcionamento cerebral dos indivíduos.",
+    "os estressores psicossociais relacionados ao trabalho - tipo e forma de inserção no mercado de trabalho, gerenciamento e valorização das tarefas, o contexto ocupacional dos indivíduos e dos grupos e acesso a meios letais - podem contribuir para o suicídio ocupacional.",
+    "segundo o paradoxo de gênero no comportamento suicida, os homens são mais acometidos por quadros depressivos e ansiosos, por ideação suicida e tentativas de suicídio, mas são as mulheres que morrem mais em decorrência do suicídio.",
+    "o comportamento suicida não é afetado por fatores como gênero, traços de personalidade e nível econômico."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "De acordo com a Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas, sobre a estratégia de redução de danos, é correto afirmar que:",
+   "alternativas": [
+    "está voltada para a abstinência total.",
+    "é um método que direciona para o tratamento, por meio da internação compulsória.",
+    "é uma abordagem genuinamente clínica, com foco em “mudança comportamental”.",
+    "atua no território, intervindo na construção de redes de suporte social que possibilitem avanço do grau de autonomia dos usuários e seus familiares, usando recursos repressivos em prol da defesa da vida.",
+    "é operada em inter-ações, promovendo o aumento de superfície de contato, criando pontos de referência, viabilizando acesso e acolhimento."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf",
+   "comentario": "A política do Ministério da Saúde descreve a redução de danos como operada em interações, aumentando a superfície de contato, criando pontos de referência e viabilizando acesso e acolhimento. Ela não exige a abstinência total, não é um caminho para internação compulsória e não se restringe a uma abordagem clínica de mudança de comportamento. A alternativa D é a mais tentadora, mas a redução de danos não usa recursos repressivos: atua no território e na rede de suporte para ampliar a autonomia."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "A força estabilizadora que direciona o comportamento do trabalhador para atingir metas relacionadas ao trabalho, segundo Puente-Palacios e Peixoto (2015), corresponde ao conceito de:",
+   "alternativas": [
+    "Contrato psicológico de trabalho.",
+    "Consentimento organizacional.",
+    "Entrincheiramento organizacional.",
+    "Comprometimento organizacional.",
+    "Comprometimento com a carreira."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.redalyc.org/pdf/1005/100517107007.pdf",
+   "comentario": "(Cobra além deste material.) A banca associa a definição à de comprometimento com a carreira: o vínculo do trabalhador com a própria carreira, entendido como força que estabiliza e direciona o comportamento para metas de trabalho. Comprometimento organizacional é o vínculo com a organização e seus objetivos, e entrincheiramento é a permanência na organização por falta de alternativas ou pelo custo de sair. Consentimento organizacional é a disposição a obedecer e cumprir ordens, e contrato psicológico são as expectativas recíprocas não escritas entre trabalhador e organização."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Segundo Bastos e Aguiar (in Siqueira, 2014), ao longo da trajetória do desenvolvimento do tema conflito trabalho-família, diversos modelos sobre as interfaces estabelecidas foram propostos e investigados. Sobre o conflito trabalho-família, é correto afirmar que:",
+   "alternativas": [
+    "entre os que alcançaram maior destaque na literatura estão os modelos da segmentação, compensação, congruência, extravasamento (spillover) e drenagem de recursos.",
+    "uma característica que confere maior sofisticação ao modelo teórico do conflito trabalho-família se refere à tridimensionalidade do fenômeno.",
+    "a interferência do trabalho na família baseado no tempo envolve a quantidade de tempo gasto com a família ou lidando com problemas com membros da família quando deveria estar dedicado ao trabalho.",
+    "a interferência do trabalho na família baseado na tensão está negativamente relacionada à ambiguidade das tarefas e positivamente relacionada ao suporte e à facilitação por parte do superior.",
+    "o conflito baseado no comportamento se desenvolve quando o indivíduo tem a habilidade de ajustar seu comportamento para se adequar às expectativas de cada papel."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf",
+   "comentario": "(Cobra além deste material.) Bastos e Aguiar citam como modelos de maior destaque na relação trabalho-família a segmentação, a compensação, a congruência, o extravasamento (spillover) e a drenagem de recursos. A alternativa C inverte a direção do conflito: tempo gasto com a família quando deveria ser dedicado ao trabalho é interferência da família no trabalho. O conflito baseado no comportamento surge quando a pessoa não consegue ajustar o comportamento às expectativas de cada papel, e a interferência baseada na tensão aumenta com a ambiguidade das tarefas e diminui com o suporte do superior, o contrário do que dizem E e D."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "Conforme os protocolos gerais de intervenções cognitivo-comportamentais para abordagem do comportamento suicida, de acordo com Corrêa, (2022), é correto afirmar que:",
+   "alternativas": [
+    "o plano de segurança corresponde à intervenção do risco atual e de mecanismos psicológicos (personalidade e cognição) que possam estar na base do comportamento suicida.",
+    "na avaliação da personalidade e cognição do paciente, devem ser descritos os sinais de alerta para a presença de ideação suicida, os recursos disponíveis para a mobilização, quando percebida a emergência de tais sinais, as estratégias que envolvam a interação com outras pessoas e a retirada consensual de materiais letais.",
+    "a reestruturação cognitiva relativa às crenças sobre suicídio advém da compreensão de todas as etapas do processo, que se inicia com o gatilho e se finda nos pensamentos e emoções despertadas.",
+    "a descrição de crenças que desencadeiam a possibilidade de suicídio viabiliza a reestruturação cognitiva e pode promover proteção para futuras ideações e intenções suicidas.",
+    "a conceitualização de caso consiste na descrição da personalidade e cognição do paciente."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-suicidio",
+   "item": "https://www.youtube.com/watch?v=i7klFU1wReo",
+   "comentario": "Nos protocolos cognitivo-comportamentais, descrever as crenças que levam à ideia de suicídio permite reestruturá-las e protege contra ideações futuras. A alternativa A troca o plano de segurança pela conceitualização: o plano trata do risco atual com sinais de alerta, recursos, contatos e retirada de meios letais, que é exatamente o conteúdo descrito em B, atribuído por engano à avaliação da personalidade. A conceitualização de caso vai além da descrição da personalidade e da cognição, o que derruba E."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "A Psicoterapia Breve de Apoio (PBA), em Lemgruber (2000), é considerada a técnica adequada a ser utilizada de modo isolado ou associada a outras terapias para pacientes que demonstram algum grau de deficiência egoica. Sobre as características das deficiências egoicas, assinale a opção correta.",
+   "alternativas": [
+    "alextimia.",
+    "incapacidade de ser introvertido.",
+    "incapacidade de definir o seu problema.",
+    "incapacidade de realizar exercícios imaginativos.",
+    "projeção dos conflitos internos."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484",
+   "comentario": "Lemgruber indica a Psicoterapia Breve de Apoio para pacientes com deficiência egoica, e a alexitimia (dificuldade de reconhecer e nomear as próprias emoções) é uma dessas deficiências. As demais alternativas distorcem a lista: o que pesa é a dificuldade de introspecção, não de 'ser introvertido', e as outras não aparecem como características da deficiência egoica. A ideia central é que, com ego frágil, a técnica apoia e fortalece em vez de interpretar conflitos profundos."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "De acordo com o DSM-5-TR (2023), assinale a opção que apresenta corretamente os critérios diagnósticos do Transtorno de Personalidade Esquizoide.",
+   "alternativas": [
+    "Não deseja nem desfruta de relações íntimas; preocupa-se com dúvidas injustificadas acerca da lealdade de amigos; tem prazer em poucas atividades; afeto inadequado ou constrito.",
+    "Mostra-se indiferente ao elogio ou à crítica de outros; tendência à falsidade; quase sempre opta por atividades solitárias; não se dispõe a envolver-se com pessoas, a menos que tenha certeza de que será recebido de forma positiva; inibe-se em situações interpessoais novas em razão de sentimentos de inadequação.",
+    "Demonstra frieza emocional, distanciamento ou embotamento afetivo; tem prazer em poucas atividades; manifesta pouco interesse em ter experiências sexuais com outra pessoa; comportamento ou aparência estranha, excêntrica ou peculiar.",
+    "Ausência de amigos próximos ou confidentes que não sejam parentes; inibe-se em situações interpessoais novas em razão de sentimentos de inadequação; quase sempre opta por atividades solitárias; demonstra frieza emocional.",
+    "Não tem amigos próximos ou confidentes que não sejam familiares de primeiro grau; quase sempre opta por atividades solitárias; tem prazer em poucas atividades, por vezes nenhuma; manifesta pouco ou nenhum interesse em ter experiências sexuais com outra pessoa."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Os critérios do transtorno de personalidade esquizoide no DSM-5-TR incluem não ter amigos próximos além de familiares de primeiro grau, preferir atividades solitárias, ter prazer em poucas atividades ou nenhuma e pouco interesse em experiências sexuais com outra pessoa. As outras alternativas misturam critérios de outros transtornos: dúvida sobre a lealdade de amigos é paranoide, comportamento excêntrico e afeto inadequado são esquizotípicos, e inibição por sentimento de inadequação e medo de rejeição são da personalidade evitativa."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "French e Raven (In Rodrigues; Assmar; Jablonki, 2022), ao se referirem às bases de poder social, afirmaram que muitas vezes a influência exercida sobre uma pessoa resulta do tipo de poder exercido pelo influenciador. Nesse contexto, como é denominada a base de poder que foi posteriormente acrescentada à taxonomia supracitada?",
+   "alternativas": [
+    "Poder de persuasão.",
+    "Poder de liderança.",
+    "Poder de informação.",
+    "Poder de conhecimento.",
+    "Poder de referência."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "French e Raven propuseram cinco bases de poder (recompensa, coerção, legítimo, referência e perito), e o poder de informação foi acrescentado depois por Raven. Poder de referência já fazia parte da taxonomia original, por isso não é o acréscimo. Persuasão, liderança e conhecimento não são nomes de bases dessa classificação; o que se aproxima de conhecimento é o poder de perito."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Muller et al. (in HUTZ, 2016) destacam a importância das evidências encontradas na literatura que consideram a inibição comportamental como fator de vulnerabilidade para transtorno de ansiedade. A inibição comportamental é uma tendência:",
+   "alternativas": [
+    "a responder aos acontecimentos com um mesmo padrão de resposta em diferentes contextos e épocas da vida, apresentando estabilidade razoável.",
+    "a apresentar timidez, evitação e comportamento reservado em situações novas ou não familiares.",
+    "a apresentar sintomas de ansiedade/medo acentuados acerca de uma ou mais situações sociais em que o indivíduo é exposto a possível avaliação de outras pessoas.",
+    "a apresentar sintomas de ansiedade refletidos em preocupações excessivas e persistentes, difíceis de controlar e que ocorrem em diversos eventos ou atividades.",
+    "a apresentar sintomas de ansiedade/medo envolvendo o afastamento de figuras de apego importantes."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Inibição comportamental é a tendência temperamental a reagir com timidez, evitação e reserva diante de situações novas ou não familiares, e é estudada como fator de vulnerabilidade para os transtornos de ansiedade. As alternativas C, D e E descrevem os próprios transtornos (ansiedade social, ansiedade generalizada e ansiedade de separação), e não o fator de vulnerabilidade. A alternativa A fala de estabilidade de um padrão de resposta, o que se aproxima de traço de personalidade em geral, sem o conteúdo de timidez e evitação."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "De acordo com o Código de Ética Profissional do Psicólogo em vigor, com relação ao sigilo profissional, assinale a opção correta.",
+   "alternativas": [
+    "O psicólogo, no relacionamento com profissionais de outras áreas de conhecimento, poderá compartilhar todas as informações do serviço prestado, assinalando a responsabilidade de quem as receber de resguardar o sigilo.",
+    "O psicólogo deverá respeitar o sigilo profissional a fim de proteger, por meio da confidencialidade, a intimidade das pessoas, grupos ou organizações, a que tenha acesso no exercício profissional.",
+    "Em caso de quebra do sigilo previsto no código de ética, o psicólogo deverá prestar todas as informações disponíveis.",
+    "Quando requisitado a depor em juízo, o psicólogo deverá prestar todas as informações disponíveis.",
+    "Em caso de extinção do serviço de psicologia, o psicólogo deverá repassar todo o material ao psicólogo que vier a substituí-lo, ou lacrá-lo para posterior utilização pelo psicólogo substituto."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+   "comentario": "Código de Ética (Res. CFP 010/2005), art. 9º: é dever do psicólogo respeitar o sigilo profissional para proteger, pela confidencialidade, a intimidade de pessoas, grupos ou organizações. As outras erram: com profissionais de outras áreas ele compartilha só as informações relevantes (art. 6º, b), na quebra de sigilo presta só as informações estritamente necessárias (art. 10, parágrafo único) e em juízo presta informações considerando o Código (art. 11). Na extinção do serviço, o destino dos arquivos é comunicado ao CRP (art. 15), e não basta repassá-los ou lacrá-los para o substituto."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Lobato (in MELLO FILHO, 2010) afirma que “o assunto da dor emocional vem modificando-se na medida em que pesquisas nas áreas de neurofisiologia e neurofarmacologia vão esmaecendo as diferenças entre o lesional, o funcional e o emocional puro”. No que diz respeito ao tratamento da dor psicogênica, assinale a opção correta.",
+   "alternativas": [
+    "A incapacidade do paciente em aceitar que, em sua queixa, há a participação de fatores emocionais não influencia no tratamento das dores psicogênicas.",
+    "A solicitação de novos exames subsidiários para postergar a solução do problema ou a prescrição de algum novo analgésico ou tranquilizante é o mais indicado.",
+    "O clínico deve encaminhar para o psiquiatra, quando essa parecer ser a atitude adequada, imediatamente, tão logo perceba tratar-se de dor psicogênica.",
+    "O clínico deve tranquilizar o paciente quanto à inexistência de uma enfermidade incurável ou muito grave. Explicar que sintomas ou doenças são multifatoriais e tudo o que acontece na vida da pessoa reflete em seu organismo e em seus sintomas.",
+    "O clínico deve buscar mostrar ao paciente que a dor desse paciente não existe, uma vez que não há base orgânica para explicá-la."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.youtube.com/watch?v=XP0VGNLFpsg",
+   "comentario": "No manejo da dor psicogênica, o clínico deve tranquilizar o paciente sobre a ausência de doença grave ou incurável e explicar que os sintomas são multifatoriais e refletem o que acontece na vida da pessoa. Negar a existência da dor, pedir exames para adiar a solução ou prescrever novo analgésico só reforçam o ciclo. A resistência do paciente em aceitar fatores emocionais influencia sim o tratamento, e o encaminhamento ao psiquiatra deve ser preparado, não feito de imediato."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Sobre o discurso da pulsão, no “Três ensaios sobre a sexualidade” (FREUD, 2008), é INCORRETO afirmar que:",
+   "alternativas": [
+    "Freud desenvolve a teoria sobre a sexualidade infantil, a qual é caracterizada como sendo perversa polimorfa.",
+    "do ponto de vista psicanalítico, o fundamental é o prazer e não a reprodução. Dessa forma, certas condutas que seriam consideradas perversas pelo referencial do instinto, deixam de ser se tomarmos a perspectiva da satisfação da pulsão.",
+    "na infância, as pulsões sexuais funcionam de forma organizada, possuindo alvos biologicamente definidos.",
+    "na sexualidade infantil, a pulsão sexual, ligada a um órgão ou à excitação de uma zona erógena, encontra satisfação sem recorrer a um objeto externo.",
+    "a pulsão sexual pode ser entendida como o desvio do instinto."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.redalyc.org/pdf/2820/282021763014.pdf",
+   "comentario": "(Cobra além deste material.) Nos Três ensaios, a sexualidade infantil é perversa polimorfa: as pulsões parciais funcionam de forma desorganizada, sem alvo biologicamente definido, por isso a alternativa C é a incorreta. As demais estão de acordo com Freud: o que importa é o prazer, e não a reprodução; a pulsão infantil se satisfaz de forma autoerótica, numa zona erógena, sem objeto externo; e a pulsão sexual pode ser entendida como um desvio em relação ao instinto."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "De acordo com Rodrigues et al. (2022), a propensão humana para a agressão pode ser influenciada por diversos fatores, pois são inúmeras as circunstâncias que aumentam a probabilidade de manifestação de atos agressivos. São fatores sociais desencadeadores da agressão:",
+   "alternativas": [
+    "efeitos das armas, provocação direta, obediência à autoridade, desindividuação e família.",
+    "calor, superpopulação e frustração.",
+    "tendenciosidade atribuicional hostil, frustração e normas sociais.",
+    "família, normas sociais, efeitos das armas, calor e superpopulação.",
+    "provocação direta, frustração, manipulação e efeitos das armas."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "https://www.youtube.com/watch?v=GlMpXB8dSjg",
+   "comentario": "(Cobra além deste material.) Rodrigues et al. separam os fatores sociais da agressão (como efeitos das armas, provocação direta, obediência à autoridade, desindividuação e família) dos fatores ambientais, como calor e superpopulação. Por isso B e D erram ao incluir calor e superpopulação. Frustração e tendenciosidade atribucional hostil aparecem em outras categorias de explicação, e manipulação não está na lista, o que derruba C e E."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Robbins (2010) aponta que traços de personalidade podem ser relevantes para o comportamento organizacional. Segundo ele, um indivíduo que é \"agressivamente envolvido em uma luta crônica e incessante pela obtenção crescente de mais coisas em cada vez menos tempo, e caso necessário atua contra tudo e contra todos\" apresenta traço de que tipo de personalidade?",
+   "alternativas": [
+    "Maquiavelismo.",
+    "Narcisismo.",
+    "Automonitoramento.",
+    "Personalidade Tipo B.",
+    "Personalidade Tipo A."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://www.youtube.com/watch?v=NtEbyak5Uac",
+   "comentario": "(Cobra além deste material.) Robbins chama de personalidade Tipo A a de quem está agressivamente envolvido numa luta crônica para obter cada vez mais em cada vez menos tempo, mesmo contra os outros. O Tipo B é o oposto, sem essa urgência. Maquiavelismo é o pragmatismo de quem acha que os fins justificam os meios, narcisismo é a grandiosidade e a necessidade de admiração, e automonitoramento é a capacidade de ajustar o comportamento à situação."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Caballo et al. (in CABALLO, 2016) apontam que as modificações no ritmo sono/vigília, decorrentes de mudanças socioambientais ou do funcionamento do relógio biológico, podem provocar alterações circadianas do sono. Sobre os transtornos do sono relacionados ao ritmo circadiano, analise as afirmativas abaixo e assinale, a seguir, a opção correta.\nI- Causam sofrimento clinicamente significativo ou prejuízo ao funcionamento social ou ocupacional ou em outras áreas importantes da vida do indivíduo.\nII- Consistem em uma perturbação persistente ou recorrente do padrão do sono, que é consequência de uma falta de sincronização entre o sistema endógeno circadiano sono/vigília do indivíduo, por um lado, e de demandas exógenas relativas ao momento e à duração do sono, por outro.\nIII- Podem ocorrer devido aos efeitos fisiológicos diretos de uma substância (por exemplo, droga de abuso ou medicamento) ou de uma condição médica geral.\nIV- Podem ser tipo fase de sono atrasada, tipo mudança de fuso horário (jet-lag), tipo mudanças frequentes de turno de trabalho ou tipo não especificado.\nV- Nos transtornos do sono associados à mudança de turno de trabalho, o ciclo circadiano endógeno sono/vigília é irregular e o problema surge do conflito entre o padrão de sono e vigília gerado pelo sistema circadiano e o padrão desejado de sono e vigília requerido pela mudança de turno de trabalho.",
+   "alternativas": [
+    "Apenas as afirmativas II, III e V são verdadeiras.",
+    "Apenas as afirmativas I, II, e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e V são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Os transtornos do ritmo circadiano causam sofrimento ou prejuízo significativo (I), resultam do descompasso entre o sistema circadiano endógeno e as exigências externas de horário de sono (II) e têm subtipos como fase atrasada, jet-lag e mudança de turno (IV). A afirmativa III é critério de exclusão: o quadro não se deve a efeitos de substância nem a condição médica. Na V, o erro é dizer que o ciclo endógeno é irregular no transtorno por turno de trabalho; ele é normal, e o problema vem do conflito com o horário exigido pelo turno."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "De acordo com Bandeira et al. (in HUTZ et al., 2016), no que diz respeito à atuação ética no psicodiagnóstico, é correto afirmar que:",
+   "alternativas": [
+    "a ampliação das possibilidades de atualização profissional tende a ampliar também as ações dogmáticas e cartesianas no fazer psicodiagnóstico.",
+    "é fundamental que todo profissional que realiza psicodiagnóstico tenha um espaço particular de reflexão e análise, diferente do oferecido pela supervisão, no qual possa trabalhar a si mesmo.",
+    "o cuidado necessário com aspectos pessoais do psicólogo não faz parte do campo da ética profissional.",
+    "o tratamento pessoal é extensamente debatido e defendido pelos formadores de psicoterapeutas e na área de avaliação psicológica.",
+    "uma pratica ética e a atualização profissional ocorrem a partir de competências aprendidas apenas com leituras ou participação em debates clínicos, sem a necessidade de um profundo processo de autoconhecimento."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "comentario": "Bandeira et al. defendem que quem faz psicodiagnóstico tenha um espaço próprio de reflexão e análise, diferente da supervisão, para trabalhar a si mesmo, como parte da atuação ética. O cuidado com os aspectos pessoais do psicólogo faz parte da ética, e a prática ética não se faz só com leituras e debates, sem autoconhecimento, o que derruba C e E. Os autores também observam que o tratamento pessoal é pouco discutido na área de avaliação psicológica, ao contrário do que afirma D."
+  }
+ ]
+}

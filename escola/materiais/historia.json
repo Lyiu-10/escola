@@ -1,0 +1,516 @@
+{
+  "h-colonia-economia": [
+    {
+      "tipo": "aula",
+      "titulo": "CICLO DO AÇÚCAR, ESCAMBO E ECONOMIA COLONIAL - HISTÓRIA DO BRASIL PELO BRASIL, Ep.3 (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=tHFfCDiV6Zg",
+      "minutos": 34,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Açúcar, escambo e economia colonial: engenhos, exclusivo metropolitano e trabalho escravo."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Os Ciclos da Cana-de-Açúcar e do Ouro na História Colonial Brasileira (capítulo 4)",
+      "fonte": "PUC-Rio (repositório Maxwell, capítulo de tese)",
+      "url": "https://www.maxwell.vrac.puc-rio.br/10615/10615_5.PDF",
+      "arquivo": "h-colonia-economia/ciclos-cana-ouro.pdf",
+      "minutos": 51,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Economia colonial: açúcar, mineração e a relação com a metrópole (sistema colonial). Texto de economista, mais denso que a aula."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "CAPITANIAS HEREDITÁRIAS E BRASIL COLÔNIA - HISTÓRIA DO BRASIL PELO BRASIL (Ep. 2) - Débora Aladim",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=I8sRO8QlN4c",
+      "minutos": 16,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Capitanias hereditárias e governos gerais: como a Coroa organizou a colônia."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "CICLO DO OURO - HISTÓRIA DO BRASIL PELO BRASIL Ep. 6 (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=V7QXlsZs1Po",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Mineração: ciclo do ouro, quinto, derrama e a mudança do eixo econômico para o Sudeste."
+    }
+  ],
+  "h-colonia-povos": [
+    {
+      "tipo": "aula",
+      "titulo": "OS BANDEIRANTES PAULISTAS - HISTÓRIA DO BRASIL PELO BRASIL, EP.5 (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=NhpPJIlOq10",
+      "minutos": 17,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Entradas e bandeiras, apresamento de indígenas e expansão territorial."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Indígenas (verbete de Maria Regina Celestino de Almeida, UFF)",
+      "fonte": "História Luso-Brasileira, Arquivo Nacional",
+      "url": "https://historialuso.an.gov.br/index.php?Itemid=355&id=3234&option=com_content&view=article",
+      "minutos": 8,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Indígenas na colonização: escravização, aldeamentos, missões jesuíticas e o papel dos índios como agentes históricos."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "A dinâmica da escravidão no Brasil: resistência, tráfico negreiro e alforrias, séculos XVII a XIX",
+      "fonte": "Novos Estudos CEBRAP (SciELO), Rafael de Bivar Marquese",
+      "url": "https://www.scielo.br/j/nec/a/xB5SjkdK7zXRvRjKRXRfKPh/?lang=pt&format=pdf",
+      "arquivo": "h-colonia-povos/dinamica-escravidao.pdf",
+      "minutos": 51,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Africanos escravizados: tráfico negreiro, alforrias, quilombos e revoltas. Artigo acadêmico, leitura mais difícil."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "OS JESUÍTAS NO BRASIL, AS MISSÕES E A RELAÇÃO COM PORTUGAL",
+      "fonte": "Parabólica",
+      "url": "https://www.youtube.com/watch?v=QBeMX_UIS7w",
+      "minutos": 12,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Jesuítas no Brasil: missões, catequese e conflito com os colonos pela mão de obra indígena."
+    }
+  ],
+  "h-colonia-revoltas": [
+    {
+      "tipo": "aula",
+      "titulo": "INCONFIDÊNCIA MINEIRA, CONJURAÇÃO BAIANA E REVOLUÇÃO PERNAMBUCANA (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=SHl__q3qGIU",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Inconfidência Mineira, Conjuração Baiana e Revolução Pernambucana de 1817."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Conjuração em Minas Gerais (Viviane Gouvea)",
+      "fonte": "História Luso-Brasileira, Arquivo Nacional",
+      "url": "https://historialuso.an.gov.br/index.php?option=com_content&view=article&id=5103&Itemid=363",
+      "minutos": 19,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Inconfidência Mineira: crise da mineração, derrama, ideias iluministas, devassa e punição de Tiradentes. A Conjuração Baiana só aparece de passagem."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "A VINDA DA CORTE EM 1808 - HISTÓRIA DO BRASIL PELO BRASIL Ep. 8 (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=RhMJRrj2JsM",
+      "minutos": 27,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "A vinda da Corte em 1808: abertura dos portos e transformações no Brasil."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Período Joanino (1808 a 1822) - cronologia",
+      "fonte": "MAPA, Arquivo Nacional",
+      "url": "https://mapa.an.gov.br/index.php/assuntos/79-producao/80-cronologia/508-periodo-joanino-1808-a-1822",
+      "minutos": 21,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Cronologia ano a ano da Corte no Brasil (1808-1822): instituições criadas, Reino Unido, Revolução do Porto. Para consulta."
+    }
+  ],
+  "h-independencia": [
+    {
+      "tipo": "aula",
+      "titulo": "Aula de História: 1º Reinado, Constituição de 1824 e Queda de D. Pedro I - 1-2 (EsFCEx)",
+      "fonte": "Curso Cidade",
+      "url": "https://www.youtube.com/watch?v=xrXXwvuXmo0",
+      "minutos": 50,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Primeiro Reinado, Constituição de 1824 e queda de D. Pedro I, aula do curso preparatório para a EsFCEx."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Constituição Política do Império do Brazil (25 de março de 1824)",
+      "fonte": "Planalto (Presidência da República)",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao24.htm",
+      "minutos": 35,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Texto original da Constituição de 1824 (Poder Moderador, eleições, Forças Armadas). Fonte primária, para consultar."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "SAIBA TUDO SOBRE A GUARDA NACIONAL - SOS HISTÓRIA {Prof.Pedro Riccioppo}",
+      "fonte": "SOS História l SOS TV - Prof. Pedro Riccioppo",
+      "url": "https://www.youtube.com/watch?v=pTaukEUFirw",
+      "minutos": 11,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Guarda Nacional: criação em 1831, organização e relação com o Exército."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Honrosos cidadãos ou vadios? Guerra, conflitos sociais e lutas por direitos nas fileiras militares, Rio de Janeiro, 1820-1831",
+      "fonte": "Almanack (SciELO), Adriana Barreto de Souza",
+      "url": "https://www.scielo.br/j/alm/a/WkgPS3vL547ygFTzgS5PqNC/?format=pdf&lang=pt",
+      "arquivo": "h-independencia/guerra-fileiras-militares.pdf",
+      "minutos": 60,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Exército, milícias e Guarda Nacional no tempo da Independência e da Regência. Artigo acadêmico longo, para aprofundar."
+    }
+  ],
+  "h-segundo-reinado": [
+    {
+      "tipo": "aula",
+      "titulo": "O SEGUNDO REINADO - Curso de História do Brasil pelo Brasil episódio 13 (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=2skEPARnorI",
+      "minutos": 46,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Segundo Reinado: política, partidos, café e sociedade imperial."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Partidos Políticos (período imperial)",
+      "fonte": "MAPA, Arquivo Nacional",
+      "url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/297-partidos-politicos-no-periodo-imperial",
+      "minutos": 12,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Partidos Conservador e Liberal, Regressão, Parlamentarismo e o funcionamento da política do Império."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "PERÍODO REGENCIAL: ENTENDA DE UMA VEZ POR TODAS (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=duIKGxBfB4U",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Período Regencial (1831-1840): Regências, Ato Adicional e revoltas."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Ato Adicional",
+      "fonte": "MAPA, Arquivo Nacional",
+      "url": "https://mapa.arquivonacional.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/258-ato-adicional",
+      "minutos": 5,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Ato Adicional de 1834: assembleias provinciais, regência una e a reação conservadora."
+    }
+  ],
+  "h-abolicao": [
+    {
+      "tipo": "aula",
+      "titulo": "Leis abolicionistas - Brasil Escola",
+      "fonte": "Brasil Escola Oficial",
+      "url": "https://www.youtube.com/watch?v=zQ7IoqfCxrE",
+      "minutos": 21,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Leis abolicionistas: Eusébio de Queirós, Ventre Livre, Sexagenários e Lei Áurea."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Legislação abolicionista no Império",
+      "fonte": "Arquivo Nacional (Brasil Oitocentista)",
+      "url": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio",
+      "minutos": 16,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Fim do tráfico, leis graduais e a abolição de 1888, com os documentos do Arquivo Nacional."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "SEGUNDO REINADO: GRANDE IMIGRAÇÃO EUROPEIA | Resumo de História para o Enem",
+      "fonte": "Curso Enem Gratuito",
+      "url": "https://www.youtube.com/watch?v=Bi-d3bc46Kk",
+      "minutos": 10,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Grande imigração europeia no Segundo Reinado: café, colonato e substituição do trabalho escravo."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Imigração (verbete do Dicionário da Primeira República)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-republica/IMIGRA%C3%87%C3%83O.pdf",
+      "arquivo": "h-abolicao/imigracao-primeira-republica.pdf",
+      "minutos": 33,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Imigração depois da abolição (1889-1930): números, origens e política imigratória."
+    }
+  ],
+  "h-fim-imperio": [
+    {
+      "tipo": "aula",
+      "titulo": "GUERRA DO PARAGUAI - TUDO QUE VOCÊ PRECISA SABER (História do Brasil pelo Brasil) Débora Aladim",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=oISI5OwOXXI",
+      "minutos": 36,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Guerra do Paraguai: questões platinas, Tríplice Aliança e o papel do Exército."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Guerra do Paraguai: história e polêmica (História de um silêncio: a guerra contra o Paraguai, 130 anos depois)",
+      "fonte": "Estudos Avançados (SciELO), Carlos Guilherme Mota",
+      "url": "http://www.scielo.br/j/ea/a/R6CtMNFGZpZnNrB6HLZ4QRN/?format=pdf&lang=pt",
+      "arquivo": "h-fim-imperio/guerra-paraguai-silencio.pdf",
+      "minutos": 39,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Guerra do Paraguai e as interpretações sobre ela; ensaio interpretativo, bom depois da aula."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Questão Militar (verbete do Dicionário da Primeira República)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-republica/QUEST%C3%83O%20MILITAR.pdf",
+      "arquivo": "h-fim-imperio/questao-militar.pdf",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Exército depois do Paraguai e os confrontos com o governo civil (1884-1887) que prepararam a República."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Proclamação da República (verbete do Dicionário da Primeira República)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-republica/PROCLAMA%C3%87%C3%83O%20DA%20REP%C3%9ABLICA.pdf",
+      "arquivo": "h-fim-imperio/proclamacao-republica.pdf",
+      "minutos": 21,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Movimento republicano e o golpe de 15 de novembro de 1889."
+    }
+  ],
+  "h-republica-velha": [
+    {
+      "tipo": "aula",
+      "titulo": "Resumo de História: REPÚBLICA OLIGÁRQUICA (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=FmGVa7W--mg",
+      "minutos": 26,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "República Oligárquica: Política dos Governadores, café com leite, coronelismo e crise dos anos 1920."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Política dos Governadores (verbete do Dicionário da Primeira República)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-republica/POL%C3%8DTICA%20DOS%20GOVERNADORES.pdf",
+      "arquivo": "h-republica-velha/politica-governadores.pdf",
+      "minutos": 30,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Política dos Governadores de Campos Sales, base do sistema oligárquico, ligada ao coronelismo e às eleições da época."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Tenentismo (verbete do Dicionário da Primeira República)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-republica/TENENTISMO.pdf",
+      "arquivo": "h-republica-velha/tenentismo.pdf",
+      "minutos": 57,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Tenentismo (1920-1935): levantes de 1922 e 1924, Coluna Prestes e o caminho até 1930."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Sindicalismo (verbete do Dicionário da Primeira República)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/sites/default/files/verbetes/primeira-republica/Sindicalismo.pdf",
+      "arquivo": "h-republica-velha/sindicalismo.pdf",
+      "minutos": 60,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Movimento operário na Primeira República: anarquismo, greves e organização sindical. Leitura longa."
+    }
+  ],
+  "h-vargas": [
+    {
+      "tipo": "aula",
+      "titulo": "TUDO QUE VOCÊ PRECISA SABER SOBRE A ERA VARGAS: tá longo, mas vale a pena! (Débora Aladim)",
+      "fonte": "Débora Aladim",
+      "url": "https://www.youtube.com/watch?v=jQU6Ojetq8M",
+      "minutos": 59,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Era Vargas completa: Revolução de 1930, Governo Provisório, 1934, Estado Novo e queda em 1945."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Getúlio Vargas (biografia CPDOC)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/biografias/getulio-vargas",
+      "minutos": 5,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Resumo da trajetória de Vargas: 1930, Governo Provisório, Estado Novo, guerra e volta em 1951."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Estado Novo (verbete temático)",
+      "fonte": "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/estado-novo",
+      "minutos": 32,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Golpe de 1937, estrutura do regime, política trabalhista e a guerra. Minutos estimados pelo tamanho da página."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Força Expedicionária Brasileira (FEB) (verbete temático)",
+      "fonte": "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/forca-expedicionaria-brasileira-feb",
+      "minutos": 16,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "O Brasil na II Guerra: entrada no conflito, formação, campanha da Itália e volta da FEB."
+    }
+  ],
+  "h-1945-1964": [
+    {
+      "tipo": "aula",
+      "titulo": "República \"Populista\" (1945-1964) - Resumo",
+      "fonte": "Professor Ferrari",
+      "url": "https://www.youtube.com/watch?v=bm13wedJ8hM",
+      "minutos": 27,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "República Populista (1945-1964): Dutra, Vargas, JK, Jânio e Jango."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "João Goulart (biografia CPDOC)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/biografias/joao-goulart",
+      "minutos": 13,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Jango do trabalhismo ao golpe de 1964: Vargas, renúncia de Jânio, parlamentarismo e reformas de base."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Juscelino Kubitschek (biografia CPDOC)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/biografias/juscelino-kubitschek",
+      "minutos": 16,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Governo JK, Plano de Metas, Brasília e a sucessão de 1955."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Populismo (verbete temático)",
+      "fonte": "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/populismo",
+      "minutos": 22,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "O conceito de populismo e o debate sobre a política brasileira de 1930 a 1964."
+    }
+  ],
+  "h-ditadura": [
+    {
+      "tipo": "aula",
+      "titulo": "A DITADURA MILITAR NO BRASIL || VOGALIZANDO A HISTÓRIA",
+      "fonte": "Vogalizando a História",
+      "url": "https://www.youtube.com/watch?v=Ux64F6jfSuo",
+      "minutos": 36,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Ditadura militar de 1964 a 1985: golpe, Atos Institucionais, presidentes, repressão e abertura."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "O golpe de 1964 e a instauração do regime militar (Celso Castro)",
+      "fonte": "CPDOC/FGV",
+      "url": "https://cpdoc.fgv.br/artigos/golpe-1964",
+      "minutos": 6,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Como e por que ocorreu o golpe de 31 de março de 1964 e a instalação do regime militar."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "O MILAGRE ECONÔMICO BRASILEIRO COMO VOCÊ NUNCA VIU - SOS História {Prof.Pedro Riccioppo}",
+      "fonte": "SOS História l SOS TV - Prof. Pedro Riccioppo",
+      "url": "https://www.youtube.com/watch?v=_U3fRZsClu0",
+      "minutos": 18,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Milagre econômico brasileiro (1968-1973): crescimento, política econômica e concentração de renda."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Milagre econômico brasileiro (verbete temático)",
+      "fonte": "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/milagre-economico-brasileiro",
+      "minutos": 27,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Milagre econômico: política de Delfim Netto, crescimento de 1967-1973 e limites."
+    }
+  ],
+  "h-redemocratizacao": [
+    {
+      "tipo": "aula",
+      "titulo": "NOVA REPÚBLICA PARA O ENEM  - Aula #18",
+      "fonte": "Parabólica",
+      "url": "https://www.youtube.com/watch?v=ksyBneLcPe8",
+      "minutos": 58,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Nova República: Diretas Já, Tancredo, Sarney, Collor e a redemocratização."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Diretas Já (verbete temático)",
+      "fonte": "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/diretas-ja",
+      "minutos": 13,
+      "idioma": "pt",
+      "extra": false,
+      "nota": "Campanha das Diretas Já (1983-1984), a emenda Dante de Oliveira e a transição para a Nova República."
+    },
+    {
+      "tipo": "leitura",
+      "titulo": "Assembleia Nacional Constituinte de 1987-88 (verbete temático)",
+      "fonte": "CPDOC/FGV, Dicionário Histórico-Biográfico Brasileiro",
+      "url": "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/assembleia-nacional-constituinte-de-1987-88",
+      "minutos": 34,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Convocação, trabalhos e promulgação da Constituição de 1988. Texto longo."
+    },
+    {
+      "tipo": "aula",
+      "titulo": "ENTENDENDO A CONSTITUIÇÃO CIDADÃ DE 1988",
+      "fonte": "Parabólica",
+      "url": "https://www.youtube.com/watch?v=z7hFvcxq24A",
+      "minutos": 33,
+      "idioma": "pt",
+      "extra": true,
+      "nota": "Constituição de 1988: contexto, Constituinte e principais direitos."
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+ "https://cpdoc.fgv.br/biografias/getulio-vargas": [
+  {
+   "enunciado": "Segundo a biografia do CPDOC, o que Vargas fez para estruturar o novo Estado durante o Governo Provisório (1930-34)?",
+   "alternativas": [
+    "Fechou o Congresso Nacional e outorgou uma Constituição que lhe dava o controle dos poderes Legislativo e Judiciário",
+    "Nomeou interventores para os governos estaduais e criou o Ministério do Trabalho, Indústria e Comércio",
+    "Criou a Companhia Siderúrgica Nacional e o Conselho Nacional do Petróleo para estimular a indústria",
+    "Instalou a Assembleia Constituinte e promulgou a Constituição de 1946 para encerrar o regime de exceção"
+   ],
+   "certa": 1,
+   "comentario": "No Governo Provisório Vargas nomeou interventores, implantou a justiça revolucionária, criou o Ministério do Trabalho e promulgou as primeiras leis trabalhistas. O fechamento do Congresso e a CSN são do Estado Novo.",
+   "trecho": "Vargas deu início à estruturação do novo Estado, com a nomeação dos interventores para os governos estaduais, a implantação da justiça revolucionária, a criação do Ministério do Trabalho, Indústria e Comércio e a promulgação das primeiras leis trabalhistas"
+  },
+  {
+   "enunciado": "Que acontecimento, segundo o texto, criou um clima favorável à instauração do Estado Novo em novembro de 1937?",
+   "alternativas": [
+    "A Revolta Comunista de 1935, que eclodiu em Natal, Recife e no Rio de Janeiro",
+    "A Revolução Constitucionalista de 1932, travada em São Paulo contra o governo",
+    "A denúncia, feita pelo governo, de um plano comunista conhecido como Plano Cohen",
+    "O Levante Integralista, com a invasão do Palácio Guanabara pelos partidários da AIB"
+   ],
+   "certa": 2,
+   "comentario": "Às vésperas das eleições de 1938, o governo denunciou o Plano Cohen, e isso criou o clima favorável ao Estado Novo. A Revolta de 1935 e o Levante Integralista de 1938 vieram em outros momentos.",
+   "trecho": "foi denunciado pelo governo a existência de um plano comunista, conhecido como Plano Cohen. Esta situação criou um clima favorável para a instauração do Estado Novo, que ocorreria em novembro deste ano"
+  },
+  {
+   "enunciado": "Qual das instituições abaixo foi criada durante o Estado Novo (1937-1945), segundo a biografia?",
+   "alternativas": [
+    "Ministério do Trabalho, Indústria e Comércio",
+    "Petrobrás",
+    "Banco Nacional de Desenvolvimento Econômico (BNDE)",
+    "Companhia Siderúrgica Nacional (CSN)"
+   ],
+   "certa": 3,
+   "comentario": "A CSN está entre as criações do Estado Novo, ao lado do CNP, do DASP e da FNM. O Ministério do Trabalho é do Governo Provisório e a Petrobrás, do segundo governo Vargas.",
+   "trecho": "Foram criados nesse período o Conselho Nacional do Petróleo (CNP), o Departamento Administrativo do Serviço Público (DASP), a Companhia Siderúrgica Nacional (CSN) e a Fábrica Nacional de Motores (FNM), entre outros"
+  },
+  {
+   "enunciado": "Em 1941, ainda na fase de neutralidade, que acordo o Brasil assinou com os Estados Unidos, segundo a biografia?",
+   "alternativas": [
+    "O Brasil enviaria tropas à Europa em troca do perdão de sua dívida externa",
+    "Os EUA financiariam a primeira siderúrgica brasileira, e o Brasil permitiria bases militares no Nordeste",
+    "Os EUA comprariam toda a produção de café brasileira em troca do fornecimento de armamentos",
+    "O Brasil romperia relações com o Eixo em troca de um empréstimo para criar a Petrobrás"
+   ],
+   "certa": 1,
+   "comentario": "O acordo de 1941 trocou o financiamento da primeira siderúrgica brasileira por bases militares norte-americanas no Nordeste.",
+   "trecho": "o governo norte-americano se comprometia a financiar a construção da primeira siderúrgica brasileira, em troca da permissão para a instalação de bases militares no Nordeste"
+  },
+  {
+   "enunciado": "Segundo a biografia, o que detonou a crise final do segundo governo Vargas, em agosto de 1954?",
+   "alternativas": [
+    "O atentado contra Carlos Lacerda, em que morreu o major Rubem Florentino Vaz, com envolvimento da guarda pessoal de Vargas",
+    "A denúncia do Plano Cohen e o consequente fechamento do Congresso Nacional",
+    "A deposição de Vargas por um movimento militar liderado pelos generais de seu próprio ministério",
+    "A derrota nas eleições para a Assembleia Constituinte de 1946, que o deixou sem mandato"
+   ],
+   "certa": 0,
+   "comentario": "O Atentado da Toneleros, ligado à guarda pessoal de Vargas, desencadeou a crise que terminou com o suicídio de Vargas. A deposição pelos generais é de 1945.",
+   "trecho": "O atentado realizado contra Lacerda no início de agosto de 1954, no qual foi morto o major-aviador Rubem Florentino Vaz, detonou a crise final do governo, pelo envolvimento da guarda pessoal de Vargas no episódio"
+  }
+ ],
+ "https://cpdoc.fgv.br/biografias/joao-goulart": [
+  {
+   "enunciado": "Como foi resolvida a crise de 1961, quando os ministros militares vetaram a posse de Goulart após a renúncia de Jânio Quadros?",
+   "alternativas": [
+    "O Congresso confirmou a posse de Goulart com plenos poderes presidenciais",
+    "O Congresso aprovou uma emenda que instalou o parlamentarismo, limitando os poderes do presidente",
+    "Uma junta militar assumiu o governo até a convocação de novas eleições presidenciais",
+    "Goulart renunciou à vice-presidência e o presidente do Senado assumiu o cargo"
+   ],
+   "certa": 1,
+   "comentario": "A solução conciliatória foi a Emenda Constitucional que instalou o parlamentarismo, o que permitiu a posse de Jango em 7 de setembro de 1961 com poderes reduzidos.",
+   "trecho": "No dia seguinte, o Congresso aprovou a Emenda Constitucional que instalou o parlamentarismo, limitando os poderes presidenciais"
+  },
+  {
+   "enunciado": "Para enfrentar a crise econômico-financeira e a inflação em 1963, o governo Goulart apostou em qual política?",
+   "alternativas": [
+    "O Plano de Metas, com foco na industrialização acelerada",
+    "O Programa de Ação Econômica do Governo (PAEG), sob a direção de Roberto Campos",
+    "O Plano Trienal de Desenvolvimento Econômico, sob a direção de San Tiago Dantas e Celso Furtado",
+    "O Plano de Estabilização Monetária, sob a direção de Lucas Lopes"
+   ],
+   "certa": 2,
+   "comentario": "O Plano Trienal, dirigido por San Tiago Dantas e Celso Furtado, foi a tentativa de estabilizar a moeda em 1963, mas fracassou.",
+   "trecho": "o governo Goulart tentou pôr em prática uma política econômica baseada no Plano Trienal de Desenvolvimento Econômico, executado sob a direção de San Tiago Dantas e Celso Furtado"
+  },
+  {
+   "enunciado": "Qual foi o resultado do plebiscito realizado em 6 de janeiro de 1963?",
+   "alternativas": [
+    "Retorno ao presidencialismo, por larga margem",
+    "Manutenção do parlamentarismo, por pequena margem",
+    "Empate técnico, com a decisão remetida ao Congresso Nacional",
+    "Anulação da consulta por baixa participação do eleitorado"
+   ],
+   "certa": 0,
+   "comentario": "Cerca de 11,5 milhões de eleitores votaram e o presidencialismo venceu por larga margem, devolvendo a Goulart os poderes da Constituição de 1946.",
+   "trecho": "compareceram às urnas para decidir sobre o tipo de regime político que o país deveria adotar. O resultado favoreceu o presidencialismo por larga margem"
+  },
+  {
+   "enunciado": "Quem iniciou a movimentação de tropas em direção ao Rio de Janeiro na madrugada de 31 de março de 1964?",
+   "alternativas": [
+    "O general Castelo Branco, chefe do Estado-Maior do Exército",
+    "O general Costa e Silva, que se reunira no Rio de Janeiro com Castelo Branco e Cordeiro de Farias",
+    "O general Cordeiro de Farias, comandante da 4ª Região Militar",
+    "O general Olímpio Mourão Filho, comandante da 4ª Região Militar, sediada em Juiz de Fora (MG)"
+   ],
+   "certa": 3,
+   "comentario": "Foi o general Mourão Filho, de Juiz de Fora, quem moveu as tropas; Castelo Branco e Costa e Silva atuavam na articulação da conspiração.",
+   "trecho": "Na madrugada de 31 de março o general Olímpio Mourão Filho , comandante da 4ª. Região Militar, sediada em Juiz de Fora (MG), iniciou a movimentação de tropas em direção ao Rio de Janeiro"
+  },
+  {
+   "enunciado": "Onde e em que circunstância morreu João Goulart?",
+   "alternativas": [
+    "Em Montevidéu, em 1964, logo depois de deixar o Brasil",
+    "Em São Borja (RS), em 1976, depois de voltar do exílio",
+    "Em sua fazenda na Argentina, em dezembro de 1976, sem ter conseguido regressar ao Brasil",
+    "Em Buenos Aires, em 1973, depois de aceitar o convite de Perón"
+   ],
+   "certa": 2,
+   "comentario": "Jango morreu no exílio, em dezembro de 1976, na fazenda La Villa, em Mercedes (Argentina), e foi sepultado em São Borja.",
+   "trecho": "em dezembro de 1976, João Goulart faleceu em sua fazenda La Villa, no município argentino de Mercedes, sem ter conseguido regressar ao Brasil"
+  }
+ ],
+ "https://cpdoc.fgv.br/artigos/golpe-1964": [
+  {
+   "enunciado": "Quem era o homem-forte do Comando Supremo da Revolução, formado em 2 de abril de 1964 por representantes das três Forças?",
+   "alternativas": [
+    "Ranieri Mazzilli, presidente da Câmara dos Deputados",
+    "O general Humberto de Alencar Castelo Branco",
+    "O general Artur da Costa e Silva, representante do Exército",
+    "O brigadeiro Francisco de Assis Correia de Melo, representante da Aeronáutica"
+   ],
+   "certa": 2,
+   "comentario": "O triunvirato teve Costa e Silva, do Exército, como homem-forte, e ficou no poder por duas semanas, até Castelo Branco assumir.",
+   "trecho": "o general Artur da Costa e Silva, representante do Exército e homem-forte do triunvirato. Essa junta permaneceria no poder por duas semanas"
+  },
+  {
+   "enunciado": "Segundo o texto, o que foi o Ato Institucional baixado pela junta militar?",
+   "alternativas": [
+    "Um instrumento previsto na Constituição de 1946 para os casos de estado de sítio",
+    "Uma emenda constitucional aprovada pelo Congresso para legalizar a intervenção",
+    "Um decreto assinado por Ranieri Mazzilli e depois confirmado pelo Supremo Tribunal",
+    "Uma invenção do governo militar, sem previsão constitucional nem fundamento jurídico, para justificar atos de exceção"
+   ],
+   "certa": 3,
+   "comentario": "O Ato Institucional não estava na Constituição de 1946 nem tinha fundamento jurídico; servia para justificar as medidas de exceção que se seguiram.",
+   "trecho": "uma invenção do governo militar que não estava prevista na Constituição de 1946 nem possuía fundamentação jurídica. Seu objetivo era justificar os atos de exceção que se seguiram"
+  },
+  {
+   "enunciado": "Como o governo dos Estados Unidos reagiu ao golpe de 1964, segundo o texto?",
+   "alternativas": [
+    "Condenou o golpe e suspendeu as relações com o governo militar",
+    "Recebeu-o com alívio, satisfeito de ver que o Brasil não seguia o caminho de Cuba",
+    "Manteve-se indiferente, sem acompanhar a conspiração de perto",
+    "Enviou tropas para combater as forças leais a Jango"
+   ],
+   "certa": 1,
+   "comentario": "Os EUA acompanharam a conspiração de perto e viram o golpe com alívio; a Operação Brother Sam previa apenas apoio logístico, caso houvesse longa resistência.",
+   "trecho": "O golpe também foi recebido com alívio pelo governo norte-americano, satisfeito de ver que o Brasil não seguia o mesmo caminho de Cuba, onde a guerrilha liderada por Fidel Castro havia conseguido tomar o poder"
+  },
+  {
+   "enunciado": "Segundo o texto, qual ideia era fundamental para os golpistas e está na base da Doutrina de Segurança Nacional?",
+   "alternativas": [
+    "A principal ameaça viria de uma guerra tradicional contra exércitos estrangeiros",
+    "A principal ameaça viria de dentro do país, de brasileiros tratados como inimigos internos e subversivos",
+    "A ameaça à ordem viria apenas do Congresso, e não de grupos organizados",
+    "A democracia vigente desde 1945 era a melhor garantia contra o comunismo"
+   ],
+   "certa": 1,
+   "comentario": "Para os militares, a ameaça à ordem não vinha de fora, mas dos chamados inimigos internos, os subversivos que queriam implantar o comunismo.",
+   "trecho": "a principal ameaça à ordem capitalista e à segurança do país não viria de fora, através de uma guerra tradicional contra exércitos estrangeiros; ela viria de dentro do próprio país"
+  },
+  {
+   "enunciado": "Por que, segundo o texto, 1964 representa um marco e uma novidade na história política do Brasil?",
+   "alternativas": [
+    "Foi a primeira vez que houve um golpe de Estado no país",
+    "Os militares devolveram o poder aos civis em poucos meses, como em 1945",
+    "Houve uma resistência armada organizada de todas as Forças contra os golpistas",
+    "Os militares não apenas deram o golpe, como permaneceram no poder por 21 anos"
+   ],
+   "certa": 3,
+   "comentario": "Diferentemente de 1930, 1945 e 1954, os militares de 1964 permaneceram no poder, por 21 anos.",
+   "trecho": "É por isso que 1964 representa um marco e uma novidade na história política do Brasil: diferentemente do que ocorreu em outras ocasiões, desta vez militares não apenas deram um golpe de Estado, como permaneceram no poder"
+  }
+ ],
+ "https://www18.fgv.br/cpdoc/acervo/dicionarios/verbete-tematico/diretas-ja": [
+  {
+   "enunciado": "Que mudança o Ato Institucional nº 2, de 27 de outubro de 1965, impôs à escolha do presidente da República?",
+   "alternativas": [
+    "Passou a ser feita por um Colégio Eleitoral com delegados das assembleias estaduais",
+    "Passou a ser feita pelo voto direto, mas com mandato de seis anos",
+    "Presidente e vice passaram a ser eleitos por maioria absoluta dos membros do Congresso Nacional",
+    "Passou a ser feita por indicação do Alto Comando das Forças Armadas"
+   ],
+   "certa": 2,
+   "comentario": "O AI-2 tirou do povo o voto direto: presidente e vice passaram a ser eleitos pelo Congresso. O Colégio Eleitoral com delegados estaduais veio com a Constituição de 1967.",
+   "trecho": "o presidente e vice-presidente da República passaram a ser eleitos por maioria absoluta dos membros do Congresso Nacional, em sessão pública e votação nominal, com o povo brasileiro perdendo o direito de escolher seu presidente através do voto direto"
+  },
+  {
+   "enunciado": "O que propunha a emenda constitucional apresentada em março de 1983 pelo deputado Dante de Oliveira?",
+   "alternativas": [
+    "O fim do Colégio Eleitoral e o retorno das eleições diretas para presidente e vice, a partir de 1985",
+    "A redução do mandato do sucessor de Figueiredo para quatro anos, com eleições diretas em 1988",
+    "A extensão do mandato de Figueiredo por dois anos, em troca de eleições diretas em 1986",
+    "A convocação imediata de uma Assembleia Nacional Constituinte exclusiva"
+   ],
+   "certa": 0,
+   "comentario": "A emenda Dante de Oliveira propunha acabar com o Colégio Eleitoral e restabelecer a eleição direta. A redução do mandato com eleições em 1988 era a emenda Figueiredo.",
+   "trecho": "o deputado federal Dante de Oliveira (PMDB-MT) apresentou ao Congresso Nacional uma emenda constitucional que propunha o fim do Colégio Eleitoral e o retorno das eleições diretas para presidente e vice-presidente"
+  },
+  {
+   "enunciado": "Qual cidade sediou, em 12 de janeiro de 1984, o primeiro grande comício, apontado como teste do apoio popular à campanha?",
+   "alternativas": [
+    "São Paulo, na praça da Sé",
+    "Rio de Janeiro, na Candelária",
+    "Belo Horizonte, na avenida Afonso Pena",
+    "Curitiba"
+   ],
+   "certa": 3,
+   "comentario": "O comício de Curitiba reuniu cerca de 30 mil pessoas e já mostrou traços da campanha: apoio popular, artistas, símbolos nacionais e o refrão pelas diretas. Os comícios de São Paulo, Rio e Belo Horizonte vieram depois.",
+   "trecho": "Em 12 de janeiro de 1984, Curitiba foi o palco do teste de apoio popular à Campanha pelas Diretas Já"
+  },
+  {
+   "enunciado": "Qual foi o resultado da votação da emenda Dante de Oliveira na Câmara dos Deputados, em 25 de abril de 1984?",
+   "alternativas": [
+    "Foi aprovada com os 320 votos necessários, mas barrada no Senado",
+    "Foi rejeitada: recebeu 298 votos, faltando 22 para os 320 necessários",
+    "Foi aprovada por unanimidade, após uma emenda proposta pelo governo",
+    "Foi adiada por falta de quórum, para o ano seguinte"
+   ],
+   "certa": 1,
+   "comentario": "A emenda precisava de 320 votos dos 479 congressistas e teve 298: faltaram 22 votos e as Diretas Já foram rejeitadas.",
+   "trecho": "a Câmara dos Deputados, por falta de 22 votos, rejeitou a emenda que propunha as Diretas Já. Precisando de 320 votos para ser aprovada, de um total de 479 congressistas, a emenda Dante de Oliveira recebeu 298 votos"
+  },
+  {
+   "enunciado": "Qual aliança apresentou Tancredo Neves e José Sarney como candidatos no Colégio Eleitoral marcado para 15 de janeiro de 1985?",
+   "alternativas": [
+    "A Aliança Democrática, formada pela Frente Liberal (dissidência do PDS) e pelas oposições lideradas pelo PMDB",
+    "O Comitê Nacional Pró-Diretas, reunindo PMDB, PT e entidades da sociedade civil",
+    "A chapa oficial do PDS, encabeçada por Paulo Maluf",
+    "A emenda Figueiredo, negociada entre o Planalto e o PDT de Brizola"
+   ],
+   "certa": 0,
+   "comentario": "Com a vitória de Maluf na convenção, o PDS se dividiu; os dissidentes (Frente Liberal) e as oposições do PMDB formaram a Aliança Democrática.",
+   "trecho": "um acordo entre a Frente Liberal e os partidos de oposição, liderados pelo PMDB, formou a Aliança Democrática, que apresentou Tancredo Neves e José Sarney como candidatos indiretos, respectivamente, a presidente e vice-presidente da República"
+  }
+ ],
+ "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102240.pdf": [
+  {
+   "enunciado": "Quais são os três eixos em que a Síntese de Indicadores Sociais 2025 organiza seus temas?",
+   "alternativas": [
+    "População, saúde e saneamento",
+    "Estrutura econômica e mercado de trabalho; padrão de vida e distribuição de rendimentos; e educação",
+    "Demografia, habitação e segurança pública",
+    "Mercado de trabalho, previdência e consumo das famílias"
+   ],
+   "certa": 1,
+   "comentario": "A Apresentação diz que a edição se organiza em três eixos: estrutura econômica e mercado de trabalho, padrão de vida e distribuição de rendimentos, e educação.",
+   "trecho": "Nesta edição, os temas estão organizados em três eixos fundamentais e complementares: Estrutura econômica e mercado de trabalho; Padrão de vida e distribuição de rendimentos; e Educação",
+   "onde": 7
+  },
+  {
+   "enunciado": "Em que ano foi lançada a primeira edição da Síntese de Indicadores Sociais do IBGE?",
+   "alternativas": [
+    "1973",
+    "1988",
+    "1999",
+    "2010"
+   ],
+   "certa": 2,
+   "comentario": "A primeira edição saiu em 1999. O ano de 1973 é o da criação do Grupo Projeto de Indicadores Sociais, que antecedeu a publicação.",
+   "trecho": "A primeira edição da Síntese de indicadores sociais, do IBGE, foi lançada em 1999",
+   "onde": 9
+  },
+  {
+   "enunciado": "Segundo a Síntese, a população em idade de trabalhar corresponde às pessoas com que idade?",
+   "alternativas": [
+    "14 anos ou mais",
+    "16 anos ou mais",
+    "18 anos ou mais",
+    "De 15 a 64 anos"
+   ],
+   "certa": 0,
+   "comentario": "O IBGE define a população em idade de trabalhar como as pessoas de 14 anos ou mais na data de referência da pesquisa.",
+   "trecho": "A população em idade de trabalhar corresponde às pessoas de 14 anos ou mais de idade na data de referência da pesquisa",
+   "onde": 13
+  },
+  {
+   "enunciado": "Em 2024, quais foram as taxas de desocupação e de subutilização da força de trabalho no Brasil, respectivamente?",
+   "alternativas": [
+    "8,9% e 18,2%",
+    "14,0% e 28,5%",
+    "7,0% e 15,8%",
+    "6,6% e 16,2%"
+   ],
+   "certa": 3,
+   "comentario": "As taxas caíram desde o pico de 2021 (14,0% e 28,5%) e chegaram em 2024 a 6,6% e 16,2%, perto do patamar de 2014 (7,0% e 15,8%).",
+   "trecho": "registraram significativas quedas nos três anos seguintes alcançando, em 2024, 6,6% e 16,2%, respectivamente",
+   "onde": 16
+  },
+  {
+   "enunciado": "Como a Síntese trata a medição da pobreza monetária no Brasil?",
+   "alternativas": [
+    "Adota oficialmente a linha de US$ 2,15 por dia, definida pelo Banco Mundial",
+    "Como o país não tem linha oficial, produz várias linhas para mostrar que a proporção de pobres varia com o critério",
+    "Usa apenas a linha de meio salário mínimo per capita, que é a oficial do CadÚnico",
+    "Considera pobres somente os que recebem até R$ 218 per capita, a linha do Bolsa Família"
+   ],
+   "certa": 1,
+   "comentario": "Não há linha oficial de pobreza no Brasil; por isso a Síntese trabalha com linhas em dólares, em salário mínimo, do Bolsa Família e relativas.",
+   "trecho": "Como o Brasil não possui uma linha oficial de pobreza, a Síntese de Indicadores Sociais tem produzido algumas linhas como forma de mostrar que a proporção de pobres varia de acordo com o critério adotado",
+   "onde": 62
+  }
+ ],
+ "https://www.eco.unicamp.br/images/arquivos/artigos/ES/69/9_Monteiro_Neto.pdf": [
+  {
+   "enunciado": "O que o artigo chama de desconcentração concentrada da indústria?",
+   "alternativas": [
+    "A saída da indústria de São Paulo para todas as regiões do país, de forma dispersa",
+    "A desconcentração a partir de São Paulo que privilegia o restante do Sudeste e o Sul, e não todo o território",
+    "A volta da indústria para a capital paulista depois da abertura comercial",
+    "A instalação de novas fábricas em poucas cidades do Nordeste"
+   ],
+   "certa": 1,
+   "comentario": "Na desconcentração concentrada, as plantas saem da economia paulista mas se localizam sobretudo nas demais porções do Sudeste e do Sul.",
+   "trecho": "ela assume a forma chamada de “desconcentração concentrada” em que, a partir da economia paulista, privilegia a localização de plantas industriais nas demais porções do território das regiões Sudeste e Sul",
+   "onde": 2
+  },
+  {
+   "enunciado": "Segundo o artigo, qual foi uma das duas forças predominantes por trás da desconcentração industrial a partir de 1970?",
+   "alternativas": [
+    "As deseconomias de aglomeração em São Paulo, que levaram a buscar novos territórios e mão de obra mais barata",
+    "A abertura comercial e as privatizações dos anos 1990",
+    "O crescimento do agronegócio e a queda do preço das commodities",
+    "A guerra fiscal entre os estados e a redução dos impostos sobre a indústria"
+   ],
+   "certa": 0,
+   "comentario": "Uma força foi a deseconomia de aglomeração em São Paulo; a outra, a ação do governo federal (políticas regionais, infraestrutura e estatais).",
+   "trecho": "De um lado, as deseconomias de aglomeração na região metropolitana de São Paulo, e também no restante do próprio estado, contribuíram para a busca de novos territórios e mão de obra mais baratos para a indústria",
+   "onde": 3
+  },
+  {
+   "enunciado": "Como o artigo define a regressividade da reestruturação industrial brasileira entre 1996 e 2015?",
+   "alternativas": [
+    "Alto crescimento do VTI, aumento da produtividade e maior densidade industrial",
+    "Baixo crescimento do VTI, aumento do emprego e maior peso das indústrias baseadas em ciência",
+    "Queda das exportações, aumento do salário real e perda do mercado interno",
+    "Baixo crescimento do VTI, redução da produtividade média e perda de densidade industrial"
+   ],
+   "certa": 3,
+   "comentario": "A regressividade combina baixo crescimento do VTI, queda da produtividade média por trabalhador e perda de densidade, com mais peso de recursos naturais e trabalho.",
+   "trecho": "a regressividade industrial é definida pela atuação conjunta de três fatores: a) baixo crescimento de seu VTI, b) redução da produtividade média por trabalhador, e c) perda de densidade industrial",
+   "onde": 6
+  },
+  {
+   "enunciado": "Segundo o artigo, qual grupo de indústrias, por fator competitivo, passou a predominar na pauta industrial brasileira?",
+   "alternativas": [
+    "Intensivas em escala, como veículos e metalurgia básica",
+    "Baseadas em ciência, como informática e eletrônicos",
+    "Intensivas em recursos naturais, com cerca de metade do VTI em 2015",
+    "Intensivas em mão de obra, como têxtil e calçados"
+   ],
+   "certa": 2,
+   "comentario": "As indústrias intensivas em recursos naturais chegaram a 49,5% do VTI em 2015, tornando a indústria mais dependente desses ramos.",
+   "trecho": "Tornou-se o grupo de indústrias intensivas em recursos naturais, aquele de atividade predominante na pauta industrial brasileira",
+   "onde": 8
+  },
+  {
+   "enunciado": "O que ocorreu com a participação do polígono industrial do Sudeste e do Sul no VAB das aglomerações industriais relevantes entre 2000 e 2015?",
+   "alternativas": [
+    "Subiu de 66,3% para 74,3%",
+    "Caiu de 74,3% para 66,3%, mas ainda responde por cerca de 2/3 do VAB",
+    "Caiu de 74,3% para menos de 50%, perdendo a liderança",
+    "Manteve-se estável em torno de 74%"
+   ],
+   "certa": 1,
+   "comentario": "A participação do polígono caiu de 74,3% para 66,3%, mas continua em cerca de 2/3: a desconcentração é real, porém ainda concentrada.",
+   "trecho": "A participação relativa deste polígono foi reduzida na geração do VAB nacional de 74,3% em 2000 para 66,3% em 2015, embora, como se pode notar, responda ainda por expressivos 2/3 do VAB nacional das AIRs",
+   "onde": 25
+  }
+ ],
+ "https://biblioteca.ibge.gov.br/visualizacao/livros/liv99700.pdf": [
+  {
+   "enunciado": "Segundo Dematteis, citado no texto, o que caracteriza a periurbanização?",
+   "alternativas": [
+    "A expansão como mancha de óleo, impulsionada pelo acesso da classe média ao automóvel",
+    "A cidade que transborda as muralhas e mantém atividades rurais no entorno",
+    "A expansão em malhas ou redes pouco densas, com condomínios e distritos industriais",
+    "Um crescimento que depende de funções que extravasam de um polo urbano para a periferia"
+   ],
+   "certa": 3,
+   "comentario": "Na periurbanização a polarização urbana se reforça e a expansão parte da periferia e das ramificações radiais, com funções vindas do polo. A forma difuso-reticular é a outra dinâmica.",
+   "trecho": "A primeira, chamada de periurbanização, reforça a polarização urbana e a expansão se dá, particularmente, a partir das áreas periféricas e das ramificações radiais. Na periurbanização, o crescimento depende das funções que extravasam para a periferia oriundas de",
+   "onde": 13
+  },
+  {
+   "enunciado": "Segundo o Censo 2010 citado no texto, que parcela das pessoas ocupadas no terciário avançado estava nas principais concentrações urbanas do país?",
+   "alternativas": [
+    "Cerca de um terço",
+    "Pouco mais da metade",
+    "Mais de 70%",
+    "Praticamente todas, mais de 95%"
+   ],
+   "certa": 2,
+   "comentario": "Mais de 70% dos ocupados nos setores do terciário avançado estavam nas principais concentrações urbanas, o que reforça o papel das metrópoles.",
+   "trecho": "Mais de 70,0% das pessoas economicamente ativas ocupadas nesses setores estão localizadas nas principais concentrações urbanas do País",
+   "onde": 15
+  },
+  {
+   "enunciado": "Como o estudo define um arranjo populacional?",
+   "alternativas": [
+    "O agrupamento de dois ou mais municípios com forte integração, por movimentos pendulares para trabalho ou estudo ou pela contiguidade das manchas urbanizadas",
+    "O conjunto de municípios de uma mesma região metropolitana instituída por lei estadual",
+    "Qualquer par de municípios vizinhos com o mesmo perfil econômico e densidade parecida",
+    "O agrupamento de municípios que dividem a mesma bacia hidrográfica ou o mesmo clima"
+   ],
+   "certa": 0,
+   "comentario": "O arranjo populacional se define pela integração: deslocamentos pendulares para trabalho ou estudo, ou contiguidade das manchas urbanizadas principais.",
+   "trecho": "Um arranjo populacional é o agrupamento de dois ou mais municípios onde há uma forte integração populacional devido aos movimentos pendulares para trabalho ou estudo, ou devido à contiguidade entre as manchas urbanizadas principais",
+   "onde": 22
+  },
+  {
+   "enunciado": "Por que o estudo adotou 3 km como a distância máxima entre as manchas urbanizadas principais de dois municípios?",
+   "alternativas": [
+    "Porque é o limite legal entre os perímetros urbanos de municípios vizinhos",
+    "Porque percorrê-la a pé leva cerca de 30 minutos, e distância maior prejudica as relações diárias de convívio",
+    "Porque é a distância média dos deslocamentos de ônibus intermunicipais",
+    "Porque acima disso os fluxos pendulares deixam de passar de 10 000 pessoas"
+   ],
+   "certa": 1,
+   "comentario": "Os 3 km foram o limite por equivaler a cerca de 30 minutos a pé; mais que isso afetaria as relações diárias, e não haveria integração.",
+   "trecho": "A distância de 3 km é adotada como máxima por se considerar que, para percorrê-la a pé, demora-se em torno de 30 minutos. Acredita-se que uma distância maior impacta nas relações diárias de convívio",
+   "onde": 22
+  },
+  {
+   "enunciado": "Quantos arranjos populacionais o estudo identificou no Brasil em 2010, e qual parcela da população eles reuniam?",
+   "alternativas": [
+    "953 arranjos, formados por 294 municípios, com 55,7% da população",
+    "294 arranjos, formados por 953 municípios, com 55,7% da população",
+    "294 arranjos, formados por 953 municípios, com 85,0% da população",
+    "116 arranjos, todos na Região Sudeste, com 55,7% da população"
+   ],
+   "certa": 1,
+   "comentario": "Foram 294 arranjos, com 953 municípios e 106 milhões de pessoas, ou 55,7% da população. O Sudeste concentra 116 deles, mas não são todos.",
+   "trecho": "Foram identificados no País 294 arranjos populacionais formados por 953 municípios em 2010, que totalizam 106 246 994 pessoas ou 55,7% da população residente no Brasil naquele ano",
+   "onde": 30
+  }
+ ],
+ "https://www.ibge.gov.br/apps/atlasrural/pdfs/02_00_Texto.pdf": [
+  {
+   "enunciado": "Qual foi a importância da Lei de Terras, de 1850, segundo o Atlas?",
+   "alternativas": [
+    "Distribuiu terras gratuitamente a escravizados e a povos indígenas",
+    "Foi a primeira iniciativa de organizar a propriedade privada no Brasil, mas dificultou o acesso à terra de indígenas e africanos e descendentes",
+    "Garantiu o acesso à terra a quem nela trabalhava, com a ideia de função social",
+    "Regulou a distribuição de terras para a produção agrícola, nos moldes das sesmarias"
+   ],
+   "certa": 1,
+   "comentario": "A Lei de Terras de 1850 organizou a propriedade privada e o direito agrário, e ao mesmo tempo dificultou o acesso à terra de indígenas e africanos. O acesso a quem trabalha é do Estatuto da Terra (1964).",
+   "trecho": "Em 1850, a Lei de Terras (Lei n. 601, de 18.09.1850) foi a primeira iniciativa no sentido de organizar a propriedade privada no Brasil e a dispor sobre o direito agrário",
+   "onde": 2
+  },
+  {
+   "enunciado": "Segundo o Censo Agropecuário 2017, qual foi o índice de Gini da estrutura fundiária brasileira?",
+   "alternativas": [
+    "0,857",
+    "0,854",
+    "0,856",
+    "0,867"
+   ],
+   "certa": 3,
+   "comentario": "O Gini de 2017 foi 0,867, o mais alto da série (0,857 em 1985, 0,856 em 1995-96 e 0,854 em 2006); quanto mais perto de 1, maior a concentração.",
+   "trecho": "o índice de Gini – indicador da desigualdade no campo – registrou 0,867 pontos, patamar mais elevado em relação aos dados verificados nas pesquisas anteriores",
+   "onde": 3
+  },
+  {
+   "enunciado": "Em 2017, o que os dados mostram sobre os estabelecimentos agropecuários com menos de 50 hectares?",
+   "alternativas": [
+    "Eram 81,4% dos estabelecimentos, mas ocupavam apenas 12,8% da área",
+    "Eram 12,8% dos estabelecimentos, mas ocupavam 81,4% da área",
+    "Eram 0,3% dos estabelecimentos, mas ocupavam 32,8% da área",
+    "Eram metade dos estabelecimentos e ocupavam metade da área"
+   ],
+   "certa": 0,
+   "comentario": "Os pequenos estabelecimentos são a grande maioria em número e ocupam pouca terra; os com mais de 2 500 hectares são 0,3% e ocupam 32,8% da área.",
+   "trecho": "os estabelecimentos com menos de 50 hectares representavam 81,4% da quantidade total, mas ocupavam apenas 12,8% da área",
+   "onde": 3
+  },
+  {
+   "enunciado": "O que os dados de produção por tamanho de estabelecimento indicam, segundo o Atlas?",
+   "alternativas": [
+    "Que as grandes propriedades produzem a maior parte da mandioca, do feijão e do arroz",
+    "Que o tamanho do estabelecimento não influencia o tipo de produto cultivado",
+    "Que as pequenas propriedades produzem os alimentos da população, e as grandes produzem commodities alimentícias",
+    "Que as pequenas propriedades produzem sobretudo soja e milho para exportação"
+   ],
+   "certa": 2,
+   "comentario": "Estabelecimentos de até 500 hectares produzem a maior parte do arroz, feijão, batata e mandioca; milho e soja vêm bastante das propriedades acima de 2 500 hectares.",
+   "trecho": "o que indica que as pequenas propriedades produzem os alimentos da população brasileira, enquanto os grandes produzem commodities alimentícias",
+   "onde": 5
+  },
+  {
+   "enunciado": "Segundo as considerações finais, qual era a situação dos estabelecimentos dirigidos por mulheres em 2017?",
+   "alternativas": [
+    "Ocupavam cerca de 40% da área, sendo cerca de 40% dos estabelecimentos",
+    "Ocupavam menos de 10% da área, embora fossem cerca de 18% dos estabelecimentos",
+    "Ocupavam mais da metade da área, sendo cerca de 18% dos estabelecimentos",
+    "Tinham área média maior do que a dos estabelecimentos dirigidos por homens"
+   ],
+   "certa": 1,
+   "comentario": "Os estabelecimentos dirigidos por mulheres ocupavam menos de 10% da área e eram cerca de 18% do total, com área média de 36 hectares, quase metade da dos homens.",
+   "trecho": "os estabelecimentos dirigidos por produtores do sexo feminino ocupando menos de 10% das áreas dos estabelecimentos, ainda que em número de estabelecimentos sejam responsáveis por cerca de 18% do total",
+   "onde": 6
+  }
+ ],
+ "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102187.pdf": [
+  {
+   "enunciado": "Para o Censo Demográfico, como é definido o lugar de nascimento de uma pessoa?",
+   "alternativas": [
+    "Pelo município onde fica a maternidade em que ocorreu o parto",
+    "Pelo município do cartório em que foi feito o registro civil",
+    "Pelo município onde o pai residia quando a criança nasceu",
+    "Pelo município de residência da mãe no momento do parto"
+   ],
+   "certa": 3,
+   "comentario": "O lugar de nascimento é o município de residência da mãe no parto, não o da maternidade nem o do cartório, para dar coerência ao estudo da migração.",
+   "trecho": "o lugar de nascimento é definido pelo município de residência da mãe no momento do parto, e não pelo município onde se situava o hospital/maternidade ou o cartório de registro civil da criança",
+   "onde": 57
+  },
+  {
+   "enunciado": "No Censo 2022, que parcela da população vivia em município diferente do de nascimento e em Unidade da Federação diferente da de nascimento, respectivamente?",
+   "alternativas": [
+    "14,3% e 36,9%",
+    "36,9% e 14,3%",
+    "37,2% e 14,5%",
+    "25,0% e 8,6%"
+   ],
+   "certa": 1,
+   "comentario": "Em 2022, 36,9% viviam em município diferente do de nascimento e 14,3% em outra UF; em 2010 eram 37,2% e 14,5%.",
+   "trecho": "36,9% da população brasileira vivia em um município diferente daquele em que nasceu e 14,3% da população vivia em uma Unidade da Federação também distinta daquela onde nasceu",
+   "onde": 58
+  },
+  {
+   "enunciado": "Entre os cerca de 19,2 milhões de migrantes que viviam fora da Grande Região de nascimento, qual região de origem predominava?",
+   "alternativas": [
+    "Região Nordeste, com 10,4 milhões de pessoas (54,0%)",
+    "Região Sudeste, com cerca de um terço do total",
+    "Região Sul, com cerca de um quarto do total",
+    "Região Norte, com cerca de 10% do total"
+   ],
+   "certa": 0,
+   "comentario": "Mais da metade dos migrantes entre regiões (54,0%) nasceu no Nordeste, e a maioria deles vivia no Sudeste.",
+   "trecho": "Desses, 10,4 milhões nasceram na Região Nordeste, representando 54,0% do total, o que indica que mais da metade dos moradores não naturais da Grande Região de residência, no total, tinham o Nordeste como local de nascimento",
+   "onde": 58
+  },
+  {
+   "enunciado": "Qual Grande Região concentrava o maior número de naturais da Venezuela residentes no Brasil em 2022?",
+   "alternativas": [
+    "Região Sul",
+    "Região Sudeste",
+    "Região Norte",
+    "Região Centro-Oeste"
+   ],
+   "certa": 2,
+   "comentario": "A Região Norte, principal porta de entrada, tinha 124 767 venezuelanos, ou 45,7% do total; a Sul vinha em segundo, com 32,1%.",
+   "trecho": "A Região Norte, principal porta de entrada desses migrantes, concentra 124 767 pessoas naturais da Venezuela, correspondendo a 45,7% do total dessa naturalidade no Brasil",
+   "onde": 59
+  },
+  {
+   "enunciado": "Qual Unidade da Federação foi o principal polo de redistribuição populacional, com o maior volume de não naturais residentes (8,6 milhões)?",
+   "alternativas": [
+    "Goiás",
+    "Minas Gerais",
+    "Bahia",
+    "São Paulo"
+   ],
+   "certa": 3,
+   "comentario": "São Paulo teve o maior volume de não naturais (8,6 milhões) e também perdeu naturais (2,9 milhões), sendo o principal polo de redistribuição. Bahia e Minas foram as que mais perderam naturais.",
+   "trecho": "O Estado de São Paulo desempenhou um papel central, tanto na atração, quanto na evasão de pessoas, historicamente, consolidando-se como o principal polo de redistribuição populacional do País",
+   "onde": 60
+  }
+ ],
+ "https://biblioteca.ibge.gov.br/visualizacao/livros/liv100600.pdf": [
+  {
+   "enunciado": "No quadro regional de 2017, que nomes passam a ter as antigas unidades mesorregionais e microrregionais?",
+   "alternativas": [
+    "Regiões Geográficas Imediatas (mesorregiões) e Intermediárias (microrregiões)",
+    "Zonas Fisiográficas (mesorregiões) e Microrregiões Homogêneas (microrregiões)",
+    "Regiões Geográficas Intermediárias (mesorregiões) e Imediatas (microrregiões)",
+    "Regiões Metropolitanas (mesorregiões) e Aglomerações Urbanas (microrregiões)"
+   ],
+   "certa": 2,
+   "comentario": "As mesorregiões foram revistas como Regiões Geográficas Intermediárias, e as microrregiões como Regiões Geográficas Imediatas.",
+   "trecho": "e microrregionais, que nesse estudo recebem os nomes de Regiões Geográficas Intermediárias e Regiões Geográficas Imediatas, respectivamente",
+   "onde": 10
+  },
+  {
+   "enunciado": "Qual é a ordem cronológica correta das três propostas de divisão regional do IBGE no século XX?",
+   "alternativas": [
+    "Microrregiões Homogêneas (1968), Zonas Fisiográficas (década de 1940), Mesorregiões e Microrregiões Geográficas (1989)",
+    "Zonas Fisiográficas (década de 1940), Microrregiões Homogêneas (1968), Mesorregiões e Microrregiões Geográficas (1989)",
+    "Mesorregiões e Microrregiões Geográficas (1989), Zonas Fisiográficas (década de 1940), Microrregiões Homogêneas (1968)",
+    "Zonas Fisiográficas (década de 1940), Mesorregiões e Microrregiões Geográficas (1989), Microrregiões Homogêneas (1968)"
+   ],
+   "certa": 1,
+   "comentario": "A sequência é Zonas Fisiográficas (década de 1940), Microrregiões Homogêneas (1968) e Mesorregiões e Microrregiões Geográficas (1989).",
+   "trecho": "contemplando os conceitos de Zonas Fisiográficas (década de 1940) e suas revisões, Microrregiões Homogêneas (1968) e Mesorregiões e Microrregiões Geográficas (1989)",
+   "onde": 11
+  },
+  {
+   "enunciado": "Segundo o texto, em que contexto político entrou na agenda a necessidade de um conhecimento mais detalhado das diferenças regionais, tarefa inicial do CNE e do CNG?",
+   "alternativas": [
+    "O Plano de Metas de Juscelino Kubitschek (1956-1961)",
+    "O regime militar iniciado em 1964",
+    "A redemocratização e a Constituição de 1988",
+    "O Estado Novo (1937-1945), período de centralização do poder"
+   ],
+   "certa": 3,
+   "comentario": "A necessidade entrou na agenda durante o Estado Novo, período de centralização do poder, como tarefa inicial dos conselhos de Estatística e de Geografia.",
+   "trecho": "entrou na agenda política do País, em um período marcado pela centralização do poder, como o do Estado Novo (1937-1945), a necessidade de se produzir um conhecimento mais detalhado das diferenças regionais do Brasil",
+   "onde": 15
+  },
+  {
+   "enunciado": "Segundo o texto, o que caracteriza as Regiões Geográficas Imediatas?",
+   "alternativas": [
+    "Estruturam-se em centros urbanos próximos, que atendem às necessidades imediatas da população, como compras, trabalho, saúde e serviços públicos",
+    "Agrupam estados vizinhos com o mesmo clima e relevo, para fins de planejamento",
+    "Articulam as Unidades da Federação por meio de metrópoles de hierarquia superior",
+    "São definidas pela atividade econômica predominante em cada município"
+   ],
+   "certa": 0,
+   "comentario": "As Imediatas têm a rede urbana como referência e se estruturam em centros próximos para as necessidades imediatas; quem articula as Imediatas por um polo superior são as Intermediárias.",
+   "trecho": "As Regiões Geográficas Imediatas têm na rede urbana o seu principal elemento de referência. Essas regiões são estruturas a partir de centros urbanos próximos para a satisfação das necessidades imediatas das populações",
+   "onde": 20
+  },
+  {
+   "enunciado": "Que limites de número de municípios foram estabelecidos, a princípio, para cada Região Geográfica Imediata?",
+   "alternativas": [
+    "De 2 a 10 municípios",
+    "De 10 a 50 municípios",
+    "De 5 a 25 municípios",
+    "De 3 a 30 municípios"
+   ],
+   "certa": 2,
+   "comentario": "Para cada Região Imediata foram fixados o mínimo de cinco e o máximo de 25 municípios, com ao menos 50 000 habitantes como meta.",
+   "trecho": "A princípio, para cada Região Geográfica Imediata, foram estabelecidos o limite mínimo de cinco e o limite máximo de 25 municípios",
+   "onde": 23
+  }
+ ]
+}

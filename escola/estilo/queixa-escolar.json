@@ -1,0 +1,79 @@
+{
+ "https://orientacaoaqueixaescolar.ip.usp.br/wp-content/uploads/sites/462/2020/10/Livro-OQE.pdf": [
+  {
+   "enunciado": "Segundo Souza (2020), a Orientação à Queixa Escolar (OQE) é uma abordagem breve e focal. Sobre essas características, analise as afirmativas abaixo e assinale a opção correta.\nI- É breve porque seu objetivo não é integrar a rede de relações até a superação da configuração em que a queixa emergiu, mas apenas até a conquista de sua movimentação nesse sentido e a identificação de condições de esse movimento sustentar-se sem o psicólogo.\nII- É breve também porque, segundo Winnicott, em Consultas terapêuticas, nos primeiros encontros o terapeuta é constituído pelo paciente como objeto subjetivo, momento efêmero e terapeuticamente poderoso.\nIII- É focal porque restringe a investigação e a intervenção àquilo que diz respeito diretamente à queixa escolar.\nIV- O processo todo, incluindo o Acompanhamento, costuma durar por volta de seis meses.\nV- Acolher a necessidade do paciente de constituir o terapeuta como objeto subjetivo não significa postura passiva, mas uma postura ativa, buscando-se uma relação horizontal com os atendidos.",
+   "alternativas": [
+    "Apenas as afirmativas I e II são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas I, II e V são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras.",
+    "Apenas as afirmativas III, IV e V são verdadeiras."
+   ],
+   "certa": 2,
+   "comentario": "I, II e V reproduzem os dois motivos da brevidade (sair da rede quando ela já se move sozinha; o tempo do objeto subjetivo de Winnicott) e a postura ativa e horizontal. A III é a armadilha: o livro diz que ser focal não significa restringir-se ao que diz respeito diretamente à queixa, e sim olhar um campo amplo a partir da mensagem que a queixa comunica. A IV erra prazo e inclusão: o processo dura cerca de três meses, exceto o Acompanhamento.",
+   "trecho": "Breve, por dois motivos essenciais: primeiramente, porque nosso objetivo não é passar a integrar esta rede até a superação da configuração na qual a queixa emergiu",
+   "onde": 103,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com Souza (2020), o atendimento em Orientação à Queixa Escolar começa pela Triagem de Orientação, realizada com os pais. Assinale a opção que NÃO apresenta um objetivo ou procedimento desse momento.",
+   "alternativas": [
+    "Apresentar a modalidade de atendimento oferecida, de modo que os demandantes possam escolher estar ou não incluídos no processo com base em um mínimo de informações.",
+    "Colher a versão dos pais acerca da queixa, pedindo exemplos e circunstâncias e resgatando o momento em que ela se iniciou e se instalou.",
+    "Verificar se a queixa é ou não de natureza principalmente escolar, estabelecendo prioridades e avaliando se o atendimento oferecido é o mais adequado.",
+    "Levantar, logo em seguida à narrativa da queixa, dados sobre gravidez, amamentação, desenvolvimento neuropsicomotor e constelação familiar, para situar a origem da dificuldade.",
+    "Investigar e pensar a demanda que se apresenta procurando soluções com os pais, razão pela qual o momento recebe a denominação de Orientação."
+   ],
+   "certa": 3,
+   "comentario": "A opção D descreve a anamnese tradicional que o livro critica: a autora afirma que nunca pede essas informações logo após a narrativa da queixa, só se fizerem sentido no quadro que se desenha, porque a mensagem subliminar seria a de que a queixa decorre de problemas da criança ou dos pais. As demais repetem os objetivos listados para a Triagem de Orientação, inclusive a origem do nome Orientação.",
+   "trecho": "Nunca pedimos, logo em seguida a essa narrativa sobre a queixa escolar, informações acerca de gravidez, amamentação, desenvolvimento neuropsicomotor, relacionamento com os pais, constelação familiar.",
+   "onde": 106,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo Souza (2020), na Orientação à Queixa Escolar a interlocução com a escola integra o atendimento. Sobre essa etapa, assinale a opção correta.",
+   "alternativas": [
+    "Costuma ocorrer em dois momentos: no meio do processo, quando se solicita à escola um pequeno relatório, e mais ao final, quando se vai à escola, procurando-se garantir a presença do professor e de alguém de instância decisória.",
+    "Deve restringir-se à Coordenação Pedagógica, de modo a remeter a queixa à escola e não à ação isolada de um professor, evitando a lógica de culpabilização.",
+    "É feita preferencialmente por telefone, para não propiciar uma retomada desnecessária dos atendimentos, colhendo-se a versão dos educadores sobre a queixa.",
+    "Ocorre logo após a Triagem de Orientação, antes dos encontros com a criança, e só prossegue se a escola entregar o relatório solicitado.",
+    "Exige, em regra, vários encontros na escola, pois a investigação deve preceder, em momentos separados, a discussão do caso e a busca de soluções."
+   ],
+   "certa": 0,
+   "comentario": "A opção A reproduz os dois momentos e a dupla presença buscada: o professor, que lida com a criança no dia a dia, e o Diretor ou Coordenador Pedagógico. A B inverte o texto: restringir o contato à Coordenação é a prática comum das escolas que a OQE procura evitar. A C descreve o Acompanhamento; a D erra o momento e a condição (nem sempre se consegue o relatório, e isso não paralisa o trabalho); a E contraria o texto, segundo o qual o encontro geralmente é único e integra investigação, discussão e busca de soluções.",
+   "trecho": "Costuma dar-se em dois momentos: no meio do processo, quando solicitamos da escola um pequeno relatório, e, mais ao final, quando estamos de posse de tal relatório",
+   "onde": 110,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Souza (2020) descreve os procedimentos da Orientação à Queixa Escolar. Correlacione os procedimentos às suas descrições e assinale a opção que apresenta a sequência correta.\nPROCEDIMENTOS\nI- Triagem de Orientação\nII- Encontros com as crianças ou adolescentes\nIII- Interlocução com a escola\nIV- Entrevistas de fechamento\nV- Acompanhamento\nDESCRIÇÕES\n( ) Por volta de dez encontros, uma vez por semana, individuais ou grupais, sem uso de testes.\n( ) Novo contato, quase sempre com pais, criança/adolescente e escola, feito de preferência por telefone após cerca de um mês e meio de frequência à escola.\n( ) Construção de uma releitura do caso à luz das novas informações e avaliação do processo e de seus efeitos.\n( ) Geralmente realizado em pequenos grupos, valorizando-se a presença do pai e solicitando-se que seja trazido o material escolar.\n( ) Geralmente encontro único, em que investigação, discussão de caso e busca de soluções acontecem de maneira integrada.",
+   "alternativas": [
+    "(I) (V) (IV) (II) (III)",
+    "(II) (IV) (V) (I) (III)",
+    "(III) (V) (IV) (I) (II)",
+    "(II) (V) (III) (I) (IV)",
+    "(II) (V) (IV) (I) (III)"
+   ],
+   "certa": 4,
+   "comentario": "Os cerca de dez encontros semanais sem testes são os encontros com a criança; o contato por telefone após um mês e meio de frequência à escola é o Acompanhamento; a releitura do caso e a avaliação do processo são o objetivo da entrevista de fechamento; os pequenos grupos com valorização do pai são a Triagem de Orientação; e o encontro geralmente único é a ida à escola. As erradas trocam justamente fechamento com Acompanhamento e escola com fechamento, as etapas finais e mais fáceis de confundir.",
+   "trecho": "Em geral, temos por volta de dez encontros com a criança ou o adolescente, uma vez por semana. O processo pode ser individual ou grupal.",
+   "onde": 110,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo Souza (2020), a pesquisa de Marilene Proença R. de Souza (1996) em clínicas-escola de psicologia revela como o modelo clínico tradicional lida com as queixas escolares. Sobre os achados dessa pesquisa, assinale a opção correta.",
+   "alternativas": [
+    "Cerca de 55% das famílias desistem logo após a entrevista inicial e, entre as que dão continuidade ao psicodiagnóstico, 38% o abandonam antes do fim.",
+    "Subjaz ao procedimento a hipótese básica de que a queixa escolar é sintoma de conflitos internos de ordem emocional e/ou de dificuldades neurológicas ou intelectuais da criança e/ou de sua família.",
+    "Os testes projetivos mais utilizados são o WISC e o Bender, enquanto os de nível intelectual mais utilizados são o HTP e o CAT.",
+    "A análise das dificuldades à luz da psicologia escolar crítica indica que elas se relacionam sobretudo à dinâmica familiar, o que justifica excluir a escola da investigação.",
+    "Dos que concluem o psicodiagnóstico, cerca de 44% são encaminhados para psicoterapias de médio e longo prazo e outros atendimentos em saúde mental."
+   ],
+   "certa": 1,
+   "comentario": "A opção B transcreve a concepção que o livro critica: a queixa vista como sintoma interno da criança ou da família, que apenas emerge na escola. A A inverte os números (38% desistem após a entrevista inicial; 55% abandonam o psicodiagnóstico); a C troca os grupos de testes (WISC e Bender são de QI; HTP e CAT, projetivos); a D contradiz a pesquisa, que relaciona as dificuldades a funcionamentos da escola; e a E usa o índice da própria OQE (44%), quando nas clínicas-escola o encaminhamento ocorre em 100% dos que concluem o psicodiagnóstico.",
+   "trecho": "há uma hipótese básica de que a queixa escolar é um sintoma de conflitos internos de ordem emocional e/ou dificuldades neurológicas ou intelectuais da criança e/ou de sua família",
+   "onde": 17,
+   "estilo": "CP-T"
+  }
+ ]
+}

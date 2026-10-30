@@ -1,0 +1,605 @@
+{
+ "https://www.youtube.com/watch?v=iunklfG9l5Q": [
+  {
+   "enunciado": "Segundo a aula, o que caracteriza o multilateralismo no comércio internacional?",
+   "alternativas": [
+    "Transações realizadas livremente entre três ou mais nações, com base em tratados que eliminam restrições, como barreiras comerciais e subsídios",
+    "Acordos exclusivos entre duas nações, nos quais cada uma protege seu mercado interno com tarifas elevadas",
+    "Política em que o Estado controla todas as exportações e importações do país",
+    "Comércio realizado apenas entre países de um mesmo bloco regional, como o Mercosul"
+   ],
+   "certa": 0,
+   "comentario": "O professor define multilateralismo como prática de comércio entre três ou mais nações, regida por tratados que eliminam barreiras comerciais e subsídios.",
+   "trecho": "Prática de comércio internacional em que as transações são realizadas livremente entre três ou mais nações, com base em tratados que eliminam restrições",
+   "onde": 182
+  },
+  {
+   "enunciado": "A aula chama o Brasil de \"arquipélago econômico\". O que a expressão quer dizer?",
+   "alternativas": [
+    "Que a economia brasileira se concentra em ilhas do litoral e depende do comércio marítimo",
+    "Que cada região do país teve um ciclo econômico próprio, com um papel e uma função ligados aos fluxos externos",
+    "Que o Brasil é formado por regiões economicamente isoladas e sem nenhuma ligação com o exterior",
+    "Que o território brasileiro foi dividido em ilhas administrativas durante o período colonial"
+   ],
+   "certa": 1,
+   "comentario": "Cada ilha do arquipélago é uma ilha econômica (cana, ouro, borracha, café...) com papel e função, sempre ligada aos fluxos externos.",
+   "trecho": "o Brasil até é conhecido como um arquipélago, exatamente, ó, arquipélago econômico",
+   "onde": 365
+  },
+  {
+   "enunciado": "Na aula, o que significa o programa de substituição das importações, ligado a Getúlio Vargas e à crise de 1929?",
+   "alternativas": [
+    "Aumentar as importações para modernizar a indústria nacional com tecnologia estrangeira",
+    "Substituir as exportações de café por exportações de minério",
+    "Reduzir as importações e produzir internamente, apoiando a indústria e o mercado interno e diminuindo a fragilidade ao mercado externo",
+    "Privatizar as empresas estatais para atrair o capital estrangeiro"
+   ],
+   "certa": 2,
+   "comentario": "Substituir importações é diminuir o volume importado e aumentar o exportado, produzindo dentro do país; isso estimulou a indústria e o mercado interno.",
+   "trecho": "você quer diminuir o volume de importação e você quer aumentar o volume de exportação",
+   "onde": 894
+  },
+  {
+   "enunciado": "Segundo a aula, qual foi um risco trazido pela abertura econômica a partir dos anos 1980 e 1990, com a entrada de produtos e capital estrangeiros?",
+   "alternativas": [
+    "O fim completo da participação do Estado na economia",
+    "A eliminação total da desigualdade regional",
+    "O fim da dependência do Brasil em relação às commodities",
+    "Fechamento de empresas nacionais que não conseguem competir, desemprego em alguns setores e dependência externa"
+   ],
+   "certa": 3,
+   "comentario": "O professor aponta que a abertura pode modernizar e atrair investimento, mas também fecha empresas que não competem e gera desemprego e dependência externa.",
+   "trecho": "Fechamento de empresas que não conseguem competir, desemprego em alguns setores e dependência externa",
+   "onde": 1293
+  },
+  {
+   "enunciado": "O que é o \"custo Brasil\", segundo o professor?",
+   "alternativas": [
+    "O valor que o país paga ao FMI para manter acordos comerciais",
+    "O imposto cobrado sobre as exportações de commodities",
+    "O conjunto de entraves estruturais que encarecem a economia e reduzem a competitividade do país",
+    "O preço médio dos produtos importados vendidos no mercado interno"
+   ],
+   "certa": 2,
+   "comentario": "Custo Brasil é o conjunto de entraves (infraestrutura, logística, burocracia, insegurança jurídica) que encarece a economia e reduz a competitividade.",
+   "trecho": "o custo Brasil tá, dentro daquele conjunto de entraves, fatores que impedem, que bloqueiam, que obstruem, que comprometem o nosso país",
+   "onde": 2183
+  }
+ ],
+ "https://www.youtube.com/watch?v=IHHSH3T5Xqs": [
+  {
+   "enunciado": "Segundo a aula, o que são os fatores locacionais da indústria?",
+   "alternativas": [
+    "Regras fixas e obrigatórias de instalação, iguais para todas as indústrias em qualquer época",
+    "Leis que determinam em que estados as fábricas podem funcionar",
+    "Elementos sócio-espaciais existentes em certos locais que atraem as indústrias para ali",
+    "Os impostos cobrados das fábricas pelo governo de cada país"
+   ],
+   "certa": 2,
+   "comentario": "A aula define fatores locacionais como elementos sócio-espaciais presentes em determinados espaços geográficos que atraem fábricas e empresas.",
+   "trecho": "os fatores locacionais da indústria são elementos sócio-espaciais necessários para atrair o maior número de fábricas e empresas em um determinado local",
+   "onde": 1116
+  },
+  {
+   "enunciado": "Qual é a lógica básica da produção industrial apresentada pelo professor?",
+   "alternativas": [
+    "Produzir pouco e vender caro, para manter o produto raro",
+    "Produzir apenas o que já foi encomendado, sem nenhum estoque",
+    "Produzir o mínimo possível para reduzir o impacto ambiental",
+    "Produzir muito e gastar pouco, o que gera lucro elevado"
+   ],
+   "certa": 3,
+   "comentario": "O professor insiste que a indústria quer produzir muito gastando pouco, e por isso o lucro tende a ser exorbitante.",
+   "trecho": "uma indústria ela quer produzir muito e gastar pouco isso tem que ser cirúrgico",
+   "onde": 429
+  },
+  {
+   "enunciado": "De acordo com a aula, como era a localização das indústrias nas primeiras revoluções industriais, quando transporte e comunicação eram pouco avançados?",
+   "alternativas": [
+    "A indústria precisava ficar próxima da matéria-prima e do mercado consumidor",
+    "A indústria podia se instalar em qualquer lugar do mundo, sem depender de nada",
+    "A indústria se instalava onde a mão de obra era mais qualificada",
+    "A indústria buscava sobretudo benefícios fiscais e redução de impostos"
+   ],
+   "certa": 0,
+   "comentario": "Nas primeiras revoluções a indústria precisava estar perto da matéria-prima e do mercado; com a revolução técnico-científica isso deixou de ser decisivo.",
+   "trecho": "indústria necessitava sim está próximo de matéria-prima e mercado consumidor havia essa necessidade",
+   "onde": 591
+  },
+  {
+   "enunciado": "Sobre a mão de obra como fator locacional, o que diz a aula?",
+   "alternativas": [
+    "Toda indústria busca sempre a mão de obra mais qualificada",
+    "Depende do tipo de indústria: algumas buscam mão de obra qualificada, outras buscam mão de obra abundante e pouco qualificada",
+    "A mão de obra deixou de ser fator locacional com a globalização",
+    "Só as indústrias de base procuram mão de obra, as demais não"
+   ],
+   "certa": 1,
+   "comentario": "O professor explica que, conforme o tipo de indústria, ela busca mão de obra qualificada (como em tecnologia) ou abundante e pouco qualificada.",
+   "trecho": "dependendo da minha proposta e o meu tipo de indústria eu vou buscar uma mão de obra abundante pouco qualificada",
+   "onde": 745
+  },
+  {
+   "enunciado": "Qual fator locacional o professor destaca como recente no Brasil, a partir da Constituição de 1988?",
+   "alternativas": [
+    "A proximidade do porto mais próximo da matéria-prima",
+    "Os benefícios fiscais, como a redução de impostos oferecida para atrair a indústria",
+    "A proibição de instalar fábricas fora das capitais",
+    "A exigência de mão de obra com ensino superior"
+   ],
+   "certa": 1,
+   "comentario": "Os benefícios fiscais, como redução da carga tributária, são apontados como fator locacional mais recente que atrai indústrias a estados e países.",
+   "trecho": "benefícios fiscais ou seja algumas vantagens tá fiscais exemplo redução de impostos",
+   "onde": 839
+  }
+ ],
+ "https://www.youtube.com/watch?v=g-DEwpP2xuM": [
+  {
+   "enunciado": "Segundo o professor, quais três processos formam a \"tríade\" que se deve ter em mente ao analisar a urbanização brasileira?",
+   "alternativas": [
+    "Urbanização, êxodo rural e industrialização",
+    "Urbanização, reforma agrária e globalização",
+    "Industrialização, mecanização do campo e metropolização",
+    "Êxodo rural, crescimento vegetativo e terceirização"
+   ],
+   "certa": 0,
+   "comentario": "A aula afirma que urbanização não se separa do êxodo rural (migração) nem da industrialização, que formam a tríade.",
+   "trecho": "processo de migração chamado êxodo rural e também o processo de industrialização formando essa tríade sensacional",
+   "onde": 128
+  },
+  {
+   "enunciado": "Desde quando o Brasil passa a ser considerado um país urbano, segundo a aula?",
+   "alternativas": [
+    "Desde a chegada da família real, em 1808",
+    "A partir de 1970, quando a maior parte da população passa a viver em cidades",
+    "A partir de 1930, com o início da industrialização",
+    "A partir de 2000, com a expansão das metrópoles"
+   ],
+   "certa": 1,
+   "comentario": "A aula marca 1970 como o primeiro registro de população majoritariamente urbana, a partir de quando o Brasil é considerado país urbano.",
+   "trecho": "o primeiro registro de uma população urbana se configurou aqui ó em 1970 então a partir de 1970 o brasil passa a ser considerado um país urbano",
+   "onde": 192
+  },
+  {
+   "enunciado": "Como foi, segundo a aula, a industrialização brasileira, que explica o formato da urbanização?",
+   "alternativas": [
+    "Distribuída igualmente por todas as regiões desde o início",
+    "Concentrada no Nordeste, de onde a população saiu para o Sul",
+    "Precoce, anterior à de outros países da América Latina",
+    "Concentrada no eixo Rio-São Paulo, na região Sudeste, formando polos industriais nas cidades"
+   ],
+   "certa": 3,
+   "comentario": "O professor diz que a industrialização foi tardia e concentrada no eixo Rio-São Paulo, e por isso a urbanização também foi concentrada.",
+   "trecho": "a industrialização brasileira pessoal ela cedeu de maneira concentrada pode num eixo rio são paulo na região sudeste",
+   "onde": 253
+  },
+  {
+   "enunciado": "Por que, segundo a aula, o Rio de Janeiro não é considerado uma megacidade, ao contrário de São Paulo?",
+   "alternativas": [
+    "Porque o conceito de megacidade exige ser capital do país",
+    "Porque tem menos de 10 milhões de habitantes, e a megacidade exige mais de 10 milhões",
+    "Porque o conceito de megacidade depende da industrialização, e o Rio não é industrial",
+    "Porque a megacidade exige ficar na região Sudeste"
+   ],
+   "certa": 1,
+   "comentario": "Megacidade é um conceito quantitativo: população acima de 10 milhões. O Rio tem mais de 6 milhões, e São Paulo passa de 10 milhões.",
+   "trecho": "o rio de janeiro supera 6 milhões de habitantes mas não chega a ser uma mega cidade porque a mega cidade tem que ter mais de 10 milhões de habitantes",
+   "onde": 411
+  },
+  {
+   "enunciado": "Segundo a aula, como foi o processo de urbanização brasileiro entre 1930 e 1970?",
+   "alternativas": [
+    "Lento e planejado, com tempo para organizar serviços e moradia",
+    "Muito acelerado, sem tempo para planejar, o que gerou crescimento desordenado e áreas segregadas",
+    "Restrito ao Nordeste, sem relação com a industrialização",
+    "Estável, sem êxodo rural nem problemas urbanos"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que de 1930 a 1970 o Brasil virou país urbano, num processo acelerado e sem planejamento, com crescimento desordenado e segregação.",
+   "trecho": "olha só de 30 a 70 o brasil era um país urbano isso é muito acelerado",
+   "onde": 473
+  }
+ ],
+ "https://www.youtube.com/watch?v=L7J8Ke8_gjs": [
+  {
+   "enunciado": "Segundo os dados do INCRA citados na aula, como é a distribuição de terras no Brasil?",
+   "alternativas": [
+    "Cerca de 1% dos proprietários controla 45% das terras",
+    "Cerca de 45% dos proprietários controla 1% das terras",
+    "As terras estão distribuídas de modo equilibrado entre pequenos e grandes proprietários",
+    "Cerca de 10% dos proprietários controla 90% das terras, todos no Centro-Oeste"
+   ],
+   "certa": 0,
+   "comentario": "A aula usa dados do INCRA para mostrar a forte concentração fundiária: 1% dos proprietários controla 45% das terras.",
+   "trecho": "aproximadamente um por cento dos proprietários controlam 45 porcento das terras",
+   "onde": 185
+  },
+  {
+   "enunciado": "Segundo a aula, o que predomina no Brasil em número de propriedades e o que predomina em área ocupada?",
+   "alternativas": [
+    "Em número e em área, predominam as pequenas propriedades",
+    "Em número predominam os grandes latifúndios, e em área, as pequenas propriedades",
+    "Em número predominam as pequenas propriedades, mas em área ocupada predominam os grandes latifúndios",
+    "Em número e em área, predominam as médias propriedades"
+   ],
+   "certa": 2,
+   "comentario": "Há muitas pequenas propriedades, mas ocupam pouca área; poucos latifúndios ocupam quase metade do território, o que mostra a concentração.",
+   "trecho": "aqui no brasil em número de propriedades predominam pequenas propriedades mas em compensação em área ocupada predominam os grandes latifúndios",
+   "onde": 340
+  },
+  {
+   "enunciado": "Qual foi o efeito da Lei de Terras de 1850, segundo a aula?",
+   "alternativas": [
+    "Distribuiu terras gratuitamente aos escravos libertos e imigrantes",
+    "Tornou a terra mercadoria, só acessível a quem tinha dinheiro, o que barrou o acesso de escravos libertos e imigrantes pobres",
+    "Criou a reforma agrária e limitou o tamanho das propriedades",
+    "Extinguiu as sesmarias e acabou com o regime de plantation"
+   ],
+   "certa": 1,
+   "comentario": "A Lei de Terras fez da terra uma mercadoria de compra e venda; quem não tinha dinheiro, como escravos libertos e imigrantes pobres, ficou sem acesso.",
+   "trecho": "ou seja a terra a partir desse momento ela passa a sua mercadoria e se ela é uma mercadoria de compra e venda só que tem dinheiro pode ter acesso a ela",
+   "onde": 1165
+  },
+  {
+   "enunciado": "O que é a grilagem, segundo a aula?",
+   "alternativas": [
+    "A ocupação de terras improdutivas por movimentos sociais",
+    "A compra de terras devolutas diretamente do Estado",
+    "A desapropriação de terras para a reforma agrária",
+    "A falsificação de documentos para ampliar ou se apossar de terras, com origem na época da Lei de Terras"
+   ],
+   "certa": 3,
+   "comentario": "Grilagem é a falsificação de documentos de terra, nome vindo da técnica de envelhecer o papel com grilos; gera conflitos por terras com vários supostos donos.",
+   "trecho": "a técnica de falsificação de documentos como antigamente era feito a partir de grilos a ficou conhecido como grilagem",
+   "onde": 1289
+  },
+  {
+   "enunciado": "Segundo a aula, por que a concentração fundiária e a agricultura de exportação tendem a encarecer os alimentos no mercado interno?",
+   "alternativas": [
+    "Porque se produz menos batata, feijão e mandioca para o mercado interno e mais soja para exportação, e a oferta de alimentos cai",
+    "Porque o governo proíbe a venda de alimentos no mercado interno",
+    "Porque os pequenos produtores passaram a exportar toda a sua produção",
+    "Porque a agricultura orgânica passou a dominar a produção nacional"
+   ],
+   "certa": 0,
+   "comentario": "Pela lei da oferta e da procura, com menos produção voltada ao mercado interno há menos alimentos circulando, e eles ficam mais caros.",
+   "trecho": "se a gente está aumentando agricultura latifundiária eu tô falando pra vocês que a gente está exportando cada vez mais em detrimento da produção para o mercado interno",
+   "onde": 674
+  }
+ ],
+ "https://www.youtube.com/watch?v=8eX1EkICOf8": [
+  {
+   "enunciado": "Segundo a aula, a motivação de uma migração costuma ser dividida em três grandes grupos. Quais são eles?",
+   "alternativas": [
+    "Motivação econômica, perseguição política, étnica ou religiosa, e planos demográficos do governo",
+    "Motivação climática, perseguição política e crescimento vegetativo",
+    "Motivação econômica, desastre natural e turismo",
+    "Motivação cultural, motivação religiosa e motivação esportiva"
+   ],
+   "certa": 0,
+   "comentario": "O professor divide as motivações em econômicas (a maioria), perseguições políticas, étnicas ou religiosas, e planos demográficos de ocupação de território.",
+   "trecho": "por conta de uma perseguição política ou étnica ou religiosa",
+   "onde": 92
+  },
+  {
+   "enunciado": "Por que o professor diz que a seca, por si só, não explica a saída de nordestinos para o Sudeste?",
+   "alternativas": [
+    "Porque a seca nunca ocorreu no Nordeste",
+    "Porque a seca só afeta o litoral, e a migração veio do sertão",
+    "Porque um fator natural não justifica um fator social: ele pode apenas potencializar uma migração que tem causas sociais, como a concentração de terras e a desigualdade",
+    "Porque os nordestinos migraram apenas por perseguição política"
+   ],
+   "certa": 2,
+   "comentario": "Explicar migração só pelo fator natural seria determinismo geográfico; a seca potencializa, mas as causas são sociais, como a concentração fundiária e a desigualdade.",
+   "trecho": "a gente nunca nunca pode justificar um fator social como uma migração por um fator natural",
+   "onde": 400
+  },
+  {
+   "enunciado": "Segundo a aula, por que a migração de nordestinos para o Sudeste foi tão intensa nas décadas de 1930 e 1940?",
+   "alternativas": [
+    "Porque Getúlio Vargas incentivou a ocupação do Centro-Oeste e do Norte",
+    "Porque o Sudeste foi poupado das crises econômicas do período",
+    "Porque a fronteira agrícola do Sudeste estava em expansão",
+    "Porque Getúlio Vargas concentrou a industrialização no Sudeste, especialmente em São Paulo, que atraiu mão de obra"
+   ],
+   "certa": 3,
+   "comentario": "A industrialização de Vargas se concentrou em São Paulo, que já tinha ferrovias, comunicação e capital; isso atraiu mão de obra nordestina.",
+   "trecho": "getúlio vargas ele concentrou a industrialização no sudeste em são paulo principalmente",
+   "onde": 492
+  },
+  {
+   "enunciado": "O que é a \"migração de retorno\", conforme explicada na aula?",
+   "alternativas": [
+    "O retorno de imigrantes europeus aos seus países de origem após a Segunda Guerra",
+    "A volta dos dekasseguis ao Brasil depois de trabalharem no Japão",
+    "O movimento do campo para a cidade, que depois se inverte",
+    "A saída de pessoas do Sudeste, sobretudo de São Paulo, para o Nordeste, hoje maior que o fluxo do Nordeste para São Paulo"
+   ],
+   "certa": 3,
+   "comentario": "Hoje sai mais gente de São Paulo para o Nordeste do que o contrário; essa volta, de descendentes de nordestinos, é chamada migração de retorno.",
+   "trecho": "hoje mais gente sai de são paulo e vai para o nordeste do que pessoas vêm do nordeste para são paulo é a chamada migração de retorno",
+   "onde": 1136
+  },
+  {
+   "enunciado": "Qual foi a diferença, segundo a aula, entre a vinda dos italianos e a dos alemães ao Brasil?",
+   "alternativas": [
+    "Os italianos vieram para trabalhar nas fazendas dos outros, em condições de escravidão por dívida, e os alemães vieram para ser donos de pequenas propriedades no Sul",
+    "Os italianos receberam pequenas propriedades no Sul, e os alemães foram trabalhar nas fazendas de café",
+    "Ambos receberam terras do governo e se miscigenaram igualmente com a população local",
+    "Os italianos vieram para o Sul pelo clima semelhante, e os alemães para São Paulo"
+   ],
+   "certa": 0,
+   "comentario": "Os italianos, em São Paulo, trabalharam em fazendas de café endividados; os alemães receberam pequenas propriedades no Sul para ocupar o território.",
+   "trecho": "enquanto os italianos eles eram para trabalhar na fazenda dos outros no sistema que o cara pagava a viagem escravidão por dívida",
+   "onde": 1870
+  }
+ ],
+ "https://www.youtube.com/watch?v=y1mRbJGyBKg": [
+  {
+   "enunciado": "Segundo a aula, quem faz a regionalização oficial do Brasil e em quantas regiões o território é dividido?",
+   "alternativas": [
+    "O IBGE, em cinco regiões",
+    "O IBGE, em quatro regiões",
+    "O Ministério da Integração Nacional, em cinco regiões",
+    "O IBGE, em sete regiões, incluindo o Distrito Federal"
+   ],
+   "certa": 0,
+   "comentario": "O IBGE, instituição federal, faz a regionalização oficial e divide o país em cinco regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul.",
+   "trecho": "o IBGE é a nossa instituição Federal que faz a regionalização oficial do seu do nosso Brasil",
+   "onde": 0
+  },
+  {
+   "enunciado": "Sobre a Floresta Amazônica, o que a aula afirma?",
+   "alternativas": [
+    "Está inteiramente dentro do território brasileiro",
+    "Cerca de 60% dela está no território brasileiro, principalmente na região Norte, e o restante se estende por outros países",
+    "Cerca de 20% dela está no Brasil, e a maior parte fica no Peru",
+    "Está presente em todas as regiões brasileiras em proporções iguais"
+   ],
+   "certa": 1,
+   "comentario": "A floresta ultrapassa as fronteiras (Colômbia, Peru, Bolívia, Venezuela, Guiana) e cerca de 60% dela está no Brasil, na região Norte.",
+   "trecho": "cerca de 60% de toda essa floresta amazônica está presente no território brasileiro e principalmente na região norte",
+   "onde": 247
+  },
+  {
+   "enunciado": "Como o professor descreve a divisão sub-regional do Nordeste, do litoral para o interior?",
+   "alternativas": [
+    "Zona da Mata, Cerrado e Pantanal",
+    "Litoral, Planalto e Sertão",
+    "Zona da Mata, Agreste, Sertão e Meio-Norte",
+    "Amazônia, Sertão, Agreste e Pampa"
+   ],
+   "certa": 2,
+   "comentario": "O Nordeste é dividido em quatro partes por causa da diversidade de paisagens: Zona da Mata, Agreste, Sertão e Meio-Norte.",
+   "trecho": "lá para dentro mesmo vai Zona da Mata Maravilha tem um agreste tem um Sertão e tem o Meio Norte",
+   "onde": 465
+  },
+  {
+   "enunciado": "Qual é a base da economia do Centro-Oeste, segundo a aula?",
+   "alternativas": [
+    "A indústria de tecnologia e o setor financeiro",
+    "O extrativismo vegetal e a extração de borracha",
+    "O turismo e o setor de serviços do Distrito Federal",
+    "O agronegócio, com destaque para a soja e a pecuária"
+   ],
+   "certa": 3,
+   "comentario": "A economia do Centro-Oeste é quase totalmente baseada no agronegócio, com a maior produção de soja do país e forte pecuária.",
+   "trecho": "a economia do centrooeste Ela é muito forte quase que totalmente baseada no agronegócio",
+   "onde": 588
+  },
+  {
+   "enunciado": "Por que, segundo a aula, o inverno na região Sul é mais marcante do que no Nordeste ou no Rio de Janeiro?",
+   "alternativas": [
+    "Porque o Sul está dentro da zona tropical",
+    "Porque o Sul fica abaixo do Trópico de Capricórnio, em zona climática temperada, onde as estações são mais perceptíveis",
+    "Porque o Sul é a região mais alta do país",
+    "Porque o Sul recebe mais chuva que as demais regiões"
+   ],
+   "certa": 1,
+   "comentario": "Do Trópico de Capricórnio para baixo a zona é temperada, com estações bem perceptíveis e inverno frio de verdade.",
+   "trecho": "do trópico de Capricórnio para baixo nós estamos em uma outra zona climática uma zona climática chamada de temperada",
+   "onde": 843
+  }
+ ],
+ "https://www.youtube.com/watch?v=E3lOxx6e_D8": [
+  {
+   "enunciado": "Segundo a aula, como é o relevo brasileiro de modo geral?",
+   "alternativas": [
+    "Predominam baixas e médias altitudes, com planaltos antigos e desgastados, o que faz do Brasil um país velho geomorfologicamente",
+    "Predominam grandes cadeias de montanhas jovens, formadas por movimentos tectônicos recentes",
+    "Predominam planícies, pois quase todo o território está abaixo de 200 metros",
+    "Predominam altitudes elevadas, por causa do vulcanismo e dos abalos sísmicos frequentes"
+   ],
+   "certa": 0,
+   "comentario": "O professor diz que o Brasil tem planaltos antigos, muito desgastados, com predomínio de baixas e médias altitudes, e é estável tectonicamente.",
+   "trecho": "já que a gente está muito desgastado tal a gente tem predomínio de baixas e médias altitudes",
+   "onde": 91
+  },
+  {
+   "enunciado": "Qual foi o critério usado por Aroldo de Azevedo, na primeira classificação do relevo brasileiro (década de 1940)?",
+   "alternativas": [
+    "O tipo de rocha e a estrutura geológica de cada região",
+    "Os processos de erosão e sedimentação predominantes",
+    "Apenas a altitude: acima de 200 metros era planalto, abaixo, planície",
+    "A vegetação e o clima de cada compartimento"
+   ],
+   "certa": 2,
+   "comentario": "Aroldo de Azevedo usou só o critério altimétrico: mais de 200 metros é planalto, menos de 200 metros é planície.",
+   "trecho": "o critério que ele utilizou foi se tem mais que 200 metros de altitude ele considerou esse lugar um plano mais alto ou seja um planalto",
+   "onde": 310
+  },
+  {
+   "enunciado": "Para Aziz Ab'Saber, o que diferencia um planalto de uma planície?",
+   "alternativas": [
+    "O planalto está sempre acima de 200 metros, e a planície sempre abaixo",
+    "O planalto é de rocha sedimentar, e a planície é de rocha cristalina",
+    "O planalto fica no interior, e a planície, no litoral",
+    "No planalto o saldo é de saída de sedimentos (erosão), e na planície, de chegada de sedimentos (sedimentação)"
+   ],
+   "certa": 3,
+   "comentario": "Ab'Saber se baseia nos processos: se sai mais sedimento do que chega, é planalto; se chega mais do que sai, é planície, independentemente da altitude.",
+   "trecho": "ver o saldo da sedimentação erosão se mais sai sedimentos é uma planalto se mais chega sentimentos é uma polícia",
+   "onde": 651
+  },
+  {
+   "enunciado": "Segundo a aula, o que Jurandyr Ross acrescentou à classificação do relevo, o que resultou em 28 compartimentos?",
+   "alternativas": [
+    "Além dos processos de erosão e sedimentação, a estrutura geológica, ou seja, o tipo de rocha, com apoio do sensoriamento remoto (RadamBrasil)",
+    "Apenas a altitude, medida por satélite",
+    "Somente a vegetação e o clima de cada região",
+    "A divisão do relevo em cinco planaltos e três planícies"
+   ],
+   "certa": 0,
+   "comentario": "Ross levou em conta os processos geomorfológicos e também a estrutura geológica, usando imagens de satélite e aerofotogrametria, o que gerou 28 compartimentos.",
+   "trecho": "ele também levou em consideração a estrutura geológica ou seja a o tipo de rocha",
+   "onde": 867
+  },
+  {
+   "enunciado": "O que é uma depressão relativa, segundo a aula, e por que o Brasil só tem esse tipo?",
+   "alternativas": [
+    "Área abaixo do nível do mar, que existe em várias regiões do Brasil",
+    "Área em que predomina a saída de sedimentos, mas cercada por regiões mais altas; o Brasil não tem depressões absolutas, abaixo do nível do mar",
+    "Área de planície, onde predomina a chegada de sedimentos, como o Pantanal",
+    "Área de relevo muito íngreme, como as escarpas da Serra do Mar"
+   ],
+   "certa": 1,
+   "comentario": "Depressão relativa é um local de saída de sedimentos cercado por áreas mais altas; o Brasil não tem depressões absolutas (abaixo do nível do mar).",
+   "trecho": "é um local é no qual predomina a saída de sedimentos mas ainda assim cercado por regiões mais altas cercado por planaltos",
+   "onde": 990
+  }
+ ],
+ "https://www.youtube.com/watch?v=6cVmzpG_iqM": [
+  {
+   "enunciado": "Segundo a aula, o que é uma matriz energética?",
+   "alternativas": [
+    "O conjunto das fontes de energia disponíveis, que fornece a energia de um país",
+    "A quantidade total de energia elétrica consumida por um país em um ano",
+    "O conjunto de usinas hidrelétricas de um país",
+    "A lista das fontes de energia não renováveis que o país importa"
+   ],
+   "certa": 0,
+   "comentario": "A matriz energética é o conjunto das fontes de energia disponíveis; a matriz elétrica é a parte ligada à geração de energia elétrica.",
+   "trecho": "a matriz energética é um conjunto das fontes de energias disponíveis é aquele conjunto que vai fornecer para gente a energia",
+   "onde": 0
+  },
+  {
+   "enunciado": "Na aula, o que é biomassa como fonte de energia?",
+   "alternativas": [
+    "A energia obtida da força dos ventos, por meio de grandes turbinas",
+    "A energia obtida da queima de petróleo e carvão mineral",
+    "A energia do movimento da água dos rios, represada em barragens",
+    "Restos de materiais orgânicos, como a casca de cana-de-açúcar, queimados para gerar energia"
+   ],
+   "certa": 3,
+   "comentario": "A biomassa usa restos de materiais orgânicos (como casca de cana) queimados para gerar energia, e é renovável porque esse material pode ser produzido de novo.",
+   "trecho": "alguns restos né de materiais orgânicos que podem ser Queimados para a geração de energia",
+   "onde": 156
+  },
+  {
+   "enunciado": "Por que o petróleo e o carvão mineral são classificados como fontes não renováveis, segundo a aula?",
+   "alternativas": [
+    "Porque só podem ser usados uma vez por cada país",
+    "Porque são importados e dependem de acordos comerciais",
+    "Porque demoram milhões de anos para se formar e podem nem se renovar, por exigirem condições de temperatura e pressão específicas",
+    "Porque emitem gases de efeito estufa, e por isso não se renovam"
+   ],
+   "certa": 2,
+   "comentario": "As fontes não renováveis levam milhões de anos para se renovar e podem nem chegar a se renovar, pois exigem condições muito específicas de formação.",
+   "trecho": "porque são fontes que na verdade eles demoram milhões de anos para se renovar e pode ser que nem cheguem a se renovar",
+   "onde": 92
+  },
+  {
+   "enunciado": "Por que a matriz hídrica é a mais utilizada no Brasil, conforme a aula?",
+   "alternativas": [
+    "Porque o país tem poucas outras fontes de energia disponíveis",
+    "Porque o Brasil tem grande quantidade de rios de planalto, com quedas de água que movem turbinas",
+    "Porque os rios de planície têm mais desnível e mais força",
+    "Porque a energia hídrica não causa impactos ambientais nem sociais"
+   ],
+   "certa": 1,
+   "comentario": "Os rios de planalto têm desnível e geram queda de água, usada para girar turbinas; por isso a matriz hídrica predomina no país.",
+   "trecho": "a matriz energética mais utilizada é a hídrica por quê Porque nós vamos ter uma grande quantidade de rios de Planalto",
+   "onde": 375
+  },
+  {
+   "enunciado": "Quais são os impactos sociais da instalação de hidrelétricas apontados na aula?",
+   "alternativas": [
+    "O fim da dependência de importação de gás natural",
+    "O aumento do descarte de lixo atômico perto das comunidades",
+    "A redução dos gases de efeito estufa nas áreas próximas",
+    "Populações ribeirinhas e indígenas têm casas e plantações alagadas e perdem a moradia"
+   ],
+   "certa": 3,
+   "comentario": "A represa alaga áreas, e populações ribeirinhas, indígenas e fazendas próximas perdem casas, plantações e moradia; por isso a aula pede estratégias para minimizar impactos.",
+   "trecho": "populações ribeirinhas populações indígenas que vivem próximos esses rios e que vão ter as suas casas as suas plantações completamente alagadas",
+   "onde": 498
+  }
+ ],
+ "https://www.youtube.com/watch?v=bEQz0HijQpA": [
+  {
+   "enunciado": "Por que o professor diz que o Brasil é um país predominantemente intertropical, e não simplesmente tropical, e qual é a exceção?",
+   "alternativas": [
+    "Porque está entre os trópicos de Câncer e de Capricórnio; a exceção é a região Sul, que fica na faixa temperada (subtropical)",
+    "Porque está só no hemisfério sul; a exceção é a região Norte, que é equatorial",
+    "Porque tem muitas montanhas; a exceção é o Nordeste, de clima semiárido",
+    "Porque fica entre os polos; a exceção é o Centro-Oeste"
+   ],
+   "certa": 0,
+   "comentario": "O Brasil está majoritariamente entre os trópicos (faixa intertropical); a região Sul, abaixo do Trópico de Capricórnio, é de clima temperado ou subtropical.",
+   "trecho": "o brasil não é exatamente tropical é como se tivesse no trópico ele é intertropical e tem uma exceção zinha essa exceção é justamente a região sul",
+   "onde": 152
+  },
+  {
+   "enunciado": "Segundo a aula, qual é o efeito de uma corrente marítima quente sobre o litoral por onde passa?",
+   "alternativas": [
+    "Deixa o litoral mais seco, com menos chuvas",
+    "Deixa o litoral mais úmido e chuvoso",
+    "Reduz a temperatura do ar e causa geadas",
+    "Não tem nenhuma influência sobre a chuva, só sobre a temperatura do mar"
+   ],
+   "certa": 1,
+   "comentario": "Corrente quente deixa o litoral mais úmido e chuvoso; a corrente fria (como a das Malvinas, no Sul) tende a deixá-lo mais seco.",
+   "trecho": "se a corrente marítima é quente ela vai fazer com que o litoral por onde ela passa e fique mais úmido",
+   "onde": 336
+  },
+  {
+   "enunciado": "O que a maritimidade provoca na amplitude térmica de um local, de acordo com a aula?",
+   "alternativas": [
+    "Aumenta a amplitude térmica, pois o oceano esquenta de dia e esfria à noite",
+    "Não altera a amplitude térmica, apenas a umidade do ar",
+    "Locais mais próximos do oceano têm menor variação de temperatura, pois a água funciona como regulador térmico",
+    "Locais mais próximos do oceano têm temperaturas sempre mais baixas que os do interior"
+   ],
+   "certa": 2,
+   "comentario": "Quanto mais próximo do oceano, menor a variação entre a máxima e a mínima; já locais distantes (continentalidade) variam mais.",
+   "trecho": "locais que tem uma maritimidade mais acentuada ou seja locais que estão mais próximos do oceano eles em geral têm uma menor variação de temperatura",
+   "onde": 489
+  },
+  {
+   "enunciado": "Segundo a aula, o que há de especial na massa equatorial continental (mEc)?",
+   "alternativas": [
+    "É a única massa fria que atua no território brasileiro",
+    "É a única massa seca, que domina o Centro-Oeste no inverno",
+    "É a massa que se forma sobre o oceano e causa as geadas no Sul",
+    "É a única massa que, mesmo sendo continental, é úmida, por causa da bacia e da floresta amazônicas"
+   ],
+   "certa": 3,
+   "comentario": "A mEc se forma sobre a Amazônia, onde a umidade vem da bacia, da floresta (evapotranspiração) e da convergência dos alísios; por isso é quente e úmida.",
+   "trecho": "a mac é a única massa que apesar de ser continental ela é úmida",
+   "onde": 919
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é a causa de cada tipo de chuva?",
+   "alternativas": [
+    "Convecção: barreira do relevo; orográfica: encontro de massas de ar; frontal: movimento de convecção da atmosfera",
+    "Convecção: movimento de convecção da atmosfera; orográfica: barreira do relevo; frontal: encontro de massas de ar",
+    "Convecção: encontro de massas de ar; orográfica: movimento de convecção; frontal: barreira do relevo",
+    "Convecção, orográfica e frontal têm todas a mesma causa: a ação das correntes marítimas"
+   ],
+   "certa": 1,
+   "comentario": "A aula resume: convecção vem do movimento de convecção do ar, orográfica de uma barreira do relevo e frontal do encontro de massas de ar.",
+   "trecho": "a chuva de convecção é o próprio movimento de convecção da atmosfera a chuva orográfica é uma barreira do relevo e a chuva frontal que a próxima vai ser um encontro de massagear",
+   "onde": 1723
+  }
+ ]
+}

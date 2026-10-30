@@ -1,0 +1,605 @@
+{
+ "https://www.youtube.com/watch?v=Ytw1SjnqEJ8": [
+  {
+   "enunciado": "Segundo a aula, em quais vogais devem terminar os monossílabos tônicos para serem acentuados?",
+   "alternativas": [
+    "A, E e O",
+    "I e U",
+    "A, E, O, I e U",
+    "Apenas as terminadas em S ou M"
+   ],
+   "certa": 0,
+   "comentario": "A regra é acentuar monossílabos tônicos terminados em A, E, O; por isso \"quis\" (termina em S) e \"bem\" (termina em M) não levam acento.",
+   "trecho": "Monossílabos tônicos terminados em A, E, O são acentuados. Isso explica o motivo de quis não ter acento",
+   "onde": 290
+  },
+  {
+   "enunciado": "Por que a palavra \"caju\" não recebe acento gráfico, segundo a aula?",
+   "alternativas": [
+    "Porque é paroxítona terminada em U",
+    "Porque toda palavra terminada em U dispensa acento",
+    "Porque é oxítona terminada em U, e as oxítonas só são acentuadas se terminarem em A, E, O, EM ou ENS",
+    "Porque é monossílaba tônica"
+   ],
+   "certa": 2,
+   "comentario": "A aula alerta que muita gente acentua \"caju\", mas oxítonas só levam acento ao terminar em A, E, O, EN ou ENS.",
+   "trecho": "As oxítonas só devem ser acentuadas se terminarem com A, E, O, EN ou ENS. Ou seja, caju não tem acento",
+   "onde": 352
+  },
+  {
+   "enunciado": "Qual é a regra de acentuação das proparoxítonas apresentada na aula?",
+   "alternativas": [
+    "Só são acentuadas as terminadas em A, E, O",
+    "Todas são acentuadas",
+    "Só são acentuadas as terminadas em R, X ou L",
+    "Nenhuma é acentuada"
+   ],
+   "certa": 1,
+   "comentario": "A professora diz que a regra é fácil de gravar: todas as proparoxítonas levam acento, como \"médico\", \"ônibus\" e \"árvore\".",
+   "trecho": "É muito fácil gravar a regrinha, porque todas as proparoxítonas são acentuadas. Inclusive, a própria palavra proparoxítona é proparoxítona e é acentuada",
+   "onde": 439
+  },
+  {
+   "enunciado": "Com a nova ortografia, qual das palavras abaixo deixou de ter acento no ditongo aberto?",
+   "alternativas": [
+    "chapéu",
+    "réu",
+    "anéis",
+    "ideia"
+   ],
+   "certa": 3,
+   "comentario": "Os ditongos abertos EI e OI perderam o acento nas paroxítonas, como \"ideia\" e \"joia\"; já \"céu\", \"réu\" e \"chapéu\" continuam acentuados.",
+   "trecho": "Com a nova ortografia, os ditongos abertos EI e OI perderam acento em palavras paroxítonas. Por isso que as palavras IDEIA, GELÉIA, JIBÓIA e JOIA, por exemplo, não tem mais acento",
+   "onde": 475
+  },
+  {
+   "enunciado": "Por que \"moinho\" e \"rainha\" não são acentuadas, apesar de terem hiato com I?",
+   "alternativas": [
+    "Porque o hiato está seguido de NH",
+    "Porque o hiato está seguido de S",
+    "Porque são proparoxítonas",
+    "Porque o I é a sílaba tônica final"
+   ],
+   "certa": 0,
+   "comentario": "A aula diz que se acentuam hiatos com I ou U sozinhos na sílaba ou seguidos de S, mas os seguidos de NH não são acentuados.",
+   "trecho": "Mas preste atenção, hiatos seguidos de NH não são acentuados. Veja, moinho e rainha",
+   "onde": 509
+  }
+ ],
+ "https://www.youtube.com/watch?v=RB9DkfIdqrI": [
+  {
+   "enunciado": "Segundo a aula, o que é o truncamento de período?",
+   "alternativas": [
+    "Escrever um período longo demais, sem usar ponto final",
+    "Usar vírgula no lugar do ponto e vírgula",
+    "Colocar o ponto final em lugar inadequado, quebrando uma sequência que deveria continuar",
+    "Usar letra minúscula após o ponto final"
+   ],
+   "certa": 2,
+   "comentario": "No truncamento o ponto final é posto onde a ideia deveria fluir, por exemplo diante de uma explicação; a justaposição é o contrário.",
+   "trecho": "Gente, truncamento é quando você bota o ponto final no lugar inadequado, sendo que você, teoricamente, iria continuar a sua sequência",
+   "onde": 689
+  },
+  {
+   "enunciado": "Segundo a aula, em que situação o ponto e vírgula é usado de forma mais prática?",
+   "alternativas": [
+    "Para enumerar estruturas grandes e complexas, demarcando os blocos",
+    "Para enumerar palavras curtas, como frutas",
+    "Para encerrar o período, no lugar do ponto final",
+    "Para introduzir uma citação direta"
+   ],
+   "certa": 0,
+   "comentario": "A vírgula serve a enumerações pequenas; quando os itens são grandes e já têm vírgulas dentro, o ponto e vírgula deixa os blocos claros.",
+   "trecho": "a gente vai usar o ponto em vírgula para enumerar estruturas grandes, estruturas complexas",
+   "onde": 1182
+  },
+  {
+   "enunciado": "Em \"A educação de qualidade desempenha um papel fundamental: é por meio dela que se formam cidadãos críticos\", qual o valor dos dois pontos segundo a aula?",
+   "alternativas": [
+    "Encerrar o período, exigindo letra maiúscula depois",
+    "Substituir um conectivo explicativo, como \"vírgula + pois\"",
+    "Marcar hesitação do falante",
+    "Isolar um aposto explicativo"
+   ],
+   "certa": 1,
+   "comentario": "A aula mostra que os dois pontos podem estar no lugar de \"vírgula pois\", introduzindo uma explicação.",
+   "trecho": "Ele pode substituir conectivos explicativos. Ele pode estar no lugar de um vírgula pois",
+   "onde": 1601
+  },
+  {
+   "enunciado": "Qual pontuação final convém à frase \"Eu queria saber por que você está aqui\", segundo a aula?",
+   "alternativas": [
+    "Ponto de interrogação, pois há uma pergunta",
+    "Ponto de exclamação, pois há ênfase",
+    "Reticências, pois a ideia fica em aberto",
+    "Ponto final, pois a interrogação é indireta"
+   ],
+   "certa": 3,
+   "comentario": "Na interrogação indireta a oração é declarativa e termina em ponto final; só a interrogação direta leva ponto de interrogação.",
+   "trecho": "Quando a gente vai fazer uma interrogação indireta, é ponto final. Por exemplo, eu queria saber por que você está aqui",
+   "onde": 2609
+  },
+  {
+   "enunciado": "No trecho de Brás Cubas, \"foi uma... uma... uma...\", qual é o uso das reticências destacado na aula?",
+   "alternativas": [
+    "Marcar a hesitação do narrador",
+    "Indicar o fim do período",
+    "Introduzir uma enumeração",
+    "Substituir os dois pontos"
+   ],
+   "certa": 0,
+   "comentario": "A aula explica que as reticências denotam hesitação: o narrador fica querendo falar algo, mas não fala.",
+   "trecho": "Quando você hesita, você fica querendo falar uma coisa, mas não fala",
+   "onde": 2672
+  }
+ ],
+ "https://www.youtube.com/watch?v=fOG0ol-NK3Q": [
+  {
+   "enunciado": "Segundo a aula, o que é um texto coerente?",
+   "alternativas": [
+    "Um texto com muitos conectores",
+    "Um texto de ideias claras",
+    "Um texto sem erros de crase",
+    "Um texto com parágrafos curtos"
+   ],
+   "certa": 1,
+   "comentario": "O professor resume: coerência são ideias claras; já a coesão envolve os conectores.",
+   "trecho": "Coerência, pessoal, são ideias claras. Ideias claras. Ideias claras. Então, um texto coerente é um texto que tem",
+   "onde": 66
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a função da coesão e quais termos mais a realizam?",
+   "alternativas": [
+    "Deixar as ideias claras, sobretudo por substantivos",
+    "Corrigir a gramática, sobretudo por verbos",
+    "Ligar palavras, orações e parágrafos, sobretudo por conjunções e preposições",
+    "Ligar só parágrafos, por pronomes"
+   ],
+   "certa": 2,
+   "comentario": "Coesão é a ligação entre termos por conectores, e os que mais aparecem são conjunções e preposições.",
+   "trecho": "Quais são os termos, os coletores que mais aparecem nesses textos? São as conjunções e são as preposições",
+   "onde": 97
+  },
+  {
+   "enunciado": "Qual afirmação sobre coesão e coerência é correta, segundo a aula?",
+   "alternativas": [
+    "Um texto coeso não é necessariamente coerente, e vice-versa",
+    "Todo texto coeso é também coerente",
+    "Todo texto coerente é também coeso",
+    "Os dois conceitos significam o mesmo"
+   ],
+   "certa": 0,
+   "comentario": "O professor adverte que um texto coeso não necessariamente é coerente, e a recíproca é verdadeira.",
+   "trecho": "Agora, não se esqueça que um texto coeso não necessariamente é um texto coerente. E a recíproca é verdadeira",
+   "onde": 128
+  },
+  {
+   "enunciado": "Por que \"Alexandre é vaidoso. Alexandre é bonito.\" não está coesa, segundo a aula?",
+   "alternativas": [
+    "Faltou uma vírgula depois de \"vaidoso\"",
+    "Falta clareza de ideias no texto",
+    "O nome se repete e deveria ser elíptico",
+    "Faltou uma conjunção ligando uma oração à outra após o ponto final"
+   ],
+   "certa": 3,
+   "comentario": "Com \"Logo\" depois do ponto, a oração se liga à anterior por um conectivo, que é uma conjunção.",
+   "trecho": "Alexandre é baidoso, ponto. Logo, Alexandre é bonito, aí sim, tá vendo? Eu tô ligando uma oração à outra com um conectivo, que é uma conjunção",
+   "onde": 489
+  },
+  {
+   "enunciado": "Qual teste a aula sugere para saber se sua redação está coerente?",
+   "alternativas": [
+    "Contar quantas conjunções iniciam os parágrafos",
+    "Entregar o texto a uma pessoa próxima e ver se ela diz o que você quis dizer",
+    "Pedir a um professor que marque os erros de crase",
+    "Ler o texto em voz alta e medir o tempo"
+   ],
+   "certa": 1,
+   "comentario": "Se a pessoa consegue dizer o que você quis dizer, as ideias estão claras, sinal de texto coerente.",
+   "trecho": "Se essa pessoa conseguiu falar isso para você, que lhe deu esse feedback, isso é sinal que o seu texto está coerente",
+   "onde": 618
+  }
+ ],
+ "https://www.youtube.com/watch?v=PkcTAix9y5k": [
+  {
+   "enunciado": "Dos sete fatores de textualidade, quais são os dois ligados ao texto, segundo a aula?",
+   "alternativas": [
+    "Intencionalidade e aceitabilidade",
+    "Situacionalidade e informatividade",
+    "Coesão e coerência",
+    "Intertextualidade e coesão"
+   ],
+   "certa": 2,
+   "comentario": "Os outros cinco (aceitabilidade, situacionalidade, intencionalidade, intertextualidade e informatividade) são ligados ao leitor.",
+   "trecho": "dois fatores ligados ao texto, que é o fator da coesão e o fator da coerência, e cinco ligados ao leitor",
+   "onde": 159
+  },
+  {
+   "enunciado": "Segundo Marcuschi, citado na aula, a coesão é:",
+   "alternativas": [
+    "nem necessária nem suficiente para que um texto tenha sentido",
+    "necessária, mas não suficiente",
+    "suficiente, mas não necessária",
+    "necessária e suficiente"
+   ],
+   "certa": 0,
+   "comentario": "O texto \"Circuito Fechado\" rompe a coesão e ainda assim tem muita significação.",
+   "trecho": "ela não é nem necessária, nem suficiente para que um texto tenha sentido",
+   "onde": 270
+  },
+  {
+   "enunciado": "Qual a diferença entre coesão e coerência apresentada na aula?",
+   "alternativas": [
+    "A coesão trata do sentido; a coerência, da estrutura",
+    "A coesão trata da progressão estrutural e linguística; a coerência, da progressão semântica",
+    "Ambas tratam apenas do sentido",
+    "A coesão depende do leitor; a coerência, do autor"
+   ],
+   "certa": 1,
+   "comentario": "A coesão é a progressão estrutural e linguística; a coerência é a progressão semântica, ou seja, dos sentidos do texto.",
+   "trecho": "Enquanto que a coesão tinha a ver com a progressão estrutural e linguística do texto, a coerência tem a ver com a progressão semântica, os sentidos daquele texto",
+   "onde": 434
+  },
+  {
+   "enunciado": "Um texto traz quase só informações que o leitor já conhece. Qual seu grau de informatividade, segundo a aula?",
+   "alternativas": [
+    "Médio",
+    "Alto",
+    "Nulo, pois um texto assim é impossível",
+    "Baixo"
+   ],
+   "certa": 3,
+   "comentario": "A aula descreve três graus: baixo (muito já conhecido), médio (mistura) e alto (muita novidade).",
+   "trecho": "Isso porque ele tanto pode trazer muita informação que nós já conhecemos e aí ele vai ter um grau baixo de informatividade",
+   "onde": 595
+  },
+  {
+   "enunciado": "Qual a relação entre intencionalidade e aceitabilidade, segundo a aula?",
+   "alternativas": [
+    "A intencionalidade se centra no autor e a aceitabilidade, no leitor",
+    "As duas se centram no autor",
+    "A intencionalidade se centra no leitor e a aceitabilidade, no autor",
+    "As duas se centram no texto"
+   ],
+   "certa": 0,
+   "comentario": "A aceitabilidade é a contraparte da intencionalidade: o leitor aceita ou não o texto como coerente e coeso.",
+   "trecho": "Se a intencionalidade está centrada no autor, a aceitabilidade está centrada no leitor",
+   "onde": 1098
+  }
+ ],
+ "https://www.youtube.com/watch?v=1MVmB5iFdms": [
+  {
+   "enunciado": "Segundo a aula, qual é a missão primordial de um código de ética profissional?",
+   "alternativas": [
+    "Estabelecer um manual técnico de conduta a ser seguido à risca",
+    "Fomentar a autorreflexão da categoria, sem normatizar a natureza técnica do trabalho",
+    "Normatizar os testes e técnicas de cada abordagem",
+    "Punir os profissionais que cometem erros técnicos"
+   ],
+   "certa": 1,
+   "comentario": "O código não visa normatizar a técnica, mas assegurar um padrão de conduta que fortaleça o reconhecimento social da categoria.",
+   "trecho": "a missão primordial de um código de ética não é normatizar a natureza técnica do trabalho",
+   "onde": 145
+  },
+  {
+   "enunciado": "Uma psicóloga quer usar cartas de tarot numa avaliação psicológica. Pela ideia de \"moldura\" da aula, ela:",
+   "alternativas": [
+    "Pode, pois a atuação profissional é totalmente livre",
+    "Pode, desde que registre o uso no prontuário",
+    "Não pode, pois deve usar instrumentos e técnicas reconhecidos pelo Conselho Federal",
+    "Pode, se o paciente concordar"
+   ],
+   "certa": 2,
+   "comentario": "A atuação é livre dentro da moldura do código, que exige instrumentos, métodos e técnicas reconhecidos pelo Conselho Federal.",
+   "trecho": "você utilize testes, instrumentos, métodos e técnicas reconhecidos pelo Conselho Federal",
+   "onde": 308
+  },
+  {
+   "enunciado": "Sobre a mutabilidade do código, a aula diz que:",
+   "alternativas": [
+    "Ele pode mudar, pois não é um conjunto fixo de normas imutável no tempo",
+    "Ele é imutável, por expressar valores universais",
+    "Ele só muda por decisão judicial",
+    "Ele muda apenas nos artigos técnicos"
+   ],
+   "certa": 0,
+   "comentario": "Por expressar valores e ser principiológico, o código acompanha a evolução da sociedade.",
+   "trecho": "um código não pode ser visto como um conjunto fixo de normas imutável no tempo",
+   "onde": 410
+  },
+  {
+   "enunciado": "Segundo o princípio fundamental sobre saúde e qualidade de vida, o psicólogo deve:",
+   "alternativas": [
+    "Apenas evitar práticas violentas ou discriminatórias",
+    "Atuar só em contexto clínico",
+    "Limitar-se a atender quem o procura",
+    "Contribuir para eliminar negligência, discriminação, exploração, violência, crueldade e opressão"
+   ],
+   "certa": 3,
+   "comentario": "A aula destaca que, além de não incentivar essas práticas, o psicólogo deve fomentar práticas que as inibam.",
+   "trecho": "O psicólogo trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e contribuirá para a eliminação de quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão",
+   "onde": 575
+  },
+  {
+   "enunciado": "Uma pessoa atua em nome da psicologia sem ser psicóloga. Que princípio do código se relaciona com o dever de denunciar?",
+   "alternativas": [
+    "O de universalizar o acesso às informações da psicologia",
+    "O de zelar pelo exercício profissional com dignidade, rejeitando situações em que a psicologia seja aviltada",
+    "O de considerar as relações de poder nos contextos",
+    "O de aprimorar-se continuamente"
+   ],
+   "certa": 1,
+   "comentario": "A aula liga o sexto princípio ao dever de denunciar irregularidades que manchem a reputação da profissão.",
+   "trecho": "o psicólogo zelará para que o exercício profissional seja efetuado com dignidade, rejeitando situações em que a psicologia seja aviltada",
+   "onde": 864
+  }
+ ],
+ "https://www.youtube.com/watch?v=RndQ5G3TElI": [
+  {
+   "enunciado": "Segundo Cordioli, como a aula define a psicoterapia?",
+   "alternativas": [
+    "Método de tratamento que usa meios psicológicos, com destaque para a comunicação verbal",
+    "Método de tratamento baseado em medicação e acompanhamento médico",
+    "Técnica avaliativa para diagnosticar transtornos",
+    "Orientação profissional baseada em conselhos"
+   ],
+   "certa": 0,
+   "comentario": "A psicoterapia é um método em que um profissional treinado influencia deliberadamente o paciente pela via psicológica, sobretudo verbal.",
+   "trecho": "psicoterapia é um método de tratamento que utiliza meios psicológicos com destaque para comunicação verbal",
+   "onde": 63
+  },
+  {
+   "enunciado": "Por que a Resolução 13/2022 não garante ao psicólogo o uso exclusivo do termo \"psicoterapia\"?",
+   "alternativas": [
+    "Porque o CFP não tem competência sobre a psicoterapia",
+    "Porque ela foi revogada pela Resolução 10/2000",
+    "Porque uma resolução não tem força de lei",
+    "Porque a lei permite o uso a qualquer pessoa sem formação alguma"
+   ],
+   "certa": 2,
+   "comentario": "A resolução apenas regulamenta a profissão; sem lei, outros profissionais ainda podem usar o termo.",
+   "trecho": "ela não tem o poder de conceder exclusividade ao termo psicoterapia nós psicólogos porque uma resolução não tem força de lei",
+   "onde": 310
+  },
+  {
+   "enunciado": "O que é \"insight\" em psicoterapia, segundo a aula?",
+   "alternativas": [
+    "A correção de pensamentos automáticos pela reestruturação cognitiva",
+    "A capacidade do paciente de adquirir maior conhecimento e compreensão sobre si e seus problemas",
+    "O acordo sobre honorários e frequência",
+    "A informação do terapeuta sobre a psicoterapia"
+   ],
+   "certa": 1,
+   "comentario": "O insight, termo vindo da psicanálise, é o \"cair das fichas\" sobre o próprio funcionamento; as outras opções descrevem reestruturação cognitiva, contrato e psicoeducação.",
+   "trecho": "adquirir maior conhecimento e compreensão sobre si mesmo e seus problemas durante o processo psicoterapêutico",
+   "onde": 1048
+  },
+  {
+   "enunciado": "Na aliança terapêutica, o que se espera do terapeuta e do paciente, respectivamente?",
+   "alternativas": [
+    "Entrega e confiança; empatia e calor humano",
+    "Neutralidade absoluta; submissão ao tratamento",
+    "Conhecimento técnico; pagamento regular",
+    "Empatia, autenticidade e calor humano; entrega, confiança e desejo de mudar"
+   ],
+   "certa": 3,
+   "comentario": "A aliança pressupõe reciprocidade: do terapeuta, empatia, autenticidade e calor humano; do paciente, entrega, confiança e desejo de mudança.",
+   "trecho": "importante a empatia autenticidade o calor humano e por parte do paciente é importante a entrega a confiança o desejo de fazer mudanças",
+   "onde": 1232
+  },
+  {
+   "enunciado": "O que o contrato terapêutico deve evidenciar, segundo a aula?",
+   "alternativas": [
+    "Direitos e deveres das partes, inclusive a possibilidade de interromper o serviço a qualquer momento",
+    "Garantia de resultados ao fim do tratamento",
+    "Obrigação de o paciente cumprir todas as sessões",
+    "Dispensa do registro dos atendimentos"
+   ],
+   "certa": 0,
+   "comentario": "O contrato, verbal ou escrito, trata de direitos e deveres, honorários, frequência e tempo de sessão, e deixa claro que não se prometem resultados.",
+   "trecho": "escrita direitos e deveres das partes então inclusive no que se refere a possibilidade de interrupção de serviço a qualquer momento",
+   "onde": 1355
+  }
+ ],
+ "https://www.youtube.com/watch?v=h-fdQEGLRG8": [
+  {
+   "enunciado": "Segundo Cordioli, de que necessidade surgiu o início das psicoterapias grupais?",
+   "alternativas": [
+    "Da crítica à psicanálise individual no século XIX",
+    "Da grande demanda por atendimento durante a Segunda Guerra Mundial",
+    "Do surgimento da terapia cognitivo-comportamental",
+    "Da popularização dos grupos de autoajuda"
+   ],
+   "certa": 1,
+   "comentario": "Com poucos profissionais e muitos casos, o formato grupal permitiu atender mais pessoas ao mesmo tempo.",
+   "trecho": "o início das psicoterapias grupais surgiu da necessidade grande durante a Segunda Guerra Mundial",
+   "onde": 31
+  },
+  {
+   "enunciado": "Um paciente com personalidade paranoide tem grande dificuldade de empatia com os membros do grupo. O que a literatura da aula indica?",
+   "alternativas": [
+    "O grupo é indicado, pois treina a empatia",
+    "O grupo heterogêneo é a melhor opção",
+    "Psicoterapia individual é preferível ao grupo",
+    "A coesão do grupo vai resolver a dificuldade"
+   ],
+   "certa": 2,
+   "comentario": "Dificuldades graves de empatia prejudicam o vínculo, que é o charme do grupo; nesses casos a individual é preferível.",
+   "trecho": "Também não se recomenda quando há dificuldades graves de empatia em relação aos demais membros, obviamente, como por exemplo na personalidade esquizotípica, narcisista ou paranoide",
+   "onde": 363
+  },
+  {
+   "enunciado": "Segundo a aula, o que se pode dizer de todo grupo terapêutico, qualquer que seja a orientação teórica?",
+   "alternativas": [
+    "Ele se forma com uma finalidade e exige planejamento",
+    "Ele reúne pessoas com o mesmo diagnóstico",
+    "Ele dispensa regras, para ser espontâneo",
+    "Ele deve sempre ter co-terapia"
+   ],
+   "certa": 0,
+   "comentario": "Um grupo não é a mera reunião de sujeitos: exige método, regras, finalidade e planejamento prévio.",
+   "trecho": "Sim, todo grupo tem uma finalidade. Todo grupo terapêutico se forma com uma finalidade",
+   "onde": 496
+  },
+  {
+   "enunciado": "Segundo a aula, quando um grupo é considerado homogêneo?",
+   "alternativas": [
+    "Quando todos têm o mesmo terapeuta",
+    "Quando o grupo é fechado",
+    "Quando todos têm o mesmo diagnóstico, obrigatoriamente",
+    "Quando os participantes têm alguma característica em comum"
+   ],
+   "certa": 3,
+   "comentario": "Grupos de gestantes ou de pessoas prestes a se aposentar são homogêneos; o psicodrama costuma ser heterogêneo.",
+   "trecho": "Sobre a composição homogênea ou heterogênea do grupo, então ela vai ser homogênea quando os participantes têm alguma característica em comum",
+   "onde": 661
+  },
+  {
+   "enunciado": "Numa mulher que sofreu violência, ouvir relatos semelhantes alivia por perceber que não é a única. Que fator terapêutico de Yalom é esse?",
+   "alternativas": [
+    "Catarse",
+    "Universalidade",
+    "Altruísmo",
+    "Esperança"
+   ],
+   "certa": 1,
+   "comentario": "A universalidade é o alívio de perceber que não se está sozinho no problema.",
+   "trecho": "Além da esperança, a universalidade, a promoção de alívio dos pacientes que ao perceberem que não são os únicos com os problemas, não estão sozinhos para enfrentá-los",
+   "onde": 822
+  }
+ ],
+ "https://www.youtube.com/watch?v=Inzn3de-7Ws": [
+  {
+   "enunciado": "O que é repertório sociocultural, segundo a aula?",
+   "alternativas": [
+    "Uma citação decorada de filósofo",
+    "Apenas dados de pesquisa e notícias",
+    "A bagagem de conhecimento adquirida ao longo da formação",
+    "O tema proposto na prova"
+   ],
+   "certa": 2,
+   "comentario": "Filmes, palestras, debates e escola formam o repertório, que ajuda a fundamentar o argumento.",
+   "trecho": "O repertório sociocultural é aquela bagagem de conhecimento que a pessoa adquire ali ao longo de sua formação",
+   "onde": 30
+  },
+  {
+   "enunciado": "Qual é o cuidado com os repertórios estéticos (filmes, obras literárias), segundo a aula?",
+   "alternativas": [
+    "Eles não necessariamente provam o que se afirma; funcionam por analogia e atraem o leitor",
+    "Eles provam a tese melhor que os factuais",
+    "Devem ser usados apenas na conclusão",
+    "São proibidos em redação dissertativa"
+   ],
+   "certa": 0,
+   "comentario": "Por serem ligados às manifestações artísticas, servem para comparação e para fisgar a atenção, não como prova.",
+   "trecho": "esses repertórios mais estéticos, né, muito ligados às manifestações artísticas, eles não necessariamente provam as coisas que a gente coloca no nosso texto",
+   "onde": 160
+  },
+  {
+   "enunciado": "Por que a aula recomenda repertórios factuais no desenvolvimento?",
+   "alternativas": [
+    "Porque chamam a atenção do leitor na introdução",
+    "Porque, ao expor um argumento com fato, fica difícil contestá-lo",
+    "Porque dispensam citar a fonte",
+    "Porque são sempre opiniões de especialistas"
+   ],
+   "certa": 1,
+   "comentario": "Dados de pesquisa e notícias comprovam o argumento e tornam o texto mais convincente.",
+   "trecho": "Você expõe esse argumento ali, traz um repertório factual, fica difícil a pessoa contestar a sua argumentação",
+   "onde": 286
+  },
+  {
+   "enunciado": "Um aluno, num tema sobre questões indígenas, cita a música \"Índios\", da Legião Urbana, só por ter a palavra. Qual o problema, segundo a aula?",
+   "alternativas": [
+    "A música é muito antiga para servir de repertório",
+    "Músicas nunca servem de repertório",
+    "A letra trata de questões indígenas, mas sem dados",
+    "A letra critica o materialismo, então citá-la só por mencionar uma palavra descontextualiza o texto"
+   ],
+   "certa": 3,
+   "comentario": "É preciso analisar o repertório e não usar algo só porque menciona uma palavra do tema.",
+   "trecho": "Então a gente precisa analisar bem os repertórios para não sair colocando qualquer coisa só porque fez menção a uma palavra que tem no tema",
+   "onde": 815
+  },
+  {
+   "enunciado": "Ao usar dados de pesquisa ou notícias como repertório, o que a aula recomenda?",
+   "alternativas": [
+    "Omitir a fonte para o texto ficar enxuto",
+    "Informar a fonte e preferir dados mais atuais",
+    "Usar sempre as pesquisas mais antigas",
+    "Citar só o nome do instituto, sem a data"
+   ],
+   "certa": 1,
+   "comentario": "Fonte e contextualização temporal dão credibilidade e sustentam melhor a ideia.",
+   "trecho": "É melhor a gente usar alguma coisa mais atual. E a gente precisa saber de onde vieram esses dados ou de onde veio essa notícia",
+   "onde": 976
+  }
+ ],
+ "https://www.youtube.com/watch?v=60wyY63Lz0k": [
+  {
+   "enunciado": "Segundo a aula, qual é a principal palavra da coesão sequencial?",
+   "alternativas": [
+    "A conjunção",
+    "O pronome pessoal",
+    "O sinônimo",
+    "O substantivo"
+   ],
+   "certa": 0,
+   "comentario": "A coesão sequencial dá sequência entre frases, períodos e parágrafos, sobretudo por conjunções; preposição e advérbio também podem fazê-lo.",
+   "trecho": "E a principal palavra que faz essa conexão é a conjunção. Mas a preposição e o adverbio também podem estabelecer esta relação",
+   "onde": 64
+  },
+  {
+   "enunciado": "Quais recursos fazem a coesão referencial, segundo a aula?",
+   "alternativas": [
+    "Conjunções, que dão sequência ao texto",
+    "Apenas os advérbios de tempo",
+    "Pronomes pessoais e relativos e sinônimos, que remetem ao que já foi ou será dito",
+    "Apenas a pontuação"
+   ],
+   "certa": 2,
+   "comentario": "A coesão referencial faz menção ao texto por pronomes e sinônimos, de forma anafórica ou catafórica.",
+   "trecho": "São palavras que fazem referência ao que já foi dito ou ao que ainda será dito",
+   "onde": 129
+  },
+  {
+   "enunciado": "Em \"O relato aborda sobre isto: igualdade social e dignidade humana\", o pronome \"isto\" é elemento de coesão:",
+   "alternativas": [
+    "referencial anafórico",
+    "referencial catafórico",
+    "sequencial",
+    "deítico"
+   ],
+   "certa": 1,
+   "comentario": "A catáfora aponta para o que ainda será dito; \"isto\" antecipa \"igualdade social e dignidade humana\".",
+   "trecho": "A palavra isto, o pronome demonstrativo isto, faz referência a algo que ainda será dito, que no caso aqui do exemplo, igualdade social e dignidade humana",
+   "onde": 223
+  },
+  {
+   "enunciado": "Em \"Isso acontecia antes apenas uma vez por semana e agora são três\", qual termo elíptico evita repetição?",
+   "alternativas": [
+    "semanas",
+    "ossos",
+    "anos",
+    "vezes"
+   ],
+   "certa": 3,
+   "comentario": "A frase equivale a \"agora são três vezes\"; o termo elíptico evita a repetição.",
+   "trecho": "Isso acontecia antes apenas uma vez por semana e agora são três vezes. Daí nós temos o termo que evitou a repetição",
+   "onde": 434
+  },
+  {
+   "enunciado": "Por que trocar \"contudo\" por \"conquanto\" prejudica o texto, segundo a aula?",
+   "alternativas": [
+    "Porque \"contudo\" é adversativa e \"conquanto\" é concessiva",
+    "Porque \"conquanto\" é conclusiva",
+    "Porque as duas são explicativas",
+    "Porque \"conquanto\" é uma preposição"
+   ],
+   "certa": 0,
+   "comentario": "Conquanto equivale a \"embora\" e não a \"contudo\", então muda a relação lógica e prejudica a gramática e o sentido.",
+   "trecho": "Gente, contudo é uma conjunção de adversidade. Conquanto é uma conjunção de concessão, é uma concessiva que a gente troca por embora, por apesar de que e não por contudo",
+   "onde": 703
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2017",
+ "cor": "AMARELA",
+ "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/55302/marinha-2017-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/Gabarito-CP-T-2017.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Cavalcanti et al. (2009) aborda as principais teorias sobre liderança desenvolvidas por diversos autores. Dentre as teorias do modelo contingencial, qual delas constitui seu foco sobre os seguidores, pressupõe que a liderança bem-sucedida só será alcançada por meio da seleção de um estilo de liderança adequada que depende do nível de preparo ou da maturidade dos seguidores?",
+   "alternativas": [
+    "Modelo de Participação do Líder (Vroon e Yetton).",
+    "Teoria dos Estilos de Liderança.",
+    "Teoria da Liderança Situacional.",
+    "Modelo do Caminho-Objetivo.",
+    "Grid Gerencial ou Managerial Grid."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.redalyc.org/pdf/1005/100517107007.pdf",
+   "comentario": "(Cobra além deste material.) Na Teoria da Liderança Situacional, de Hersey e Blanchard, o estilo eficaz (determinar, persuadir, compartilhar, delegar) depende da maturidade ou prontidão dos seguidores, o que a torna a teoria contingencial centrada nos liderados. O modelo de Vroom e Yetton também é contingencial, mas foca o grau de participação do grupo na tomada de decisão; o Caminho-Objetivo (House) foca como o líder esclarece metas e caminhos. A teoria dos estilos e o Grid Gerencial são abordagens comportamentais, não contingenciais."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "Tendo por base o Código de Ética Profissional do Psicólogo, coloque V (Verdadeiro) ou F (Falso) nas afirmativas abaixo e marque a opção que apresenta a sequência correta.\n( ) No atendimento não eventual à criança, ao adolescente ou ao interdito, deve ser obtida a autorização de ao menos um de seus responsáveis.\n( ) O psicólogo poderá intervir na prestação de serviços psicológicos que estejam sendo efetuados por outro profissional, em caso de emergência ou risco ao beneficiário ou usuário do serviço, quando dará imediata ciência ao profissional.\n( ) Em caso de extinção do serviço de Psicologia, o psicólogo responsável deverá destruir todos os arquivos confidenciais.\n( ) Em caso de transgressão dos preceitos do Código de Ética profissional, estará o profissional sujeito à aplicação de penalidade como a suspensão do exercício profissional por até 90 dias ad referendum do Conselho Federal de Psicologia.\n( ) Nos documentos que embasam as atividades em equipe multiprofissional, o psicólogo deverá registrar todas as informações recebidas para o total acompanhamento da equipe.",
+   "alternativas": [
+    "(V) (V) (V) (F) (F)",
+    "(V) (V) (F) (V) (F)",
+    "(F) (V) (F) (V) (F)",
+    "(F) (F) (F) (V) (V)",
+    "(V) (V) (F) (F) (F)"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://www.youtube.com/watch?v=1MVmB5iFdms",
+   "comentario": "(Cobra além deste material.) Pelo Código de Ética (Res. CFP 010/2005), a 1ª é verdadeira (art. 8º: autorização de ao menos um dos responsáveis no atendimento não eventual de criança, adolescente ou interdito) e a 2ª também (art. 7º: intervenção no serviço de outro profissional em caso de emergência ou risco, com imediata ciência a ele). A 3ª é falsa: na extinção do serviço, os arquivos não são destruídos pelo psicólogo, que informa ao CRP para que este dê a destinação (art. 15). A 4ª é falsa porque a suspensão ad referendum é de até 30 dias, não 90 (art. 21), e a 5ª é falsa porque nos documentos de equipe se registra só o necessário ao cumprimento dos objetivos do trabalho (art. 12)."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "Segundo Moscovici (2015), no estudo do funcionamento do grupo, quanto ao clima, é correto afirmar que",
+   "alternativas": [
+    "tem uma relação circular com a cultura grupal, mas não com os outros componentes do funcionamento grupal.",
+    "refere-se às condições atmosféricas do espaço psicossocial, mas não afeta os membros do grupo durante o tempo em que nele permanecem.",
+    "reúne os produtos materiais e não materiais, tais como objetos, documentos, obras de arte, conhecimentos, vocabulário próprio, experiências, sentimentos, atitudes, preconceitos, valores e normas de conduta.",
+    "pode variar desde sentimentos de bem-estar e satisfação até mal-estar e insatisfação, passando por gradações de tensão, estresse, entusiasmo, prazer, frustração e depressão.",
+    "ao lado da cultura de grupo, passam a caracterizar o próprio ambiente parcial e a imagem do grupo. Todos esses fatores concorrem para a qualidade do comportamento ou desempenho grupal em um período indeterminado."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "comentario": "Para Moscovici, o clima é a atmosfera psicossocial do grupo e varia num contínuo de bem-estar e satisfação até mal-estar e insatisfação, com gradações como tensão, entusiasmo e frustração. As erradas tentam pelo detalhe: o clima afeta os membros enquanto estão no grupo (B), mantém relação circular com todos os componentes do funcionamento grupal, não só com a cultura (A), e a lista de produtos materiais e não materiais em C é a definição de cultura do grupo, não de clima."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "Segundo Faissal et al. (2009), qual é o meio de atração muito utilizado pelas organizações, que tem como vantagem propiciar aos candidatos muitas informações sobre a organização, oferecendo um retrato do que ela é. Através desse meio podemos encontrar a missão, os valores, os serviços e os produtos oferecidos, o perfil das oportunidades, o perfil de competências, os benefícios, as políticas de gestão de pessoas e o código de ética?",
+   "alternativas": [
+    "Sites corporativos.",
+    "Anúncio em jornais e em revistas especializadas.",
+    "Programa de indicação pelos empregados.",
+    "Caçador de talentos (headhunter).",
+    "Palestras em instituições de ensino."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "O site corporativo (página de carreiras) é o meio de atração que mais informa o candidato sobre a organização: missão, valores, produtos, perfil de vagas e de competências, benefícios e políticas de pessoas. Anúncios em jornal, indicação de empregados, headhunter e palestras em escolas atraem candidatos, mas transmitem um retrato limitado da empresa, e a questão descreve justamente a riqueza de informação."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "Robbins (2010) destaca os métodos de socialização como uma das forças importantes na manutenção da cultura. Quanto às opções de práticas de socialização, coloque V (Verdadeiro) ou F (Falso), nas afirmativas abaixo, assinalando a seguir a opção que apresenta a sequência correta.\n( ) Quanto mais o novo funcionário for segregado do ambiente normal do trabalho e diferenciado de alguma forma para explicitar seu papel de recém-chegado, mais formal será a socialização.\n( ) A programação dentro da qual os recém-chegados devem fazer a transição de \"de fora\" para \"de dentro\" pode ser fixa ou variável. Na programação fixa, existem estágios padronizados de transição enquanto, no sistema variável, as transições no cronograma não são anunciadas.\n( ) A socialização seriada é caracterizada pela utilização dos modelos de papéis que treinam e incentivam o novato, tendo como exemplo o programa de aprendizes. Já na socialização aleatória, os modelos são deliberadamente omitidos e o novo funcionário é deixado sozinho para resolver como fazer as coisas, como no programa de mentores.\n( ) A socialização de despojamento parte do princípio de que as qualidades e as qualificações dos novatos são ingredientes necessários ao sucesso e, por isso, são confirmadas e apoiadas. A socialização do tipo investidura, ao contrário, tenta eliminar algumas características dos novos contratados.\n( ) Os novos membros podem ser socializados individualmente como também podem ser agrupados e expostos simultaneamente às mesmas experiências.",
+   "alternativas": [
+    "(V) (V) (F) (F) (V)",
+    "(F) (V) (F) (V) (V)",
+    "(V) (F) (V) (F) (V)",
+    "(F) (V) (F) (V) (F)",
+    "(V) (F) (F) (V) (V)"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/4006/400638287004.pdf",
+   "comentario": "(Cobra além deste material.) Robbins descreve a socialização por pares de opções: formal x informal, fixa x variável, seriada x aleatória, investidura x despojamento e individual x coletiva; a 1ª, a 2ª e a 5ª afirmativas descrevem corretamente três desses pares. A 3ª é falsa porque programas de aprendizes e de mentores são exemplos de socialização seriada (com modelos de papel), não aleatória. A 4ª é falsa porque inverte os conceitos: a investidura confirma e apoia as qualidades do novato, e o despojamento tenta eliminar algumas de suas características."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "De acordo com o modelo de cinco estágios de desenvolvimento do grupo apresentado por Robins (2010), em um desses estágios desenvolvem-se os relacionamentos mais próximos e o grupo passa a demonstrar coesão. Passa a existir um forte sentido de identidade coletiva e de camaradagem. Esse estágio se completa quando a estrutura do grupo se solidifica e assimila um conjunto de expectativas comuns que definem qual deve ser o comportamento correto de seus membros. Como é denominado esse estágio?",
+   "alternativas": [
+    "Formação.",
+    "Interrupção.",
+    "Tormenta.",
+    "Desempenho.",
+    "Normatização."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://rac.anpad.org.br/index.php/rac/article/download/393/391",
+   "comentario": "(Cobra além deste material.) No modelo de cinco estágios (formação, tormenta, normatização, desempenho e interrupção), a normatização é a fase em que surgem relações próximas, coesão e identidade coletiva, e se completa quando o grupo assimila expectativas comuns sobre o comportamento correto. A tormenta é a fase de conflito sobre controle e liderança, que vem antes; o desempenho é a fase em que a estrutura já aceita permite focar a tarefa; e a formação é marcada pela incerteza inicial."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "De acordo com Spector (2005), correlacione os tipos de validade às suas características e, a seguir, assinale a opção correta.\nTIPOS DE VALIDADE\nI- Validade do construto\nII- Validade do conteúdo\nIII- Validade relacionada ao critério\nIV- Validade aparente\nCARACTERÍSTICAS\n( ) Significa que as pontuações em uma medida de interesse estão relacionadas a outras medidas às quais deveriam estar relacionadas teoricamente.\n( ) Uma medida é válida com relação à ideia é o mesmo que dizer que temos confiança em nossa interpretação daquilo que a medida representa.\n( ) Significa que uma mensuração com vários itens de uma variável cobre adequadamente todo o domínio da variável.\n( ) Uma medida parece avaliar aquilo para a qual foi designada, isto é, parece avaliar o que se pretende.",
+   "alternativas": [
+    "(II) (IV) (III) (I)",
+    "(IV) (II) (III) (I)",
+    "(II) (I) (III) (IV)",
+    "(III) (I) (IV) (II)",
+    "(III) (I) (II) (IV)"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.youtube.com/watch?v=XUrunX0QGGA",
+   "comentario": "Na ordem das características: relacionar-se com outras medidas com que teoricamente deveria se relacionar é validade relacionada ao critério (III); confiança na interpretação do que a medida representa é validade de construto (I); cobrir todo o domínio da variável é validade de conteúdo (II); e parecer medir o que se pretende é validade aparente (IV). O erro mais comum é trocar construto por critério, porque ambos envolvem relações com outras variáveis, mas no texto de Spector o construto é definido pela interpretação do que a medida significa."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "Segundo Rezende (2000), assinale a opção correta com relação aos últimos momentos vivenciados pelos pacientes terminais.",
+   "alternativas": [
+    "A negação da morte libera a libido que estava sendo consumida para manter fora da mente o inaceitável.",
+    "As pessoas demandam um pedido de escuta para negarem a experiência de morrer.",
+    "Os pacientes associam a doença a uma queda e procuram algo em que se agarrar.",
+    "Comunicam-se por meio de uma imagem dos seus sentimentos relacionados à vida.",
+    "Dificuldades de adaptação, tais como aceitação da doença, isolamento e conflitos familiares são comuns."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-luto",
+   "item": "https://www.youtube.com/watch?v=me9jaFwAWv8",
+   "comentario": "Na obra de Rezende sobre a vivência da morte, os pacientes terminais costumam expressar a experiência do adoecer por imagens simbólicas, como a de uma queda, e buscam algo em que se agarrar. As outras invertem o sentido do texto: a negação consome energia psíquica em vez de liberá-la, o pedido de escuta serve para elaborar a experiência de morrer, não para negá-la, e a alternativa E descreve dificuldades de adaptação gerais da doença, não o que caracteriza os últimos momentos."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "De acordo com Urbina (2007), assinale a opção correta com relação aos conceitos de testagem e avaliação psicológica.",
+   "alternativas": [
+    "A Testagem Psicológica, em relação ao foco, tem por base a maneira como uma pessoa ou grupo se compara com outros (nomotético), enquanto a avaliação psicológica baseia-se na singularidade de um determinado indivíduo, grupo ou situação (idiográfico).",
+    "A Testagem Psicológica tem maior complexidade quando comparada à Avaliação Psicológica, pois a primeira envolve vários procedimentos, como entrevistas, observações, além de variadas dimensões.",
+    "A Avaliação Psicológica prima pela objetividade, enquanto a Testagem Psicológica possui na base de seus procedimentos um caráter mais subjetivo, na forma de julgamento clínico.",
+    "A Testagem Psicológica possui alto custo e requer profissionais altamente qualificados, enquanto a Avaliação Psicológica apresenta baixos custos, principalmente quando realizada em grupos.",
+    "A Avaliação Psicológica possui duração mais breve quando comparada à Testagem Psicológica, que se configura mais longa e pode levar até dias."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf",
+   "comentario": "Urbina distingue a testagem, de foco nomotético (comparar o desempenho da pessoa com o de outras), da avaliação psicológica, de foco idiográfico (a singularidade de uma pessoa, grupo ou situação). As outras invertem os papéis: é a avaliação que é mais complexa, usa entrevistas e observações, envolve julgamento clínico, custa mais e dura mais; a testagem é mais objetiva, breve e barata, sobretudo quando aplicada em grupo."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "Segundo Zimerman (2000), uma vantagem que a grupoterapia representa com relação à terapia individual consiste na possibilidade de uma observação mais evidente de três fenômenos de indiscutível frequência e importância. Que fenômenos são esses?",
+   "alternativas": [
+    "Transferência, Contratransferência e Dissociação.",
+    "Introjeção, Projeção e Dissociação.",
+    "Transferência Cruzada, Repressão e Fantasias Compartilhadas.",
+    "Identificação Coletiva, Complexo Fraterno e Fantasias Compartilhadas.",
+    "Identificação Coletiva, Transferência e Complexo Fraterno."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf",
+   "comentario": "Zimerman aponta como vantagem da grupoterapia a observação mais nítida da identificação coletiva, do complexo fraterno (as rivalidades e alianças entre 'irmãos' do grupo) e das fantasias compartilhadas, fenômenos que a situação bipessoal não mostra com a mesma clareza. Transferência, contratransferência, projeção e dissociação ocorrem também na terapia individual, por isso as alternativas que as incluem não descrevem uma vantagem própria do grupo."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "Em Zanelli, Borges-Andrade e Bastos (2004) são apresentados alguns elementos que favorecem a efetividade da equipe: quantidade suficiente de membros e de habilidades, autonomia e sistema de recompensas. Quanto a esses elementos, é correto afirmar que",
+   "alternativas": [
+    "os treinamentos não são imprescindíveis quando as habilidades, tanto relativas aos procedimentos técnicos e ao conhecimento quanto relativas ao relacionamento interpessoal, negociação ou comunicação, não estão presentes.",
+    "equipes que precisam de aprovação de membros internos para tomar todas as decisões têm grandes possibilidades de fracassar, talvez não na realização da tarefa, mas certamente na satisfação dos membros, no tempo gasto ou na qualidade dos resultados.",
+    "a responsabilidade diluída pode levar os membros da equipe a assumir riscos excessivos, com consequências não somente para a equipe, como também para a organização.",
+    "ao trabalhar em equipe, dificilmente pode-se perder o controle sobre a evolução do trabalho, os avanços obtidos ou os problemas enfrentados, pois depende mais daquilo que um indivíduo faz ou deixa de fazer.",
+    "sustentado em um adequado sistema de comunicação apenas, o sistema de recompensas individuais pode ser implantado, permitindo que os membros da equipe visualizem a relação entre esforço, desempenho e resultados."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://rac.anpad.org.br/index.php/rac/article/download/393/391",
+   "comentario": "Ao tratar da autonomia, o texto alerta que a responsabilidade diluída na equipe pode levar os membros a assumir riscos excessivos, com prejuízo para a equipe e para a organização. As outras distorcem o original: o treinamento é imprescindível justamente quando faltam habilidades (A), o risco de fracasso está nas equipes que dependem de aprovação externa para decidir (B), o trabalho em equipe facilita perder o controle da evolução do trabalho (D), e recompensas individuais tendem a prejudicar a equipe, que precisa de recompensas coletivas (E)."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "De acordo com Cunha (2000), fenomenologicamente e clinicamente, entende-se por ilusão a percepção deformada de um objeto, podendo esta ser causada pelos seguintes fatores:",
+   "alternativas": [
+    "falta de atenção, catatimias e erros de julgamento.",
+    "peculiaridades do sistema de refração, alterações de consciência e falta de memória.",
+    "erros de julgamento, agnosias e falta de atenção.",
+    "alterações da consciência, peculiaridades do sistema de refração e apatia.",
+    "limitação natural dos órgãos do sentido, oligofrenia e falta de atenção."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "comentario": "A ilusão é a percepção deformada de um objeto real, e a psicopatologia clássica a atribui sobretudo à falta de atenção (inatenção, fadiga), às catatimias (deformação pela carga afetiva, como ver um vulto ameaçador quando se está com medo) e a erros de julgamento. As alternativas erradas misturam fenômenos de outra ordem: agnosia é falha de reconhecimento, oligofrenia é deficiência intelectual, apatia é alteração do afeto e 'falta de memória' não causa ilusão."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "De acordo com a Resolução 007/2003, qual a modalidade de documento que tem como finalidade apresentar resposta esclarecedora, no campo do conhecimento psicológico, por meio de uma avaliação especializada, de uma questão-problema, visando a dirimir dúvidas que estão interferindo na decisão?",
+   "alternativas": [
+    "Declaração.",
+    "Parecer psicológico.",
+    "Avaliação psicológica.",
+    "Relatório.",
+    "Laudo psicológico."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://www.youtube.com/watch?v=zp6DEkDtCVQ",
+   "comentario": "O parecer psicológico é o documento que responde a uma questão-problema do campo psicológico, com base em avaliação especializada, para dirimir dúvidas que interferem numa decisão; essa definição se manteve na Res. CFP 06/2019, que substituiu a 007/2003. O laudo e o relatório descrevem os procedimentos e conclusões de um processo de avaliação ou acompanhamento, a declaração informa apenas dados objetivos (comparecimento, horários), e 'avaliação psicológica' é um processo, não uma modalidade de documento."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Baeta (2006) aborda a contribuição de Erik Erikson sobre os oito estágios do homem, que nos permitem ir além da infância e adolescência, refletindo sobre uma preocupação psicossocial e sobre o entendimento dos processos de desenvolvimento. Qual estágio da abordagem de E. Erikson que, incluindo aspectos psicossociais paralelos, seria equivalente ao que Freud denomina Período de Latência, no qual as energias sexuais da criança ficariam mais reprimidas e ela mais livre para se concentrar e aprender?",
+   "alternativas": [
+    "Intimidade versus isolamento.",
+    "Autonomia versus Vergonha e Dúvida.",
+    "Atividade versus Inferioridade.",
+    "Generatividade versus Estagnação.",
+    "Confiança versus Desconfiança."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "https://www.youtube.com/watch?v=sCxZx6xnLH4",
+   "comentario": "O estágio de Erikson correspondente à latência freudiana (cerca de 6 a 12 anos) é o de diligência, ou atividade, versus inferioridade, em que a criança investe em aprender e produzir na escola. Confiança versus desconfiança corresponde à fase oral, autonomia versus vergonha e dúvida à anal, e intimidade e generatividade são estágios da vida adulta."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "Segundo Papalia e Feldman (2013), assinale a opção que apresenta alguns dos principais transtornos emocionais que podem se desenvolver na infância.",
+   "alternativas": [
+    "Transtorno obsessivo-compulsivo, conversão histérica, depressão infantil, transtorno da conduta e transtorno da ansiedade de separação.",
+    "Transtorno da conduta, delírio, fobia social, transtorno obsessivo-compulsivo e transtorno da ansiedade de separação.",
+    "Transtorno da ansiedade de separação, depressão infantil, fobia social, transtorno da conduta e alucinação visual.",
+    "Fobia social, transtorno da ansiedade de separação, depressão infantil, perversão e transtorno da conduta.",
+    "Depressão infantil, fobia social, transtorno da ansiedade de separação, transtorno da conduta e transtorno obsessivo-compulsivo."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Papalia e Feldman citam como transtornos emocionais frequentes na infância a depressão infantil, a fobia social, o transtorno de ansiedade de separação, o transtorno da conduta e o transtorno obsessivo-compulsivo. Cada alternativa errada inclui um intruso que não é um transtorno emocional da infância nessa lista: delírio e alucinação visual são sintomas, não transtornos, perversão não é categoria do texto, e conversão histérica não está entre os quadros citados."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "Em Robins (2010), são descritas cinco estratégias de resolução de conflitos. Qual é a estratégia em que uma das partes sacrifica seus interesses substantivos em detrimento dos interesses contrários para fortalecer o relacionamento entre as partes?",
+   "alternativas": [
+    "Competição.",
+    "Acomodação.",
+    "Colaboração.",
+    "Evitamento.",
+    "Compromisso."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Robbins descreve cinco intenções de lidar com conflito, combinando assertividade e cooperação; a acomodação é a de quem coloca os interesses do outro acima dos próprios para preservar o relacionamento. Na competição a pessoa busca os próprios interesses a despeito do outro, na colaboração ambos buscam satisfazer plenamente os dois lados, no evitamento a pessoa se retira do conflito, e no compromisso cada parte cede algo."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato (2010), assinale a opção correta com relação às diferenças entre culturas adaptativas e culturas não adaptativas.",
+   "alternativas": [
+    "Nas culturas adaptativas, os administradores atribuem forte valor às pessoas e aos processos que podem criar mudanças úteis (como liderança acima e abaixo da hierarquia administrativa).",
+    "Nas culturas não adaptativas, os administradores iniciam a mudança quando precisam alcançar seus legítimos interesses, mesmo assumindo riscos.",
+    "Nas culturas adaptativas, os administradores atribuem mais valor à ordem e à redução de riscos nos processos administrativos do que ao fato de liderar iniciativas.",
+    "Nas culturas não adaptativas, os administradores prestam atenção a todos os aspectos, especialmente aos clientes, e cuidam profundamente destes.",
+    "Nas culturas adaptativas, os administradores não mudam suas estratégias prontamente para ajustar ou ganhar vantagens com a mudança em seus ambientes de trabalho."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=AjgMgRMpKc0",
+   "comentario": "(Cobra além deste material.) Nas culturas adaptativas, os administradores valorizam as pessoas e os processos capazes de produzir mudanças úteis, incluindo a liderança em toda a hierarquia, e mudam a estratégia com rapidez para aproveitar o ambiente. As erradas trocam os dois tipos: valorizar a ordem e a redução de risco acima da iniciativa (C) e não ajustar a estratégia (E) são marcas das culturas não adaptativas, enquanto prestar atenção aos clientes e às pessoas (D) é marca das adaptativas."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "De acordo com Cunha (2000), o processo psicodiagnóstico pode ter um ou vários objetivos, dependendo dos motivos alegados ou reais do encaminhamento ou da consulta. Sendo assim, é correto afirmar que o propósito de uma avaliação compreensiva é",
+   "alternativas": [
+    "fornecer subsídios para questões relacionadas à \"insanidade\", para avaliação de incapacidades ou patologias que podem se associar a infrações da lei etc.",
+    "investigar irregularidades ou inconsistências do quadro sintomático, para diferenciar opções diagnósticas, níveis de funcionamento ou a natureza da patologia.",
+    "determinar o nível de funcionamento da personalidade; examinar as funções do ego, em especial a de insight, condições do sistema de defesas, para facilitar a indicação de recursos terapêuticos e prever a possível resposta aos mesmos.",
+    "testar hipóteses iniciais, tomando por base critérios diagnósticos.",
+    "comparar a amostra do comportamento do examinado com os resultados de outros sujeitos da população em geral ou de grupos específicos, com condições demográficas equivalentes."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "comentario": "Entre os objetivos do psicodiagnóstico listados por Cunha, a avaliação compreensiva busca o nível de funcionamento da personalidade e o exame das funções do ego (insight, defesas) para indicar recursos terapêuticos e prever a resposta a eles. As outras alternativas descrevem outros objetivos da mesma lista: A é a perícia forense, B o diagnóstico diferencial, D a classificação nosológica e E a classificação simples, que compara o examinado com normas de grupos."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "De acordo com Freud, em seu texto \"Neurose e Psicose\" (1924 [1923]), assinale a opção correta com relação aos conceitos de neurose e psicose.",
+   "alternativas": [
+    "As neuroses transferenciais se originam de avançar-se o ego a aceitar um poderoso impulso instintual no id ou a ajudá-lo a encontrar um escoadouro motor, ou de o ego proibir àquele impulso o objeto a que visa.",
+    "A neurose é o resultado de um conflito entre o ego e o id, ao passo que a psicose é o desfecho análogo de um distúrbio semelhante nas relações entre o ego e o mundo externo.",
+    "Na psicose, o ego descobre a sua unidade ameaçada e prejudicada por um intruso - o sintoma - e continua a lutar contra ele, tal como desviou o impulso instintual original.",
+    "No quadro clínico da neurose, as manifestações do processo patogênico são amiúde recobertas por manifestações de uma tentativa de cura ou uma reconstrução.",
+    "As psicoses correspondem a um conflito entre o ego e o mundo externo; as neuroses narcísicas, a um conflito entre o ego e o id; e as neuroses de transferência, a um conflito entre o ego e o superego."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273",
+   "comentario": "(Cobra além deste material.) Em 'Neurose e psicose', Freud resume que a neurose é o resultado de um conflito entre o ego e o id, e a psicose, de um conflito entre o ego e o mundo externo. A alternativa E é a mais tentadora, mas troca os pares: no próprio texto, as neuroses de transferência correspondem ao conflito ego-id e as neuroses narcísicas ao conflito ego-superego. C e D também invertem: a luta contra o sintoma como intruso é descrita na neurose, e a tentativa de cura ou reconstrução que recobre o processo patogênico é própria da psicose."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato (2010), com relação às diferenças entre aptidão e capacidade na seleção de pessoas, assinale a opção correta.",
+   "alternativas": [
+    "Os testes psicológicos utilizados no processo seletivo focalizam principalmente as capacidades.",
+    "A capacidade é a disposição geral ou específica para o trabalho atual.",
+    "A aptidão possibilita a colocação imediata em determinado cargo.",
+    "A capacidade permite prognosticar o futuro do candidato no trabalho.",
+    "A capacidade é estado latente e potencial de comportamento."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "Chiavenato contrapõe aptidão e capacidade: a capacidade é a habilidade atual, a disposição para o trabalho presente, que permite a colocação imediata no cargo; a aptidão é potencial latente, que permite prognosticar o futuro do candidato. Por isso as erradas trocam os conceitos: os testes psicológicos focalizam aptidões (A), a colocação imediata vem da capacidade (C), o prognóstico vem da aptidão (D) e o estado latente é a aptidão (E)."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "De acordo com a lei 10.216/2001, que versa sobre a proteção e os direitos das pessoas portadoras de transtornos mentais, assinale a opção INCORRETA.",
+   "alternativas": [
+    "A internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes.",
+    "A internação psiquiátrica involuntária deverá imediatamente ser comunicada ao Ministério Público Estadual pelo responsável técnico do estabelecimento no qual tenha ocorrido.",
+    "A internação compulsória é determinada pela Justiça e levará em conta as condições de segurança do estabelecimento, quanto à salvaguarda do paciente, dos demais internados e funcionários.",
+    "É vedada a internação de pacientes portadores de transtornos mentais em instituições com características asilares.",
+    "O Tratamento visará, como finalidade permanente, à reinserção social do paciente em seu meio."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+   "comentario": "A afirmativa incorreta é a B, porque a Lei 10.216/2001 manda comunicar a internação involuntária ao Ministério Público Estadual no prazo de 72 horas (art. 8º, § 1º), e não imediatamente. As demais reproduzem a lei: a internação só quando os recursos extra-hospitalares forem insuficientes (art. 4º), a compulsória determinada pela Justiça considerando a segurança do estabelecimento (art. 9º), a vedação de instituições asilares (art. 4º, § 3º) e a reinserção social como finalidade permanente (art. 4º, § 1º)."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "De acordo com Chiavenato (2010), assinale a opção correta com relação às descrições dos diferentes níveis da cultura organizacional.",
+   "alternativas": [
+    "Os valores compartilhados constituem o primeiro nível da cultura, o mais superficial, visível e perceptível.",
+    "As pressuposições básicas são as percepções, sentimentos e crenças inconscientes e pressuposições dominantes e nos quais as pessoas acreditam.",
+    "Os artefatos constituem o segundo nível da cultura e funcionam como justificativas aceitas por todos os membros.",
+    "Os valores compartilhados constituem o nível mais íntimo, profundo e oculto da cultura organizacional.",
+    "As pressuposições básicas são os valores relevantes que se tornam importantes para as pessoas e que definem as razões pelas quais elas fazem o que fazem."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/2410/241016430005.pdf",
+   "comentario": "(Cobra além deste material.) Seguindo Schein, Chiavenato descreve três níveis: artefatos (o mais superficial e visível), valores compartilhados (justificativas aceitas por todos) e pressuposições básicas (o nível mais profundo, com crenças e percepções inconscientes e dominantes). As erradas trocam os níveis: o primeiro nível são os artefatos, não os valores (A); as justificativas aceitas por todos são os valores, não os artefatos (C); o nível mais profundo são as pressuposições, não os valores (D); e E descreve valores, não pressuposições."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "Segundo Dejours (1992), pode-se agrupar esquematicamente os diferentes componentes da ansiedade em três itens. Que itens são esses?",
+   "alternativas": [
+    "Ansiedade relativa à degradação do organismo, ansiedade gerada pela \"disciplina do medo\", e ansiedade relativa à degradação do funcionamento mental e do equilíbrio psicoafetivo.",
+    "Ansiedade relativa à degradação do funcionamento mental e do equilíbrio psicoafetivo, ansiedade relativa à degradação do organismo, e ansiedade gerada pela \"disciplina da fome\".",
+    "Ansiedade gerada pela \"disciplina da fome\", ansiedade relativa à degradação do funcionamento mental e do equilíbrio psicorgânico, e ansiedade relativa à degradação do organismo.",
+    "Ansiedade relativa à degradação do funcionamento físico e do equilíbrio psicoafetivo, ansiedade gerada pela \"disciplina da fome\", e ansiedade relativa à degradação do organismo.",
+    "Ansiedade relativa à degradação do psiquismo, ansiedade relativa à degradação do funcionamento mental e do equilíbrio psicoafetivo, e ansiedade gerada pela \"disciplina da fome\"."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf",
+   "comentario": "(Cobra além deste material.) Em 'A loucura do trabalho', Dejours agrupa a ansiedade do trabalhador em três itens: a relativa à degradação do funcionamento mental e do equilíbrio psicoafetivo, a relativa à degradação do organismo e a gerada pela 'disciplina da fome'. As erradas trocam expressões do original, como 'disciplina do medo', 'equilíbrio psicorgânico', 'funcionamento físico' ou 'degradação do psiquismo', e por isso a leitura atenta dos termos exatos decide a questão."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Com relação a hospitalização de um dos membros de uma família, Romano (1999) afirma que",
+   "alternativas": [
+    "paciente \"incapacitado\" (mesmo que temporariamente) não é igual à família incapacitada.",
+    "membros de uma família não correm o risco de ter comprometida a habilidade em entender políticas, rotinas e procedimentos do hospital.",
+    "a interação da equipe com a família é habitualmente vista como estressante, ilimitada e menos que satisfatória.",
+    "tanto o paciente quanto a família têm percepção clara de suas necessidades, que geralmente não são as mesmas percepções da equipe quanto a prioridades.",
+    "programas de orientação pré-operatória reduzem ansiedade, mas não possibilitam atitudes positivas sobre a hospitalização."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-hospitalar",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/11/ServHosp_web1.pdf",
+   "comentario": "Romano destaca que paciente e família têm percepção clara das próprias necessidades, mas essas percepções geralmente não coincidem com as prioridades da equipe, o que exige do psicólogo a mediação entre eles. As outras negam o que o texto afirma: paciente incapacitado tende a significar família incapacitada (A), os familiares correm risco de não entender rotinas e procedimentos do hospital (B), e a orientação pré-operatória reduz a ansiedade e favorece atitudes positivas (E)."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "No texto \"Luto e melancolia\" (1917 [1915]), Freud apresenta formulações a respeito dos processos de luto e melancolia. Coloque V (Verdadeiro) ou F (Falso) nas afirmativas abaixo e, em seguida, assinale a opção que apresenta a sequência correta.\n( ) Os traços mentais distintivos do luto são um desânimo profundamente penoso, cessação de interesse pelo mundo externo, a perda da capacidade de amar, a inibição de toda e qualquer atividade, e uma diminuição dos sentimentos de autoestima, a ponto de encontrar expressão em autorecriminação e autoenvilecimento.\n( ) Embora o luto envolva graves afastamentos daquilo que constitui a atitude normal para com a vida, jamais pode ser considerado como uma condição patológica e ser submetido a tratamento médico.\n( ) Na melancolia, é o mundo que se torna pobre e vazio; no luto, é o próprio ego. O paciente representa seu ego desprovido de valor, incapaz de qualquer realização e moralmente desprezível.\n( ) Os pacientes melancólicos estão longe de demonstrar perante aqueles que o cercam uma atitude de humildade e submissão, única que caberia a pessoas tão desprezíveis. Pelo contrário, tornam-se as pessoas mais maçantes, dando sempre a impressão de que se sentem desconsideradas e de que foram tratadas com grande injustiça.\n( ) Na melancolia, a relação com o objeto não é simples; ela é complicada pelo conflito devido a uma ambivalência. Esta ou é constitucional, isto é, um elemento de toda relação amorosa formada por esse ego particular, ou provém precisamente daquelas experiências que envolveram a ameaça da perda do objeto.",
+   "alternativas": [
+    "(F) (F) (F) (V) (V)",
+    "(V) (F) (V) (F) (F)",
+    "(F) (V) (F) (V) (F)",
+    "(F) (V) (F) (V) (V)",
+    "(F) (V) (V) (F) (V)"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=oHsInJ9BpXM",
+   "comentario": "A sequência é F, V, F, V, V. A 1ª é falsa porque a diminuição da autoestima, com autorrecriminação, é o traço que distingue a melancolia do luto; a 3ª é falsa porque inverte a frase de Freud: no luto é o mundo que se torna pobre e vazio, na melancolia é o próprio ego. As demais estão no texto: o luto não é tratado como condição patológica, o melancólico não se mostra humilde e sim queixoso de injustiça, e a ambivalência complica a relação com o objeto."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "Segundo a classificação de transtornos mentais e de comportamento da CID-10 (1993), assinale a opção correta com relação ao conceito de demência.",
+   "alternativas": [
+    "Na demência, os comprometimentos de função cognitiva são raramente acompanhados, e frequentemente precedidos, por deterioração no controle emocional, comportamento social ou motivação.",
+    "A demência é uma síndrome decorrente de uma doença cerebral, usualmente de natureza crônica ou progressiva, na qual há perturbação de múltiplas funções corticais superiores.",
+    "A demência produz um apreciável declínio no funcionamento intelectual e raramente alguma interferência com atividades pessoais do dia a dia, tais como limpeza, alimentação, etc.",
+    "O requisito secundário para o diagnóstico é a evidência de um declínio tanto na linguagem quanto no pensamento, o qual é suficiente para comprometer atividades pessoais da vida diária.",
+    "A demência na Doença de Alzheimer é atualmente irreversível, instala-se usualmente de modo abrupto e desenvolve-se rapidamente no indivíduo."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download",
+   "comentario": "A CID-10 define a demência como síndrome decorrente de doença cerebral, em geral crônica ou progressiva, com perturbação de múltiplas funções corticais superiores (memória, pensamento, orientação, linguagem, julgamento). As erradas trocam advérbios do texto original: o comprometimento cognitivo é comumente acompanhado (não raramente) por deterioração emocional e comportamental (A), há interferência nas atividades do dia a dia (C), o requisito principal é o declínio da memória e do pensamento (D), e o Alzheimer tem início insidioso e desenvolvimento lento (E)."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Conforme Chiavenato (2010), as organizações mais bem-sucedidas investem pesadamente em treinamento para obterem um retorno garantido. Assinale a opção correta sobre o processo de treinamento.",
+   "alternativas": [
+    "Focaliza, em geral, os cargos a serem ocupados futuramente na organização e as novas habilidades e competências que serão requeridas.",
+    "Boa parte dos programas de treinamento procura mudar as atitudes reativas e conservadoras das pessoas para atitudes proativas e inovadoras para melhorar seu espírito de equipe e sua criatividade.",
+    "É um processo cíclico e contínuo, composto de três etapas: diagnóstico, desenho e implementação.",
+    "Constitui o núcleo de um esforço temporário desenhado para melhorar as competências das pessoas e, consequentemente, o desempenho organizacional.",
+    "Modernamente, o treinamento é considerado um meio para adequar cada pessoa a seu cargo e desenvolver a força de trabalho da organização a partir do preenchimento de cargos."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.youtube.com/watch?v=jEZ7mcdBow4",
+   "comentario": "Chiavenato afirma que boa parte dos programas de treinamento busca mudar atitudes reativas e conservadoras para proativas e inovadoras, melhorando espírito de equipe e criatividade. A alternativa A descreve o desenvolvimento, voltado a cargos futuros; o processo de treinamento tem quatro etapas, com avaliação após diagnóstico, desenho e implementação (C); o treinamento é esforço contínuo, não temporário (D); e adequar a pessoa ao cargo é a visão tradicional, não a moderna (E)."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "Segundo Pain (1985), assinale a opção correta com relação ao diagnóstico e ao tratamento de transtornos de aprendizagem.",
+   "alternativas": [
+    "O psicólogo deve levar em consideração a viabilidade do tratamento com relação aos determinantes econômicos e sócioculturais que afetam o sujeito e sua eficácia para integrá-lo numa situação ideal.",
+    "O tratamento psicanalítico do paciente é o mais indicado no caso de um transtorno na aprendizagem.",
+    "O tratamento começa a partir da última entrevista diagnóstica, já que o enfrentamento do paciente com sua própria realidade o obriga a uma série de aproximações, avanços e retrocessos mobilizadores de um conjunto de sentimentos contraditórios.",
+    "No caso de quadros com componentes orgânicos consideráveis e déficit intelectual, os pais costumam confirmar de todas as maneiras aquilo de que suspeitam e buscam argumentos conciliadores.",
+    "Diagnosticar o não-aprender como sintoma consiste em encontrar sua funcionalidade, isto é, sua articulação na situação integrada pelo paciente e seus pais."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://idonline.emnuvens.com.br/id/article/download/2369/3654/9465",
+   "comentario": "(Cobra além deste material.) Para Sara Paín, diagnosticar o não-aprender como sintoma é encontrar sua funcionalidade, isto é, como ele se articula na situação que envolve o paciente e seus pais. As erradas contrariam a autora: o tratamento não visa integrar o sujeito numa 'situação ideal', a psicanálise não é indicada por princípio para todo problema de aprendizagem, e diante de componente orgânico e déficit intelectual os pais tendem a negar, não a confirmar, aquilo de que suspeitam."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "Considerando o preconizado por Chiavenato (2010), assinale a opção que define corretamente o recrutamento baseado em competências.",
+   "alternativas": [
+    "O objetivo primário é atrair candidatos para cargos vagos.",
+    "O indicador é o grau de atratividade de candidatos.",
+    "A eficiência se baseia na rapidez na atratividade de competências necessárias.",
+    "A eficácia se baseia nos candidatos disponíveis no banco de candidatos.",
+    "O objetivo final é abastecer o processo seletivo com candidatos a cargos vagos."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "No recrutamento baseado em competências, Chiavenato coloca a eficiência na rapidez em atrair as competências de que a organização precisa. As demais alternativas descrevem o recrutamento tradicional: atrair candidatos para cargos vagos, medir pelo grau de atratividade de candidatos, apoiar-se no banco de candidatos e abastecer o processo seletivo para preencher cargos."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "Para Amarante (2007), a atenção à crise representa um dos aspectos mais difíceis e estratégicos. No contexto da saúde mental e atenção psicossocial, como a crise é entendida?",
+   "alternativas": [
+    "Situação de grave disfunção que ocorre exclusivamente em decorrência da doença.",
+    "Resultado de uma série de fatores que envolvem terceiros, sejam eles familiares, vizinhos, amigos ou mesmo desconhecidos.",
+    "Um momento que pode ser resultado de um aumento do limiar de solidariedade de uns para com outros.",
+    "Uma situação cuja resposta pode ser agarrar a pessoa em crise a qualquer custo; amarrá-la, injetar-lhe fortes medicamentos intravenosos de ação no sistema nervoso central a fim de dopá-la, aplicar-lhe eletroconvulsoterapia.",
+    "Uma situação de precariedade de recursos para tratar a pessoa em sua residência, enfim uma situação mais biológica que puramente psicológica ou social."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://laps.ensp.fiocruz.br/arquivos/documentos/19",
+   "comentario": "Amarante entende a crise, no campo da atenção psicossocial, como resultado de uma série de fatores que envolvem terceiros, como familiares, vizinhos, amigos e até desconhecidos, e não só como expressão da doença. A alternativa A reduz a crise à doença, que é a visão psiquiátrica tradicional criticada pelo autor; C troca 'diminuição' por 'aumento' do limiar de solidariedade; e D e E descrevem a resposta manicomial e a leitura biologizante que a reforma combate."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Segundo a Resolução CFP n° 007/2003, existem dois documentos que não são decorrentes da avaliação Psicológica, embora muitas vezes apareçam dessa forma. Que documentos são esses?",
+   "alternativas": [
+    "Declaração e Atestado psicológico.",
+    "Atestado psicológico e Relatório.",
+    "Relatório e Parecer psicológico.",
+    "Parecer psicológico e Declaração.",
+    "Declaração e Relatório."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://www.youtube.com/watch?v=zp6DEkDtCVQ",
+   "comentario": "A Res. CFP 007/2003 diz que a declaração e o parecer psicológico não são documentos decorrentes da avaliação psicológica, embora muitas vezes apareçam como tal: a declaração só registra informações objetivas, e o parecer responde a uma questão-problema a partir de conhecimento especializado. Atestado, relatório e laudo, ao contrário, decorrem de avaliação, por isso toda alternativa que os inclui está errada."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "Segundo Gigliotti (2010), de acordo com o Modelo Matrix para tratamento de dependência química de Christiane Farentinos e Cristiane Lopes, assinale a opção INCORRETA.",
+   "alternativas": [
+    "Foi criado para oferecer tratamento durante a internação.",
+    "Tem como um de seus princípios a solicitação de exames de urina para monitorar o uso de drogas.",
+    "A interação entre o paciente e o terapeuta é realista e direta, porém não confrontativa e parental.",
+    "Os profissionais são treinados para olhar o processo de tratamento como um exercício de aumento da auto-estima, da dignidade e do próprio valor.",
+    "Um poderoso componente do modelo Marix é a hipótese de que a dependência química seja uma doença do cérebro."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf",
+   "comentario": "(Cobra além deste material.) A afirmativa incorreta é a A: o Modelo Matrix foi criado como tratamento ambulatorial intensivo para dependência de estimulantes, não para pacientes internados. Os demais itens descrevem o modelo: monitoramento por exames de urina, relação terapeuta-paciente realista e direta mas não confrontativa nem paternalista, foco no aumento da autoestima e da dignidade, e a premissa de que a dependência química é uma doença do cérebro."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Segundo Kaplan (1997), associe os seguintes sinais e sintomas típicos de doenças psiquiátricas às suas respectivas causas.\nSINAIS E SINTOMAS\nI- Obnubilação da consciência\nII- Humor disfórico\nIII- Abreação\nIV- Ecopraxia\nV- Dipsomania\nDEFINIÇÕES\n( ) Liberação ou descarga emocional após a recordação de uma experiência dolorosa.\n( ) Imitação patológica dos movimentos de uma pessoa por outra.\n( ) Compulsão por ingerir álcool.\n( ) Pensamento pouco claro, com perturbação na percepção e nas atitudes.\n( ) Estado de ânimo desagradável.",
+   "alternativas": [
+    "(III) (IV) (V) (I) (II)",
+    "(III) (V) (IV) (I) (II)",
+    "(II) (IV) (V) (III) (I)",
+    "(V) (IV) (III) (I) (II)",
+    "(V) (IV) (II) (I) (III)"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "comentario": "Na ordem das definições: descarga emocional após recordar experiência dolorosa é abreação (III); imitação patológica dos movimentos de outra pessoa é ecopraxia (IV); compulsão por ingerir álcool é dipsomania (V); pensamento pouco claro com perturbação da percepção e das atitudes é obnubilação da consciência (I); e estado de ânimo desagradável é humor disfórico (II). A alternativa B é a armadilha, porque inverte apenas ecopraxia e dipsomania."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato (2010), assinale a opção correta com relação aos tipos de entrevista de seleção.",
+   "alternativas": [
+    "A entrevista totalmente padronizada perde profundidade e flexibilidade.",
+    "A entrevista não-diretiva determina o tipo de resposta requerida, mas não especifica as questões.",
+    "A entrevista padronizada apenas nas perguntas não permite respostas abertas.",
+    "A entrevista diretiva especifica as questões e determina o tipo de resposta desejada.",
+    "A entrevista livre é aquela com roteiro definido."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "comentario": "Chiavenato classifica as entrevistas de seleção pelo grau de padronização: a totalmente padronizada (estruturada) facilita comparar candidatos, mas perde em profundidade e flexibilidade. As erradas trocam os tipos: é a entrevista diretiva que determina o tipo de resposta sem especificar as questões (B e D); a padronizada só nas perguntas admite respostas abertas (C); e a entrevista livre, ou não diretiva, é a que não tem roteiro (E)."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "De acordo com Romano (1999), qual é o termo, introduzido pelos norte-americanos, que é muito apropriado quando se estuda a saúde mental em hospitais gerais?",
+   "alternativas": [
+    "Patológico.",
+    "Normal.",
+    "Reativo.",
+    "Biológico.",
+    "Esperado."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-hospitalar",
+   "item": "https://www.youtube.com/watch?v=Dtpy12uWMpE",
+   "comentario": "Romano considera apropriado o termo 'esperado', dos autores norte-americanos, para as reações emocionais de quem adoece e é hospitalizado: tristeza, medo e ansiedade são respostas esperadas diante da situação, e não necessariamente patológicas. Os termos 'patológico' e 'normal' polarizam o que o 'esperado' quer evitar, e 'reativo' e 'biológico' não são o termo destacado pela autora."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "Moscovici (2015) afirma que a questão treinamento versus terapia é tema recorrente durante o laboratório de sensibilidade e constitui uma preocupação legítima dos participantes, sobretudo nas etapas iniciais do treinamento. Quanto à distinção entre terapia e treinamento, é correto afirmar que",
+   "alternativas": [
+    "na terapia, os pacientes conflitados procuram tratamento psicológico para seus problemas e comportamentos disfuncionais. Os treinandos não sofrem de conflitos e procuram adquirir e aperfeiçoar habilidades para a sobrevivência de seu eu.",
+    "os pacientes têm confiança maior em um profissional (psicoterapeuta) para dialogar e aprender. Os treinandos não têm confiança em si mesmos mas nos outros membros do grupo como recursos de aprendizagem.",
+    "o paciente tem sua motivação mais orientada para a defesa e a preservação de seu eu. O treinando tem sua motivação orientada para o crescimento e não simplesmente para a homeostasia e defesa de seu repertório reacional.",
+    "nos grupos de terapia, os tipos de feedback predominante são interpretativo, diretamente verificável, pouco avaliativo e emocional. Nos grupos de treinamento, os tipos de feedback predominante são pouco distorcido, inferido e avaliativo.",
+    "os grupos de terapia visam ajudar seus membros a alcançar um insight mais superficial de suas motivações inconscientes nas situações de vida. Nos grupos de treinamento, o insight alcançado é mais profundo de seus desempenhos em situações sociais e profissionais."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "Moscovici distingue terapia e treinamento pela motivação: o paciente está mais orientado à defesa e à preservação do eu, e o treinando ao crescimento, não só à homeostase e à defesa de seu repertório. As erradas distorcem o texto: o treinando não está livre de conflitos (A), confia em si e no grupo como recurso de aprendizagem (B), os tipos de feedback estão trocados (D), e é na terapia que o insight sobre motivações inconscientes é mais profundo (E)."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "Segundo Visca (1991), a Epistemologia Convergente afirma que a aprendizagem pode adotar, no contínuo da normalidade-anormalidade, três grandes formas. São elas:",
+   "alternativas": [
+    "patogênica, normal, e patológica.",
+    "patológica, normal e nosográfica.",
+    "normal, patogênica, e interativa.",
+    "patogênica, patológica, e universal.",
+    "patológica, interativa, e normal."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://periodicos.pucpr.br/psicologiaargumento/article/download/23749/pdf/50989",
+   "comentario": "(Cobra além deste material.) Na Epistemologia Convergente, Visca situa a aprendizagem num contínuo com três grandes formas: normal, patológica e patogênica (esta última, a aprendizagem que produz dano, como aprender algo nocivo ao sujeito). As alternativas erradas introduzem termos que não pertencem a essa classificação, como 'nosográfica', 'interativa' e 'universal'."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Há vários métodos de treinamento diferentes disponíveis, segundo Spector (2005), um deles consiste em fazer com que os trainees observem alguém realizar uma tarefa e, então, pedir para que eles repitam o que viram. O modelo pode ser um filme ou vídeo. Este enfoque é frequentemente utilizado para o treinamento de habilidades de supervisão, como dar um feedback negativo para o funcionário que tiver um desempenho fraco. Como esse método é denominado?",
+   "alternativas": [
+    "Auto-instrução.",
+    "Conferência.",
+    "Palestra.",
+    "Modelagem.",
+    "Simulações."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.youtube.com/watch?v=jEZ7mcdBow4",
+   "comentario": "A modelagem consiste em fazer os treinandos observarem alguém (ao vivo ou em vídeo) executar a tarefa e depois repetirem o que viram, e Spector a cita para habilidades de supervisão como dar feedback negativo. Autoinstrução é o estudo individual sem instrutor, conferência e palestra transmitem informação a um grupo sem prática imitativa, e simulações reproduzem a situação de trabalho com equipamentos ou cenários, não a partir da observação de um modelo."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "De acordo com Zimerman (2000), quais foram os vínculos introduzidos, respectivamente, por Bion e o próprio Zimerman, que alteraram a concepção do eixo central do conflito psíquico no campo psicanalístico.",
+   "alternativas": [
+    "Amor e ódio.",
+    "Amor e conhecimento.",
+    "Ódio e conhecimento.",
+    "Amor e reconhecimento.",
+    "Conhecimento e reconhecimento."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://www.youtube.com/watch?v=h-fdQEGLRG8",
+   "comentario": "(Cobra além deste material.) Zimerman lembra que, aos vínculos de amor e ódio da psicanálise clássica, Bion acrescentou o vínculo do conhecimento (K) e o próprio Zimerman propôs o vínculo do reconhecimento, o que deslocou o eixo do conflito psíquico. As alternativas com amor ou ódio estão erradas porque esses vínculos já eram centrais antes de Bion, e o enunciado pede os que foram introduzidos por ele e por Zimerman."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "O programa de Orientação Profissional elaborado por Bock (2006) e colaboradores é desenvolvido em 3 módulos. Como é caracterizada a segunda sessão do módulo 1?",
+   "alternativas": [
+    "Abordagem da relação gênero e escolha e a relação do desempenho escolar com a escolha.",
+    "Dedicação total à apresentação de como o programa é desenvolvido e ao mútuo conhecimento dos membros do grupo.",
+    "Colocação de três temas em pauta: o mercado de trabalho, os meios de comunicação e o vestibular.",
+    "Início do processo de informação profissional. Apresenta-se o jogo de fichas das profissões, que se constitui de mais de cem fichas com o nome das profissões.",
+    "Atividade de autoconhecimento por meio de estratégia grupal. O procedimento utilizado tem o nome de \"atividade de lã\"."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.feis.unesp.br/Home/DSAA/DSAA/ProjetoGQT-SCM/documentos/educacao/orineta%E7%E3opara%20otrabalho.pdf",
+   "comentario": "(Cobra além deste material.) No programa de orientação profissional de Bock e colaboradores, de base sócio-histórica, a segunda sessão do módulo 1 coloca em pauta três temas que atravessam a escolha: o mercado de trabalho, os meios de comunicação e o vestibular. A apresentação do programa e o conhecimento mútuo pertencem ao primeiro encontro, e as atividades de informação profissional, como o jogo de fichas de profissões, vêm em etapa posterior do programa."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "De acordo com Gilléron (2004), a Psicoterapia Breve Provocadora de Ansiedade (STAP) aponta para alguns critérios de seleção de um candidato adequado à referida intervenção. Assinale a opção que NÃO apresenta um critério correspondente a essa técnica.",
+   "alternativas": [
+    "Presença de uma relação significativa nos primeiros anos de vida.",
+    "Inteligência acima da média.",
+    "Capacidade do paciente de delimitar uma queixa principal.",
+    "Disposição para uma interação transigente com o interlocutor.",
+    "Ter se submetido anteriormente à psicoterapia de longa duração."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484",
+   "comentario": "Os critérios de seleção da STAP, de Sifneos, citados por Gilliéron, são: uma relação significativa nos primeiros anos de vida, inteligência acima da média, capacidade de delimitar uma queixa principal, interação flexível com o avaliador e motivação para mudar. Ter feito psicoterapia longa antes não é critério da técnica, por isso é a alternativa que deve ser marcada."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "A motivação dos trabalhadores pode ser abordada em diferentes perspectivas. De acordo com Robbins (2010), as 'teorias contemporâneas' têm um razoável grau de validação empírica. Quanto à teoria do estabelecimento de objetivos, é correto afirmar que",
+   "alternativas": [
+    "objetivos fáceis, quando aceitos, melhoram mais o desempenho do que aqueles mais difíceis.",
+    "todos os tipos de feedback têm a mesma potência.",
+    "a especificidade do objetivo em si funciona como um estímulo externo.",
+    "sempre que os funcionários têm a oportunidade de participar da fixação dos próprios objetivos, eles se esforçam mais.",
+    "essa teoria não funciona igualmente bem para todas as tarefas."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "",
+   "comentario": "Robbins observa que a teoria do estabelecimento de objetivos não funciona igualmente bem para todas as tarefas: o efeito é mais forte em tarefas simples e conhecidas do que em tarefas complexas e novas. As erradas contrariam a teoria: objetivos difíceis e aceitos geram melhor desempenho que os fáceis (A), o feedback autogerado é mais potente que o externo (B), a especificidade funciona como estímulo interno (C), e a participação na fixação de objetivos não garante sempre mais esforço (D)."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "De acordo com Vasconcelos (2008), para fins didáticos, o procedimento de mediação pode ser dividido em seis etapas, visando a facilitar seu andamento. Quais são elas?",
+   "alternativas": [
+    "Apresentação e recomendações, esforço pela criação de opções com base em critérios objetivos, capacitação de mediadores, elaboração do acordo, narrativas iniciais dos mediandos e busca de identificação dos reais interesses.",
+    "Elaboração do acordo, efetividade do direito de acesso, compartilhamento de um resumo do acontecido, apresentação e recomendações, narrativas iniciais dos mediandos e busca de identificação dos reais interesses.",
+    "Apresentação e recomendações, busca de identificação dos reais interesses, elaboração do acordo, narrativas iniciais dos mediandos, esforço pela criação de opções com base em critérios objetivos e escuta ativa.",
+    "Busca de identificação dos reais interesses, elaboração do acordo, narrativas iniciais dos mediandos, apresentação e recomendações, esforço pela criação de opções com base em critérios objetivos e compartilhamento de um resumo do acontecido.",
+    "Perguntas sem julgamento, narrativas iniciais dos mediandos, busca de identificação dos reais interesses, elaboração do acordo, apresentação e recomendações e esforço pela criação de opções com base em critérios objetivos."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Vasconcelos divide a mediação, para fins didáticos, em seis etapas: apresentação e recomendações, narrativas iniciais dos mediandos, compartilhamento de um resumo do acontecido, busca de identificação dos reais interesses, criação de opções com base em critérios objetivos e elaboração do acordo. A alternativa correta traz exatamente essas seis, fora de ordem; as demais incluem itens que não são etapas do procedimento, como capacitação de mediadores, efetividade do direito de acesso, escuta ativa e perguntas sem julgamento."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "De acordo com Kaplan (1997), assinale a opção correta com relação aos transtornos alimentares.",
+   "alternativas": [
+    "As pessoas com anorexia nervosa frequentemente mantêm o comportamento em segredo, aceitam seus sintomas e o tratamento.",
+    "Os indivíduos com bulimia nervosa preocupam-se pouco com o peso, alimentos e forma corporal.",
+    "A anorexia nervosa é caracterizada por uma profunda perturbação da imagem corporal e a busca incessante da magreza, frequentemente ao ponto da inanição.",
+    "Os pacientes com bulimia nervosa não conseguem manter um peso corporal normal.",
+    "A bulimia nervosa consiste em raros episódios do consumo de grandes quantidades de alimentos acompanhado por um sentimento de perda do controle."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "A anorexia nervosa se caracteriza por profunda perturbação da imagem corporal e busca incessante da magreza, muitas vezes até a inanição. As erradas trocam traços dos quadros: quem tem anorexia mantém o comportamento em segredo e nega os sintomas, resistindo ao tratamento (A); na bulimia há grande preocupação com peso e forma (B), o peso costuma ficar na faixa normal (D) e os episódios de compulsão são recorrentes, não raros (E)."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "De acordo com Dutra et al. (2008), o conceito de competência parece ser objeto de uma diversidade de perspectivas, EXCETO:",
+   "alternativas": [
+    "economia do trabalho",
+    "educação.",
+    "sociologia do trabalho.",
+    "direito.",
+    "filosofia."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.scielo.br/pdf/rae/v41n1/v41n1a02.pdf",
+   "comentario": "Dutra e colaboradores mostram que competência não tem definição única porque o conceito foi construído em campos aplicados ao mundo do trabalho e da formação, como a economia do trabalho, a sociologia do trabalho, a educação e o direito (este, na origem jurídica do termo, a faculdade de apreciar e julgar uma questão). A filosofia é a área que não figura entre essas perspectivas, por isso é a exceção pedida."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "De acordo com Groisman et al. (1996), na abordagem da família no modelo terapêutico sistêmico-vivencial, existem elementos componentes principais que se interconectam e são pesquisados e estudados para abrirem possibilidades de intervenção. Dentre esses elementos, está a missão familiar. Quanto a este elemento, é correto afirmar que",
+   "alternativas": [
+    "não está associado à história vertical da família (família extensiva) no cruzamento com a história horizontal (família nuclear).",
+    "acompanha o ser humano por toda a sua existência, está inscrita na sua matriz familiar de uma forma consciente, comandando sua vida.",
+    "Pode-se tornar maior que o indivíduo, transformando-o em \"robô\" dessa missão, o que compromete sua identidade.",
+    "exterioriza-se por meio da função que o indivíduo desempenha na família e não pelo seu desempenho social, amoroso e profissional.",
+    "não traz uma tonalidade positiva, pois não estimula o ser humano a desenvolver sua individualidade."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://seer.ufrgs.br/index.php/hcpa/article/view/125095",
+   "comentario": "(Cobra além deste material.) No modelo sistêmico-vivencial de Groisman, a missão familiar pode se tornar maior que o indivíduo e transformá-lo num 'robô' dessa missão, o que compromete sua identidade. As erradas negam o texto: a missão está ligada ao cruzamento da história vertical (família extensa) com a horizontal (família nuclear) (A), inscreve-se de forma inconsciente, não consciente (B), aparece também no desempenho social, amoroso e profissional (D), e pode ter tonalidade positiva (E)."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Segundo Pacheco et al. (2009), o modelo de gestão por competências começa a ganhar espaço dentro das organizações. Assinale a opção correta com relação a esse modelo.",
+   "alternativas": [
+    "Confere a possibilidade da visualização do desenvolvimento, da aplicação e da mensuração das competências por meio da realização de atividades e resolução de problemas embasados em modelos teóricos.",
+    "Um dos conflitos presentes nas organizações que adotaram esse modelo de gestão se traduz na dificuldade de identificar as competências indispensáveis aos propósitos estratégicos requeridos.",
+    "Esse modelo possui condições de autolegitimação, mas tem o efeito dominó, pois provoca crises na área de recrutamento.",
+    "Traz em seu bojo recursos estratégicos mais simplificados de verificação do desenvolvimento e performance dos indivíduos.",
+    "Consiste num clássico conceito de seleção do desempenho humano e de referencial, com base nas competências mapeadas."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.redalyc.org/pdf/261/26170905.pdf",
+   "comentario": "(Cobra além deste material.) Pacheco e colaboradores apontam como conflito nas organizações que adotam a gestão por competências a dificuldade de identificar as competências indispensáveis aos objetivos estratégicos. As outras alternativas exageram ou invertem o texto: o modelo não traz recursos de verificação mais simples (D), não é um conceito clássico de seleção (E), e as afirmações sobre autolegitimação com 'efeito dominó' em recrutamento e sobre visualizar competências por modelos teóricos não correspondem ao que os autores dizem."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Segundo Pasquali (2009), quais são os três modelos de delineamentos de coleta de dados usados para realizar a equiparação dos escores dos sujeitos em diferentes testes?",
+   "alternativas": [
+    "Grupos randômicos, análise de juizes e teste-reteste.",
+    "Grupos randômicos, teste de ancoragem e variabilidade da amostra.",
+    "Um grupo único contrabalançado, teste-reteste e variabilidade da amostra.",
+    "Um grupo único contrabalançado, grupos randômicos e teste de ancoragem.",
+    "Teste de ancoragem, análise de juizes e padronização do aplicador."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "Pasquali apresenta três delineamentos de coleta de dados para equiparar escores de testes diferentes: grupo único contrabalançado (o mesmo grupo responde aos dois testes em ordens alternadas), grupos randômicos (grupos equivalentes respondem cada um a um teste) e teste de ancoragem (itens comuns ligam as formas). Teste-reteste, análise de juízes e padronização do aplicador são procedimentos de precisão, de validade de conteúdo e de aplicação, não delineamentos de equiparação."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Segundo Visca (1991), de acordo com a perspectiva da Epistemologia Convergente, assinale a opção correta com relação à aprendizagem.",
+   "alternativas": [
+    "A aprendizagem é concebida como uma desconstrução, que depende dos aspectos energéticos e estruturais.",
+    "A aprendizagem sistemática consiste na aquisição instrumental das técnicas e dos recursos que permitem o desempenho na comunidade.",
+    "Todo processo de aprendizagem transcende a estruturação cognitiva porque requer a \"afetização\" do objeto.",
+    "A proto-aprendizagem consiste na apreensão da cosmovisão do grupo familiar.",
+    "A deutero-aprendizagem consiste na aprendizagem das primeiras relações vinculares."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://idonline.emnuvens.com.br/id/article/download/2369/3654/9465",
+   "comentario": "(Cobra além deste material.) Para Visca, todo processo de aprendizagem transcende a estruturação cognitiva, porque exige também a 'afetização' do objeto, a dimensão energética que se soma à estrutural. As erradas trocam os níveis da aprendizagem: a protoaprendizagem é a das primeiras relações vinculares, a deuteroaprendizagem é a apreensão da cosmovisão do grupo familiar, a aquisição de técnicas para atuar na comunidade é a aprendizagem assistemática, e a aprendizagem é construção, não desconstrução."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "De acordo com Chiavenato (2010), qual é o método tradicional de avaliação de desempenho que possui como desvantagem a produção do efeito de generalização (hallo efect): se o avaliado recebe bom em um fator, provavelmente receberá bom em todos os demais fatores.",
+   "alternativas": [
+    "Escala gráfica.",
+    "Escolha forçada.",
+    "Pesquisa de campo.",
+    "Método dos incidentes críticos.",
+    "Avaliação 360°."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "A escala gráfica avalia o desempenho por fatores numa escala de graus (ótimo, bom, regular), e sua desvantagem clássica é o efeito halo: quem é bem avaliado num fator tende a ser bem avaliado em todos. A escolha forçada combate justamente essa tendência ao obrigar a escolher entre frases, a pesquisa de campo se apoia em entrevistas com o gestor, os incidentes críticos registram comportamentos extremos, e a avaliação 360° é um método moderno, não tradicional."
+  }
+ ]
+}

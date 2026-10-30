@@ -1,0 +1,31 @@
+[project]
+name = "escola"
+version = "0.1.0"
+description = "Estudo guiado para concursos: aulas grátis em ordem, cronograma com revisão espaçada, questões reais de prova e simulados."
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "fastapi>=0.115",
+  "uvicorn>=0.32",
+  "httpx>=0.27",
+  "numpy>=2",
+]
+
+[project.optional-dependencies]
+# só para `escola textos --ouvir` (transcrever vídeo sem legenda no PC)
+ouvir = ["faster-whisper>=1.1"]
+
+[project.scripts]
+escola = "escola.__main__:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/escola"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,434 @@
+{
+ "prova": "SMV-OF 2016",
+ "cor": "AMARELA",
+ "area": "Língua Portuguesa",
+ "url": "https://www.militarestemporarios.com.br/marinha/provas-anteriores/oficial-temporario-2016.pdf",
+ "gabarito": "https://www.militarestemporarios.com.br/marinha/provas-anteriores/oficial-temporario-2016.pdf#gabarito",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Em que opção o emprego do pronome oblíquo está correto, de acordo com a norma padrão?",
+   "alternativas": [
+    "Ontem soube que tinham enganado-a.",
+    "Não lhe deram a quantia que pedira.",
+    "Me diga quantos anos você tem.",
+    "Procurariam-te caso precisassem de ajuda.",
+    "Compraram-o, conforme haviam planejado."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-colocacao",
+   "item": "https://www.youtube.com/watch?v=6zsVwix7Uh0",
+   "comentario": "Em \"Não lhe deram\", o advérbio de negação atrai o pronome, e a próclise é obrigatória. Não se usa ênclise ao particípio (\"tinham enganado-a\"), nem ao futuro do pretérito (\"Procurariam-te\" pede mesóclise: procurar-te-iam). Também não se inicia frase com pronome oblíquo na norma padrão (\"Me diga\"), e depois de forma verbal terminada em -m o pronome o vira \"no\": compraram-no."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "Assinale a opção que completa corretamente as lacunas das sentenças abaixo.\nPreciso informar ______ Vossa Excelência que, quanto ______ revisão dos cálculos, ______ medidas serão tomadas daqui ______ dois meses.",
+   "alternativas": [
+    "à, a, as, há.",
+    "a, a, as, a.",
+    "a, à, as, há.",
+    "à, à, as, há.",
+    "a, à, as, a."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "l-crase",
+   "item": "guia:l-crase",
+   "comentario": "Antes de pronome de tratamento como \"Vossa Excelência\" não há crase, então fica \"a\". Em \"quanto à revisão\", a locução pede a preposição e \"revisão\" admite artigo, daí o acento grave; \"as medidas\" é só artigo. \"Daqui a dois meses\" indica tempo futuro e usa a preposição \"a\"; \"há\" serve para tempo passado, e é a armadilha das outras opções."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "Tendo em vista a norma padrão, assinale a opção em que a palavra \"onde\" completa corretamente a lacuna.",
+   "alternativas": [
+    "A cidade ________ voltou é longe daqui.",
+    "O terreno ________ comprou foi invadido.",
+    "A casa ________ morava está à venda.",
+    "O país ________ veio está em guerra.",
+    "A empresa ________ ele sempre vai está fechada."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "l-periodo-composto",
+   "item": "guia:l-periodo-composto-2",
+   "comentario": "\"Onde\" só se usa para lugar físico e quando o verbo pede a preposição \"em\": quem mora, mora em algum lugar, logo \"A casa onde morava\". \"Voltou\" e \"veio\" pedem \"de\" (\"de onde\"), \"vai\" pede \"a\" (\"aonde\") e \"comprou\" é transitivo direto (\"que\"). É a regra do pronome relativo nas orações adjetivas."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "Tendo em vista a norma padrão, com relação ao emprego da pontuação, assinale a opção correta.",
+   "alternativas": [
+    "O aluno confessou, que, gostava daquela música.",
+    "O futuro aguarda a todos vocês, jovens.",
+    "Daqui a Portugal a distância, é grande.",
+    "Resumiu, tudo, numa palavra incompetência.",
+    "Cabe-lhes, o pleno direito, de reclamar."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-pontuacao",
+   "item": "https://www.youtube.com/watch?v=G8Stjzy-87k",
+   "comentario": "Em \"O futuro aguarda a todos vocês, jovens\", a vírgula isola corretamente o vocativo. As demais separam termos que não se separam: o verbo do seu complemento (\"confessou, que\", \"Resumiu, tudo\") e o sujeito do verbo (\"a distância, é grande\", \"Cabe-lhes, o pleno direito\"). A regra básica é não pôr vírgula entre os termos essenciais e integrantes da oração em ordem direta."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "Em que opção o emprego da vírgula na frase \"Meu pai mora em São Paulo; minha mãe, na Bahia.\" está corretamente explicado?",
+   "alternativas": [
+    "Destaca o vocativo.",
+    "Marca orações intercaladas.",
+    "Separa o aposto explicativo.",
+    "Assinala a supressão do verbo.",
+    "Isola adjunto adverbial antecipado."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "l-pontuacao",
+   "item": "https://www.youtube.com/watch?v=G8Stjzy-87k",
+   "comentario": "Na segunda oração, a vírgula marca a elipse (zeugma) do verbo \"mora\", que já apareceu antes: minha mãe [mora] na Bahia. Não há vocativo, aposto nem oração intercalada, e \"na Bahia\" não está antecipado. É uso clássico da vírgula para indicar verbo omitido."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "\"A língua é a nacionalidade do pensamento como a pátria é a nacionalidade do povo.\" - José de Alencar.\nAssinale a opção em que a reescritura do período acima mantém o seu sentido original.",
+   "alternativas": [
+    "A língua é a nacionalidade do pensamento, portanto a pátria é a nacionalidade do povo.",
+    "A língua é a nacionalidade do pensamento, agora que a pátria é a nacionalidade do povo.",
+    "A língua é a nacionalidade do pensamento, visto que a pátria é a nacionalidade do povo.",
+    "A língua é a nacionalidade do pensamento, pois a pátria é a nacionalidade do povo.",
+    "A língua é a nacionalidade do pensamento, do mesmo modo que a pátria é a nacionalidade do povo."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "l-textualidade",
+   "item": "guia:l-textualidade",
+   "comentario": "No original, \"como\" é conjunção comparativa, e \"do mesmo modo que\" preserva essa relação. \"Portanto\" (conclusão), \"visto que\" e \"pois\" (causa ou explicação) e \"agora que\" (tempo) transformam a comparação numa relação lógica que o autor não fez. Em reescritura, o teste é sempre se o conectivo novo tem o mesmo valor semântico do antigo."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "Em qual opção há erro na acentuação gráfica em uma das palavras?",
+   "alternativas": [
+    "possível - freguês - hífen",
+    "história - saudável - véu",
+    "cárie - ítem - lápis",
+    "vírus - legendário - histórico",
+    "cômodo - época - Méier"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "l-ortografia",
+   "item": "guia:l-ortografia",
+   "comentario": "\"Item\" é paroxítona terminada em -em e não leva acento (nem \"itens\"); \"cárie\" (ditongo final) e \"lápis\" (terminada em -is) estão corretas. Nas outras opções tudo segue a regra: \"hífen\" (paroxítona em -n), \"véu\" (ditongo aberto tônico em oxítona, mantido pelo Acordo) e \"Méier\" (paroxítona em -r). A regra cobrada não mudou com o Acordo Ortográfico."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "Que opção sintetiza a ideia central do dito popular \"Uma mão lava a outra e as duas lavam o rosto.\"?",
+   "alternativas": [
+    "Cooperação humana.",
+    "Ações simultâneas.",
+    "Ideias confrontadas.",
+    "Relacionamento egoísta.",
+    "Conhecimento diversificado."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "l-interpretacao",
+   "item": "guia:l-interpretacao-2",
+   "comentario": "O dito mostra que a ajuda mútua gera um benefício comum maior (as duas lavam o rosto), ou seja, cooperação. \"Ações simultâneas\" fica só na imagem literal e não capta a reciprocidade. \"Relacionamento egoísta\" inverte o sentido, e as outras opções não têm apoio no texto."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "Em que opção a forma verbal destacada está correta, segundo a norma padrão?",
+   "alternativas": [
+    "Antes de _passeiarmos_, arrumamos a casa.",
+    "_Puzeste_ o livro sobre a mesa?",
+    "Se _quizer_, escolha um presente.",
+    "Espero que _viajem_ bem amanhã.",
+    "Sempre _requero_ meus direitos."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "l-verbos",
+   "item": "guia:l-verbos",
+   "comentario": "\"Viajem\" é o presente do subjuntivo de viajar (que eles viajem), com j como no infinitivo; não confundir com o substantivo \"viagem\". Os verbos em -ear recebem \"ei\" só nas formas rizotônicas, então é \"passearmos\". Pôr e querer se escrevem com s (\"puseste\", \"quiser\"), e requerer faz \"requeiro\" na 1ª pessoa."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "Em que opção a frase está de acordo com a norma padrão?",
+   "alternativas": [
+    "Minha casa fica há cerca de uma hora daqui.",
+    "Falou a cerca do projeto iniciado pela Marinha.",
+    "Ele foi conversar com o chefe a cerca de dez minutos.",
+    "Elas se encontraram pela primeira vez acerca de vinte anos.",
+    "Estávamos conversando acerca de educação quando entrou."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "l-ortografia",
+   "item": "guia:l-ortografia-2",
+   "comentario": "\"Acerca de\" significa \"a respeito de\", como em conversar sobre educação. \"A cerca de\" indica distância ou tempo futuro aproximado (\"fica a cerca de uma hora\"), e \"há cerca de\" indica tempo passado (\"há cerca de vinte anos\"). As outras opções trocam exatamente essas três formas."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "Assinale a opção em que o correspondente semântico do termo destacado está INCORRETO.",
+   "alternativas": [
+    "Flor _da selva_ = silvestre.",
+    "Água _da chuva_ = fluvial.",
+    "Rosto _de anjo_ = angelical.",
+    "Brincadeira _de criança_ = pueril.",
+    "Era _do gelo_ = glacial."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-significacao",
+   "item": "guia:l-significacao",
+   "comentario": "Água da chuva é \"pluvial\"; \"fluvial\" se refere a rio. Os demais pares estão certos: silvestre (selva), angelical (anjo), pueril (criança) e glacial (gelo). A pegadinha é a paronímia entre pluvial e fluvial."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "Na frase \"Sentiu dor na cabeça.\", a palavra \"cabeça\" significa \"parte do corpo\". Contudo, em outra frase, se antecedermos à palavra \"cabeça\" o artigo definido masculino \"o\", seu significado será de \"chefia\". Em qual das opções abaixo também há alteração do significado da palavra?",
+   "alternativas": [
+    "O dentista - A dentista.",
+    "O moral - A moral.",
+    "O estudante - A estudante.",
+    "O gerente - A gerente.",
+    "O intérprete - A intérprete."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-classes",
+   "item": "guia:l-classes-2",
+   "comentario": "\"O moral\" é o ânimo, o brio (o moral da tropa); \"a moral\" é o conjunto de valores ou a lição de uma história, então a troca do gênero muda o sentido, como em o/a cabeça. Dentista, estudante, gerente e intérprete são substantivos comuns de dois gêneros: o artigo só indica o sexo da pessoa, sem mudar o significado."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "Em que opção a frase apresenta uma ambiguidade?",
+   "alternativas": [
+    "O pai falou com o filho que ele fará o trabalho.",
+    "A guerra trará euforia nacional e tragédia.",
+    "Iremos viajar de avião ou de ônibus?",
+    "A antropologia é a ciência que busca investigar o outro.",
+    "O dinheiro compra o conforto, mas não garante a felicidade."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "l-significacao",
+   "item": "guia:l-significacao-2",
+   "comentario": "Em \"O pai falou com o filho que ele fará o trabalho\", o pronome \"ele\" pode se referir ao pai ou ao filho, o que gera ambiguidade. Nas outras frases não há duas leituras possíveis: a pergunta sobre avião ou ônibus é uma alternativa clara, e as demais têm referentes únicos."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Que opção completa corretamente a estrutura \"É necessário que nós...\"?",
+   "alternativas": [
+    "soubemos o que fazer em uma situação de emergência.",
+    "fiquemos quietos durante as palestras.",
+    "fazermos tudo que pediram da maneira correta.",
+    "falamos a verdade sobre o que aconteceu.",
+    "trouxemos as ferramentas necessárias para o trabalho."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-verbos",
+   "item": "guia:l-verbos-2",
+   "comentario": "Expressões como \"É necessário que\" pedem o presente do subjuntivo: que nós fiquemos. \"Soubemos\", \"falamos\" e \"trouxemos\" estão no indicativo, e \"fazermos\" é infinitivo pessoal; o subjuntivo seria \"façamos\". É correlação de modos: oração que exprime necessidade leva o verbo subordinado ao subjuntivo."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "Em que opção a oração sublinhada traduz uma circunstância de condição?",
+   "alternativas": [
+    "Não sairá daqui _sem que tudo fique esclarecido_.",
+    "Sua mão tremia tanto _que mal escreveu o seu nome_.",
+    "Não ignoramos _que a vida passa depressa_.",
+    "Digo essas coisas, _segundo ouvi falar na cidade_.",
+    "_Como morava na cidade vizinha_, não pôde nos ajudar."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "l-periodo-composto",
+   "item": "guia:l-periodo-composto",
+   "comentario": "\"Sem que\" tem valor condicional em \"sem que tudo fique esclarecido\": ele só sai se tudo ficar esclarecido. A segunda opção é consecutiva (tanto... que), a terceira é substantiva objetiva direta, a quarta é conformativa (\"segundo\") e a última é causal (\"como\" anteposto). Atenção: \"sem que\" também pode ser concessivo, por isso o contexto decide."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "Assinale a opção que apresenta um exemplo de uso exclusivamente denotativo da linguagem.",
+   "alternativas": [
+    "As palavras, afinal, vivem na boca do povo. São faladíssimas por todos.",
+    "Qualquer fala necessariamente resulta de uma escolha do falante.",
+    "O estilo mergulha na mitologia pessoal e secreta de quem escreve.",
+    "Colocamos nas palavras etiquetas, nomes, que as engessam.",
+    "O mundo dos signos linguísticos veste-se de inúmeras possibilidades."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-significacao",
+   "item": "https://www.youtube.com/watch?v=jaoaZsx4LlM",
+   "comentario": "\"Qualquer fala necessariamente resulta de uma escolha do falante\" usa as palavras no sentido próprio, sem metáfora. As outras trazem sentido figurado: palavras que \"vivem na boca do povo\", estilo que \"mergulha\", etiquetas que \"engessam\" e um mundo que \"veste-se\". Conotação é justamente essa transferência de sentido."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "Qual o valor semântico da preposição na frase \"Comprou um livro para presentear o amigo.\"?",
+   "alternativas": [
+    "Meio.",
+    "Finalidade.",
+    "Instrumento.",
+    "Matéria.",
+    "Causa."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "l-classes",
+   "item": "guia:l-classes",
+   "comentario": "Em \"para presentear o amigo\", a preposição \"para\" introduz o objetivo da compra, ou seja, finalidade. Meio e instrumento responderiam \"como\" ou \"com quê\", matéria \"de que é feito\" e causa \"por quê\". O valor da preposição depende da relação que ela estabelece no contexto."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "Assinale a opção correta, de acordo com a norma padrão.",
+   "alternativas": [
+    "Eu e meus amigos receberam um prêmio.",
+    "Entre eu e tu não há inimizade.",
+    "Isso é para eu fazer amanhã.",
+    "Vi-lhe no teatro no domingo.",
+    "A jovem disse que lhe amava muito."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "l-classes",
+   "item": "guia:l-classes",
+   "comentario": "Em \"Isso é para eu fazer\", o pronome é sujeito do infinitivo, por isso se usa o reto \"eu\" mesmo após a preposição. Depois de preposição sem verbo usa-se o oblíquo tônico: \"entre mim e ti\". \"Eu e meus amigos\" leva o verbo à 1ª pessoa do plural (recebemos), e ver e amar são transitivos diretos, pedindo \"o/a\" (vi-o, o amava), não \"lhe\"."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "Que palavra foi formada pelo mesmo processo que o vocábulo \"aguardente\"?",
+   "alternativas": [
+    "Chuvoso.",
+    "Passatempo.",
+    "Planalto.",
+    "Beija-flor.",
+    "Infeliz."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "l-formacao",
+   "item": "https://www.youtube.com/watch?v=Xw74aXTBaoY",
+   "comentario": "\"Aguardente\" (água + ardente) e \"planalto\" (plano + alto) são compostos por aglutinação: os radicais se fundem e perdem fonemas. \"Passatempo\" e \"beija-flor\" são justaposição, pois os elementos ficam íntegros; \"chuvoso\" é derivação sufixal e \"infeliz\", derivação prefixal."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "Em que opção a concordância verbal está correta, de acordo com a norma padrão?",
+   "alternativas": [
+    "Os aspirantes haverão de estar esperando o Comandante no paiol.",
+    "Não se houve bem nos exercícios de ontem os candidatos do pelotão C.",
+    "Houveram muitas festas comemorativas com a presença do Presidente.",
+    "Naquele navio à noite, hão de haver excelentes oficiais de serviço.",
+    "Todos sabiam que havia de existir nas eleições maus candidatos."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "l-concordancia",
+   "item": "guia:l-concordancia",
+   "comentario": "\"Haver\" como auxiliar (haverão de estar) concorda normalmente com o sujeito \"Os aspirantes\". Já \"haver\" no sentido de existir é impessoal e fica no singular, e o auxiliar que o acompanha também: \"houve muitas festas\", \"há de haver excelentes oficiais\". Em \"se houve bem\" (comportar-se) o sujeito é \"os candidatos\", então o certo é \"houveram-se\"; e \"existir\" é pessoal, pedindo \"haviam de existir maus candidatos\"."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "Em que opção a regência verbal está correta, de acordo com a norma padrão?",
+   "alternativas": [
+    "Sua decisão implicará aos prejuízos para a empresa.",
+    "Aquela era a pessoa de quem podíamos concordar.",
+    "Aludiu o fato acontecido na semana passada.",
+    "Preferia mais ficar em casa estudando do que sair.",
+    "O coordenador referiu-se a todos os candidatos."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "l-regencia",
+   "item": "guia:l-regencia",
+   "comentario": "\"Referir-se\" pede a preposição \"a\": referiu-se a todos. \"Implicar\" no sentido de acarretar é transitivo direto (implicará prejuízos), \"concordar\" pede \"com\" (com quem), \"aludir\" pede \"a\" (aludiu ao fato) e \"preferir\" rejeita \"mais\" e \"do que\": preferia ficar em casa a sair."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "Assinale a opção em que a anteposição ou a posposição do adjetivo resulta em alteração do sentido.",
+   "alternativas": [
+    "Livro grande/ Grande livro.",
+    "Mulher corajosa/ Corajosa mulher.",
+    "Criança manhosa/ Manhosa criança.",
+    "Coincidência feliz/ Feliz coincidência.",
+    "História interessante/ Interessante história."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "l-classes",
+   "item": "https://www.youtube.com/watch?v=GYVLMQlKKsU",
+   "comentario": "Posposto, \"livro grande\" fala do tamanho físico; anteposto, \"grande livro\" indica valor, qualidade. Nos outros pares, a troca de posição só muda a ênfase, sem alterar o significado do adjetivo. É o mesmo fenômeno de \"homem grande\" e \"grande homem\"."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "Em que opção a forma verbal destacada está correta, de acordo com a norma padrão?",
+   "alternativas": [
+    "Eu não _cabo_ naquela roupa.",
+    "O militar _interviu_ naquela região.",
+    "Espero que ela _seje_ feliz.",
+    "Todos se _entreteram_ na festa.",
+    "Os tambores _contêm_ muita gasolina."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "l-verbos",
+   "item": "guia:l-verbos",
+   "comentario": "\"Contêm\" é a 3ª pessoa do plural de conter, derivado de ter, com o circunflexo que o Acordo manteve (eles contêm). Caber é irregular (\"eu caibo\"), intervir segue vir (\"interveio\"), ser faz \"seja\" e entreter segue ter (\"entretiveram\"). Verbo derivado conjuga como o primitivo."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Em que opção a expressão \"em cujo\" completa corretamente a lacuna, de acordo com a norma padrão?",
+   "alternativas": [
+    "Este é o militar ____________ me referi ontem.",
+    "Vi o chefe __________ nome não me recordo.",
+    "A arma __________ matou o rapaz foi encontrada.",
+    "A casa ____________ porão encontraram os corpos ruiu.",
+    "O marinheiro ____________ falou comigo embarca hoje."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "l-periodo-composto",
+   "item": "guia:l-periodo-composto-2",
+   "comentario": "\"Cujo\" indica posse e fica entre o possuidor e a coisa possuída: a casa em cujo porão, pois encontraram os corpos no porão da casa. A preposição \"em\" vem da regência do verbo (encontrar em). Em \"o chefe ___ nome não me recordo\", o certo seria \"de cujo nome\" (recordar-se de), e nas outras opções não há relação de posse."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Em que opção o termo destacado foi grafado adequadamente?",
+   "alternativas": [
+    "_Por quê_ você não foi à escola ontem à tarde?",
+    "Você não lhe enviou uma resposta mais adequada _porquê_?",
+    "A estrada estava escura _por que_ já era noite.",
+    "Não entendo _por que_ os livros não estão nas prateleiras.",
+    "Nunca se soube o real _porque_ do que aconteceu ali."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "l-ortografia",
+   "item": "guia:l-ortografia-2",
+   "comentario": "Em pergunta indireta (\"Não entendo por que\") usa-se \"por que\" separado e sem acento, equivalente a \"por qual motivo\". \"Por quê\" acentuado só aparece no fim de frase, \"porquê\" com acento é substantivo (\"o real porquê\") e \"porque\" junto é conjunção causal (\"porque já era noite\"). As opções trocam exatamente esses usos."
+  }
+ ]
+}

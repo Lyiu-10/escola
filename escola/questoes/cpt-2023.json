@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2023",
+ "cor": "AMARELA",
+ "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/CP-T-2023__PROVA__PSICOLOGIA__AMARELA.zip",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/GabFINAL_CPT_2023.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Com base no modelo dos oito papéis de Quinn, apresentado na obra Liderança e motivação, de Cavalcanti et al. (2009) assinale a opção que apresenta o papel desempenhado pelo líder que se atenta a questões de controle interno, como a gestão de processos essenciais, a consolidação e a criação de continuidade, tendo como uma de suas principais características a administração de informações por meio do pensamento crítico.",
+   "alternativas": [
+    "Monitor.",
+    "Gestor.",
+    "Coordenador.",
+    "Diretor.",
+    "Gerente."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "No modelo de Quinn, o monitor fica no quadrante dos processos internos: acompanha o desempenho, cuida do controle e da continuidade e lida com informações por meio do pensamento crítico. O coordenador, do mesmo quadrante, é a confusão mais provável, mas o foco dele é organizar estrutura, fluxo e agenda do trabalho, não analisar informação. Diretor e as demais opções pertencem a outros quadrantes ou nem são papéis do modelo (gestor e gerente)."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "De acordo com a lei 10.216/2001, que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais, é correto afirmar que:",
+   "alternativas": [
+    "o tratamento visará, como finalidade permanente, a inserção social do paciente na comunidade, no trabalho e na família, sendo a internação indicada somente quando os recursos extra-hospitalares se mostrarem insuficientes.",
+    "o tratamento em regime de internação será estruturado de forma a oferecer assistência médica intensiva. Os serviços de assistência social, psicológicos, ocupacionais e de lazer serão oferecidos apenas ambulatorialmente.",
+    "o término da internação compulsória dar-se-á por solicitação escrita do familiar, ou responsável legal, ou quando estabelecido pelo especialista responsável pelo tratamento.",
+    "evasão, transferência, acidente, intercorrência clínica grave e falecimento serão comunicados pela direção do estabelecimento de saúde mental aos familiares, bem como à autoridade sanitária responsável, no prazo máximo de setenta e duas horas da data da ocorrência.",
+    "pesquisas científicas para fins diagnósticos ou terapêuticos poderão ser realizadas sem consentimento do paciente, ou de seu representante legal, desde que com devida comunicação aos conselhos profissionais competentes e ao Conselho Nacional de Saúde."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+   "comentario": "Lei 10.216/2001, art. 4º: a internação só é indicada quando os recursos extra-hospitalares se mostrarem insuficientes, e o tratamento tem como finalidade permanente a reinserção social do paciente. As outras erram: a internação deve oferecer assistência integral, incluindo serviços sociais, psicológicos, ocupacionais e de lazer; o término a pedido da família ou do especialista é o da internação involuntária, não da compulsória, que é determinada pela Justiça; a comunicação de evasão, falecimento e afins tem prazo de 24 horas, não 72; e pesquisa com o paciente exige o consentimento expresso dele ou do representante legal."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "Em Luto e melancolia (1917), Freud compara o luto à melancolia a partir de um conceito fundamental, afirmando que a sombra do objeto caiu sobre o ego, de modo que uma perda objetal se transformou em uma perda do ego. A qual conceito fundamental Freud está se referindo?",
+   "alternativas": [
+    "Investimento libidinal.",
+    "Catexia objetal.",
+    "Narcisismo.",
+    "Regressão.",
+    "Identificação."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=oHsInJ9BpXM",
+   "comentario": "Em Luto e melancolia, a frase sobre a sombra do objeto que cai sobre o ego descreve a identificação: o ego se identifica com o objeto abandonado, e as recriminações dirigidas ao objeto passam a recair sobre o próprio ego. Narcisismo e investimento libidinal aparecem no texto como condições do processo (a escolha objetal de base narcísica e a retirada da libido), mas o mecanismo que transforma a perda do objeto em perda do ego é a identificação. Regressão também é citada, como regressão da escolha objetal ao narcisismo, mas não é o conceito da frase."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "De acordo com Rigoni e Sá (in: HUTZ et al. 2016) no livro Psicodiagnóstico, existem oito etapas para o processo de psicodiagnóstico. Enumere as etapas de acordo com a ordem dos passos de um processo de psicodiagnóstico e, a seguir, assinale a opção correta.\n( ) Corrigir ou levantar qualitativa e quantitativamente, as estratégias e os instrumentos de avaliação.\n( ) Determinar os motivos da consulta e/ou do encaminhamento e levantar dados sobre a história pessoal.\n( ) Administrar as estratégias e os instrumentos de avaliação\n( ) Integrar os dados colhidos, relacionados com as hipóteses iniciais e com os objetivos da avaliação.\n( ) Estruturar um plano de avaliação (selecionar instrumentos e/ou técnicas psicológicas)\n( ) Formular as conclusões, definindo potencialidades e vulnerabilidades.\n( ) Comunicar os resultados por meio de entrevista de devolução e de um laudo/relatório psicológico. Encerrar o processo de avaliação.\n( ) Definir as hipóteses e os objetivos do processo de avaliação. Estabelecer o contrato de trabalho.",
+   "alternativas": [
+    "(4) (2) (8) (7) (1) (6) (5) (3)",
+    "(5) (1) (4) (6) (3) (7) (8) (2)",
+    "(1) (3) (5) (8) (4) (2) (7) (6)",
+    "(6) (1) (4) (5) (2) (7) (8) (3)",
+    "(4) (2) (8) (7) (5) (6) (3) (1)"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en",
+   "comentario": "A sequência lógica do psicodiagnóstico é: (1) motivos da consulta e história, (2) hipóteses, objetivos e contrato, (3) plano de avaliação, (4) administração dos instrumentos, (5) correção e levantamento, (6) integração dos dados, (7) conclusões e (8) devolução e laudo, o que dá 5-1-4-6-3-7-8-2. Uma forma rápida de eliminar as outras é lembrar que tudo começa pela demanda (item 2 = 1) e termina na comunicação dos resultados (item 7 = 8). Só a opção B respeita as duas pontas e a ordem plano, aplicação, correção, integração."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "De acordo com a Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas (BRASIL, 2003), assinale a opção correta.",
+   "alternativas": [
+    "Entende-se que uma política de prevenção, tratamento e de educação voltada para uso de álcool e outras drogas deverá necessariamente ser construída nas interfaces intrassetoriais.",
+    "Compreende que a dependência de drogas é um transtorno, no qual predomina uma homogeneidade, portanto, deve-se buscar como objetivo único a abstinência.",
+    "Baseia-se na associação de drogas com comportamento antissocial (álcool) e criminoso (drogas ilícitas), sendo assim, é imperativa a necessidade de estruturação e fortalecimento de uma rede que tenha ênfase na separação do usuário do convívio social.",
+    "Combater a estratégia de redução de danos, resgatando o usuário em seu papel autorregulador, com a preconização imediata da abstinência.",
+    "Política de prevenção, tratamento e de educação que valoriza a centralização do modelo de atendimento, baseada em dispositivos hospitalares."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf",
+   "comentario": "A política de 2003 afirma que a prevenção, o tratamento e a educação sobre álcool e drogas devem ser construídos nas interfaces intrassetoriais do Ministério da Saúde e também de forma intersetorial. As demais contrariam o documento: ele reconhece a heterogeneidade dos usuários e não toma a abstinência como objetivo único, critica a associação entre droga e crime, adota a redução de danos como estratégia e propõe uma rede descentralizada e comunitária (CAPS ad), não centrada no hospital."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "De acordo com Lobato (in: MELLO FILHO, 2010) são procedimentos não farmacológicos para alívio da dor, EXCETO:",
+   "alternativas": [
+    "manejo psicológico.",
+    "biofeedback.",
+    "meditação.",
+    "privação sensorial.",
+    "hipnose."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.redalyc.org/pdf/3953/395336186011.pdf",
+   "comentario": "(Cobra além deste material.) Manejo psicológico, biofeedback, meditação e hipnose são recursos não farmacológicos usados para aliviar a dor, porque atuam na atenção, no relaxamento e na regulação fisiológica. A privação sensorial não figura entre esses procedimentos e por isso é a exceção pedida. A pegadinha está no biofeedback e na hipnose, que parecem técnicas exóticas, mas são exatamente as clássicas do manejo psicológico da dor."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "De acordo com o Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM-V, 2014), um ataque de pânico é um surto abrupto de medo intenso ou desconforto intenso que alcança um pico em minutos durante o qual ocorrem quatro ou mais dos seguintes sintomas:",
+   "alternativas": [
+    "taquicardia, irritabilidade, humor deprimido e parestesia.",
+    "palpitações, sudorese, desrealização e medo de morrer.",
+    "irritabilidade, revivescência, palpitação e falta de prazer.",
+    "medo de morrer, pensamentos obsessivos, taquicardia e sensação de falta de ar.",
+    "vertigem, dor de cabeça, ondas de calor e sudorese."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "No DSM-5, os sintomas do ataque de pânico incluem palpitações, sudorese, tremores, falta de ar, dor no peito, náusea, tontura, calafrios ou ondas de calor, parestesias, desrealização ou despersonalização, medo de perder o controle e medo de morrer; a opção B traz quatro deles. As outras misturam sintomas de outros quadros: irritabilidade e humor deprimido (depressão), revivescência (TEPT), pensamentos obsessivos (TOC) e dor de cabeça, que não está na lista."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "Baseado no texto Recordar, repetir e elaborar (1914), de Freud analise as afirmativas a seguir.\nI- Na análise, em termos descritivos, trata-se de preencher lacunas na memória; em termos dinâmicos, o que está em jogo é a superação das resistências advindas da repressão.\nII- O paciente não recorda o que esqueceu e reprimiu, mas expressa-o pela atuação, reproduzindo-o não como lembrança, mas conscientemente, como ação.\nIII- Quanto maior a resistência, mais extensivamente a atuação substituirá o recordar. O paciente repete ao invés de recordar e o faz sob as condições da resistência.\nIV- O manejo da transferência é o principal instrumento utilizado na análise para fazer com que o paciente se recorde ao invés de repetir.\nV- A elaboração das resistências é uma tarefa árdua, tanto para o sujeito quanto para o analista e não efetua mudanças significativas no paciente.\nAssinale a opção correta.",
+   "alternativas": [
+    "Apenas as afirmativas I, II e IV são verdadeiras.",
+    "Apenas as afirmativas II, III e V são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e V são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273",
+   "comentario": "Em Recordar, repetir e elaborar, Freud define a meta descritiva (preencher lacunas da memória) e a dinâmica (superar as resistências da repressão), diz que quanto maior a resistência mais a atuação substitui o recordar e aponta o manejo da transferência como o principal instrumento para converter repetição em recordação: I, III e IV estão certas. A II erra porque o paciente repete sem saber que repete, ou seja, inconscientemente, e não de forma consciente. A V erra porque, para Freud, a elaboração é justamente a parte do trabalho que efetua as maiores mudanças no paciente."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "Segundo Chiavenato (2014), no processo de seleção de candidatos, frequentemente, a organização se defronta com o problema de tomar decisões sobre um ou mais candidatos. Cada decisão dessa envolve o indivíduo em determinado tratamento, ou seja, o tipo de resolução a ser tomada. De acordo com o tratamento, podem-se distinguir diferentes modelos de decisão sobre candidatos. Assim, assinale a opção que contempla a explicação sobre o modelo de agregação de valor.",
+   "alternativas": [
+    "Nesse modelo, há vários candidatos e apenas uma vaga a ser preenchida. Cada candidato é comparado com os requisitos exigidos, ocorrendo duas alternativas, apenas: aprovação ou rejeição.",
+    "Nesse modelo, existem vários candidatos para cada vaga e várias vagas para cada candidato. Cada candidato é comparado com os requisitos exigidos pelo cargo que se pretende preencher. Ocorrem duas alternativas para o candidato: ser aprovado ou rejeitado para o cargo. Se aprovado, é admitido, e, se é rejeitado, passa a ser comparado com os requisitos exigidos por outros cargos, até se esgotarem os demais cargos vacantes e as alternativas restantes.",
+    "Esse modelo foca o abastecimento e a provisão de competências para a organização. Cada candidato é visualizado do ponto de vista das competências individuais que oferece para incrementar as competências organizacionais. Se as competências individuais oferecidas interessam à organização, o candidato é aceito. Caso contrário, é rejeitado.",
+    "Nesse modelo, há um só candidato e uma só vaga a ser preenchida. Esse modelo não inclui a alternativa de rejeitar o candidato. O candidato apresentado deve ser admitido sem sofrer qualquer rejeição.",
+    "Esse modelo parte de um conceito ampliado de candidato: a organização não o considera interessado em um único e determinado cargo, mas como candidato da organização e que poderá ser posicionado no cargo mais adequado às suas características pessoais. Para cada cargo a ser preenchido, ocorrem vários candidatos que o disputam, dos quais apenas um poderá ocupá-lo, se vier a ser aprovado."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=r1xqMjl6bYg",
+   "comentario": "Chiavenato distingue quatro modelos de decisão sobre candidatos: colocação, seleção, classificação e agregação de valor; neste último, o candidato é avaliado pelas competências individuais que agrega às competências da organização. As outras descrevem os demais modelos: um candidato e uma vaga sem rejeição é o de colocação (D), vários candidatos para uma vaga com aprovação ou rejeição é o de seleção (A), e o candidato visto como candidato da organização, comparado a vários cargos, é o de classificação (B e E)."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "Chiattone (in: ANGEROMI-CAMON, 2003), ao abordar a hospitalização de crianças, alerta que existem vários fatores inerentes à hospitalização e várias consequências nocivas dessa medida que contribuem para o aparecimento de problemas emocionais graves e, ainda, diversas outras iatrogenias, entre as quais a mais importante delas se refere às infecções hospitalares. No entanto, o autor aponta que o maior malefício inerente ao processo de hospitalização se refere a outro aspecto, assumido e generalizado nas enfermarias pediátricas. Assim, assinale a opção que apresenta esse aspecto.",
+   "alternativas": [
+    "Separação da mãe.",
+    "Idade da criança.",
+    "Desmame agressivo.",
+    "Interrupção da escolaridade.",
+    "Medo do desconhecido."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-hospitalar",
+   "item": "https://www.youtube.com/watch?v=Dtpy12uWMpE",
+   "comentario": "Para Chiattone, o maior malefício da hospitalização infantil é a separação da mãe, prática que se tornou generalizada nas enfermarias pediátricas e que está na base de reações emocionais graves da criança. Idade da criança, interrupção da escola e medo do desconhecido são fatores que modulam o impacto da internação, mas não são apontados como o dano principal. A ideia vem da tradição de estudos sobre separação e hospitalismo, que mostra o vínculo com a mãe como o ponto mais vulnerável."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "Segundo a Classificação de Transtornos Mentais e de Comportamento da CID-10 (1993), em um episódio depressivo típico, o indivíduo usualmente sofre de humor deprimido, perda de interesse e prazer e energia reduzida. Assinale a opção que apresenta outros sintomas comuns de um episódio depressivo (F32).",
+   "alternativas": [
+    "Fuga de ideias e distratibilidade.",
+    "Ruminação de pensamento e apetite diminuído.",
+    "Alucinações congruentes com o humor e irritabilidade.",
+    "Concentração e atenção reduzidas.",
+    "Sono perturbado e catatonia."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download",
+   "comentario": "Na CID-10, além dos três sintomas típicos, o episódio depressivo (F32) costuma trazer concentração e atenção reduzidas, autoestima reduzida, ideias de culpa, visão pessimista do futuro, ideias de autolesão, sono perturbado e apetite diminuído. Fuga de ideias e distratibilidade são da mania; alucinações e catatonia não são sintomas comuns do episódio típico; e a opção B acerta o apetite, mas ruminação não está na lista da CID-10, por isso a única inteiramente certa é a D."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "Segundo Rodrigues (2015), psicologia social é o estudo científico de manifestações comportamentais de caráter situacional suscitadas pela interação de uma pessoa com outras pessoas, ou pela mera expectativa de tal interação, bem como dos processos cognitivos e afetivos decorrentes do processo de interação social. Em relação à psicologia social, assinale a opção correta.",
+   "alternativas": [
+    "Interação humana e suas consequências cognitivas e comportamentais constituem, pois, o objeto formal da psicologia social, ou seja, aquilo que ela estuda.",
+    "O objeto material da psicologia social, ou seja, a maneira pela qual ela estuda seu objeto formal, é o método científico.",
+    "O método experimental pode ser o que melhor permite estabelecer relações de causa e efeito, tem sido o preferido dos psicólogos sociais para testar hipóteses derivadas de teorias psicossociais.",
+    "Processos mentais, simultaneamente a manifestações comportamentais, são desencadeados pelo processo de interação e caracterizam o que se chama de tecnologia social.",
+    "Em psicologia social, tecnologia social é uma atitude negativa dirigida a um grupo e aos que dele fazem parte."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "https://www.youtube.com/watch?v=rJVeq7YI8wc",
+   "comentario": "Rodrigues destaca o método experimental como o preferido dos psicólogos sociais para testar hipóteses, por ser o que melhor permite estabelecer relações de causa e efeito. As opções A e B trocam os termos: a interação humana e suas consequências são o objeto material (o que se estuda), e o método científico é o objeto formal (o modo de estudar). Tecnologia social é a aplicação do conhecimento psicossocial a problemas práticos, e a atitude negativa dirigida a um grupo é o preconceito, o que derruba D e E."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "Com relação à abordagem sócio-histórica de orientação profissional, de acordo com Bock (2006), é INCORRETO afirmar que:",
+   "alternativas": [
+    "questiona a forma de aproximação dos indivíduos com as profissões por meio do modelo de perfis, pois nega a concepção liberal de indivíduo presente nesse modelo.",
+    "entende que os indivíduos estão em relação dinâmica e dialética com a sociedade superando visões que o colocam como um mero reflexo da sociedade.",
+    "entende que existe natureza humana e que ela coloca o homem como um ser que tem uma essência que precisaria ser desenvolvida.",
+    "entende que o homem nasce biologicamente determinado para nenhuma atividade específica.",
+    "trabalha com a ideia de multideterminação do humano, combatendo a concepção de ser humano natural ou abstrato."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.youtube.com/watch?v=GZkzw6MSfxc",
+   "comentario": "A abordagem sócio-histórica de Bock nega a existência de uma natureza humana ou essência a ser desenvolvida; o homem é constituído historicamente, nas relações sociais, por isso a C é a incorreta. As demais descrevem bem a abordagem: crítica ao modelo de perfis e à concepção liberal de indivíduo, relação dialética entre indivíduo e sociedade, ausência de determinação biológica para uma atividade específica e multideterminação do humano."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "De acordo com Pasquali (2013), na situação da testagem, em especial a testagem individual, o aplicador do teste é um elemento importante da situação. Seu modo de ser e de atuar podem afetar bastante os resultados do teste. O aplicador de testes psicológicos, um psicólogo, deve atender aos seguintes requisitos:",
+   "alternativas": [
+    "encorajar o testando para ajudá-lo na realização dos testes, mesmo que essa orientação não esteja no manual do teste.",
+    "usar roupas adequadas e limpas, pois o aplicador deve causar boa impressão, enfim, ele deve apresentar-se como um perito, evitando extravagâncias na sua apresentação, utilizar perfumes não extravagantes.",
+    "conduzir a testagem, assim, ele deve manter a ordem, o respeito e a orientação, fazer interferências e interrupções que achar necessárias, mesmo em testes em que se usa tempo cronometrado.",
+    "atentar-se ao uso da linguagem, utilizando vocabulário adequado e compreensível ao grupo ou sujeito, mesmo que, para tanto, tenha que alterar ou adaptar as instruções descritas no manual do teste.",
+    "transmitir seriedade, segurança e confiança aos testandos, suas atitudes devem ser correspondentes e incluem ser atencioso, encorajar frequentemente o testando, expor suas opiniões pessoais aos testandos."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.youtube.com/watch?v=R8YZh89I72k",
+   "comentario": "Pasquali pede que o aplicador se apresente como um perito, com roupa adequada e sem extravagâncias, porque a impressão que ele causa interfere no resultado. As outras ferem a padronização: o aplicador não deve encorajar além do que o manual prevê, não interrompe testes cronometrados, não altera as instruções do manual e não expõe opiniões pessoais ao testando. A ideia central é que qualquer desvio das condições padronizadas torna o resultado incomparável com as normas do teste."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "De acordo com Pasquali (2013), sobre a divulgação do resultado dos testes, devem ser seguidas as normas do sigilo profissional. Nesse sentido, assinale a opção correta que apresenta quem tem direito a acessar os resultados dos testes.",
+   "alternativas": [
+    "O candidato que se submeteu aos testes tem direito às informações estritamente necessárias aos objetivos da avaliação.",
+    "O solicitante da testagem tem direito às informações estritamente necessárias à resposta da solicitação.",
+    "O juiz no caso de perícia judicial tem direito às informações produzidas na testagem irrestritamente.",
+    "O dono da empresa que solicitou um psicotécnico tem direito a todas as informações que os testes produzem.",
+    "A escola que solicitou tem direito a todas as informações produzidas na testagem."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.youtube.com/watch?v=XUrunX0QGGA",
+   "comentario": "(Cobra além deste material.) Pelo sigilo profissional, quem solicitou a testagem recebe apenas as informações estritamente necessárias para responder à sua solicitação. As opções que dão acesso irrestrito ou a todas as informações (juiz, dono da empresa, escola) violam esse limite, pois mesmo o solicitante legítimo só recebe o essencial. A opção A é a mais tentadora, mas inverte a lógica: a restrição ao estritamente necessário recai sobre quem solicita, e não sobre o próprio avaliado, que tem direito de conhecer seus resultados."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "Considerando as explicações sociopsicológicas da agressão na obra Psicologia Social, de Rodrigues (2015), assinale a opção correta sobre perspectivas de eliminação ou redução dos índices de violência.",
+   "alternativas": [
+    "Para teóricos da aprendizagem só é possível reduzir a agressão ao eliminar todos os modelos agressivos da sociedade.",
+    "Teóricos da aprendizagem instrumental propõem a punição ou a ameaça de punição como mecanismos que inibiriam os comportamentos agressivos, desde que as pessoas que administrem as punições sejam vistas como modelos agressivos.",
+    "Alguns psicólogos sociais consideram importante estimular a empatia nas pessoas, uma vez que constitui a contrapartida da desumanização, a qual facilita a tarefa de cometer atos violentos.",
+    "As intervenções cognitivas, representadas pela retaliação verbal das fontes de provocação contribuem para o enfraquecimento da injustiça social.",
+    "Videogames antissociais, ao permitir experiências de agressões virtuais, mostraram capazes de aumentar comportamentos pró-sociais."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "https://www.redalyc.org/pdf/3093/309332930007.pdf",
+   "comentario": "(Cobra além deste material.) Rodrigues registra que alguns psicólogos sociais propõem estimular a empatia, porque ela é a contrapartida da desumanização da vítima, que facilita atos violentos. As outras distorcem as propostas: não se exige eliminar todos os modelos agressivos; a punição só inibe se quem pune não for visto como modelo agressivo, o oposto do que diz a B; retaliação verbal não reduz a agressão; e videogames violentos estão associados a mais agressividade, não a mais comportamento pró-social."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "Segundo Spector (2010), existem vários métodos de treinamento diferentes que estão disponíveis. Uma vez que cada um deles tem suas vantagens e limitações, não há uma forma ideal de treinamento. Dessa forma, indivíduos diferentes podem ter um desempenho melhor, utilizando-se de enfoques diferentes. Assinale a opção que inclui os oito métodos de treinamento mais frequentemente utilizados destacados pelo autor.",
+   "alternativas": [
+    "Treinamento eletrônico, autoinstrução, instrução direta, palestra, modelagem, treinamento no trabalho, role-playing e simulação.",
+    "Instrução audiovisual, autoinstrução, conferência, palestra, modelagem, treinamento no trabalho, role-playing e simulação.",
+    "Instrução audiovisual, autoinstrução, conferência, exposição do material, observação direta do especialista, treinamento no trabalho, role-playing e simulação.",
+    "Instrução remota, orientação, autoinstrução, palestra, modelação, treinamento no trabalho, dramatização e simulação.",
+    "Instrução audiovisual, autoinstrução, conferência, palestra, modelação, treinamento eletrônico, role-playing e orientação."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.youtube.com/watch?v=jEZ7mcdBow4",
+   "comentario": "Spector lista oito métodos de treinamento mais usados: instrução audiovisual, autoinstrução, conferência, palestra, modelagem, treinamento no trabalho, role-playing e simulação. As outras opções trocam um ou mais itens por métodos que não estão na lista do autor, como treinamento eletrônico, instrução direta, instrução remota, orientação ou observação do especialista. Questões de lista fechada assim pedem memorização: vale fixar os oito nomes."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "De acordo com Freud (1912), em A Dinâmica da Transferência, sobre a relação entre transferência e resistência, é correto afirma que:",
+   "alternativas": [
+    "a ambivalência não fornece explicação suficiente para entender por que, nos neuróticos, a transferência está a serviço da resistência.",
+    "na análise, a transferência deve ser encarada como veículo de cura e condição de sucesso, ao passo que, fora dela, constitui-se como uma resistência poderosa ao tratamento.",
+    "a repressão dos instintos inconscientes é a única fonte da qual provêm as resistências com as quais o tratamento analítico deve lidar.",
+    "a transferência é apropriada para a resistência ao tratamento apenas na medida em que se tratar de transferência negativa ou de transferência positiva de impulsos eróticos reprimidos.",
+    "a ideia transferencial penetra de forma privilegiada na consciência, ainda que não satisfaça à resistência."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=kESXXd111h4",
+   "comentario": "Em A dinâmica da transferência, Freud conclui que a transferência só serve à resistência quando é negativa ou quando é positiva de impulsos eróticos reprimidos; a transferência positiva de sentimentos ternos e conscientes é o que sustenta o tratamento. A B inverte o texto: fora da análise a transferência é veículo de cura, e dentro dela aparece como a resistência mais forte. A ambivalência explica, sim, a transferência a serviço da resistência nos neuróticos, a repressão não é a única fonte de resistência, e a ideia transferencial chega primeiro à consciência justamente porque satisfaz a resistência."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "De acordo com Cavalcanti et al. (2009), a definição de liderança não constitui tarefa fácil, havendo inúmeros pontos de vista a respeito do tema. Entretanto, a maioria das definições apresenta dois elementos em comum. Assim, assinale a opção correta, em relação a esses pontos.",
+   "alternativas": [
+    "A liderança é um fenômeno identificatório e constitui-se como um processo de influência intencional do líder sobre o grupo.",
+    "A liderança é um fenômeno grupal e é exercida de forma não intencional pelo líder.",
+    "A liderança é um fenômeno individual, exercido de forma direta pelo líder sobre os processos egoicos de seus liderados.",
+    "A liderança é um fenômeno grupal, envolvendo duas ou mais pessoas e é exercida de forma intencional pelo líder sobre seus seguidores.",
+    "A liderança é um fenômeno que envolve duas ou mais pessoas e é exercida a partir de características inatas do líder, portanto, de maneira não intencional."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "Os dois elementos comuns às definições de liderança são: é um fenômeno grupal, que envolve duas ou mais pessoas, e é um processo de influência exercido de forma intencional pelo líder sobre os seguidores. As erradas trocam um desses elementos: chamam a liderança de fenômeno identificatório ou individual, ou dizem que ela é não intencional ou fruto de características inatas, o que remete às antigas teorias dos traços."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "De acordo com Chiavenato (2014), do ponto de vista de sua aplicação, o recrutamento pode ser interno ou externo. O recrutamento interno atua sobre os candidatos que estão trabalhando dentro da organização, isto é, os colaboradores, e o recrutamento externo atua sobre candidatos que estão no mercado de recursos humanos (MRH), portanto, fora da organização. Em relação às diferenças do recrutamento interno e externo, assinale a opção INCORRETA.",
+   "alternativas": [
+    "O recrutamento interno está focado em buscar competências internas para melhor aproveitá-las, o recrutamento externo está focado na aquisição de competências externas.",
+    "O recrutamento interno privilegia os atuais funcionários para lhes oferecer oportunidades melhores dentro da organização, enquanto o recrutamento externo busca candidatos externos para trazerem experiências e competências não existentes atualmente na organização.",
+    "O recrutamento interno funciona pela oferta de promoções e de transferências e o recrutamento externo precisa abordar o mercado de recursos humanos de maneira precisa e eficaz, no sentido de alcançar e atrair os candidatos que deseja buscar.",
+    "No recrutamento interno, os candidatos já são conhecidos pela organização, passaram por testes de seleção, passaram por programas de treinamento e foram avaliados quanto ao seu desempenho, e no recrutamento externo, os candidatos são desconhecidos pela organização e precisam ser testados e avaliados pelo processo seletivo.",
+    "No recrutamento interno, as oportunidades de emprego são oferecidas ao mercado, cujos candidatos podem disputá-las, e no recrutamento externo, as melhores oportunidades de emprego são oferecidas aos candidatos no mercado de recursos humanos."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=r1xqMjl6bYg",
+   "comentario": "No recrutamento interno, as oportunidades são oferecidas aos próprios funcionários, por promoção e transferência, e não ao mercado; por isso a E é a incorreta. As outras descrevem bem a diferença em Chiavenato: o interno aproveita competências e pessoas já conhecidas e avaliadas pela organização, e o externo busca no mercado de recursos humanos competências que ela ainda não tem, com candidatos que precisam passar pelo processo seletivo."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "Segundo Dejours (2015), em seu livro A loucura do trabalho, certos trabalhos consagram-se ao estudo e à caracterização das situações reais que influenciam as descompensações psicóticas. Mesmo que a realidade tratada nas descompensações psicóticas e neuróticas não tenha nenhum poder patogênico, a não ser pelo conteúdo que veicula, admitamos que a realidade, mesmo sem nenhuma ocorrência específica, pode favorecer o surgimento de uma descompensação. Dessa forma, deve-se levar em consideração três componentes da relação homem-organização do trabalho. Correlacione os três componentes às suas explicações, de acordo com Dejours (2015), e assinale a opção correta.\nCOMPONENTES\nI- Fadiga\nII- Sistema frustração-agressividade reativa\nIII- Organização do trabalho\nEXPLICAÇÕES\n( ) Deixa sem saída uma parte importante da energia pulsional\n( ) Como correia de transmissão de uma vontade externa, que se opõe aos investimentos das pulsões e às sublimações\n( ) Faz com que o aparelho mental perca sua versatilidade",
+   "alternativas": [
+    "(I) (II) (III)",
+    "(II) (III) (I)",
+    "(III) (I) (II)",
+    "(II) (I) (III)",
+    "(III) (II) (I)"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "comentario": "Em A loucura do trabalho, Dejours associa o sistema frustração-agressividade reativa à energia pulsional que fica sem saída, a organização do trabalho à correia de transmissão de uma vontade externa que se opõe às pulsões e às sublimações, e a fadiga à perda de versatilidade do aparelho mental, o que dá II, III, I. O erro mais comum é ligar a fadiga à energia sem saída, mas para o autor a fadiga é o efeito sobre o funcionamento mental, enquanto a energia bloqueada vem da frustração."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "De acordo com Abbad e Borges-Andrade (in: ZANELLI, 2014), é possível saber que alguém aprendeu algo novo quando exibe novos desempenhos no trabalho, ou seja, o colaborador apresenta um novo comportamento jamais demonstrado anteriormente nesse contexto ou novas formas de realizar antigas tarefas. Desse modo, de acordo com o autor, como é denominada a exibição de novas competências no trabalho?",
+   "alternativas": [
+    "Transferência de treinamento.",
+    "Aprendizagem formal.",
+    "Retenção.",
+    "Aquisição.",
+    "Generalização."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.redalyc.org/pdf/261/26170905.pdf",
+   "comentario": "Para Abbad e Borges-Andrade, quando a pessoa exibe no trabalho os novos desempenhos aprendidos, ocorre a transferência de treinamento, isto é, a aplicação no cargo do que foi aprendido. Aquisição e retenção são etapas anteriores, que acontecem durante e logo após a aprendizagem, e generalização é a extensão do aprendido a situações diferentes daquelas do treinamento. Aprendizagem formal descreve o tipo de ação educacional, não o resultado observado no trabalho."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "Bentham (2006), em sua obra Psicologia e Educação, discorre sobre estilos de aprendizagem, que podem ser definidos como padrões consistentes de comportamento e desempenho com o qual o indivíduo aborda as experiências educacionais. Honey e Mumford (1986) apud Bentham (2006) definiram quatro estilos de aprendizagem. Baseado nessas definições, analise as afirmativas abaixo.\nI- Estilo pragmático: gosta de atividades em uma aula que tenham propósito. Gosta de ideias novas.\nII- Estilo reflexivo: prefere manter-se reservado e observar. Gosta de pensar e analisar.\nIII- Estilo teórico: é racional, lógico e analítico. Gosta de teorias, modelos e de ordem.\nIV- Estilo passivo: aprende acumulando informações e decorando conceitos. Prefere atividades simples e reconhece problemas.\nV- Estilo ativo: funciona no presente imediato, adora desafios, entedia-se com a implementação. Gosta de participar da aula.\nAssinale a opção correta.",
+   "alternativas": [
+    "Apenas as afirmativas I, II, III e V são verdadeiras.",
+    "Apenas as afirmativas I,II,III e IV são verdadeiras.",
+    "Apenas as afirmativas II, III, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, III, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, II, IV e V são verdadeiras."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://periodicos.pucpr.br/psicologiaargumento/article/download/23749/pdf/50989",
+   "comentario": "(Cobra além deste material.) Honey e Mumford descrevem quatro estilos de aprendizagem: ativo, reflexivo, teórico e pragmático, e as descrições de I, II, III e V correspondem a eles. A afirmativa IV inventa um estilo passivo, que não existe no modelo, e por isso fica de fora. O truque é perceber que o enunciado anuncia quatro estilos e lista cinco: um deles tem de ser falso."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Os grupos de tomada de decisão de alto nível são normalmente compostos por especialistas que devem ser capazes de tomar as melhores decisões. Infelizmente, algo pode acontecer ao processo de tomada de decisão quando grupos de pessoas se reúnem, como o fenômeno do pensamento em grupo, que ocorre quando grupos tomam decisões que os membros individualmente sabem ser ruins. De acordo com Spector (2010) sobre pensamento em grupo, assinale a opção correta.",
+   "alternativas": [
+    "Pode ocorrer em grupos com líderes fracos.",
+    "Pode ocorrer quando a tomada de decisões tem precedência sobre as pressões sociais para manter a conformidade do grupo.",
+    "A probabilidade de ocorrência aumenta quando esses grupos se isolam das ideias e influências externas.",
+    "Líderes de grupo devem tentar controlar as opções de decisão recomendadas para evitar o pensamento em grupo.",
+    "Membros do grupo em qualquer estágio do processo de tomada de decisão devem acatar a decisão tomada pela liderança e seguir cegamente e silenciosamente sem buscar informações que possam refutar ou apoiar a decisão."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "comentario": "O pensamento de grupo é mais provável quando o grupo se isola de ideias e influências externas, porque falta quem conteste a decisão. As outras invertem as condições: ele ocorre com líderes fortes e diretivos, não fracos; acontece quando a pressão por conformidade se sobrepõe à boa tomada de decisão, e não o contrário; e para evitá-lo o líder deve abster-se de impor sua opção e estimular a crítica, em vez de exigir adesão silenciosa."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Segundo Brandão e Borges-Andrade (in: PUENTE-PALACIOS, 2015), estratégias de aprendizagem no trabalho podem ser entendidas como práticas que as pessoas utilizam para auxiliar na aquisição de conhecimentos e habilidades em seu contexto profissional. Sobre esse tema, analise as afirmativas a seguir.\nI- As estratégias de aprendizagem compreendem atividades de processamento cognitivo facilitadoras da aquisição, retenção e recuperação de conhecimento.\nII- As estratégias de aprendizagem são mais frequentes em contextos organizacionais que não fornecem suporte à aprendizagem.\nIII- As estratégias de aprendizagem constituem esforços ativos do indivíduo para aprender algo novo no seu local de trabalho.\nIV- As estratégias de aprendizagem podem contribuir para aquisição, retenção e recuperação de conhecimentos, mas não para sua aplicação.\nV- Englobam comportamentos empreendidos pelo indivíduo para promover a aprendizagem de conhecimentos e habilidades.\nAssinale a opção correta.",
+   "alternativas": [
+    "Apenas as afirmativas II, III e V são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e V são verdadeiras.",
+    "Apenas as afirmativas I, II e IV são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.redalyc.org/pdf/261/26170905.pdf",
+   "comentario": "(Cobra além deste material.) Brandão e Borges-Andrade tratam as estratégias de aprendizagem no trabalho como processos cognitivos que facilitam aquisição, retenção e recuperação (I), como esforços ativos do indivíduo para aprender (III) e como comportamentos que ele empreende para aprender (V). A II erra porque essas estratégias são favorecidas, e não inibidas, por contextos que dão suporte à aprendizagem. A IV erra porque elas também contribuem para a aplicação do que foi aprendido no trabalho."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "Arzeno (in: HUTZ et al., 2016), no livro Psicodiagnóstico, afirma que o psicodiagnóstico contempla algumas finalidades. Assim, assinale a opção que apresenta uma dessas finalidades.",
+   "alternativas": [
+    "Investigação diagnóstica: tem como objetivo explicar o que acontece com o avaliando de forma consciente, e isso não significa rotulá-lo.",
+    "Avaliação do tratamento: visa avaliar o andamento do tratamento. Seria o “reteste”, no qual se aplicam testes ou uma bateria de testes totalmente diferente daquela usada na primeira avaliação.",
+    "Meio de comunicação: procura facilitar a comunicação e, em consequência, a tomada de insight.",
+    "Perícia forense: com o objetivo de responder a quesitos legais, solicitados pelo juiz.",
+    "Investigação: com o intuito de criar novos instrumentos de exploração da inteligência e, também, de planejar a investigação para o estudo de determinado diagnóstico etc."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "comentario": "Arzeno inclui entre as finalidades do psicodiagnóstico servir como meio de comunicação, facilitando a comunicação com o avaliando e favorecendo o insight. As outras distorcem as finalidades: a investigação diagnóstica busca explicar o que acontece além do que o avaliando sabe ou diz conscientemente; a avaliação do tratamento compara com a primeira avaliação, o que pede instrumentos equivalentes e não uma bateria totalmente diferente; e a finalidade de investigação mira instrumentos de exploração da personalidade, não da inteligência. Perícia forense é um contexto de avaliação, não uma das finalidades listadas pela autora."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Robbins (2010) se refere à tendência que as pessoas têm de se esforçar menos ao trabalhar em grupo do que se estivessem trabalhando sozinhas como folga social. Isso desafia diretamente a lógica de que a produtividade de um grupo deveria ser igual a, pelo menos, a soma da produtividade de cada elemento dele. Portanto, o desempenho do grupo aumenta de acordo com seu tamanho, mas a entrada de novos membros provoca quedas na produtividade. Então, pode ser que “quanto mais, melhor”, no sentido de que a produtividade total em um grupo de quatro pessoas é maior do que a de um grupo de três, mas a produtividade individual é reduzida. Assim, assinale a opção que apresenta uma das maneiras de se minimizar a folga social.",
+   "alternativas": [
+    "Estabelecer as metas dos grupos de forma que tenham um projeto, no qual devam se empenhar.",
+    "Aumentar a cooperação entre os grupos, o que também faz com que o grupo foque no resultado compartilhado.",
+    "Evitar criar avaliações pelos pares de modo a não gerar constrangimentos e competitividade intragrupo.",
+    "Selecionar membros que tenham a motivação alta e prefiram trabalhar individualmente.",
+    "Se possível, distribuir sanções aos grupos, baseadas, em parte, na contribuição exclusiva de cada membro, quando se mostrar insuficiente."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "comentario": "Robbins lista como formas de reduzir a folga social: estabelecer metas grupais, aumentar a competição entre grupos, usar avaliação pelos pares, selecionar pessoas motivadas que prefiram trabalhar em grupo e basear parte das recompensas na contribuição individual. Cada opção errada inverte uma dessas medidas: cooperação em vez de competição entre grupos, evitar a avaliação pelos pares, preferir quem gosta de trabalhar sozinho e falar em sanções em vez de recompensas."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "Com relação às tarefas do psicólogo hospitalar, de acordo com Romano (1999), assinale a opção correta.",
+   "alternativas": [
+    "Quanto à atenção ao doente, o psicólogo pode atuar de forma direta, por meio de interconsulta, detectando fatores iatrogênicos no funcionamento dos serviços hospitalares.",
+    "As relações do paciente com grupos (familiar, equipe multiprofissional e grupos de outros pacientes) são de interesse secundário para o psicólogo hospitalar.",
+    "Existem três níveis essenciais para a atuação do psicólogo em hospitais: o psicodiagnóstico, o psicoterapêutico e o psicoprofilático.",
+    "O psicólogo hospitalar deve atuar em acordo com as tarefas maiores do hospital, que se equivalem às da sua profissão: a assistência ao paciente e seus familiares, responsabilizar-se pelo ensino e desenvolver pesquisas.",
+    "O que define um psicólogo hospitalar é a atuação clínica segundo uma linha teórica específica dentro do ambiente hospitalar."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-hospitalar",
+   "item": "https://www.youtube.com/watch?v=Dtpy12uWMpE",
+   "comentario": "Para Romano, o psicólogo hospitalar atua em consonância com as tarefas maiores do hospital, que coincidem com as da sua profissão: assistência ao paciente e à família, ensino e pesquisa. As outras erram porque a interconsulta é uma forma de atuação indireta, por meio da equipe; porque as relações do paciente com família, equipe e outros pacientes são centrais, não secundárias; e porque o que define o psicólogo hospitalar é o contexto e a demanda da instituição, não uma linha teórica específica."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "O desempenho humano nas organizações é extremamente contingencial. Varia de pessoa para pessoa e de situação para situação, pois depende de inúmeros fatores condicionantes que o influenciam poderosamente. Segundo Chiavenato (2014), assinale a opção que NÃO é um dos principais fatores que afetam o desempenho no cargo.",
+   "alternativas": [
+    "Competências da pessoa.",
+    "Valor das recompensas.",
+    "Percepção de que as recompensas dependem de esforço.",
+    "Estabilidade no cargo.",
+    "Percepção do papel."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.youtube.com/watch?v=VLQBDVe17HU",
+   "comentario": "Chiavenato aponta como fatores que afetam o desempenho no cargo o valor das recompensas, a percepção de que as recompensas dependem do esforço, o esforço individual, as competências da pessoa e a percepção do papel. Estabilidade no cargo não está nessa lista, por isso é a resposta. A lógica do modelo é a das expectativas: a pessoa se esforça quando valoriza a recompensa e acredita que o esforço leva a ela, e o esforço vira desempenho conforme suas competências e o entendimento do papel."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "De acordo com o Código de Ética Profissional do Psicólogo em vigor, assinale a opção correta.",
+   "alternativas": [
+    "Ao psicólogo, é facultado sugerir serviços de outros psicólogos, sempre que, por motivos justificáveis, não puderem ser continuados pelo profissional que os assumiu inicialmente.",
+    "Ao psicólogo, é permitido realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação quando se tratar de crimes hediondos.",
+    "O psicólogo, no relacionamento com profissionais não psicólogos, compartilhará todas as informações do serviço prestado, assinalando a responsabilidade de quem as receber de resguardar o sigilo.",
+    "Ao psicólogo, é vedado orientar a quem de direito sobre os encaminhamentos apropriados, a partir da prestação de serviços psicológicos.",
+    "O psicólogo poderá intervir na prestação de serviços psicológicos que estejam sendo efetuados por outro profissional, quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+   "comentario": "Código de Ética (Res. CFP 010/2005), art. 7º: o psicólogo pode intervir em serviço conduzido por outro profissional quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada. As outras erram: sugerir serviços de outros psicólogos quando o trabalho não puder continuar é um dever do art. 1º, não uma faculdade; diagnósticos e resultados expostos nos meios de comunicação são vedados, sem exceção para crimes hediondos; com profissionais não psicólogos, o art. 6º manda compartilhar somente as informações relevantes, não todas; e orientar a quem de direito sobre os encaminhamentos é dever, não vedação."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Com relação às teorias da aprendizagem, de acordo com Campos (2005), assinale a opção correta.",
+   "alternativas": [
+    "Para os conexionistas, a aprendizagem é um processo criador e não exige da parte de quem aprende a compreensão das relações causais, mas apenas a formação de ligações entre os neurônios.",
+    "De acordo com a teoria do condicionamento clássico, a aprendizagem por condicionamento consiste na aquisição de uma reação pela substituição de estímulos naturais por estímulos condicionados, que se tornam neutros pela sua ocorrência simultânea ou contígua aos primeiros.",
+    "Para Skinner, a aprendizagem é uma mudança na probabilidade da resposta. Na maioria dos casos, essa mudança é determinada pelo condicionamento clássico.",
+    "Para a Gestalt, a aprendizagem é, principalmente, o problema de perceber relações, estruturar o campo perceptivo. A aprendizagem não é um processo ativo, porém é inteligente e global. Constitui uma aquisição de estruturas, de formas, implicando, algumas vezes, discernimento e compreensão da situação.",
+    "A aprendizagem, para Piaget, se caracteriza como uma aquisição realizada pela experiência anterior, mas sem controle sistemático e dirigida pelo próprio aprendiz. As estruturas vão se construindo, como verdadeiros extratos de ação, entre o sujeito e objeto ou situação a que necessita se adaptar."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+   "comentario": "Em Campos, a aprendizagem para Piaget é uma aquisição feita pela experiência anterior, sem controle sistemático externo e dirigida pelo próprio aprendiz, com estruturas construídas na ação entre sujeito e objeto. As outras distorcem as teorias: para os conexionistas a aprendizagem é mecânica, não criadora; no condicionamento clássico é o estímulo neutro que se torna condicionado, e não o inverso; para Skinner a mudança na probabilidade da resposta vem do condicionamento operante; e para a Gestalt a aprendizagem é um processo ativo."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "A motivação é um fator intrínseco do indivíduo e, segundo Cavalcanti et al. (2009), o líder possui importante papel para provocá-la em seus liderados. A respeito desse papel, assinale a opção correta.",
+   "alternativas": [
+    "O líder deve exigir que os membros de sua equipe busquem o significado do seu trabalho, exercendo atividades que valham a pena.",
+    "Na medida em que seus liderados assumam maiores responsabilidades, o líder deve fornecer-lhes menos autonomia.",
+    "Quanto às experiências de frustração e sofrimento, o líder não possui papel em minimizá-las, pois fazem parte das experiências pelas quais todo indivíduo precisa passar.",
+    "No que se refere às recompensas, o líder deve cuidar para que estas sejam oferecidas zelando pela equidade entre os indivíduos, de modo a evitar sentimentos de injustiça.",
+    "As recompensas oferecidas pelo líder precisam atender às necessidades da organização, de modo a não prejudicar as tarefas organizacionais."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "comentario": "Ao distribuir recompensas, o líder deve zelar pela equidade entre as pessoas para evitar sentimentos de injustiça, que minam a motivação. As outras contrariam o papel motivador do líder: ele ajuda os liderados a encontrar sentido no trabalho em vez de exigir isso deles, dá mais autonomia a quem assume mais responsabilidade, ajuda a minimizar frustração e sofrimento, e as recompensas precisam atender às necessidades dos liderados, não só às da organização."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Bock (2006) faz menção a determinadas classificações das teorias em orientação profissional. Dentre essas teorias, assinale a opção que apresenta aquelas que importam seus pressupostos da administração de empresas e da economia, visando à racionalidade das escolhas, devendo ser fruto de análise minuciosa dos elementos que intervêm no processo de escolha profissional.",
+   "alternativas": [
+    "Psicodinâmicas.",
+    "Psicológicas.",
+    "Traço e Fator.",
+    "Críticas.",
+    "Decisionais."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.youtube.com/watch?v=GZkzw6MSfxc",
+   "comentario": "Na classificação apresentada por Bock, as teorias decisionais importam pressupostos da administração e da economia e tratam a escolha profissional como uma decisão racional, fruto da análise dos elementos envolvidos. Traço e fator busca ajustar características do indivíduo às exigências da profissão; as psicodinâmicas enfatizam motivações inconscientes; e as críticas, como a sócio-histórica, questionam justamente a ideia de escolha puramente individual e racional."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Sobre a motivação para o trabalho, Borges, Alves-Filho e Tamayo (in: SIQUEIRA et al., 2008) tomam como referência a teoria das expectativas, elaborada por Vroom (1964), sobre a qual os autores entendem que a historicidade dos fenômenos pode e deve ser recuperada pela análise que o profissional realiza de seus dados. Essa teoria se sustenta em cinco conceitos básicos. Assim, assinale a opção que apresenta o conceito que consiste no grau de relação percebida entre a execução e a obtenção dos resultados.",
+   "alternativas": [
+    "Valência.",
+    "Expectativa.",
+    "Instrumentalidade.",
+    "Resultados do trabalho.",
+    "Desejabilidade."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "comentario": "Na teoria das expectativas de Vroom, instrumentalidade é o grau de relação percebida entre executar a tarefa e obter os resultados. A confusão mais comum é com a expectativa, que é a relação percebida entre o esforço e o desempenho. Valência é o valor atribuído ao resultado, e resultados do trabalho são aquilo que se obtém, não a relação entre execução e obtenção."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Castro e Soares (in: LEMGRUBER, 2000) trazem o modelo de psicoterapia breve integrada apresentado por Leigh McCullough, o qual propõe trabalhar todas as associações de afetos, subdividindo-os em três grupos, cada um composto de famílias de afetos que constituem um tema e suas variações. Assinale a opção que apresenta esses três grupos de afetos.",
+   "alternativas": [
+    "Afetos inibidores-reguladores, afetos geradores de prazer e afetos aversivos.",
+    "Afetos ativadores-reguladores, afetos ativadores-geradores de prazer e afetos aversivos.",
+    "Impulsos e sentimentos, afetos aversivos e afetos adaptativos.",
+    "Afetos positivos, afetos negativos e afetos reguladores.",
+    "Afetos dinâmicos, afetos disruptivos e afetos reguladores."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "comentario": "(Cobra além deste material.) No modelo integrado de McCullough descrito por Castro e Soares, os afetos se dividem em três grupos: ativadores-reguladores, ativadores-geradores de prazer e aversivos. A opção A é a armadilha, porque usa a palavra inibidores, que lembra os afetos que bloqueiam os demais na teoria da autora; mas, na divisão em três grupos cobrada aqui, esses afetos que inibem já estão no grupo dos aversivos, e os dois primeiros grupos são ativadores. As outras combinações (positivos e negativos, dinâmicos e disruptivos, adaptativos) não correspondem à classificação."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "Fiorini (2004), ao falar sobre os eixos do processo terapêutico, enfatiza três pilares sobre os quais se constrói um sistema de influências de mudança. Assim, assinale a opção que apresenta esses pilares.",
+   "alternativas": [
+    "Atitudes rígidas do terapeuta, foco e experiência emocional corretiva.",
+    "Transferência, delimitação do contrato e atitude rígida do terapeuta.",
+    "Ativação de funções egoicas (tanto do paciente quanto do terapeuta), elaboração de um foco e relação de trabalho personificada.",
+    "Ativação do ego do terapeuta, transferência e elaboração de um foco.",
+    "Desenvolvimento autônomo pleno do paciente, ativação egoica e foco."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484",
+   "comentario": "Para Fiorini, o processo terapêutico se apoia em três eixos: a ativação de funções egoicas, a elaboração de um foco e a relação de trabalho personificada entre paciente e terapeuta. As opções erradas trocam um desses eixos por elementos que Fiorini critica ou não coloca como pilar, como a atitude rígida do terapeuta, a transferência como eixo central ou o desenvolvimento autônomo pleno do paciente."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "De acordo com o Código de Ética Profissional do Psicólogo em vigor, assinale a opção que contém um princípio fundamental da atuação da profissão.",
+   "alternativas": [
+    "Assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente.",
+    "Ter, para com o trabalho dos psicólogos e de outros profissionais, respeito, consideração e solidariedade, e, quando solicitado, colaborar com estes, salvo impedimento por motivo relevante.",
+    "Prestar serviços psicológicos de qualidade, em condições de trabalho dignas e apropriadas à natureza desses serviços, utilizando princípios, conhecimentos e técnicas reconhecidamente fundamentados na ciência psicológica, na ética e na legislação profissional.",
+    "Atuar com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural.",
+    "Contemplar a diversidade que configura o exercício da profissão e a crescente inserção do psicólogo em contextos institucionais e em equipes multiprofissionais."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+   "comentario": "Atuar com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural, é um dos sete princípios fundamentais do Código de Ética. As outras são do mesmo código, mas de outra parte: assumir só o que domina, respeitar e colaborar com colegas e prestar serviços de qualidade são deveres fundamentais do art. 1º, e contemplar a diversidade do exercício profissional vem da apresentação do código. A banca costuma explorar exatamente essa diferença entre princípio e dever."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "De acordo com Zimerman (2000), existem algumas contraindicações partindo da hipótese de que o grupo em formação seja de pretensão analítica e que não tenha homogeneidade. Em relação a essas contraindicações, assinale a opção INCORRETA.",
+   "alternativas": [
+    "Pacientes que estejam mal motivados, tanto em relação à sua real disposição para um tratamento longo e difícil, quanto ao fato de ser especificamente em grupo.",
+    "Pacientes que apresentam uma forte tendência a actings de natureza maligna, muitas vezes envolvendo outras pessoas do mesmo grupo, como é o caso, por exemplo, dos psicopatas.",
+    "Pacientes que inspiram uma acentuada preocupação pela possibilidade de graves riscos, principalmente o de suicídio.",
+    "Pacientes com bom nível de adaptação neurótica, com adequada capacidade de abstração.",
+    "Pacientes que pertencem a uma certa condição profissional ou política que represente sérios riscos por eventual quebra de sigilo."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf",
+   "comentario": "Para Zimerman, um bom nível de adaptação neurótica e capacidade de abstração são condições favoráveis à grupoterapia analítica, não contraindicações, por isso a D é a incorreta. As demais são contraindicações que ele aponta: baixa motivação para um tratamento longo e em grupo, tendência a actings malignos (como nos psicopatas), risco grave como o de suicídio e condição profissional ou política em que uma quebra de sigilo seria perigosa."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "De acordo com Beck (2014), invariavelmente, surgem problemas na estruturação das sessões. Quando um problema é identificado, deve-se especificá-lo, conceituar por que ele surgiu e planejar uma solução. Considerando os problemas na estruturação das sessões, assinale a opção correta.",
+   "alternativas": [
+    "Cognições do terapeuta: se o profissional for um terapeuta experiente ou tiver experiência em uma modalidade menos diretiva, deverá evitar interferências de cognições sobre a estrutura, a interrupção do paciente e a implementação da estrutura padrão.",
+    "Interrompendo o paciente: para estruturar as sessões efetivamente para que a terapia possa ser eficiente, não se deve interromper o paciente.",
+    "Exame dos exercícios de casa: um problema típico surge quando o terapeuta pergunta sobre o exercício de casa feito na semana anterior de maneira concisa e breve.",
+    "Verificação do humor: o paciente preencher os formulários ou estar menos disposto a preencher formulários ou dificuldade em expressar de maneira subjetiva o seu humor geral durante a semana.",
+    "Fortalecendo a aliança terapêutica: uma dificuldade comum envolve a relutância do paciente em se adequar à estrutura prescrita devido às suas percepções e crenças disfuncionais sobre si mesmo, sobre a terapia ou sobre o terapeuta. No outro extremo do espectro, o profissional poderá permitir que o paciente domine e controle o andamento da sessão - inicialmente."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.redalyc.org/pdf/261/26110303.pdf",
+   "comentario": "(Cobra além deste material.) Judith Beck aponta como problema comum a relutância do paciente em seguir a estrutura da sessão, ligada a crenças disfuncionais sobre si, a terapia ou o terapeuta, e, no outro extremo, o terapeuta que deixa o paciente dominar a sessão. As outras distorcem a orientação: o terapeuta experiente deve examinar suas próprias cognições sobre estruturar e interromper, e não evitá-las; interromper o paciente com delicadeza é necessário para manter a estrutura; e a verificação do humor e a revisão da tarefa de casa são etapas da estrutura, não problemas em si."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Segundo Spector (2010), a análise do trabalho é um método utilizado para descrever tanto os diferentes tipos de trabalhos quanto as características humanas necessárias para o desenvolvimento das atividades. Existem muitas maneiras de realizar a coleta de informações da análise do trabalho, assim assinale a opção que apresenta as quatro formas mais utilizadas.",
+   "alternativas": [
+    "Realizando o trabalho, feedback, entrevistando os funcionários e aplicando questionários aos especialistas.",
+    "Observando os funcionários em ação, entrevistando os especialistas no assunto, aplicando inventários de comportamento nos funcionários e analisando estatisticamente os dados.",
+    "Entrevistando os especialistas no assunto, feedback, benchmarking e aplicando questionários.",
+    "Realizando o trabalho, observando os funcionários em ação, entrevistando os especialistas no assunto e aplicando questionários aos especialistas.",
+    "Aplicando questionários aos especialistas, analisando estatisticamente os dados, role-playing e realizando o trabalho."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf",
+   "comentario": "(Cobra além deste material.) Spector cita quatro formas mais usadas de coletar informações na análise do trabalho: realizar o próprio trabalho, observar os funcionários em ação, entrevistar especialistas no assunto e aplicar questionários. As outras inserem itens que não são fontes de coleta na lista do autor, como feedback, benchmarking, role-playing ou análise estatística, que é etapa de tratamento dos dados e não de coleta."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "Com base em Dalgalarrondo (2019), assinale a opção que apresenta um fator de risco para o suicídio.",
+   "alternativas": [
+    "Dor aguda.",
+    "Gênero masculino.",
+    "Traços obsessivos.",
+    "Déficit cognitivo.",
+    "Ser casado."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-suicidio",
+   "item": "https://www.youtube.com/watch?v=i7klFU1wReo",
+   "comentario": "O sexo masculino é um fator de risco clássico para suicídio consumado, que é mais frequente em homens. Ser casado é, ao contrário, fator de proteção, e a dor que costuma ser associada ao risco é a crônica, não a aguda. Traços obsessivos e déficit cognitivo não aparecem como fatores de risco típicos nessas listas."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "De acordo com Dalgalarrondo (2019), o esquema corporal é a representação que cada indivíduo faz de seu próprio corpo. Essa percepção do próprio corpo é construída e organizada tanto pelos sentidos corporais externos e internos como pelas representações mentais, afetivas e cognitivas, referentes ao organismo. Assim, a diferenciação entre o corpo físico, objetivo (corpo anatômico), e o vivenciado, percebido subjetivamente pelo sujeito (esquema corporal), é de suma importância. Com base nesse autor, sobre alterações do esquema corporal em transtornos mentais, assinale a opção correta.",
+   "alternativas": [
+    "Uma pessoa com hipocondria vive seu corpo como algo pesado, lento, difícil, fonte de sofrimento, e não de prazer. Sente-se fraca, esgotada, incapaz de fazer frente às exigências da vida (astenia). Seu corpo já não tem vida, é um peso morto, a pessoa se sente impotente ou muito doente (cenestopatia).",
+    "Os indivíduos em mania sentem o corpo comprimido, asfixiado, como se existisse uma pressão externa sobre ele, sobretudo uma constrição ou aperto no peito e na garganta.",
+    "O paciente com quadros de ansiedade grave pode vivenciar seu corpo como algo extremamente ativo, poderoso e vivo. Não é raro que o indivíduo sinta-se forte e ágil, não conseguindo parar e repousar por período um pouco prolongado.",
+    "Pacientes com transtorno dismórfico corporal percebem distorcidamente partes de seu corpo (nariz, orelhas, face, seios, nádegas, mãos, etc.). Eles afirmam que essas partes são horríveis, desproporcionais, enormes e dignas de enorme vergonha.",
+    "Pacientes com esquizofrenia podem tender a erotizar intensamente o corpo todo, mas, em contrapartida, sentir seus genitais e a atividade genital como insensíveis ou perigosos."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "comentario": "No transtorno dismórfico corporal, a pessoa percebe partes do corpo como horríveis, desproporcionais ou dignas de vergonha, o que é uma alteração do esquema corporal. As outras trocam os quadros: o corpo pesado, lento e sem vida é o da depressão, não da hipocondria; a sensação de compressão e aperto no peito é da ansiedade, não da mania; e o corpo vivido como poderoso, ágil e incapaz de parar é o da mania, não da ansiedade."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Amarante (2013) aponta para a necessidade de serviços de atenção psicossocial que possibilitem o acolhimento das pessoas em crise nos quais todas as pessoas envolvidas possam ser ouvidas, expressando suas dificuldades, temores e expectativas. É importante que sejam estabelecidos vínculos afetivos e profissionais com essas pessoas. Dessa forma, na saúde mental e atenção psicossocial, o que se pretende é uma rede de relações entre:",
+   "alternativas": [
+    "médico-paciente.",
+    "médico-doença.",
+    "sujeitos que cuidam-sujeitos em crise.",
+    "profissionais de saúde-usuários.",
+    "sujeitos que escutam e cuidam-sujeitos que vivenciam problemáticas."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://laps.ensp.fiocruz.br/arquivos/documentos/19",
+   "comentario": "Amarante propõe, na atenção psicossocial, uma rede de relações entre sujeitos que escutam e cuidam e sujeitos que vivenciam as problemáticas. As opções médico-paciente e médico-doença representam justamente o modelo biomédico que ele critica; e profissionais-usuários ou cuidadores-pessoas em crise ficam próximas, mas perdem a ênfase nos dois polos como sujeitos e na escuta."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Sobre a atuação do psicólogo nas políticas públicas para o esporte (CFP, 2019) é correto afirmar que:",
+   "alternativas": [
+    "a relação entre mídia e a psicologia do esporte é uma relação simbiótica e, quando o psicólogo é chamado para esclarecer algo, precisa estar atento para responder de forma objetiva com suas interpretações sobre a pessoa do atleta, com respostas definitivas, como é esperado de um laudo ou parecer.",
+    "faz-se necessário compartilhar o conhecimento e procedimentos psicológicos, com os demais membros da equipe multiprofissional de forma ampla e irrestrita.",
+    "no contexto esportivo a prática do psicólogo está vinculada a uma concepção de ser humano utilitarista, mecanicista e, também, imediatista.",
+    "atuar como psicólogo do esporte significa considerar as necessidades individuais para o desempenho de uma tarefa dentro de um contexto de alta complexidade, na qual é preciso proteger o atleta diante da exposição a riscos a sua integridade física e psicológica.",
+    "o processo de avaliação psicológica no esporte é conhecido como psicodiagnóstico esportivo e está relacionado diretamente com o levantamento de aspectos particulares do atleta por meio de um grande número de instrumentos de avaliação já desenvolvidos e validados na área de psicologia do esporte no Brasil."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As referências do CFP para o esporte entendem a atuação do psicólogo como atenta às necessidades individuais em um contexto de alta complexidade, protegendo o atleta de riscos à sua integridade física e psicológica. As outras contrariam a ética e o documento: o psicólogo não dá à mídia interpretações definitivas sobre o atleta, compartilha com a equipe só o necessário, não adota uma visão utilitarista e imediatista do ser humano, e o Brasil ainda tem poucos instrumentos validados específicos do esporte."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Baeta (2006), na obra Psicologia e Educação, aponta que, para Piaget, o pensamento formal não consiste simplesmente na possibilidade de lidar com enunciados verbais, mas sim, em uma série de possibilidades operatórias novas. Ao sentir-se capaz de criar teorias que se distanciam do real, o adolescente frequentemente dá livre expansão ao seu pensamento questionador, tanto no campo filosófico, como político, estético, etc. Assim, o pensamento do adolescente que atingiu o período formal é um pensamento:",
+   "alternativas": [
+    "hipotético-dedutivo.",
+    "intuitivo.",
+    "hipotético-indutivo.",
+    "mágico.",
+    "opositor."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+   "comentario": "No período das operações formais, segundo Piaget, o adolescente passa a raciocinar de forma hipotético-dedutiva: formula hipóteses e deduz suas consequências, mesmo sem apoio no concreto. Pensamento intuitivo e mágico são do período pré-operatório, e hipotético-indutivo é uma troca de termo para confundir com o correto."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "A cultura organizacional é um fator importante a ser considerado pelos gestores, tanto nas organizações privadas, quanto nas públicas. Uma cultura forte proporciona estabilidade para uma organização. De acordo com Robbins (2010), a respeito desse tema, assinale a opção correta.",
+   "alternativas": [
+    "A cultura organizacional se refere ao modo como cada colaborador se relaciona com a organização, demonstrando se gosta ou não dela.",
+    "A agressividade constitui uma das características básicas que captura a essência da cultura de uma organização.",
+    "A cultura organizacional representa a maneira como cada indivíduo percebe a organização. Assim, espera-se que indivíduos com diferentes históricos e em níveis diversos dentro da organização descrevam a cultura organizacional de maneira diferente.",
+    "Uma cultura forte aumenta o índice de rotatividade de seus membros, pois demonstra que o indivíduo precisará se adaptar àquele ambiente organizacional.",
+    "Quando as organizações não possuem uma cultura dominante, sendo compostas somente por diversas subculturas, o valor da cultura organizacional como variável independente é sensivelmente aumentado."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=Ki9Ez-xiy0E",
+   "comentario": "Robbins lista sete características que capturam a essência da cultura de uma organização, e a agressividade é uma delas, ao lado de inovação, atenção aos detalhes, orientação para resultados, para pessoas e para equipes e estabilidade. As outras erram: gostar ou não da organização é satisfação, não cultura; a cultura é uma percepção comum, por isso se espera que pessoas diferentes a descrevam de forma parecida; cultura forte reduz a rotatividade; e a ausência de cultura dominante diminui, não aumenta, seu valor como variável independente."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Segundo Beck (2014), a terapia cognitivo-comportamental está baseada no modelo cognitivo. De acordo com esse modelo, é correto afirmar que:",
+   "alternativas": [
+    "é a situação em si que determina o que a pessoa pensa, as emoções, comportamentos e pensamentos são influenciados diretamente pela situação.",
+    "as emoções, os comportamentos e a fisiologia de uma pessoa são influenciados pelas percepções que ela tem dos eventos. A situação em si determina diretamente como as pessoas se sentem e se comportam.",
+    "as suas crenças mais centrais, ou crenças nucleares, são verdades profundas que frequentemente são articuladas para si mesmo e para os outros.",
+    "as crenças intermediárias influenciam o desenvolvimento das crenças centrais, que são as atitudes, as regras e os pressupostos, frequentemente não articulados.",
+    "a forma como as pessoas se sentem emocionalmente e a forma como se comportam estão associadas a como elas interpretam e pensam a respeito da situação. A situação em si não determina diretamente como elas se sentem ou o que fazem; a sua resposta emocional é mediada pela percepção da situação."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "No modelo cognitivo, a resposta emocional e comportamental é mediada pela forma como a pessoa interpreta a situação; a situação em si não determina diretamente o que ela sente ou faz. As opções A e B dizem o contrário, que a situação determina a reação; a C erra porque as crenças centrais são tão profundas que muitas vezes nem são articuladas pela pessoa; e a D inverte a relação, pois são as crenças centrais que influenciam as intermediárias."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "De acordo com a Cartilha de Avaliação Psicológica publicada pelo Conselho Federal de Psicologia em 2022, existem diferenças entre a avaliação psicológica e a testagem psicológica. Com base na cartilha, assinale a opção correta.",
+   "alternativas": [
+    "A avaliação psicológica, como um processo estruturado de investigação de fenômenos psicológicos composto de métodos, técnicas e instrumentos, tem o objetivo de prover informações à tomada de decisão, no âmbito individual. A testagem psicológica é um processo técnico e científico realizado com pessoas ou grupos de pessoas que, de acordo com cada área do conhecimento e com as demandas exigidas, requer uso de métodos específicos, como por exemplo, os testes psicológicos.",
+    "A avaliação psicológica é um processo técnico e científico realizado com pessoas ou grupos de pessoas que, de acordo com cada área do conhecimento e com as demandas exigidas, requer uso de testes psicológicos, de técnicas e instrumentos não psicológicos que possuam respaldo da literatura científica. A testagem psicológica, por sua vez, diz respeito à aplicação de instrumentos de medida psicológicos ou não psicológicos que possuam validade científica.",
+    "A avaliação psicológica é um processo amplo que envolve a integração de informações provenientes de diversas fontes de informação, dentre elas: testes psicológicos, entrevistas, observações sistemáticas e análises de documentos. A testagem psicológica, por sua vez, diz respeito à aplicação dos testes psicológicos e obtenção de informações a partir dessa testagem. Assim, a testagem psicológica é uma etapa da avaliação psicológica.",
+    "A avaliação psicológica é um processo técnico e científico de coleta de dados, estudo e interpretação de informações a respeito dos fenômenos psicológicos que requer uso de testes psicológicos. A testagem psicológica diz respeito ao uso de testes psicológicos e documentos técnicos, tais como protocolos ou relatórios de equipes multiprofissionais.",
+    "A avaliação psicológica é um processo que envolve a integração de informações provenientes de diversas fontes de informação, dentre elas: entrevistas, observações e análises de documentos. A testagem psicológica, por sua vez, diz respeito à aplicação de instrumentos de medida, incluindo testes psicológicos e instrumentos não psicológicos que possuam respaldo da literatura científica."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf",
+   "comentario": "A Cartilha do CFP diferencia a avaliação psicológica, processo amplo que integra várias fontes (testes, entrevistas, observações, documentos), da testagem, que é a aplicação dos testes; por isso a testagem é uma etapa da avaliação. As outras confundem os conceitos: atribuem à testagem a definição de processo técnico-científico, dizem que a avaliação sempre requer testes, ou incluem documentos e instrumentos não psicológicos na testagem."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Segundo Amarante (2013), a noção de prevenção adotada por Caplan foi transportada da medicina preventiva para a psiquiatria e considerava-se que poderia ser realizada em três níveis de acordo com a análise realizada por Joel Birman e Jurandir Freire Costa. A respeito desse tema, assinale a opção correta.",
+   "alternativas": [
+    "Prevenção terciária é a intervenção que busca a realização de diagnóstico e tratamento precoces da doença mental.",
+    "Prevenção secundária é definida pela busca da readaptação do paciente à vida social, após a sua melhoria.",
+    "Prevenção primária é a intervenção nas condições possíveis de formação da doença mental, condições etiológicas, que podem ser de origem individual e (ou) do meio.",
+    "Prevenção secundária é a intervenção que busca a realização de tratamento tardio da doença mental.",
+    "Prevenção primária se relaciona a processos normais do desenvolvimento físico, emocional ou social."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://www.youtube.com/watch?v=HyXJy2ZIbwo",
+   "comentario": "(Cobra além deste material.) No modelo preventivista de Caplan, a prevenção primária intervém nas condições de formação da doença mental, de origem individual ou do meio. As outras trocam os níveis: diagnóstico e tratamento precoces são a prevenção secundária, e a readaptação do paciente à vida social é a terciária. Tratamento tardio não é nível de prevenção, e processos normais do desenvolvimento não definem a prevenção primária."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Segundo Campos (2005), no processo de aprendizagem, para Piaget, podem ser destacadas duas fases, são elas:",
+   "alternativas": [
+    "fase de assimilação, que já poderá produzir um fenômeno de aprendizagem, sob forma de transferência de reação, e a fase de reforço, em que a apresentação ou o afastamento do estímulo aumenta a probabilidade de uma resposta.",
+    "fase de acomodação, que corresponde ao processo de aprendizagem sob a forma, mais geral, de modificação do esquema de reação propriamente dito, sob o efeito do êxito, e a fase de generalização em que, uma vez estabelecida a relação estímulo condicionado-resposta condicionada, estímulos semelhantes ao estímulo condicionado podem provocar as respostas condicionadas.",
+    "fase de similaridade ou igualdade, em condições iguais, os estímulos mais semelhantes entre si terão maior tendência a se agruparem na percepção do indivíduo, e fase de assimilação, que já não é capaz de produzir um fenômeno de aprendizagem, sob forma de transferência de reação.",
+    "fase de assimilação, em uma situação problemática, o todo é visto como incompleto, estabelecendo um estado de tensão psicológica, e a fase de acomodação, que corresponde ao processo de aprendizagem sob a forma, mais geral, de modificação do esquema de reação propriamente dito, sob o efeito do êxito.",
+    "fase de assimilação, que já poderá produzir um fenômeno de aprendizagem, sob forma de transferência de reação, e a fase de acomodação, que corresponde ao processo de aprendizagem sob a forma, mais geral, de modificação do esquema de reação propriamente dito, sob o efeito do êxito."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+   "comentario": "Para Piaget, segundo Campos, a aprendizagem tem duas fases: a assimilação, que já pode produzir aprendizagem sob forma de transferência de reação, e a acomodação, que modifica o esquema de reação sob o efeito do êxito. As outras misturam conceitos de outras teorias com os de Piaget: reforço e generalização de estímulos são do behaviorismo, e semelhança e todo incompleto que gera tensão são da Gestalt."
+  }
+ ]
+}

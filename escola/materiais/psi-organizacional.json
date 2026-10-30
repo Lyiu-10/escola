@@ -1,0 +1,364 @@
+{
+ "p-org-trabalho": [
+  {
+   "tipo": "aula",
+   "titulo": "Psicologia para Concursos 2025: Resumão de Psicologia Organizacional e do Trabalho",
+   "fonte": "Gran Cursos Saúde (YouTube)",
+   "url": "https://www.youtube.com/watch?v=NtEbyak5Uac",
+   "minutos": 55,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Resumo voltado a concurso: conceitos de trabalho, papel do psicólogo organizacional e visão geral da área."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Cartilha Psicologia Organizacional e do Trabalho (POT): você precisa conhecê-la",
+   "fonte": "Conselho Federal de Psicologia (CFP), 2025",
+   "url": "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf",
+   "arquivo": "p-org-trabalho/cfp-cartilha-pot-2025.pdf",
+   "minutos": 90,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Trabalho, atuação e ética do psicólogo organizacional; ler as páginas 7 a 36 do PDF (o resto é entidades e referências)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Noções Básicas de Psicologia Organizacional e do Trabalho - Professora Raiane Ferreira",
+   "fonte": "Psicologia Nova (YouTube)",
+   "url": "https://www.youtube.com/watch?v=KKYXcSj3KME",
+   "minutos": 61,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Segunda aula de base sobre conceitos e atuação em POT, para reforçar."
+  }
+ ],
+ "p-recrutamento": [
+  {
+   "tipo": "aula",
+   "titulo": "O papel do Psi Organizacional no Recrutamento e Seleção",
+   "fonte": "PSI ALEXSANDER (YouTube)",
+   "url": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "minutos": 46,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Etapas do recrutamento e seleção e o papel do psicólogo no processo."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Métodos de Seleção de Pessoal: Discussões Preliminares sob o Enfoque do Behaviorismo Radical (Tadaiesky)",
+   "fonte": "Psicologia: Ciência e Profissão, vol. 28(1), 2008 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "arquivo": "p-recrutamento/tadaiesky-selecao-pessoal-2008.pdf",
+   "minutos": 51,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Conceitos e métodos de seleção (entrevista, testes, dinâmicas); a ótica behaviorista é só uma lente, o resto é geral."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Recrutamento e Seleção - Gestão de Pessoas - Prof. Rodrigo Rennó",
+   "fonte": "Rodrigo Rennó (YouTube)",
+   "url": "https://www.youtube.com/watch?v=r1xqMjl6bYg",
+   "minutos": 54,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Aula de concurso sobre recrutamento interno/externo, técnicas e seleção."
+  }
+ ],
+ "p-psicometria": [
+  {
+   "tipo": "aula",
+   "titulo": "Validade e Fidedignidade no Processo de Construção de Instrumentos Psicológicos",
+   "fonte": "Laboratório de Psicometria (YouTube)",
+   "url": "https://www.youtube.com/watch?v=XUrunX0QGGA",
+   "minutos": 50,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Validade e fidedignidade (precisão) de testes psicológicos."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psicometria (Pasquali)",
+   "fonte": "Revista da Escola de Enfermagem da USP, 43(esp), 2009 (acesso aberto)",
+   "url": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "arquivo": "p-psicometria/pasquali-psicometria-2009.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Conceitos e modelos da psicometria, validade e precisão dos testes."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psychology 2e, seção 7.5: medidas de inteligência (OpenStax)",
+   "fonte": "OpenStax / Rice University, 2020 (acesso aberto, CC BY, openstax.org)",
+   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=243",
+   "arquivo": "p-personalidade/openstax-psychology-2e.pdf",
+   "minutos": 18,
+   "idioma": "en",
+   "extra": false,
+   "nota": "Ler as páginas 243 a 248 (seção 7.5). Testes de inteligência, padronização, normas e confiabilidade; introdução aos conceitos, não substitui Pasquali."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Psicometria - Aula 6 - Parte 1/5 - Padronização e Normatização - Padronização",
+   "fonte": "GATE UFF (YouTube)",
+   "url": "https://www.youtube.com/watch?v=R8YZh89I72k",
+   "minutos": 45,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Padronização e normatização de testes, tópico do edital do Exército."
+  }
+ ],
+ "p-treinamento": [
+  {
+   "tipo": "aula",
+   "titulo": "24.19. Treinamento, Desenvolvimento e Educação (Administração) Parte 1 - Prof.ª Izabel Ataíde",
+   "fonte": "TecConcursos (YouTube)",
+   "url": "https://www.youtube.com/watch?v=jEZ7mcdBow4",
+   "minutos": 28,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Treinamento, desenvolvimento e educação nas organizações, em formato de aula de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Desenvolvimento de medidas em avaliação de treinamento (Borges-Andrade)",
+   "fonte": "Estudos de Psicologia, 7(esp), 2002 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/261/26170905.pdf",
+   "arquivo": "p-treinamento/borges-andrade-avaliacao-treinamento-2002.pdf",
+   "minutos": 42,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Avaliação de treinamento (reação, aprendizagem, comportamento, resultados); não cobre avaliação de desempenho, que fica na aula extra."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Gestão de competências e gestão de desempenho: tecnologias distintas ou instrumentos de um mesmo construto? (Brandão e Guimarães, 2001)",
+   "fonte": "RAE - Revista de Administração de Empresas, 41(1), 2001 (acesso aberto, SciELO)",
+   "url": "https://www.scielo.br/pdf/rae/v41n1/v41n1a02.pdf",
+   "arquivo": "p-treinamento/brandao-guimaraes-competencias-desempenho.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Histórico e métodos da avaliação de desempenho, gestão de desempenho como alternativa à avaliação tradicional, e relação com gestão por competências. Ler as 8 páginas. Complementa o texto de avaliação de treinamento."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "PSICOLOGIA ORGANIZACIONAL PARA CONCURSOS PSI - GESTÃO DO DESEMPENHO ORGANIZACIONAL",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia (YouTube)",
+   "url": "https://www.youtube.com/watch?v=VLQBDVe17HU",
+   "minutos": 23,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Gestão e avaliação do desempenho humano, voltada a concurso de psicologia."
+  }
+ ],
+ "p-lideranca": [
+  {
+   "tipo": "aula",
+   "titulo": "Liderança e a Psicologia Organizacional",
+   "fonte": "PSI ALEXSANDER (YouTube)",
+   "url": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "minutos": 50,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Teorias e estilos de liderança sob a ótica da psicologia organizacional."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "A influência da liderança na motivação dos trabalhadores (Lemos e Pedrosa)",
+   "fonte": "LUMEN, 26(1), 2017 (acesso aberto)",
+   "url": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "arquivo": "p-lideranca/lemos-pedrosa-lideranca-motivacao-2017.pdf",
+   "minutos": 30,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Revisão de estilos de liderança e teorias da motivação; material de nível introdutório, não substitui Cavalcanti."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Satisfação no trabalho: uma breve revisão (Marqueze e Moreno, 2005)",
+   "fonte": "Revista Brasileira de Saúde Ocupacional, 30(112), 2005 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/1005/100517107007.pdf",
+   "arquivo": "p-lideranca/marqueze-moreno-satisfacao-trabalho.pdf",
+   "minutos": 33,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Concepções de satisfação no trabalho, características do trabalho que a determinam e consequências da satisfação e da insatisfação. Ler as 11 páginas do artigo (pp. 69-79); a capa do Redalyc não conta. Complementa o texto sobre liderança e motivação."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "MOTIVAÇÃO E TRABALHO - PSICOLOGIA ORGANIZACIONAL PARA CONCURSOS DE PSICOLOGIA",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia (YouTube)",
+   "url": "https://www.youtube.com/watch?v=LkDyXYo7Tpk",
+   "minutos": 27,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Teorias da motivação no trabalho, voltado a concurso."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Aula 12 - VALORES, ATITUDES E SATISFAÇÃO COM O TRABALHO",
+   "fonte": "Riciele Celestrini (Spaço Flor de Lotús) (YouTube)",
+   "url": "https://www.youtube.com/watch?v=nNw8-eCKz5Q",
+   "minutos": 49,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Valores, atitudes e satisfação com o trabalho (tópico da Aeronáutica)."
+  }
+ ],
+ "p-equipes": [
+  {
+   "tipo": "aula",
+   "titulo": "GRUPOS E EQUIPES DE TRABALHO",
+   "fonte": "Psicologia do Trabalho (YouTube)",
+   "url": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "minutos": 26,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Diferença entre grupo e equipe, formação e funcionamento de equipes de trabalho."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Interdependência e satisfação em equipes de trabalho: modelo de Guzzo e Shea (Puente-Palacios e Borges-Andrade)",
+   "fonte": "RAC, 9(3), 2005 (acesso aberto)",
+   "url": "https://rac.anpad.org.br/index.php/rac/article/download/393/391",
+   "arquivo": "p-equipes/puente-palacios-equipes-2005.pdf",
+   "minutos": 66,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Efetividade de equipes e o modelo de Guzzo e Shea; é estudo empírico, então a introdução teórica é o que mais serve."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "A cooperação prescrita e a cooperação possível: o trabalho em equipe numa unidade de saúde da família (Cunha e Sá)",
+   "fonte": "Editora Fiocruz, 2013, in Azevedo e Sá (orgs.) (acesso aberto, SciELO Livros)",
+   "url": "https://books.scielo.org/id/dbqbq/pdf/azevedo-9788575415351.pdf#page=295",
+   "arquivo": "p-equipes/azevedo-sa-psicossociologia-saude-trabalho-equipe.pdf",
+   "minutos": 78,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 295 a 320 (cap. 11). Trabalho prescrito e trabalho real numa equipe de saúde, cooperação, conflitos e defesas do coletivo, com a psicodinâmica do trabalho de Dejours. Ficou como extra: é o caso de uma equipe de saúde, e o edital pede grupos e equipes de trabalho em geral."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Psicologia e Sociologia do trabalho - Aula 02 - Trabalho em equipe: Força de trabalho diferenciada",
+   "fonte": "UNIVESP (YouTube)",
+   "url": "https://www.youtube.com/watch?v=dTuFCpO5ZEc",
+   "minutos": 22,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Trabalho em equipe como força de trabalho, aula universitária."
+  }
+ ],
+ "p-cultura": [
+  {
+   "tipo": "aula",
+   "titulo": "Cultura e Clima Organizacional - Aula Completa - Prof. Rodrigo Rennó",
+   "fonte": "Rodrigo Rennó (YouTube)",
+   "url": "https://www.youtube.com/watch?v=Ki9Ez-xiy0E",
+   "minutos": 51,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Cultura (níveis de Schein) e clima organizacional, aula de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Cultura organizacional em organizações públicas no Brasil (Pires e Macêdo)",
+   "fonte": "Revista de Administração Pública, 40(1), 2006 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/2410/241016430005.pdf",
+   "arquivo": "p-cultura/pires-macedo-cultura-organizacional-2006.pdf",
+   "minutos": 75,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Conceitos de cultura, Schein e Hofstede, e cultura em órgãos públicos brasileiros; não trata de clima nem de mudança."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Clima organizacional: uma análise de sua definição e de seus componentes (Puente-Palacios e Freitas, 2006)",
+   "fonte": "Organizações & Sociedade (UFBA), 13(38), 2006 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/4006/400638287004.pdf",
+   "arquivo": "p-cultura/puente-palacios-freitas-clima-organizacional.pdf",
+   "minutos": 39,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Definição de clima organizacional, origem do conceito e componentes. Ler as 13 páginas do artigo (pp. 45-57); a capa do Redalyc não conta. Mudança organizacional continua sem leitura (só aula). Complementa o texto de cultura."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psychology 2e, seção 13.3: psicologia organizacional e a dimensão social do trabalho (OpenStax)",
+   "fonte": "OpenStax / Rice University, 2020 (acesso aberto, CC BY, openstax.org)",
+   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=477",
+   "arquivo": "p-personalidade/openstax-psychology-2e.pdf",
+   "minutos": 30,
+   "idioma": "en",
+   "extra": true,
+   "nota": "Ler as páginas 477 a 486 (seção 13.3). Satisfação no trabalho, estrutura organizacional, teorias X e Y, equipes de trabalho e cultura organizacional; não trata de mudança organizacional."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Aprendizagem Organizacional",
+   "fonte": "Psicologia Nova (YouTube)",
+   "url": "https://www.youtube.com/watch?v=AjgMgRMpKc0",
+   "minutos": 31,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aprendizagem organizacional (tópico da Marinha)."
+  }
+ ],
+ "p-saude-trabalhador": [
+  {
+   "tipo": "aula",
+   "titulo": "Saúde Mental e Trabalho - Dejours",
+   "fonte": "GISELE ELEUTERIO (YouTube)",
+   "url": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "minutos": 33,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Psicodinâmica do trabalho de Dejours: prazer, sofrimento e saúde mental."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Saúde do Trabalhador no Âmbito da Saúde Pública: Referências Técnicas para a Atuação da(o) Psicóloga(o)",
+   "fonte": "Conselho Federal de Psicologia (CFP/CREPOP), 2019",
+   "url": "https://site.cfp.org.br/wp-content/uploads/2019/09/SaudeDoTrabalhador_WEB_FINAL_1_outubro.pdf",
+   "arquivo": "p-saude-trabalhador/cfp-saude-do-trabalhador-2019.pdf",
+   "minutos": 63,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Saúde mental e trabalho, sofrimento, abordagens (psicodinâmica, Seligmann-Silva); ler as páginas 38 a 58 do PDF. Estresse e QVT aparecem pouco."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Estresse ocupacional: causas e consequências (Prado, 2016)",
+   "fonte": "Revista Brasileira de Medicina do Trabalho, 14(3), 2016 (acesso aberto, BVS)",
+   "url": "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf",
+   "arquivo": "p-saude-trabalhador/prado-estresse-ocupacional.pdf",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Revisão sobre estresse ocupacional: conceito de Selye, fases, fatores desencadeantes, sintomas e medidas de prevenção. Ler as 5 páginas. Qualidade de vida no trabalho continua sem leitura aberta de boa qualidade."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Saúde mental e trabalho: trabalhadores afastados por adoecimento profissional (Tittoni e Nardi)",
+   "fonte": "Centro Edelstein de Pesquisas Sociais, 2008, in Jacques et al. (orgs.) (acesso aberto, SciELO Livros)",
+   "url": "https://books.scielo.org/id/6j3gx/pdf/jacques-9788599662892.pdf#page=40",
+   "arquivo": "p-saude-trabalhador/jacques-relacoes-sociais-etica-saude-mental-trabalho.pdf",
+   "minutos": 30,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 40 a 44 do PDF (impressas 69 a 78, duas por folha). Psicopatologia e psicodinâmica do trabalho (Dejours), sofrimento, defesas e identidade do trabalhador adoecido."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Psicodinâmica do trabalho: conceitos teóricos e ferramentas de intervenção",
+   "fonte": "Pós-PsicologiaS - UFC (YouTube)",
+   "url": "https://www.youtube.com/watch?v=nW2theNNUY0",
+   "minutos": 109,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Aula longa de pós-graduação sobre psicodinâmica do trabalho; só se quiser aprofundar."
+  }
+ ]
+}

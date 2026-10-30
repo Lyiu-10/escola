@@ -1,0 +1,282 @@
+{
+ "b3f18b83d6a1": [
+  null,
+  "Com a expressão mais de um, o verbo fica no singular na norma-padrão: o certo é mais de um livro queimou.",
+  "Sujeito composto anteposto ao verbo pede plural: um fundador e a mídia divulgaram.",
+  "Na voz passiva sintética o verbo concorda com o sujeito paciente, que está no plural: coletam-se 10 toneladas.",
+  "Fazer indicando tempo decorrido é impessoal e fica no singular: faz dois anos."
+ ],
+ "83f66e758c22": [
+  "Incêndio é paroxítona terminada em ditongo crescente, a mesma regra de memória; logo não é regra distinta.",
+  null,
+  "Colégio é paroxítona terminada em ditongo crescente, exatamente a regra que acentua memória.",
+  "Experiência se acentua como paroxítona terminada em ditongo crescente, mesma regra de memória.",
+  "História é paroxítona terminada em ditongo crescente, como memória; a regra é a mesma."
+ ],
+ "299daee91de7": [
+  "A biblioteca e Antiguidade são referentes diferentes: um não retoma o outro, então não há progressão referencial.",
+  "Nela retoma a biblioteca, não nossos fundadores; os dois termos destacados não se referem ao mesmo elemento.",
+  "Os livros e Sorbonne são referentes distintos, sujeito e objeto da frase; nenhum retoma o outro.",
+  "Nossa cultura é substantivo e rapidamente é advérbio de modo; não há termo retomado, logo não há progressão referencial.",
+  null
+ ],
+ "a42ca6da307b": [
+  "O se em intoxicar-se é reflexivo: a pessoa intoxica a si mesma. Não há sujeito paciente, então não é voz passiva.",
+  null,
+  "Encanta está na voz ativa, com o sujeito Hipatia praticando a ação; a mim é complemento anteposto.",
+  "Caber é intransitivo e está na voz ativa; não há sujeito paciente nem verbo auxiliar de passiva.",
+  "São pedaços de História tem verbo de ligação e predicativo: é predicado nominal, não voz passiva."
+ ],
+ "a05fb8085ece": [
+  "É o discurso indireto que subordina a fala do personagem ao narrador; no direto, o personagem fala com as próprias palavras.",
+  "Dois-pontos e travessão marcam o discurso direto; no indireto a fala vem integrada à frase do narrador, em geral por oração com que ou se.",
+  null,
+  "Na transposição do direto para o indireto, tempos verbais e pronomes mudam: eu vira ele, presente vira pretérito.",
+  "O indireto livre é justamente híbrido: mistura a voz do narrador com a do personagem, sem verbo dicendi."
+ ],
+ "b127e082baa1": [
+  "A experiência mais completa da leitura em papel é algo que o digital não substitui, segundo o texto; por isso não é contestada.",
+  "O prazer de presentear e receber livros, para a autora, continua valendo; o formato digital não anula esse motivo.",
+  "A dedicatória é marca física e afetiva do exemplar, que o e-book não reproduz; o motivo resiste ao digital.",
+  null,
+  "O crescimento das vendas de impressos é um dado do texto, não uma justificativa para guardar livro em casa."
+ ],
+ "b9d62bf1d646": [
+  "Velha é adjetivo e estante é substantivo; não há relação de gênero e espécie entre eles.",
+  "Papel e formato digital são suportes postos lado a lado, nenhum é categoria que inclui o outro.",
+  null,
+  "No texto, livros e e-books aparecem como formatos comparados, não como gênero e espécie; a banca não aceitou o par.",
+  "Tecnologia e tempo são noções independentes; nenhuma é termo genérico que abrange a outra."
+ ],
+ "d33d823f60af": [
+  "A vírgula separa o sujeito oracional (quem lê muito, quem procrastina) do verbo conta, o que a norma proíbe.",
+  null,
+  "A vírgula separa o verbo ficaram do sujeito posposto, os doutorandos e graduandos; sujeito e verbo não se separam por vírgula.",
+  "A vírgula separa o verbo do agente da passiva por aquele orientador sem isolá-lo dos dois lados; o certo seria sem vírgula.",
+  "A vírgula depois do relativo que separa o pronome do verbo é, e o advérbio final fica solto; a pontuação desmonta a frase."
+ ],
+ "ac4a003bc362": [
+  "Predicativo do objeto atribui qualidade ao objeto; o que não qualifica nada, ele pratica a ação de permitir.",
+  "Não há verbo de ligação; o que é o próprio sujeito de permitiam, não predicativo dele.",
+  null,
+  "O objeto direto de permitiam é a oração encontrar muitas palavras; o que, retomando dicionários, é quem permite, logo sujeito.",
+  "Complemento nominal completa nome; o que se liga ao verbo permitiam como seu sujeito."
+ ],
+ "050c522d0c88": [
+  null,
+  "Às vezes é locução adverbial feminina e a crase é obrigatória; sem ela a expressão fica errada.",
+  "À Messi equivale a à moda de Messi; a crase é obrigatória nessa expressão.",
+  "Na indicação de hora exata, às oito, a crase é obrigatória.",
+  "Obedecer pede a preposição a, que se funde ao a de aquilo; a crase em àquilo é obrigatória."
+ ],
+ "bea50ab67b64": [
+  null,
+  "Os dois o são artigos definidos (o homem, o cachorro); no trecho, o segundo o é pronome demonstrativo.",
+  "Esta e esse são ambos pronomes demonstrativos; no trecho, o primeiro termo é artigo.",
+  "A ordem está invertida: o que é pronome demonstrativo e o ponto tem artigo; o trecho pede artigo e depois pronome.",
+  "O artista tem artigo, mas o encontrou tem pronome pessoal oblíquo, não demonstrativo como aquilo."
+ ],
+ "a45dd943ea70": [
+  "Portãozinho indica tamanho reduzido; em livrinhos o diminutivo expressa afeto, não tamanho.",
+  "Mulherzinha tem valor pejorativo, de desprezo; em livrinhos o diminutivo é afetivo.",
+  "Capinha indica objeto pequeno, tamanho reduzido; o diminutivo de livrinhos é afetivo.",
+  "Mochilinha indica mochila pequena, por isso não cabe nada; o valor é de tamanho, não de afeto.",
+  null
+ ],
+ "fac82ab8ba5b": [
+  "Posto que, na norma-padrão, é concessiva como ainda que; a troca mantém o sentido.",
+  "Embora é conjunção concessiva, equivalente a ainda que; não altera o sentido.",
+  null,
+  "Mesmo que é locução concessiva, com o mesmo valor de ainda que.",
+  "Conquanto é concessiva, sinônimo de embora e ainda que; o sentido se mantém."
+ ],
+ "e00f60e277c1": [
+  "Está correta: na tirinha, o celular trata o livro como tecnologia ultrapassada. A questão pede a incorreta.",
+  "Está correta: o próprio aparelho destaca seu formato compacto e portátil. A questão pede a incorreta.",
+  "Está correta: a ameaça de queimar o livro mostra o físico em perigo diante do digital. A questão pede a incorreta.",
+  "Está correta: no fim a bateria acaba, o que mostra vantagem do livro físico. A questão pede a incorreta.",
+  null
+ ],
+ "0f91c91a2d8e": [
+  "Os textos não declaram o livro físico obsoleto; mostram que ele mantém vantagens, como não depender de bateria.",
+  "A ideia de ameaça aparece só como tensão; o conjunto dos textos conclui pelo convívio dos dois formatos.",
+  "Mesmo prestígio é exagero: os textos apontam vantagens e desvantagens distintas, sem igualar os formatos.",
+  null,
+  "Toma partido do físico; os textos não elegem um formato mais importante, reconhecem méritos nos dois."
+ ],
+ "54fbcbc028d8": [
+  null,
+  "Sustentado significa mantido, apoiado; mitigado indica redução da intensidade.",
+  "Exacerbado é o oposto de mitigado: significa intensificado, agravado.",
+  "Determinado significa definido ou fixado; não traduz a ideia de abrandar.",
+  "Pressionado indica sofrer pressão; mitigado quer dizer atenuado, suavizado."
+ ],
+ "2cc3691ecc62": [
+  "A expansão do conhecimento é só o ponto de partida do texto; a ideia central é o cansaço e a necessidade de desacelerar.",
+  "O desenvolvimento dos meios de comunicação é contexto, não a tese; o texto defende reduzir o ritmo dos contatos digitais.",
+  "O texto não exalta o domínio da internet como produtivo; ao contrário, mostra o sufoco da conectividade constante.",
+  null,
+  "Inverte o problema: o texto fala do excesso de conectividade, não dos danos da falta dela."
+ ],
+ "3b64c57d0a75": [
+  "Analogia compara casos semelhantes para concluir; o trecho não compara nada, apoia-se em uma pesquisa.",
+  "Senso comum apela ao que todos pensam; aqui a base é um dado de pesquisa, fonte tida como confiável.",
+  "Regra de justiça pede tratamento igual a casos iguais; o trecho apenas cita um dado de pesquisa.",
+  "Contra-argumentação refuta uma tese contrária; o trecho não rebate ninguém, só sustenta a ideia com uma pesquisa.",
+  null
+ ],
+ "2f142a433af9": [
+  "Timidez sugere dificuldade ou medo de falar; o ditado elogia o silêncio como virtude escolhida, a reserva.",
+  null,
+  "Melancolia é tristeza; o provérbio não fala de estado de ânimo, mas da prudência ao falar.",
+  "Insegurança é falta de confiança; o ditado valoriza a contenção deliberada, não o receio.",
+  "Inconsciência é falta de percepção; o silêncio do ditado é escolha consciente e prudente."
+ ],
+ "60781642213c": [
+  "Ínterim leva acento, e não há crase antes de pronome pessoal: coube a ele.",
+  "Às vezes leva crase, e a grafia certa para quem assiste é espectadores.",
+  null,
+  "Cor-de-rosa mantém os hífens mesmo após o Acordo de 1990; cor de rosa sem hífen está errado.",
+  "Não há crase antes de verbo (a seguir), e a grafia atual é autoescola, sem hífen."
+ ],
+ "b54d27dca8bc": [
+  "Engeitado e alforge estão errados: o certo é enjeitado e alforje, com j.",
+  null,
+  "Descançar e assunsão estão errados: o certo é descansar, com s, e assunção, com ç.",
+  "Espectativa está errada: o certo é expectativa, com x.",
+  "Imprecindível está errado: o certo é imprescindível, com sc."
+ ],
+ "f1ef131591d6": [
+  "Mormente significa principalmente: indica realce, não tempo.",
+  "Terrivelmente exprime intensidade, não tempo.",
+  "Possivelmente exprime dúvida, possibilidade, não tempo.",
+  "Inadvertidamente exprime modo (sem atenção), não tempo.",
+  null
+ ],
+ "8b7238ccf475": [
+  "Voz fina é voz aguda; na frase-modelo, fina significa requintada, elegante.",
+  null,
+  "Fino sabor significa sabor apurado, delicado; na frase-modelo, fina é requintada, elegante.",
+  "Livro fino é livro delgado, de pouca espessura; o sentido do modelo é requintado.",
+  "Observação fina significa perspicaz, sagaz; no modelo, fina quer dizer requintada."
+ ],
+ "0a7b00fe010a": [
+  "Informar aceita um objeto direto e um indireto, não dois indiretos: informei-o de que ou informei-lhe que.",
+  "Cumprimentar é transitivo direto: os amigos o cumprimentaram, e não lhe cumprimentaram.",
+  "Esvair-se pede a preposição em: esvaíram-se em lágrimas.",
+  null,
+  "Aprazer é transitivo indireto: as músicas lhe aprazem, com lhe, não o."
+ ],
+ "9a205e86f9d6": [
+  "Apoio, substantivo, não tem acento: é paroxítona terminada em o.",
+  "Tipoia perdeu o acento com o Acordo de 1990: paroxítona com ditongo aberto oi não se acentua mais.",
+  null,
+  "O sujeito é a oração levar as crianças, que pede verbo no singular: não convém.",
+  "Em Juizado o i não é tônico, por isso não leva acento; o acento só vale em juízo, onde o i é tônico."
+ ],
+ "e314d4c2b11b": [
+  "Não há vocativo no período; ninguém é chamado. As vírgulas isolam local e temporário, que caracterizam suporte.",
+  null,
+  "Ponto e vírgula separa orações ou itens longos; não serve para isolar adjuntos curtos como local e temporário.",
+  "Local e temporário estão na posição normal, junto de suporte; não houve deslocamento de termo.",
+  "Local e temporário são adjetivos que caracterizam suporte, não adjuntos adverbiais."
+ ],
+ "9d8a553ac4e8": [
+  "Facilidade costuma pedir em ou para (facilidade em falar); a banca não aceitou de nessa lacuna.",
+  "O assunto da pergunta vem com sobre: indagado sobre sua chegada.",
+  "Negociata entre vigaristas é a regência esperada; de não exprime a relação entre eles.",
+  null,
+  "Alergia rege a preposição a: alergia a pelo de gato."
+ ],
+ "4ee3743ea276": [
+  "Arejar as regras é sentido figurado: regras não recebem ar. Há conotação.",
+  "Roupagem das palavras é metáfora para a forma escrita; há uso conotativo.",
+  "O mar que separa e a afetividade que aproxima povos são imagens figuradas; há conotação.",
+  "Manancial de termos é metáfora, fonte de onde jorram palavras; há conotação.",
+  null
+ ],
+ "d45048a25a13": [
+  "Tu e eu pede o verbo na primeira pessoa do plural: tu e eu compareceremos.",
+  "Com indicação de horas, o verbo concorda com o numeral: soaram dez horas.",
+  "Título no plural sem artigo leva o verbo ao singular na norma esperada pela banca: Memórias Póstumas de Brás Cubas me encanta.",
+  "Com o relativo que, o verbo concorda com o antecedente eu: fui eu que lhe enviei.",
+  null
+ ],
+ "4d733429e209": [
+  "Trabalhar em uma empresa exige a preposição antes do relativo: a empresa em que trabalhava.",
+  "Onde só retoma lugar; idade não é lugar, então o certo é idade em que.",
+  null,
+  "Demonstrar é transitivo direto, então não cabe preposição antes do relativo: o sentimento que ela demonstra.",
+  "Lembrar sem pronome é transitivo direto (lembrou que); com de, o verbo precisa ser pronominal: lembrou-se de que."
+ ],
+ "b55a692ea092": [
+  "Feito aqui não é particípio de fazer: não indica ação, apenas liga os termos comparados, como a palavra como.",
+  "Feito não qualifica o sujeito; introduz a comparação com estátua, valor de conjunção comparativa.",
+  null,
+  "Interjeição exprime emoção isolada; feito tem função de ligar termos numa comparação.",
+  "Feito não nomeia nada aqui (como em um grande feito); equivale a como, conjunção comparativa."
+ ],
+ "7b76d9943b08": [
+  "O predicativo simples e asseadas vem antes do verbo e do sujeito; a ordem direta seria as roupas eram simples.",
+  "Os verbos vêm antes dos sujeitos (esconde-se o sol); na ordem direta, seria o sol se esconde.",
+  null,
+  "O verbo doíam e o complemento vêm antes do sujeito as pisadas; há inversão.",
+  "O objeto indireto à disciplina está anteposto ao verbo; a ordem direta seria devemos nossas conquistas à disciplina."
+ ],
+ "88d6bcc78ea9": [
+  "Ver é transitivo direto e pede o, não lhe: não o vejo.",
+  "A conjunção quando atrai o pronome para antes do verbo: quando o encontrei; e encontrar pede o, não lhe.",
+  "Não se usa ênclise ao particípio: o certo é ter-me-ia enganado ou me teria enganado.",
+  null,
+  "Não se inicia frase com pronome oblíquo átono na norma-padrão: tenho-o em grande conta."
+ ],
+ "4af3161fc9fc": [
+  null,
+  "Embora vem de em boa hora com perda de fonemas: é composição por aglutinação, não justaposição.",
+  "Burocracia junta elementos de línguas diferentes, francês e grego: é hibridismo.",
+  "Anglicismo é formado por derivação sufixal (anglo + -ismo), não por composição.",
+  "Circumpolar é derivação prefixal (circum- + polar), não composição por justaposição."
+ ],
+ "891e0f7b9c2a": [
+  "Propor segue pôr; no futuro do subjuntivo, a forma é propuserem.",
+  "Polir faz polirei; pulirei não existe na norma-padrão.",
+  "Cear recebe o i só nas formas rizotônicas; na primeira pessoa do plural fica ceemos.",
+  "Reaver segue haver só nas formas com v; no imperfeito do subjuntivo, reouvessem.",
+  null
+ ],
+ "2e87d824498b": [
+  null,
+  "Está correta: favorável pede a, e a qual com preposição vira à qual. A questão pede a que não admite.",
+  "Está correta: comparecer admite as preposições a e em. A questão pede a que não admite.",
+  "Está correta: insistir rege em ou sobre, então na qual é aceito. A questão pede a que não admite.",
+  "Está correta: associar-se admite a e em. A questão pede a que não admite."
+ ],
+ "e7229abde677": [
+  null,
+  "Tal concorda com o termo a que se refere: tais quais aqueles outros.",
+  "Com parecer seguido de infinitivo, só um dos verbos flexiona: parecem estar ou parece estarem.",
+  "Com dois numerais ordinais pospostos, o substantivo vai ao plural: as séries primeira e segunda.",
+  "Em adjetivo composto só o último elemento flexiona: acordos australo-chineses."
+ ],
+ "815c2dd957b1": [
+  "Não há ideia de tempo; ao passo que aqui opõe a atitude de Carlos à dos irmãos.",
+  "Exclusão não é valor dessa locução; ela contrapõe duas situações.",
+  "Concessão admite um obstáculo que não impede o fato; aqui há apenas oposição entre duas situações.",
+  "Ao passo que pode indicar proporção em outros contextos, mas aqui não há progressão simultânea, só oposição.",
+  null
+ ],
+ "e5da26390a4c": [
+  null,
+  "Hélice é feminino, e diabete admite os dois gêneros; não são exclusivamente masculinos.",
+  "Síndrome e libido são femininos: a síndrome, a libido.",
+  "Cataplasma é feminino, apesar de terminar em -ma; logo o par não é só masculino.",
+  "Suéter admite os dois gêneros; por isso o par não é exclusivamente masculino."
+ ],
+ "979da6030fcc": [
+  "Aguar acentua o a tônico no presente: eles águam.",
+  "O i tônico de hiato seguido de nh não leva acento, como em rainha: o certo é embainham.",
+  null,
+  "Intervir segue vir; o pretérito é intervieram.",
+  "Opto não leva acento: é paroxítona terminada em o; a sílaba tônica é op."
+ ]
+}

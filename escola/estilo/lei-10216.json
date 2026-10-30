@@ -1,0 +1,156 @@
+{
+ "https://www.unifateb.edu.br/wp-content/uploads/2023/03/07-Reforma-psiquiatrica-e-Politica-de-Saude-Mental-no-Brasil.pdf": [
+  {
+   "enunciado": "De acordo com o Ministério da Saúde (2005), no documento \"Reforma Psiquiátrica e política de saúde mental no Brasil\", os Centros de Atenção Psicossocial (CAPS) diferenciam-se pelo porte, pela capacidade de atendimento e pela clientela atendida. Sobre as modalidades de CAPS, assinale a opção correta.",
+   "alternativas": [
+    "Os CAPS I, de menor porte, atendem municípios com população entre 20.000 e 50.000 habitantes, têm equipe mínima de 12 profissionais e funcionam durante 24 horas.",
+    "Os CAPS II dão cobertura a municípios com mais de 200.000 habitantes e têm como clientela típica crianças e adolescentes com transtornos mentais severos.",
+    "Os CAPSi funcionam durante os cinco dias úteis da semana, com equipe mínima de 13 profissionais e capacidade para acompanhar cerca de 240 crianças e adolescentes por mês.",
+    "Os CAPS III funcionam 24 horas, inclusive em feriados, e, com no máximo cinco leitos, realizam acolhimento noturno de algumas horas a no máximo 7 dias.",
+    "Os CAPSad são previstos exclusivamente para municípios com mais de 500.000 habitantes e têm capacidade para acompanhar cerca de 450 pessoas por mês."
+   ],
+   "certa": 3,
+   "comentario": "O CAPS III é o único que funciona 24 horas, todos os dias e feriados, com até cinco leitos para acolhimento noturno de no máximo 7 dias. O CAPS I tem equipe mínima de 9 e funciona nos cinco dias úteis; os números 13 profissionais e 240 pessoas/mês são do CAPSad, não do CAPSi (11 profissionais, 180 por mês). O CAPSad é previsto para cidades com mais de 200.000 habitantes ou de fronteira, e 450 pessoas/mês é a capacidade do CAPS III.",
+   "trecho": "Com no máximo cinco leitos, o CAPS III realiza, quando necessário, acolhimento noturno (internações curtas, de algumas horas a no máximo 7 dias).",
+   "onde": 31,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo o Ministério da Saúde (2005), o histórico da Reforma Psiquiátrica brasileira começa com a crítica do modelo hospitalocêntrico (1978-1991). Sobre esse histórico, analise as afirmativas abaixo e assinale a opção correta.\nI- O ano de 1978 costuma ser identificado como o de início efetivo do movimento social pelos direitos dos pacientes psiquiátricos, com o surgimento do Movimento dos Trabalhadores em Saúde Mental (MTSM).\nII- O lema \"Por uma sociedade sem manicômios\" foi adotado na I Conferência Nacional de Saúde Mental, realizada em Bauru (SP), em 1987.\nIII- Em 1989, a Secretaria Municipal de Saúde de Santos (SP) iniciou um processo de intervenção na Casa de Saúde Anchieta, local de maus-tratos e mortes de pacientes.\nIV- A Lei 10.216, sancionada em 2001 após 12 anos de tramitação, instituiu mecanismos claros para a progressiva extinção dos manicômios.",
+   "alternativas": [
+    "Apenas as afirmativas I e II são verdadeiras.",
+    "Apenas as afirmativas I e III são verdadeiras.",
+    "Apenas as afirmativas II e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e IV são verdadeiras.",
+    "Apenas as afirmativas II, III e IV são verdadeiras."
+   ],
+   "certa": 1,
+   "comentario": "I e III reproduzem o documento: o MTSM surge em 1978 e a intervenção de Santos na Casa de Saúde Anchieta ocorre em 1989. A II é falsa porque o lema foi adotado no II Congresso Nacional do MTSM, em Bauru; a I Conferência Nacional de Saúde Mental ocorreu no mesmo ano, mas no Rio de Janeiro. A IV é falsa porque a lei aprovada foi um substitutivo que não institui mecanismos claros para a progressiva extinção dos manicômios.",
+   "trecho": "O II Congresso Nacional do MTSM (Bauru, SP), em 1987, adota o lema “Por uma sociedade sem manicômios”. Neste mesmo ano, é realizada a I Conferência Nacional de Saúde Mental (Rio de Janeiro).",
+   "onde": 8,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com o Ministério da Saúde (2005), o Programa De Volta para Casa foi criado pela Lei nº 10.708/2003, que institui o auxílio-reabilitação psicossocial para pacientes acometidos de transtornos mentais egressos de internações. Com base nessa lei, assinale a opção INCORRETA.",
+   "alternativas": [
+    "O benefício terá a duração de um ano, podendo ser renovado quando necessário aos propósitos da reintegração social do paciente.",
+    "É requisito que o paciente seja egresso de internação psiquiátrica cuja duração tenha sido, comprovadamente, por um período igual ou superior a dois anos.",
+    "Egressos de Hospital de Custódia e Tratamento Psiquiátrico poderão ser igualmente beneficiados, procedendo-se em conformidade com a decisão judicial.",
+    "O pagamento do auxílio-reabilitação psicossocial será suspenso quando o beneficiário for reinternado em hospital psiquiátrico.",
+    "O tempo de permanência em Serviços Residenciais Terapêuticos não será considerado para a exigência temporal de internação prevista na lei."
+   ],
+   "certa": 4,
+   "comentario": "O art. 3º, § 1º, da Lei nº 10.708/2003 diz o contrário: o tempo em Serviços Residenciais Terapêuticos será considerado para a exigência de dois anos de internação. O que a lei exclui da contagem (§ 2º) são orfanatos, asilos, albergues e internações não custeadas pelo SUS. As demais opções reproduzem a duração de um ano renovável, o requisito de dois anos, a inclusão dos egressos de HCTP e a suspensão por reinternação.",
+   "trecho": "§ 1º O tempo de permanência em Serviços Residenciais Terapêuticos será considerado para a exigência temporal do inciso I deste artigo.",
+   "onde": 53,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo o Ministério da Saúde (2005), o Programa Anual de Reestruturação da Assistência Hospitalar Psiquiátrica no SUS (PRH), aprovado em 2004, define limites máximos e mínimos de redução anual de leitos para cada classe de hospitais. Nesse programa,",
+   "alternativas": [
+    "todos os hospitais com mais de 200 leitos devem reduzir no mínimo 40 leitos a cada ano, e os hospitais entre 320 e 440 leitos podem chegar a reduzir 80 leitos ao ano.",
+    "todos os hospitais com mais de 160 leitos devem reduzir no mínimo 80 leitos a cada ano, até atingirem a classe de menor porte.",
+    "os hospitais com mais de 440 leitos devem reduzir, no mínimo, 120 leitos ao ano, e os hospitais entre 320 e 440 leitos, no mínimo, 80 leitos.",
+    "são macro-hospitais aqueles com 240 a 600 leitos psiquiátricos, e o porte ideal buscado é de, no máximo, 200 leitos por hospital.",
+    "os recursos que deixam de ser utilizados nos hospitais, com a redução de leitos, retornam ao orçamento geral do SUS, sem vinculação às ações de saúde mental."
+   ],
+   "certa": 0,
+   "comentario": "O PRH fixa o mínimo de 40 leitos reduzidos por ano para todo hospital com mais de 200 leitos; hospitais de 320 a 440 leitos podem chegar a 80 (mínimo 40) e os de mais de 440 podem chegar, no máximo, a 120. A opção que transforma 120 em mínimo troca o limite máximo pelo mínimo. Macro-hospitais são os de mais de 600 leitos (240 a 600 é grande porte), o porte ideal é de até 160 leitos, e os recursos poupados devem permanecer no campo da saúde mental.",
+   "trecho": "todos os hospitais com mais de 200 leitos devem reduzir no mínimo, a cada ano, 40 leitos. Os hospitais entre 320 e 440 leitos podem chegar a reduzir 80 leitos ao ano (mínimo: 40)",
+   "onde": 20,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo o Ministério da Saúde (2005), o apoio matricial é um arranjo organizacional que viabiliza o suporte técnico em áreas específicas para as equipes responsáveis pelo desenvolvimento de ações básicas de saúde. Sobre esse arranjo, assinale a opção correta.",
+   "alternativas": [
+    "Destina-se apenas aos municípios com menos de 20.000 habitantes, uma vez que nos municípios maiores o CAPS assume diretamente os casos encaminhados pela Atenção Básica.",
+    "Baseia-se no encaminhamento formal dos casos de saúde mental da Atenção Básica para o CAPS de referência, que passa a responder sozinho pelo tratamento.",
+    "A responsabilização compartilhada dos casos exclui a lógica do encaminhamento, pois visa aumentar a capacidade resolutiva de problemas de saúde pela equipe local.",
+    "Nos municípios com menos de 20.000 habitantes, que reúnem cerca de 18% dos municípios e 70% da população, a rede estrutura-se a partir do CAPS I.",
+    "O compartilhamento dos casos ocorre exclusivamente por meio de supervisão e capacitação, sendo vedados os atendimentos conjuntos com a equipe de Atenção Básica."
+   ],
+   "certa": 2,
+   "comentario": "O documento afirma que a responsabilização compartilhada exclui a lógica do encaminhamento e visa aumentar a resolutividade da equipe local. Nos municípios maiores, com CAPS, a lógica do apoio matricial é a mesma, o que derruba a primeira opção. Os municípios com menos de 20.000 habitantes são cerca de 70% dos municípios e 18% da população (os números estão invertidos na opção D), e neles a rede parte da Atenção Básica; o compartilhamento inclui discussões, intervenções e atendimentos conjuntos, além de supervisão e capacitação.",
+   "trecho": "A responsabilização compartilhada dos casos exclui a lógica do encaminhamento, pois visa aumentar a capacidade resolutiva de problemas de saúde pela equipe local.",
+   "onde": 35,
+   "estilo": "CP-T"
+  }
+ ],
+ "https://www.youtube.com/watch?v=jXxlMGRIR2Q": [
+  {
+   "enunciado": "De acordo com a Lei nº 10.216/2001, que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental, assinale a opção que NÃO apresenta um direito da pessoa portadora de transtorno mental.",
+   "alternativas": [
+    "Ter acesso ao melhor tratamento do sistema de saúde, consentâneo às suas necessidades.",
+    "Ser tratada com humanidade e respeito e no interesse exclusivo de beneficiar sua saúde.",
+    "Ser tratada, exclusivamente, em serviços comunitários de saúde mental, vedada qualquer modalidade de internação.",
+    "Ter garantia de sigilo nas informações prestadas.",
+    "Ser protegida contra qualquer forma de abuso e exploração."
+   ],
+   "certa": 2,
+   "comentario": "A lei garante o tratamento preferencialmente, e não exclusivamente, em serviços comunitários de saúde mental; a internação continua prevista, como último recurso, quando os recursos extra-hospitalares se mostrarem insuficientes. As demais opções reproduzem direitos do art. 2º: melhor tratamento consentâneo às necessidades, tratamento humano no interesse exclusivo da saúde, sigilo e proteção contra abuso e exploração.",
+   "trecho": "B o paciente tem o direito de ser tratado, preferencialmente, em serviços comunitários de saúde mental.",
+   "onde": 1456,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "A Lei nº 10.216/2001 prevê três tipos de internação psiquiátrica. Correlacione os tipos de internação às suas descrições e assinale a opção que apresenta a sequência correta.\nTIPOS DE INTERNAÇÃO\nI- Voluntária\nII- Involuntária\nIII- Compulsória\nDESCRIÇÕES\n( ) Determinada pela Justiça, por meio de medida judicial, sendo a mais comum relacionada ao tratamento do uso abusivo de substâncias.\n( ) Dá-se sem o consentimento do usuário e a pedido de terceiro, geralmente a família, mediante autorização médica.\n( ) Dá-se com o consentimento do usuário, que aceita a internação, desde que haja indicação de internação.",
+   "alternativas": [
+    "(I) (II) (III)",
+    "(III) (I) (II)",
+    "(II) (III) (I)",
+    "(I) (III) (II)",
+    "(III) (II) (I)"
+   ],
+   "certa": 4,
+   "comentario": "A compulsória é a determinada pela Justiça; a involuntária ocorre sem consentimento, a pedido de terceiro, e exige autorização médica; a voluntária tem o consentimento do usuário. A confusão mais comum é tratar a compulsória como a que se faz a pedido da família, mas o pedido de terceiro caracteriza a involuntária.",
+   "trecho": "Na internação compulsória, a gente tem uma internação determinada pela justiça. Então, é uma internação que vai através de uma medida judicial",
+   "onde": 560,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Lei nº 10.216/2001, no que diz respeito à internação psiquiátrica, assinale a opção correta.",
+   "alternativas": [
+    "Pode ser realizada em instituições com características asilares, desde que haja autorização expressa da família do paciente.",
+    "Exige laudo médico que a justifique e deve ter tempo determinado, não cabendo à equipe de enfermagem determinar sozinha o tempo de internação.",
+    "Deve ser indicada sempre que houver ideação suicida, independentemente da suficiência dos recursos extra-hospitalares disponíveis.",
+    "Na modalidade compulsória, dá-se com o consentimento do usuário, que a solicita ao juiz competente.",
+    "Deve durar o tempo necessário para a cura definitiva do transtorno, independentemente de laudo médico."
+   ],
+   "certa": 1,
+   "comentario": "A internação exige laudo médico que a justifique, e a equipe de enfermagem participa do cuidado sem fixar sozinha sua duração. A lei proíbe expressamente a internação em instituições com características asilares, e a autorização da família não muda isso. Mesmo diante de risco, a internação só se indica quando os recursos extra-hospitalares se mostram insuficientes; a compulsória é determinada pela Justiça, não pedida pelo usuário; e muitos transtornos são crônicos, de modo que o foco é a estabilização, não a cura definitiva.",
+   "trecho": "a internação deve ter tempo determinado e exige, obrigatoriamente, um laudo médico que a justifique.",
+   "onde": 1396,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "A Rede de Atenção Psicossocial (RAPS), tratada na Portaria nº 3.088, substitui o modelo centrado no hospital psiquiátrico. Sobre os componentes da RAPS, analise as afirmativas abaixo e assinale a opção correta.\nI- Os Serviços Residenciais Terapêuticos (SRT) são casas, preferencialmente inseridas na comunidade, para pessoas que ficaram anos internadas e perderam seus vínculos familiares e sociais.\nII- As unidades de acolhimento são serviços de residência transitória, destinados principalmente a pessoas com necessidades decorrentes do uso de substâncias, como crack, álcool e outras drogas.\nIII- Uma enfermaria hospitalar pode funcionar como SRT, desde que esteja referenciada a um CAPS.\nIV- Os pacientes com transtornos mentais leves e moderados devem ser acompanhados no CAPS, cabendo à atenção básica apenas a triagem.",
+   "alternativas": [
+    "Apenas as afirmativas I e II são verdadeiras.",
+    "Apenas as afirmativas I e III são verdadeiras.",
+    "Apenas as afirmativas II e IV são verdadeiras.",
+    "Apenas as afirmativas I, II e IV são verdadeiras.",
+    "Apenas as afirmativas III e IV são verdadeiras."
+   ],
+   "certa": 0,
+   "comentario": "I e II estão corretas: SRT são casas na comunidade para egressos de longas internações, e a unidade de acolhimento é residência transitória, sobretudo para uso de substâncias. A III é falsa porque SRT precisa ser casa, espaço de moradia; enfermaria não é SRT. A IV é falsa porque transtornos leves e moderados podem ser conduzidos pela atenção básica, e o CAPS fica com os graves e persistentes. Atenção: o vídeo diz que a permanência na unidade de acolhimento é de até três meses, mas a Portaria nº 3.088/2011 fixa até seis meses.",
+   "trecho": "são as unidades de acolhimento, que são serviços de residência transitória, tá? Destinados, principalmente, para pessoas com necessidades decorrentes do uso de substâncias, como crack, álcool e outras",
+   "onde": 712,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "A Lei nº 10.216/2001, também conhecida como Lei Paulo Delgado, redirecionou o foco da assistência em saúde mental do hospital para a comunidade. Comparando o modelo manicomial ao modelo de reabilitação psicossocial, assinale a opção correta.",
+   "alternativas": [
+    "No modelo manicomial, o cuidado era ativo e participativo, centrado na internação; no modelo de reabilitação, o cuidado passa a ser passivo e centrado na garantia de direitos.",
+    "No modelo de reabilitação psicossocial, o papel da enfermagem passa a ser a vigilância e a contenção, ficando o acolhimento reservado aos CAPS.",
+    "No modelo de reabilitação psicossocial, o acompanhamento de pacientes com transtornos mentais leves e moderados é atribuição exclusiva do médico psiquiatra.",
+    "O modelo manicomial, chamado de higienista, tinha foco no isolamento e na exclusão; o modelo de reabilitação prevê a reinserção social e as garantias à cidadania.",
+    "No modelo de reabilitação psicossocial, os CAPS atendem prioritariamente os transtornos leves e moderados, cabendo à atenção básica os graves e persistentes."
+   ],
+   "certa": 3,
+   "comentario": "O modelo manicomial (higienista) tinha foco no isolamento e na exclusão; o de reabilitação prevê reinserção social e cidadania. As outras opções invertem os pares: o cuidado passivo era o do modelo manicomial, assim como a vigilância e a contenção; o médico de família e o enfermeiro da atenção básica podem conduzir casos leves e moderados; e o CAPS fica com os graves e persistentes.",
+   "trecho": "E o novo modelo, né, o modelo de reabilitação, ele prevê a reinserção social e o direito e as garantias, né, à cidadania.",
+   "onde": 994,
+   "estilo": "CP-T"
+  }
+ ]
+}

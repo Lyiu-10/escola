@@ -1,0 +1,156 @@
+{
+ "https://site.cfp.org.br/wp-content/uploads/2024/09/SEI_1812191_Nota_Tecnica_22.pdf": [
+  {
+   "enunciado": "De acordo com a Nota Técnica CFP nº 22/2024, a atuação da psicóloga em cenários de desastres deve se orientar pelos princípios da Gestão Integral de Riscos e de Desastres. Assinale a opção que apresenta, respectivamente, as fases de atuação elencadas na Nota e as fases que ela efetivamente aborda.",
+   "alternativas": [
+    "Prevenção, mitigação, preparação, resposta e reconstrução; preparação, resposta e reconstrução.",
+    "Prevenção, preparação, resposta, reabilitação e reconstrução; prevenção, resposta e reconstrução.",
+    "Prevenção, mitigação, preparação, resposta e reconstrução; prevenção, mitigação e preparação.",
+    "Mitigação, preparação, alerta, resposta e recuperação; preparação, resposta e recuperação.",
+    "Prevenção, mitigação, preparação, resposta e reconstrução; mitigação, resposta e reconstrução."
+   ],
+   "certa": 0,
+   "comentario": "A Nota lista cinco fases (prevenção, mitigação, preparação, resposta e reconstrução), mas declara que tratará só de preparação, resposta e reconstrução, as mesmas do seu título. As opções C e E acertam a lista completa e erram o recorte; B e D trocam nomes de fases (reabilitação, alerta, recuperação) que não aparecem no documento.",
+   "trecho": "São fases de atuação: prevenção, mitigação, preparação, resposta; e reconstrução. Esta Nota Técnica abordará as fases de preparação, resposta e reconstrução.",
+   "onde": 1,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo a Nota Técnica CFP nº 22/2024, a atuação da psicóloga em cenários de desastres deve observar os indicadores de afetação da população. Sobre esses indicadores, assinale a opção correta.",
+   "alternativas": [
+    "Transtornos mentais graves atingem de 15% a 20% da população afetada, e os leves ou moderados, de 3% a 4%, conforme relatório da ACNUR (2015).",
+    "Transtornos mentais graves atingem de 3% a 4% da população afetada, e os leves ou moderados, de 15% a 20%, conforme relatório da ACNUR (2015).",
+    "Transtornos mentais graves atingem de 3% a 4% da população afetada, e os leves ou moderados, de 20% a 25%, conforme relatório da ACNUR (2015).",
+    "Transtornos mentais graves atingem de 5% a 10% da população afetada, e os leves ou moderados, de 15% a 20%, conforme relatório da ACNUR (2015).",
+    "Transtornos mentais graves atingem de 3% a 4% da população afetada, e os leves ou moderados, de 15% a 20%, conforme as diretrizes do IASC (2007)."
+   ],
+   "certa": 1,
+   "comentario": "A Nota cita o relatório da ACNUR de 2015: de 3% a 4% para transtornos mentais graves e de 15% a 20% para leves ou moderados. A opção A inverte as faixas, C e D alteram uma delas, e E troca a fonte pelo IASC (2007), que a Nota usa para a pirâmide de intervenções, não para esses indicadores.",
+   "trecho": "transtornos mentais graves, de 3% a 4%, e transtornos mentais leves ou moderados, de 15% a 20%, conforme relatório da ACNUR em 2015",
+   "onde": 1,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Sobre a atuação da psicologia na fase de resposta a desastres, prevista na Nota Técnica CFP nº 22/2024, é INCORRETO afirmar que:",
+   "alternativas": [
+    "a gestão do desastre é realizada pelo COE (Centro de Operações de Emergência), e a psicóloga que se ofereça para apoiar deve se apresentar aos gestores das políticas públicas locais.",
+    "as intervenções de Saúde Mental e Atenção Psicossocial devem estar em conformidade com as diretrizes do IASC (Comitê Permanente Interagências, 2007).",
+    "a prática psicológica deve promover a autonomia das pessoas afetadas e evitar a vitimização ou patologização das mesmas.",
+    "o atendimento por tecnologia digital, admitido quando há número insuficiente de profissionais e extrema dificuldade de acesso, deve ser a modalidade preferencial até o fim da reconstrução.",
+    "todos os atendimentos realizados por psicólogas devem ser documentados na forma de prontuários definidos pelo gestor local."
+   ],
+   "certa": 3,
+   "comentario": "A Nota admite o atendimento online quando faltam profissionais e o acesso é extremamente difícil, mas recomenda que ele seja apenas apoio e suporte emocional até que se instale o atendimento presencial, que é o preferencial. As demais opções reproduzem o texto: gestão pelo COE, conformidade com o IASC (2007), autonomia sem vitimização e registro em prontuário definido pelo gestor local.",
+   "trecho": "Recomendamos que o atendimento realizado em condições de plataformas digitais seja apenas um elemento de apoio e suporte emocional, até que se instale o atendimento presencial.",
+   "onde": 7,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com a Nota Técnica CFP nº 22/2024, analise as afirmativas abaixo quanto à fase de atuação em que cada ação é situada e assinale a opção correta.\nI- A elaboração participativa dos Planos de Contingência/Resposta dos municípios é relevante na fase de preparação.\nII- A Defesa Civil nas Escolas é apontada como a política pública de referência para que crianças e adolescentes estejam preparados para lidar com cenários de desastres.\nIII- O Planejamento Participativo, por meio de reuniões comunitárias, grupos de trabalho e consultas populares, é ação prevista para a fase de resposta.\nIV- A formação de líderes e agentes comunitários voltada a primeiros cuidados psicológicos e atenção psicossocial destaca-se na fase de preparação.\nV- O Apoio Continuado, com oferta de serviços de saúde mental a longo prazo, é ação própria da fase de resposta.",
+   "alternativas": [
+    "Apenas as afirmativas I, II, III e IV são verdadeiras.",
+    "Apenas as afirmativas I, III e V são verdadeiras.",
+    "Apenas as afirmativas I, II e IV são verdadeiras.",
+    "Apenas as afirmativas II, IV e V são verdadeiras.",
+    "Apenas as afirmativas I, II, IV e V são verdadeiras."
+   ],
+   "certa": 2,
+   "comentario": "I, II e IV estão na seção da preparação. III e V são falsas porque Planejamento Participativo e Apoio Continuado aparecem na seção da reconstrução, ao lado de Reintegração Comunitária e Resiliência Psicológica. A armadilha é o nome: o Plano de Contingência é chamado de Plano de Resposta, mas é elaborado na preparação.",
+   "trecho": "Planejamento Participativo: incluir a participação ativa da comunidade no planejamento da reconstrução, levando em consideração suas necessidades, expectativas e conhecimentos locais.",
+   "onde": 8,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "A Nota Técnica CFP nº 22/2024 adota a pirâmide do IASC (2007) como referência para organizar as ações na resposta a desastres. Segundo esse documento, no eixo da Atuação Especializada em Saúde Mental encontram-se os atendimentos psicoterápicos e psiquiátricos para pessoas:",
+   "alternativas": [
+    "em sofrimento agudo, a serem manejadas por todos os profissionais envolvidos na resposta, por meio dos Primeiros Cuidados Psicológicos (PCP).",
+    "com reações psicológicas normais, identificadas por profissionais de saúde, educação, proteção social e defesa de direitos aptos para a psicoeducação.",
+    "em sofrimento extremo, com reagudização de sintomas e ideação suicida, sendo esses serviços ofertados preferencialmente de forma online, em apoio à RAPS.",
+    "em situação de abrigamento temporário, com ações voltadas às atividades da vida diária e à adaptação dos ambientes para criar um sentido de lugar.",
+    "em sofrimento extremo, com reagudização de sintomas, ideação suicida, uso abusivo de substâncias e sofrimento que impede a realização de atividades cotidianas."
+   ],
+   "certa": 4,
+   "comentario": "O eixo especializado reúne psicoterapia e psiquiatria para sofrimento extremo, reagudização, ideação suicida, uso abusivo de substâncias e sofrimento que impede as atividades cotidianas. A opção C acerta o público e erra a forma de oferta, que deve ser preferencialmente presencial, no território. A e B descrevem o nível de Apoio Focado e Não Especializado (PCP e psicoeducação), e D descreve as ações nos abrigos.",
+   "trecho": "Neste eixo, encontram-se os atendimentos psicoterápicos e psiquiátricos para pessoas em sofrimento extremo, com reagudização de sintomas, ideação suicida, uso abusivo de substâncias e sofrimento que impede a pessoa de realizar atividades cotidianas.",
+   "onde": 6,
+   "estilo": "CP-T"
+  }
+ ],
+ "https://www.cvv.org.br/wp-content/uploads/2017/05/manual_prevencao_suicidio_profissionais_saude.pdf": [
+  {
+   "enunciado": "De acordo com o manual Prevenção do Suicídio, dirigido a profissionais das equipes de saúde mental (Ministério da Saúde/OPAS, 2006), a pessoa que tem pensamentos e planos suicidas, mas não tem planos de cometer suicídio imediatamente, deve ser classificada e manejada como de:",
+   "alternativas": [
+    "baixo risco, bastando oferecer apoio emocional e encontrá-la em intervalos regulares até que receba tratamento adequado.",
+    "médio risco, focalizando a ambivalência, explorando alternativas e fazendo um contrato de não cometer suicídio sem se comunicar com a equipe, por um período específico.",
+    "alto risco, devendo-se estar junto dela, nunca deixá-la sozinha e encaminhá-la de ambulância ao pronto-socorro psiquiátrico.",
+    "médio risco, contatando a família e os amigos independentemente da autorização do paciente, para impedir o acesso aos meios.",
+    "alto risco, fazendo um contrato por tempo indeterminado e encaminhando-a ao psiquiatra somente após a remissão da ideação."
+   ],
+   "certa": 1,
+   "comentario": "O manual define médio risco como pensamentos e planos sem intenção imediata; além do apoio emocional, pede focalizar a ambivalência, explorar alternativas e fazer contrato por período específico. A opção D acerta a classificação, mas o manual manda pedir autorização ao paciente antes de contatar a família. Alto risco exige plano definido, meios e intenção de agir prontamente, e baixo risco não tem plano.",
+   "trecho": "Médio risco A pessoa tem pensamentos e planos, mas não tem planos de cometer suicídio imediatamente.",
+   "onde": 64,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Werlang e Botega (2004), citados no manual Prevenção do Suicídio, dirigido a profissionais das equipes de saúde mental (Ministério da Saúde/OPAS, 2006), apontam ideias sobre suicídio que levam ao erro. Com base nesse quadro, coloque V (verdadeiro) ou F (falso) nas afirmativas abaixo e assinale a opção que apresenta a sequência correta.\n( ) Questionar sobre ideias de suicídio, de modo sensato e franco, aumenta o vínculo com o paciente.\n( ) Pelo menos metade das pessoas que tentam ou que se matam havia comunicado de alguma maneira sua intenção.\n( ) O que dirige a ação autoinfligida é uma dor psíquica insuportável, e não uma atitude de covardia ou coragem.\n( ) A ideia de que quem quer se matar se mata mesmo conduz ao imobilismo terapêutico, pois o objetivo da prevenção é evitar todos os suicídios.\n( ) A ameaça de suicídio deve ser levada a sério, exceto quando claramente usada para manipular.",
+   "alternativas": [
+    "V - V - V - F - F",
+    "V - F - V - V - F",
+    "F - F - V - F - V",
+    "V - F - V - F - F",
+    "V - V - F - F - F"
+   ],
+   "certa": 3,
+   "comentario": "A segunda é falsa porque o manual fala em pelo menos dois terços, não metade. A quarta é falsa porque, segundo o texto, não se trata de evitar todos os suicídios, mas os que podem ser evitados. A quinta é falsa porque a ameaça sempre deve ser levada a sério, mesmo quando parece manipulação: chegar a esse recurso indica sofrimento.",
+   "trecho": "“Quem quer se matar não avisa.” – Pelo menos dois terços das pessoas que tentam ou que se matam haviam comunicado de alguma maneira sua intenção para amigos, familiares ou conhecidos.",
+   "onde": 54,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "O manual Prevenção do Suicídio, dirigido a profissionais das equipes de saúde mental (Ministério da Saúde/OPAS, 2006), agrupa os fatores de risco para o suicídio em transtornos mentais, sociodemográficos, psicológicos e condições clínicas incapacitantes. Assinale a opção que apresenta apenas fatores sociodemográficos.",
+   "alternativas": [
+    "Sexo feminino, residentes em áreas rurais, aposentados e migrantes.",
+    "Sexo masculino, estratos econômicos extremos, perdas recentes e reações de aniversário.",
+    "Faixas etárias entre 15 e 45 anos e acima de 65 anos, isolamento social e estratos econômicos extremos.",
+    "Desempregados, aposentados, migrantes e dinâmica familiar conturbada.",
+    "Sexo masculino, faixas etárias entre 15 e 35 anos e acima de 75 anos, residentes em áreas urbanas e solteiros ou separados."
+   ],
+   "certa": 4,
+   "comentario": "Os quatro itens da opção E estão na lista de fatores sociodemográficos do manual. B e D misturam fatores psicológicos (perdas recentes, reações de aniversário, dinâmica familiar conturbada) com sociodemográficos verdadeiros. C erra as faixas etárias (são 15 a 35 e acima de 75 anos), e A inverte sexo e área de residência.",
+   "trecho": "sexo masculino; • faixas etárias entre 15 e 35 anos e acima de 75 anos; • estratos econômicos extremos; • residentes em áreas urbanas; • desempregados (principalmente perda recente do",
+   "onde": 16,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "Segundo o manual Prevenção do Suicídio, dirigido a profissionais das equipes de saúde mental (Ministério da Saúde/OPAS, 2006), existem três características próprias do estado em que se encontra a maioria das pessoas sob risco de suicídio. Correlacione cada característica à sua descrição e assinale a opção que apresenta a sequência correta.\nCARACTERÍSTICAS\nI- Ambivalência\nII- Impulsividade\nIII- Rigidez/constrição\nDESCRIÇÕES\n( ) Pode ser transitória e durar alguns minutos ou horas, sendo normalmente desencadeada por eventos negativos do dia a dia.\n( ) A consciência passa a funcionar de forma dicotômica, condição análoga à chamada visão em túnel.\n( ) O predomínio do desejo de vida sobre o desejo de morte é o fator que possibilita a prevenção.\n( ) Acalmando a crise e ganhando tempo, o profissional de saúde pode ajudar a diminuir o risco.\n( ) Quase sempre a pessoa quer, ao mesmo tempo, alcançar a morte e viver.",
+   "alternativas": [
+    "(II) (III) (I) (II) (I)",
+    "(II) (III) (I) (III) (I)",
+    "(III) (II) (I) (II) (I)",
+    "(II) (I) (III) (II) (I)",
+    "(I) (III) (II) (II) (I)"
+   ],
+   "certa": 0,
+   "comentario": "Impulsividade é o impulso transitório, de minutos ou horas, que se maneja acalmando a crise e ganhando tempo. Rigidez/constrição é o pensamento dicotômico (tudo ou nada) da visão em túnel, e ambivalência é querer morrer e viver ao mesmo tempo, com o desejo de vida tornando possível a prevenção. A opção B erra só no quarto item, ao atribuir à constrição o ganhar tempo, que o manual liga à impulsividade.",
+   "trecho": "Como qualquer outro impulso, o impulso de cometer suicídio pode ser transitório e durar alguns minutos ou horas. Normalmente, é desencadeado por eventos negativos do dia-a-dia.",
+   "onde": 52,
+   "estilo": "CP-T"
+  },
+  {
+   "enunciado": "De acordo com o manual Prevenção do Suicídio, dirigido a profissionais das equipes de saúde mental (Ministério da Saúde/OPAS, 2006), assinale a opção que NÃO apresenta uma conduta recomendada ao profissional diante da pessoa sob risco de suicídio.",
+   "alternativas": [
+    "Perguntar sobre tentativas anteriores e sobre o plano de suicídio.",
+    "Explorar as outras saídas, além do suicídio, e ganhar tempo com um contrato.",
+    "Comprometer-se a guardar segredo sobre a ideação, para preservar o vínculo.",
+    "Remover os meios pelos quais a pessoa possa se matar.",
+    "Se o risco é grande, ficar com a pessoa e não deixá-la sozinha."
+   ],
+   "certa": 2,
+   "comentario": "Jurar segredo está na lista do que não fazer, ao lado de dar falsas garantias e deixar a pessoa sozinha. O sigilo deve ser cuidado, mas em risco importante o manual orienta envolver a família e a rede de apoio, preservando o sigilo dentro do possível. As demais opções estão na lista do que fazer.",
+   "trecho": "Falar que tudo vai ficar bem, sem agir para que isso aconteça. • Desafiar a pessoa a continuar em frente. • Fazer o problema parecer trivial. • Dar falsas garantias. • Jurar segredo. • Deixar a pessoa sozinha.",
+   "onde": 71,
+   "estilo": "CP-T"
+  }
+ ]
+}

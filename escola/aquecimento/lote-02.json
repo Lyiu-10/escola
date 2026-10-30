@@ -1,0 +1,808 @@
+{
+ "https://www.youtube.com/watch?v=jXxlMGRIR2Q": {
+  "resumo": "A Lei 10.216/2001, conhecida como Lei Paulo Delgado, é o marco da reforma psiquiátrica brasileira e redireciona o cuidado do hospital para a comunidade, com foco na reabilitação psicossocial e na autonomia do paciente, que é um sujeito de direitos. A internação é recurso excepcional e pode ser voluntária, involuntária ou compulsória. A rede de atenção psicossocial reúne CAPS, residências terapêuticas, unidades de acolhimento e UBSs. Entre os direitos estão o tratamento humanizado, a informação sobre doença e medicação, a privacidade e a comunicação com o mundo exterior.",
+  "cartoes": [
+   {
+    "frente": "Como se chama o modelo manicomial, centrado em isolamento e exclusão?",
+    "verso": "Modelo higienista; o novo modelo de reabilitação prevê a reinserção social e as garantias de cidadania.",
+    "trecho": "né, necessariamente no isolamento e na exclusão, né, que a gente chama de modelo higienista, beleza?",
+    "onde": 994
+   },
+   {
+    "frente": "Que papel a aula atribui à Lei 10.216 na saúde mental brasileira?",
+    "verso": "É a “bíblia” da saúde mental no Brasil, marco da reforma psiquiátrica, e seu número deve ser decorado.",
+    "trecho": "Ela é a bíblia da saúde mental no Brasil, né? E você precisa decorar esse número, né? Para qualquer concurso",
+    "onde": 406
+   },
+   {
+    "frente": "O que é o CAPS na reforma psiquiátrica, segundo a aula?",
+    "verso": "O Centro de Atenção Psicossocial: o coração da reforma, serviço de base comunitária com oficinas, medicação e acolhimento em crises.",
+    "trecho": "o centro de atenção psicossocial, que pode-se dizer que é o coração da reforma psiquiátrica, tá? Então, é um serviço comunitário ou de base comunitária",
+    "onde": 622
+   },
+   {
+    "frente": "O que configura invasão de privacidade do paciente?",
+    "verso": "Expor o paciente sem autorização, como comentar seu diagnóstico sem estrita necessidade, é invasão de privacidade e quebra de sigilo.",
+    "trecho": "Então, qualquer situação, né, de exposição excessiva do indivíduo sem autorização do mesmo, é considerado ali invasão de privacidade e desrespeito",
+    "onde": 929
+   },
+   {
+    "frente": "Por qual outro nome a Lei 10.216 é conhecida?",
+    "verso": "Lei Paulo Delgado, a Lei da Reforma Psiquiátrica Brasileira.",
+    "trecho": "memorize, Lei 10.216, né, também conhecida como Lei Paulo Delgado ou Deputado Paulo Delgado, né? Então, a Lei da Reforma Psiquiátrica Brasileira.",
+    "onde": 1859
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a aula, como muda o papel da equipe de enfermagem do modelo manicomial para o de reabilitação psicossocial?",
+    "alternativas": [
+     "De acolhimento e reabilitação, no modelo manicomial, para vigilância e contenção, no atual",
+     "De vigilância e contenção, no modelo manicomial, para acolhimento e reabilitação, no atual",
+     "De administração de medicamentos para a decisão sobre o tempo de internação",
+     "De cuidado ativo e participativo para cuidado passivo e centrado na internação"
+    ],
+    "certa": 1,
+    "comentario": "No modelo manicomial o papel era de vigilância e contenção; no de reabilitação psicossocial passa a ser de acolhimento e reabilitação, com cuidado ativo e participativo.",
+    "trecho": "E qual é o papel da enfermagem, né, na no modelo manicomial? Vigilância e contenção. E no modelo, né, de reabilitação, acolhimento e reabilitação.",
+    "onde": 1121
+   },
+   {
+    "enunciado": "Um paciente internado é mantido sem contato com a família e sem visitas, para que foque na recuperação. Como a aula avalia essa situação?",
+    "alternativas": [
+     "Como medida aceitável, desde que a equipe de enfermagem a justifique",
+     "Como direito do paciente, previsto no artigo 2 da lei",
+     "Como exigência da lei para pacientes em crise",
+     "Como retrocesso: o paciente tem direito de se comunicar, receber visitas e manter vínculos"
+    ],
+    "certa": 3,
+    "comentario": "A aula diz que o isolamento descreve o modelo antigo e é considerado violência e retrocesso; na reforma o paciente se comunica, recebe visitas e mantém o vínculo com o mundo externo.",
+    "trecho": "na reforma psiquiátrica, o paciente tem o direito de se comunicar, de receber visitas e de manter o vínculo com o mundo lá fora, principalmente. Então, o isolamento é considerado uma violência e um retrocesso",
+    "onde": 1859
+   },
+   {
+    "enunciado": "Segundo a aula, como se classifica a conduta de conter um paciente apenas porque ele está agitado?",
+    "alternativas": [
+     "Tratamento não humanizado, que a banca costuma cobrar justamente porque muitos o julgam normal",
+     "Conduta correta, pois a segurança da equipe vem antes de tudo",
+     "Conduta aceitável desde que a família autorize a contenção",
+     "Conduta exigida pela lei diante de qualquer paciente em crise"
+    ],
+    "certa": 0,
+    "comentario": "A aula cita esse exemplo como tratamento não humanizado e alerta que as pessoas ainda o tomam por conduta normal na assistência psiquiátrica.",
+    "trecho": "Isso, né, já caracteriza um tratamento não humanizado, tá? Então, a gente tem que ficar atento porque isso é o tipo de pergunta que a banca tende a fazer",
+    "onde": 868
+   },
+   {
+    "enunciado": "Qual norma a aula cita como a portaria da RAPS, entre as referências de estudo?",
+    "alternativas": [
+     "Resolução do COFEN 678",
+     "Caderno da Atenção Básica número 34",
+     "Portaria 3.088",
+     "Lei 10.216"
+    ],
+    "certa": 2,
+    "comentario": "No fim, o professor lista as referências: a Lei 10.216, a Portaria 3.088, que é a da RAPS, o Caderno da Atenção Básica 34 e a Resolução do COFEN 678.",
+    "trecho": "a Lei 10.216, a Portaria 3.088, que é a da RAPS, tá? Caderno da Atenção Básica número 34",
+    "onde": 1922
+   },
+   {
+    "enunciado": "Uma pessoa com uso abusivo de substâncias, ameaçada de morte por dívida de drogas, precisa sair por um tempo do ambiente em que mora. Qual serviço da RAPS a aula indica?",
+    "alternativas": [
+     "Residência terapêutica, como moradia definitiva na comunidade",
+     "Unidade de acolhimento, serviço residencial transitório",
+     "Internação compulsória em hospital psiquiátrico",
+     "Unidade de pronto atendimento (UPA), por três meses"
+    ],
+    "certa": 1,
+    "comentario": "A aula contrasta a unidade de acolhimento, serviço residencial transitório, com a residência terapêutica, e usa justamente o exemplo de quem está ameaçado e sai para a situação se acalmar.",
+    "trecho": "É diferente da residência terapêutica, porque ele entra ali nos serviços residenciais transitórios, tá? Então, o indivíduo, às vezes, sei lá, tá devendo na boca de fumo, tá ameaçado de morte, tá?",
+    "onde": 743
+   }
+  ]
+ },
+ "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm": {
+  "resumo": "A Lei 10.216/2001 protege os direitos das pessoas com transtorno mental sem qualquer discriminação e redireciona o modelo assistencial. O Estado é responsável pela política de saúde mental. A internação, em qualquer modalidade, exige laudo médico circunstanciado e é vedada em instituições asilares. Pode ser voluntária, involuntária ou compulsória, e a involuntária deve ser comunicada ao Ministério Público em setenta e duas horas. Pacientes há muito tempo hospitalizados terão política de alta planejada e reabilitação psicossocial assistida.",
+  "cartoes": [
+   {
+    "frente": "Quais critérios de discriminação o Art. 1º veda na proteção dos direitos?",
+    "verso": "Raça, cor, sexo, orientação sexual, religião, opção política, nacionalidade, idade, família, recursos econômicos e gravidade ou tempo de evolução do transtorno.",
+    "trecho": "quanto à raça, cor, sexo, orientação sexual, religião, opção política,"
+   },
+   {
+    "frente": "O que a lei exige para que a internação psiquiátrica seja realizada?",
+    "verso": "Laudo médico circunstanciado que caracterize os seus motivos.",
+    "trecho": "laudo médico circunstanciado que caracterize os seus motivos."
+   },
+   {
+    "frente": "A quem cabe a responsabilidade pela política de saúde mental, segundo o Art. 3º?",
+    "verso": "Ao Estado, com a participação da sociedade e da família.",
+    "trecho": "Art. 3o É responsabilidade do Estado o desenvolvimento da política de"
+   },
+   {
+    "frente": "Em quanto tempo a internação involuntária deve ser comunicada ao Ministério Público Estadual?",
+    "verso": "Em setenta e duas horas, pelo responsável técnico do estabelecimento; o mesmo se faz na alta.",
+    "trecho": "setenta e duas horas, ser comunicada ao Ministério Público Estadual pelo responsável"
+   },
+   {
+    "frente": "Em que prazo evasão, acidente ou falecimento devem ser comunicados aos familiares?",
+    "verso": "No prazo máximo de vinte e quatro horas da ocorrência, também à autoridade sanitária responsável.",
+    "trecho": "prazo máximo de vinte e quatro horas da data da ocorrência."
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Pela Lei 10.216/2001, o que caracteriza uma instituição asilar, cuja internação de pacientes é vedada?",
+    "alternativas": [
+     "Hospital que atende apenas casos agudos, por até setenta e duas horas",
+     "Hospital sem registro no Conselho Regional de Medicina",
+     "Instituição desprovida dos recursos de assistência integral e que não assegura os direitos do paciente",
+     "Qualquer hospital psiquiátrico privado, mesmo com equipe multiprofissional"
+    ],
+    "certa": 2,
+    "comentario": "O § 3º do Art. 4º veda a internação em instituições asilares, definidas como as desprovidas dos recursos de assistência integral (médicos, sociais, psicológicos, ocupacionais, de lazer) e que não asseguram os direitos do paciente.",
+    "trecho": "mentais em instituições com características asilares, ou seja, aquelas desprovidas dos"
+   },
+   {
+    "enunciado": "Como se dá o término da internação voluntária, segundo a lei?",
+    "alternativas": [
+     "Por solicitação escrita do paciente ou por determinação do médico assistente",
+     "Por decisão do juiz competente, ouvido o Ministério Público",
+     "Por solicitação escrita do familiar ou do responsável legal",
+     "Apenas após autorização da autoridade sanitária responsável"
+    ],
+    "certa": 0,
+    "comentario": "O parágrafo único do Art. 7º diz que o término da internação voluntária se dá por solicitação escrita do paciente ou por determinação do médico assistente.",
+    "trecho": "escrita do paciente ou por determinação do médico assistente."
+   },
+   {
+    "enunciado": "Ao determinar a internação compulsória, o que o juiz competente leva em conta, segundo a lei?",
+    "alternativas": [
+     "A vontade da família do paciente",
+     "O custo do tratamento para o Estado",
+     "A recomendação do Ministério Público Estadual",
+     "As condições de segurança do estabelecimento, quanto à salvaguarda do paciente, dos demais internados e funcionários"
+    ],
+    "certa": 3,
+    "comentario": "O Art. 9º determina que o juiz leve em conta as condições de segurança do estabelecimento para proteger o paciente, os demais internados e os funcionários.",
+    "trecho": "legislação vigente, pelo juiz competente, que levará em conta as condições de"
+   },
+   {
+    "enunciado": "O que a lei prevê para o paciente há longo tempo hospitalizado ou em situação de grave dependência institucional?",
+    "alternativas": [
+     "Transferência obrigatória para residência de familiar",
+     "Política específica de alta planejada e reabilitação psicossocial assistida",
+     "Internação compulsória renovada a cada ano",
+     "Alta imediata, sem necessidade de acompanhamento"
+    ],
+    "certa": 1,
+    "comentario": "O Art. 5º estabelece política específica de alta planejada e reabilitação psicossocial assistida, sob responsabilidade da autoridade sanitária competente, assegurada a continuidade do tratamento.",
+    "trecho": "clínico ou de ausência de suporte social, será objeto de política específica de alta"
+   },
+   {
+    "enunciado": "Quem pode autorizar a internação voluntária ou involuntária, segundo a lei?",
+    "alternativas": [
+     "Qualquer profissional de saúde mental, inclusive psicólogo",
+     "O juiz competente da comarca",
+     "Médico devidamente registrado no CRM do Estado onde se localiza o estabelecimento",
+     "O responsável técnico, desde que comunique o Ministério Público"
+    ],
+    "certa": 2,
+    "comentario": "O Art. 8º exige que a internação voluntária ou involuntária seja autorizada por médico registrado no Conselho Regional de Medicina do Estado do estabelecimento; a compulsória é a que vem da Justiça.",
+    "trecho": "autorizada por médico devidamente registrado no Conselho Regional de Medicina - CRM do"
+   }
+  ]
+ },
+ "https://www.unifateb.edu.br/wp-content/uploads/2023/03/07-Reforma-psiquiatrica-e-Politica-de-Saude-Mental-no-Brasil.pdf": {
+  "resumo": "A Reforma Psiquiátrica brasileira nasceu nos anos 70, contemporânea do movimento sanitário, e é um processo político e social maior que as leis. O movimento dos trabalhadores em saúde mental denunciou a violência dos manicômios; surgiram o primeiro CAPS, em 1987, e a experiência de Santos, em 1989, e o projeto Paulo Delgado entrou no Congresso. De 1992 a 2000 começou a rede extra-hospitalar. A lei foi sancionada em 2001 e trouxe financiamento próprio, redução programada de leitos, o programa De Volta para Casa e a avaliação anual dos hospitais.",
+  "cartoes": [
+   {
+    "frente": "Em que cidade e ano surgiu o primeiro CAPS do Brasil?",
+    "verso": "Na cidade de São Paulo, em 1987.",
+    "trecho": "o surgimento do primeiro CAPS no Brasil, na cidade de São Paulo, em 1987, e o início de um processo de intervenção, em 1989",
+    "onde": 8
+   },
+   {
+    "frente": "O que a intervenção em Santos, na Casa de Saúde Anchieta, demonstrou?",
+    "verso": "Que era possível construir uma rede de cuidados efetivamente substitutiva ao hospital psiquiátrico.",
+    "trecho": "É esta intervenção, com repercussão nacional, que demonstrou de forma inequívoca a possibilidade de construção de uma rede de cuidados efetivamente substitutiva ao hospital psiquiátrico.",
+    "onde": 8
+   },
+   {
+    "frente": "Qual lema o II Congresso Nacional do MTSM adotou em Bauru, em 1987?",
+    "verso": "“Por uma sociedade sem manicômios”.",
+    "trecho": "O II Congresso Nacional do MTSM (Bauru, SP), em 1987, adota o lema “Por uma sociedade sem manicômios”.",
+    "onde": 8
+   },
+   {
+    "frente": "Quanto tempo a Lei Paulo Delgado levou no Congresso até ser sancionada?",
+    "verso": "Doze anos; foi sancionada em 2001, mas na forma de um substitutivo ao projeto original.",
+    "trecho": "É somente no ano de 2001, após 12 anos de tramitação no Congresso Nacional, que a Lei Paulo Delgado é sancionada no país.",
+    "onde": 9
+   },
+   {
+    "frente": "O que é o PNASH/Psiquiatria, instituído em 2002?",
+    "verso": "Primeiro processo avaliativo sistemático e anual dos hospitais psiquiátricos, que permite reduzir leitos de forma gradual e descredenciar os sem qualidade.",
+    "trecho": "Trata-se da instituição, no Brasil, do primeiro processo avaliativo sistemático, anual, dos hospitais psiquiátricos.",
+    "onde": 15
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Que enorme asilo do Rio de Janeiro, com mais de 2.000 internos no início dos anos 80, o texto cita como exemplo da possibilidade de ruptura com os antigos paradigmas?",
+    "alternativas": [
+     "Casa de Saúde Anchieta",
+     "Hospital psiquiátrico de Bauru",
+     "Colônia Juliano Moreira",
+     "Núcleo de Atenção Psicossocial de São Paulo"
+    ],
+    "certa": 2,
+    "comentario": "O texto cita a Colônia Juliano Moreira como o grande asilo carioca que, inspirado pela experiência italiana de desinstitucionalização, mostrou ser possível romper com os antigos paradigmas.",
+    "trecho": "como, por exemplo, na Colônia Juliano Moreira, enorme asilo com mais de 2.000 internos no início dos anos 80, no Rio de Janeiro.",
+    "onde": 8
+   },
+   {
+    "enunciado": "O que os movimentos sociais conseguiram aprovar em vários estados a partir de 1992, inspirados no projeto Paulo Delgado?",
+    "alternativas": [
+     "As primeiras leis que determinam a substituição progressiva dos leitos psiquiátricos por uma rede integrada de atenção",
+     "A criação do SUS e dos Conselhos Comunitários de Saúde",
+     "A extinção imediata de todos os hospitais psiquiátricos",
+     "O Programa De Volta para Casa"
+    ],
+    "certa": 0,
+    "comentario": "O texto diz que, a partir de 1992, os movimentos conseguiram aprovar em vários estados as primeiras leis de substituição progressiva dos leitos por uma rede integrada de atenção à saúde mental.",
+    "trecho": "os movimentos sociais, inspirados pelo Projeto de Lei Paulo Delgado, conseguem aprovar em vários estados brasileiros as primeiras leis que determinam a substituição progressiva dos leitos psiquiátricos por uma rede integrada de atenção à saúde mental",
+    "onde": 9
+   },
+   {
+    "enunciado": "Segundo o texto, qual foi o papel da III Conferência Nacional de Saúde Mental, realizada em 2001?",
+    "alternativas": [
+     "Criou o Movimento dos Trabalhadores em Saúde Mental",
+     "Aprovou a Declaração de Caracas",
+     "Sancionou a Lei Paulo Delgado",
+     "Consolidou a Reforma Psiquiátrica como política de governo e deu aos CAPS valor estratégico"
+    ],
+    "certa": 3,
+    "comentario": "O texto afirma que a III Conferência consolida a Reforma como política de governo, confere aos CAPS o valor estratégico para a mudança do modelo e estabelece o controle social como garantia do avanço.",
+    "trecho": "a III Conferência consolida a Reforma Psiquiátrica como política de governo, confere aos CAPS o valor estratégico para a mudança do modelo de assistência",
+    "onde": 11
+   },
+   {
+    "enunciado": "Que serviços implantados em Santos, após a intervenção na Casa de Saúde Anchieta, funcionavam 24 horas?",
+    "alternativas": [
+     "Cooperativas de trabalho",
+     "Núcleos de Atenção Psicossocial (NAPS)",
+     "Hospitais-dia",
+     "Associações de familiares"
+    ],
+    "certa": 1,
+    "comentario": "O texto diz que em Santos foram implantados os NAPS, que funcionam 24 horas, além de cooperativas, residências para egressos e associações.",
+    "trecho": "são implantados no município de Santos Núcleos de Atenção Psicossocial (NAPS) que funcionam 24 horas, são criadas cooperativas, residências para os egressos do hospital e associações.",
+    "onde": 8
+   },
+   {
+    "enunciado": "Segundo o texto, quais são os dois movimentos simultâneos que caracterizam o período atual (2001-2005) da Reforma?",
+    "alternativas": [
+     "A criação do SUS e a aprovação da lei federal",
+     "A abertura de novos hospitais psiquiátricos e a ampliação dos leitos privados",
+     "A construção de rede substitutiva ao hospital e a fiscalização e redução programada de leitos",
+     "A realização de conferências nacionais e a extinção do controle social"
+    ],
+    "certa": 2,
+    "comentario": "O período é marcado por construir uma rede de atenção substitutiva à internação hospitalar e, ao mesmo tempo, fiscalizar e reduzir de forma progressiva e programada os leitos psiquiátricos existentes.",
+    "trecho": "a construção de uma rede de atenção à saúde mental substitutiva ao modelo centrado na internação hospitalar, por um lado, e a fiscalização e redução progressiva e programada dos leitos psiquiátricos existentes, por outro.",
+    "onde": 10
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=RndQ5G3TElI": {
+  "resumo": "Psicoterapia, para Cordioli, é um método de tratamento que usa meios psicológicos, sobretudo a comunicação verbal, em que um profissional treinado influencia de forma deliberada a saúde mental do paciente; a relação terapêutica é central. A Resolução 13/2022 do Conselho Federal a define como prática de intervenção fundamentada cientificamente. As abordagens divergem em método, técnica e manejo, mas convergem na aliança terapêutica, no contrato terapêutico e na mudança cognitiva, por psicoeducação, insight e reestruturação cognitiva.",
+  "cartoes": [
+   {
+    "frente": "Qual é o principal instrumento da psicoterapia, segundo a aula?",
+    "verso": "A comunicação verbal, a linguagem, que serve ao acesso aos conteúdos do sujeito e à interpretação.",
+    "trecho": "a linguagem é o nosso principal instrumento né tanto de acesso conteúdos do sujeito como também de interpretação",
+    "onde": 63
+   },
+   {
+    "frente": "O que diferencia a psicoterapia de outros tratamentos médicos, segundo Cordioli?",
+    "verso": "A relação terapêutica é central; numa consulta médica comum esse vínculo não tem a mesma importância.",
+    "trecho": "a relação terapêutica é Central no processo diferenciando a de outras modalidades de tratamento médico",
+    "onde": 127
+   },
+   {
+    "frente": "Qual é o primeiro processo de mudança cognitiva em Cordioli?",
+    "verso": "A psicoeducação: o terapeuta informa o paciente sobre o processo e sua condição psíquica, aumentando o conhecimento dele.",
+    "trecho": "o primeiro deles é a psicoeducação então nas psicoterapias de uma maneira geral é possível que nós aumentemos o nosso conhecimento sobre a nossa própria condição psíquica",
+    "onde": 926
+   },
+   {
+    "frente": "Em que terapias o termo reestruturação cognitiva é muito usado?",
+    "verso": "Nas terapias comportamentais, como forma de modificar comportamentos e emoções, corrigindo distorções cognitivas.",
+    "trecho": "a reestruturação cognitiva né que ela é um termo muito utilizado nas terapias comportamentais que funciona como uma forma de modificar comportamentos e emoções",
+    "onde": 1110
+   },
+   {
+    "frente": "O que o psicoterapeuta deve comunicar ao paciente sobre os resultados do tratamento?",
+    "verso": "A impossibilidade de fazer previsões taxativas de resultados.",
+    "trecho": "fazer previsões taxativas de resultados essa comunicação precisa ser feita por parte do psicoterapeuta",
+    "onde": 1386
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a aula, qual é a diferença de ênfase entre a psicanálise e a terapia cognitivo-comportamental?",
+    "alternativas": [
+     "A psicanálise enfatiza os pensamentos e a TCC, o conteúdo inconsciente",
+     "Ambas enfatizam o inconsciente, apenas com técnicas diferentes",
+     "A psicanálise enfatiza o comportamento e a TCC, a interpretação",
+     "A psicanálise enfatiza o conteúdo inconsciente e a TCC, os pensamentos e as distorções cognitivas"
+    ],
+    "certa": 3,
+    "comentario": "A aula contrasta a psicanálise, que enfatiza o conteúdo inconsciente por meio do processo analítico, com a TCC, que enfatiza pensamentos e distorções cognitivas.",
+    "trecho": "enquanto a terapia cognitivo comportamental por exemplo vai enfatizar os pensamentos distorções cognitivas enfim o enfoque é outro",
+    "onde": 588
+   },
+   {
+    "enunciado": "Qual destes é um ponto em que as psicoterapias divergem entre si, e não um ponto de convergência?",
+    "alternativas": [
+     "O número de sessões e a frequência do tratamento",
+     "O estabelecimento de uma aliança terapêutica",
+     "A condução por um profissional treinado",
+     "O objetivo de promover a saúde mental"
+    ],
+    "certa": 0,
+    "comentario": "A aula lista como divergências o método, a técnica, o manejo clínico, o número de sessões, o tempo e a frequência; a aliança, o profissional treinado e a promoção de saúde mental são convergências.",
+    "trecho": "elas vão divergir no manejo Clínico no número de sessões no tempo e frequência do tratamento então há uma série de divergências entre elas",
+    "onde": 620
+   },
+   {
+    "enunciado": "Na comparação do posicionamento do terapeuta entre as psicoterapias, o que a aula associa à psicanálise?",
+    "alternativas": [
+     "Intervenções pontuais, ativas e comunicativas",
+     "Escuta flutuante, em vez de uma intervenção mais pontual e ativa",
+     "Uso de folhetos e gráficos para educar o paciente",
+     "Reestruturação cognitiva dos pensamentos automáticos"
+    ],
+    "certa": 1,
+    "comentario": "A aula diz que alguns terapeutas são mais interventivos e outros mais passivos, como na psicanálise, que usa a escuta flutuante.",
+    "trecho": "vão fazer né como por exemplo na psicanálise uma escuta flutuante em vez de uma intervenção mais pontual mais ativa mais comunicativa",
+    "onde": 650
+   },
+   {
+    "enunciado": "No conceito de psicoterapia do Conselho Federal de Psicologia (Resolução 13/2022), a psicoterapia pode envolver quem?",
+    "alternativas": [
+     "Somente indivíduos, em atendimento presencial",
+     "Apenas pessoas com transtorno psíquico diagnosticado",
+     "Indivíduos, casais, famílias e grupos",
+     "Somente pacientes encaminhados por um psiquiatra"
+    ],
+    "certa": 2,
+    "comentario": "O conceito do Conselho Federal fala em relacionamento interpessoal que junta indivíduos, casais, famílias e grupos; a psicoterapia individual é só uma das modalidades.",
+    "trecho": "as psicoterapias pressupõe Essa aliança terapêutica né que a gente pode chamar de relacionamento interpessoal junta indivíduos casais famílias e grupos decorrentes de uma demanda",
+    "onde": 404
+   },
+   {
+    "enunciado": "Além de lidar com o sofrimento psíquico, com o que a psicoterapia também se preocupa, segundo a aula?",
+    "alternativas": [
+     "Com o diagnóstico psiquiátrico e a prescrição de medicação",
+     "Com a substituição do conhecimento técnico pela experiência do paciente",
+     "Com a avaliação psicológica para fins de seleção",
+     "Com o desenvolvimento pessoal e o aprimoramento de capacidades, sobretudo nas relações humanas"
+    ],
+    "certa": 3,
+    "comentario": "A aula diz que a psicoterapia também se preocupa com o desenvolvimento pessoal e o aprimoramento de capacidades e habilidades, especialmente nas relações humanas.",
+    "trecho": "a psicoterapia também se preocupa com o desenvolvimento pessoal e um aprimoramento de capacidades individuais de habilidades né especialmente nas relações humanas",
+    "onde": 157
+   }
+  ]
+ },
+ "https://seer.ufrgs.br/index.php/hcpa/article/view/125095": {
+  "resumo": "As quatro psicoterapias mais testadas na depressão são a comportamental, a cognitiva (modelo de Beck), a interpessoal (TIP) e a psicodinâmica breve. A TIP é de tempo limitado, em geral 16 sessões semanais, com foco em uma área-problema (luto, disputas, mudança de papéis ou déficits interpessoais) e fases inicial, intermediária e final. Estudos como o do NIMH, o de Minnesota e o de Sheffield mostram a eficácia das psicoterapias, e a TIP de manutenção ajuda a evitar recorrências. Klerman via a TIP como procedimento eficaz, não como único nem melhor tratamento.",
+  "cartoes": [
+   {
+    "frente": "Em que teoria a psicoterapia comportamental da depressão se baseia?",
+    "verso": "Na teoria do aprendizado social, ou análise funcional do comportamento.",
+    "trecho": "A psicoterapia comportamental deriva seus pressupostos da teoria de aprendizado social, ou da análise funcional do comportamento",
+    "onde": 2
+   },
+   {
+    "frente": "Como as psicoterapias psicodinâmicas breves concebem a depressão?",
+    "verso": "Como um fracasso adaptativo resultante de conflitos intrapsíquicos e, mais modernamente, de distúrbios relacionais.",
+    "trecho": "têm em comum a concepção da depressão como um fracasso adaptativo resultante de conflitos intrapsíquicos e, mais modernamente, de distúrbios relacionais",
+    "onde": 2
+   },
+   {
+    "frente": "Quais são as quatro áreas-problema da terapia interpessoal?",
+    "verso": "Luto, disputas interpessoais, mudança de papéis e déficits interpessoais.",
+    "trecho": "1) luto (perda por morte); 2) disputas interpessoais (com parceiro, filhos, outros membros da família, amigos, companheiros de trabalho); 3) mudança de papéis",
+    "onde": 3
+   },
+   {
+    "frente": "Em quantas sessões e com que frequência a TIP é estruturada, em geral?",
+    "verso": "Em geral 16 sessões, com frequência semanal.",
+    "trecho": "A TIP está estruturada para, em geral, ser realizada em 16 sessões, com freqüência semanal.",
+    "onde": 3
+   },
+   {
+    "frente": "Como Klerman via a terapia interpessoal em relação a outros tratamentos da depressão?",
+    "verso": "Nem único nem melhor tratamento: formalização de procedimentos que se mostrou eficaz em estudos bem conduzidos.",
+    "trecho": "Ele não considerava a terapia interpessoal nem como o único e nem como o melhor tratamento das depressões, mas como a formalização de um conjunto de procedimentos",
+    "onde": 8
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "No estudo da Universidade de Minnesota (Hollon e cols.), que contrastou a terapia cognitiva e a imipramina, qual foi o resultado ao final?",
+    "alternativas": [
+     "A imipramina foi claramente superior à terapia cognitiva",
+     "A terapia cognitiva isolada teve desempenho pior que os demais regimes",
+     "Todos os regimes obtiveram bons resultados, sem diferenças significativas entre eles",
+     "A combinação de terapia cognitiva com imipramina foi superior a todos os outros regimes"
+    ],
+    "certa": 2,
+    "comentario": "O artigo relata que, ao fim do estudo, todos os regimes tiveram bons resultados entre os 64 pacientes que o completaram, sem diferenças significativas.",
+    "trecho": "No fim do estudo, todos os regimes obtiveram bons resultados nos 64 pacientes que o completaram, sem diferenças significativas entre os mesmos",
+    "onde": 6
+   },
+   {
+    "enunciado": "No Sheffield Psychotherapy Project, o que se encontrou sobre a duração da terapia, de 8 ou 16 semanas?",
+    "alternativas": [
+     "Depressões leves a moderadas responderam igualmente bem a 8 ou 16 semanas; as mais graves melhoraram mais com 16",
+     "Depressões graves responderam igualmente bem a 8 ou 16 semanas; as leves melhoraram mais com 16",
+     "Qualquer depressão melhorou mais com 8 semanas de tratamento",
+     "A terapia prescritiva foi muito superior à exploratória em todos os níveis de gravidade"
+    ],
+    "certa": 0,
+    "comentario": "O estudo achou interação entre gravidade e duração: nas depressões leves a moderadas 8 ou 16 semanas deram o mesmo resultado, e nas mais graves 16 semanas foram significativamente melhores.",
+    "trecho": "pacientes com depressões de leve a moderada responderam igualmente bem com 8 ou 16 semanas de terapia. Ao contrário, os com depressão mais grave tiveram uma melhora significativamente maior com 16 semanas de tratamento",
+    "onde": 6
+   },
+   {
+    "enunciado": "Qual destas NÃO é uma das quatro psicoterapias de eficácia testada na depressão que o artigo destaca?",
+    "alternativas": [
+     "Psicoterapia interpessoal",
+     "Psicoterapia comportamental",
+     "Psicoterapia psicodinâmica",
+     "Psicoterapia humanista"
+    ],
+    "certa": 3,
+    "comentario": "O artigo destaca a cognitiva, a comportamental, a interpessoal e a psicodinâmica (breve); a humanista não está entre elas.",
+    "trecho": "sobre a eficácia de pelo menos quatro tipos de psicoterapia: cognitiva, comportamental, interpessoal e psicodinâmica",
+    "onde": 2
+   },
+   {
+    "enunciado": "Qual é a posição da terapia interpessoal (TIP) sobre as relações interpessoais e a causa da depressão?",
+    "alternativas": [
+     "Considera os fatores interpessoais a causa principal da depressão",
+     "Não os considera causa, mas vê a depressão num contexto interpessoal que influencia início, resposta ao tratamento e prognóstico",
+     "Ignora o contexto social e foca apenas nas relações passadas da infância",
+     "Considera a depressão um fenômeno de causa única e biológica"
+    ],
+    "certa": 1,
+    "comentario": "A TIP não considera os fatores interpessoais a causa da depressão, que vê como multi-determinada, mas parte do princípio de que ela ocorre num contexto interpessoal que a influencia.",
+    "trecho": "a TIP não considera os fatores interpessoais como causa da depressão. Conceptualiza a depressão como um fenômeno complexo e multi-determinado",
+    "onde": 3
+   },
+   {
+    "enunciado": "Qual é a diferença de foco entre a TIP e a TIP de manutenção (TIP-M)?",
+    "alternativas": [
+     "A TIP reforça o contexto do estado de remissão e a TIP-M modifica o do episódio depressivo",
+     "A TIP usa áreas-problema diferentes das da TIP-M",
+     "A TIP modifica o contexto psicossocial do episódio depressivo; a TIP-M reforça o do estado de remissão",
+     "A TIP é indicada só para distimia e a TIP-M, para depressão maior"
+    ],
+    "certa": 2,
+    "comentario": "A TIP se preocupa em modificar o contexto psicossocial ligado ao episódio depressivo, e a TIP-M procura reforçar o contexto do estado de remissão, com lógica de medicina preventiva.",
+    "trecho": "Enquanto a TIP se preocupa em modificar o contexto psicossocial associado com o episódio depressivo, a TIP-M procura reforçar o contexto psicossocial do estado de remissão",
+    "onde": 4
+   }
+  ]
+ },
+ "https://www.redalyc.org/pdf/261/26110303.pdf": {
+  "resumo": "O artigo revisa os estudos de eficácia psicoterapêutica, em especial da terapia de família. A APA criou em 1993 uma força-tarefa para validar modelos empiricamente fundamentados e adotou o estudo comparativo controlado. Eysenck abriu a discussão em 1952; Luborsky e colegas chegaram em 1975 ao veredicto Dodô, e a meta-análise de Smith, Glass e Miller (1980) não achou diferença entre orientações teóricas. Pinsof e Wynne confirmaram a eficácia da terapia de família e de casal. Conclui-se que é possível validar modelos, mas não escolas em bloco, e a teoria dos fatores comuns busca explicar a similaridade.",
+  "cartoes": [
+   {
+    "frente": "O que a Divisão 12 da APA criou em 1993?",
+    "verso": "Uma força-tarefa para discutir critérios de validação de modelos terapêuticos empiricamente fundamentados e listar os aprovados.",
+    "trecho": "a criação, pela American Psychological Association (APA), por meio da Divisão de Psicologia Clínica (Divisão 12), em 1993, de uma força tarefa com vistas a discutir critérios para a validação de modelos terapêuticos",
+    "onde": 2
+   },
+   {
+    "frente": "Que método de validação a APA padronizou para os modelos terapêuticos?",
+    "verso": "O estudo comparativo controlado.",
+    "trecho": "a APA padronizou um método de validação, ou seja, o estudo comparativo controlado",
+    "onde": 3
+   },
+   {
+    "frente": "Como se obtém a magnitude de efeito na meta-análise de Smith, Glass e Miller?",
+    "verso": "Dividindo a diferença média entre o grupo tratado e o de controle pelo desvio padrão do grupo de controle.",
+    "trecho": "a magnitude de efeito, que era obtida ao se dividir a diferença média de um grupo tratado e um grupo de controle pelo desvio padrão do grupo de controle",
+    "onde": 4
+   },
+   {
+    "frente": "O que é um teste de eficiência, em contraste com o de eficácia?",
+    "verso": "Teste feito em situação real, com tratamentos já eficazes em laboratório clínico, para ver o uso na prática cotidiana.",
+    "trecho": "De acordo com esta definição o teste de eficiência é aquele realizado em uma situação real, com tratamentos de eficácia já demonstrada em um ambiente laboratorial clínico",
+    "onde": 6
+   },
+   {
+    "frente": "O que é possível validar empiricamente, segundo as reflexões finais do artigo?",
+    "verso": "Modelos terapêuticos específicos para quadros similares, mas não escolas, teorias ou métodos em bloco.",
+    "trecho": "Assim, é possível validar modelos, mas não escolas, teorias ou métodos terapêuticos em bloco.",
+    "onde": 7
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a meta-análise de Smith, Glass e Miller, o que acontece com os resultados positivos da psicoterapia dois anos após o tratamento?",
+    "alternativas": [
+     "Permanecem estáveis, com magnitude de efeito em 0,85",
+     "Diminuem; a média da magnitude de efeito cai para 0,50",
+     "Aumentam, pois a elaboração continua após o término",
+     "Desaparecem por completo em todas as formas de terapia"
+    ],
+    "certa": 1,
+    "comentario": "Entre as conclusões da meta-análise está que os resultados positivos diminuem dois anos depois: a média da magnitude de efeito cai de 0,85 para 0,50.",
+    "trecho": "Os resultados positivos da psicoterapia diminuem dois anos após o tratamento; a média da magnitude de efeito cai para 0,50.",
+    "onde": 5
+   },
+   {
+    "enunciado": "Na meta-análise de Shadish e colaboradores (1993) sobre terapias de casal e de família, que achado destoou da equivalência entre as abordagens?",
+    "alternativas": [
+     "As terapias sistêmicas tiveram resultados superiores em todas as comparações",
+     "As terapias comportamentais não superaram o grupo sem tratamento",
+     "As terapias de casal foram menos eficazes que as individuais",
+     "Houve uma consistente falha das terapias humanísticas em alcançar resultados positivos"
+    ],
+    "certa": 3,
+    "comentario": "Shadish e colegas não encontraram diferenças entre abordagens bem delineadas, mas houve consistente falha das terapias humanísticas em obter resultados positivos em qualquer análise.",
+    "trecho": "houve uma consistente falha das terapias humanísticas em alcançar resultados positivos em qualquer análise",
+    "onde": 5
+   },
+   {
+    "enunciado": "Segundo Pinsof e Wynne, o que se concluiu sobre terapia de família e de casal em transtornos mentais crônicos, como a esquizofrenia?",
+    "alternativas": [
+     "Não bastam sozinhas, mas potencializam o resultado quando combinadas com outros tratamentos",
+     "São o tratamento de escolha e dispensam outros recursos",
+     "São ineficazes e não devem ser usadas nesses casos",
+     "Só funcionam para esses transtornos quando aplicadas a casais"
+    ],
+    "certa": 0,
+    "comentario": "Pinsof e Wynne concluíram que essas terapias não são suficientes sozinhas para desordens crônicas, mas, combinadas com outros tratamentos, o resultado final foi potencializado.",
+    "trecho": "Terapia de casal e de família não são suficientes para tratar sozinhas desordens mentais crônicas como, esquizofrenia, desordens afetivas mono e bipolares, adicções, autismo e desordens severas de conduta.",
+    "onde": 6
+   },
+   {
+    "enunciado": "O que Kiesler chamou, em 1966, de mito da uniformidade?",
+    "alternativas": [
+     "Supor que os resultados da psicoterapia são sempre positivos",
+     "Supor que apenas terapeutas experientes obtêm bons resultados",
+     "Supor que a psicoterapia é aplicada uniformemente em todos os casos, como se terapeutas e casos fossem homogêneos",
+     "Supor que o estudo de caso clínico é o único método válido de avaliação"
+    ],
+    "certa": 2,
+    "comentario": "Kiesler apontou que os experimentos pré/pós supõem, incorretamente, que a psicoterapia é aplicada de modo uniforme, com terapeutas invariáveis e casos homogêneos.",
+    "trecho": "Kiesler, em 1966, já apontava o problema do que chamou mito da uniformidade, que estaria presente em todos os experimentos do tipo pré/pós, considerando que esta metodologia supõe incorretamente que a psicoterapia seria aplicada uniformemente em todos os casos",
+    "onde": 6
+   },
+   {
+    "enunciado": "Segundo Garsk e Lynn, qual era um dos critérios de uma investigação bem projetada em psicoterapia a partir da década de 70?",
+    "alternativas": [
+     "Estudos de caso clínico detalhados, sem grupo de controle",
+     "Grupos homogêneos de clientes com problemas específicos, distribuídos aleatoriamente sob condições experimentais",
+     "Medidas realizadas apenas ao fim do tratamento",
+     "Terapeutas de experiências variadas, sem nenhuma igualação"
+    ],
+    "certa": 1,
+    "comentario": "Entre os critérios estavam grupos homogêneos de clientes com problemas específicos distribuídos aleatoriamente, terapeutas igualados, controles bem desenhados e medidas antes, depois e em acompanhamento.",
+    "trecho": "grupos homogêneos de clientes com problemas específicos e idênticos, distribuídos aleatoriamente sob condições experimentais",
+    "onde": 3
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=kESXXd111h4": {
+  "resumo": "A dinâmica da transferência (Freud, 1912) é um dos artigos sobre a técnica psicanalítica. Para Freud, a transferência resulta da combinação de uma disposição inata com as influências da infância, que produzem um clichê repetido ao longo da vida amorosa. Parte dos impulsos libidinais é desconhecida da consciência, e o investimento libidinal insatisfeito se volta para a figura do analista, incluído num dos modelos formados pelo paciente. Freud aponta dois pontos de difícil explicação, entre eles o fato de a transferência aparecer como a forma mais forte de resistência.",
+  "cartoes": [
+   {
+    "frente": "A que conjunto de textos de Freud pertence A dinâmica da transferência, de 1912?",
+    "verso": "Aos artigos sobre a técnica, textos de extrema importância para o treinamento de analistas.",
+    "trecho": "Um texto de Freud de 1912. É um texto de extrema importância para o Treinamento de analistas. É um texto que faz parte de um dos Artigos sobre a técnica de Freud",
+    "onde": 2
+   },
+   {
+    "frente": "O que acontece com a parte dos impulsos libidinais desconhecida da consciência?",
+    "verso": "Ficou retida no desenvolvimento, em fantasia, e permanece no inconsciente; parte dela constitui a dinâmica transferencial.",
+    "trecho": "desenvolvimento, expandindo-se no fantasia, isto é, permanece no inconsciente. Resumindo, um parte desses impulsos eróticos são aqueles que constituem a dinâmica transferencial.",
+    "onde": 834
+   },
+   {
+    "frente": "Que papéis o analista tende a ocupar para o paciente na transferência?",
+    "verso": "Frequentemente o papel de pai, mãe ou outra figura de hierarquia emocional, como avó ou avô.",
+    "trecho": "o analista vai praticar. frequentemente o papel de pai ou de uma mãe ou uma hierarquia emocional , de uma avó, um avô ou um",
+    "onde": 1054
+   },
+   {
+    "frente": "Por que variações de gênero na transferência para o analista são compreensíveis?",
+    "verso": "Porque a transferência não é apenas consciente; as imagos inconscientes não seguem o gênero do analista.",
+    "trecho": "Essas variações do transferir para o analista que exceder em gênero e medida são compreensível, porque eles não são apenas consciente.",
+    "onde": 1300
+   },
+   {
+    "frente": "Que observação de Freud mostra que a transferência intensa não é criada pela psicanálise?",
+    "verso": "Ele a viu também em tratamentos não analíticos, com transferências eróticas que beiram a servidão: é problema da neurose, não da análise.",
+    "trecho": "mais intenso do que fora dele, porque ele Ele observou, mesmo em instituições, Não?, de tratamentos não analíticos, com abordagens não analíticas, que existem transferências eróticas que são tão intenso que chega a beirar o servidão",
+    "onde": 1573
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Uma pessoa afirma ter sorte nos negócios, mas azar no amor, e sempre se interessa por pessoas com o mesmo perfil. Como a psicanálise, segundo a aula, interpreta isso?",
+    "alternativas": [
+     "Como questões inconscientes que a levam a se interessar por pessoas com o mesmo perfil, e não como mera sorte",
+     "Como simples coincidência, sem relação com a história do sujeito",
+     "Como efeito exclusivo da beleza e do interesse imediato pelo parceiro",
+     "Como sinal de que a pessoa nunca fez análise e não tem inconsciente"
+    ],
+    "certa": 0,
+    "comentario": "A aula diz que a realidade não se resume à sorte: questões inconscientes levam a pessoa a se interessar por pessoas com o mesmo perfil.",
+    "trecho": "Questões inconscientes são aquelas que são levando a pessoa a se interessar por pessoas com o mesmo perfil",
+    "onde": 677
+   },
+   {
+    "enunciado": "Em 1912, como Freud interpreta a imago, segundo a aula?",
+    "alternativas": [
+     "Como um arquétipo do inconsciente coletivo, no sentido de Jung",
+     "Como uma ilusão consciente criada na análise",
+     "Como uma fixação erótica ligada a características reais dos objetos primários",
+     "Como a identificação do paciente com o próprio analista"
+    ],
+    "certa": 2,
+    "comentario": "A aula explica que, em 1912, Freud trata a imago como uma fixação erótica relacionada a características reais dos objetos primários, embora cite Jung no texto.",
+    "trecho": "Ele está interpretando isso como um fixação erótica relacionada a características reais dos objetos primários",
+    "onde": 1178
+   },
+   {
+    "enunciado": "Uma pessoa que sempre se relaciona com quem a trai começa a análise. Que fenômeno a aula diz que ela pode desenvolver em relação ao analista?",
+    "alternativas": [
+     "Transferência positiva idealizada, com confiança plena",
+     "Ausência de transferência, por já conhecer o padrão",
+     "Cura imediata pela simples consciência do padrão",
+     "Transferência negativa, com desconfiança exacerbada em relação ao analista"
+    ],
+    "certa": 3,
+    "comentario": "No exemplo da aula, quem sempre é traído pode desenvolver na análise uma transferência negativa, com desconfiança exacerbada e a ideia de que o analista pode abandoná-la.",
+    "trecho": "no análise que ela pode até mesmo desenvolver uma transferência negativa, o que resultaria em uma desconfiança exacerbada. em direção àquele analista.",
+    "onde": 557
+   },
+   {
+    "enunciado": "Segundo a aula, quando se diz que escolhemos parceiros pela beleza, o que esse discurso deixa de mencionar?",
+    "alternativas": [
+     "A influência da família na escolha profissional",
+     "O inconsciente, que está por trás da escolha",
+     "A importância da classe social do parceiro",
+     "O desejo consciente de ter filhos"
+    ],
+    "certa": 1,
+    "comentario": "A aula diz que a beleza é superficial e passageira e que o discurso não menciona o inconsciente; é aí que entra a transferência.",
+    "trecho": "do inconsciente, e quanto a isso? É algo que o discurso não menciona, certo? Então, quando você descobrir isso, você estará falando sobre a questão de transferência",
+    "onde": 400
+   },
+   {
+    "enunciado": "Segundo a aula, quando o analista esclarece ao paciente que a interrupção na associação livre é transferência, o que tende a acontecer?",
+    "alternativas": [
+     "O paciente abandona a análise imediatamente",
+     "A transferência desaparece para sempre",
+     "A interrupção termina e o paciente retorna à associação livre, ou o silêncio ganha outro significado",
+     "O analista passa a retribuir os sentimentos do paciente"
+    ],
+    "certa": 2,
+    "comentario": "A aula diz que, esclarecido o processo, a interrupção termina e o sujeito volta à livre associação, ou o silêncio muda de sentido: ele passa a pensar em si mesmo.",
+    "trecho": "esclareceu ao analista, isto A interrupção termina; ou seja, o O sujeito retorna à livre associação",
+    "onde": 1511
+   }
+  ]
+ },
+ "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273": {
+  "resumo": "Para Freud, os sintomas derivam de impulsos instintuais que o paciente desconhece, e a resistência dificulta tornar consciente o reprimido. Em vez de recordar, o paciente repete, e a própria transferência é uma repetição do passado esquecido. Ela pode ser positiva, favorecendo o tratamento, ou hostil e erotizada, servindo à resistência; Racker e Zimerman valorizam a transferência negativa trabalhada. O analista deve recusar-se a retribuir os sentimentos, interpretar no momento certo e dar tempo à elaboração. Transferência e repetição são, ao mesmo tempo, resistência e instrumento da análise.",
+  "cartoes": [
+   {
+    "frente": "Na psicopatologia freudiana, de onde derivam os sintomas do paciente?",
+    "verso": "De impulsos instintuais cuja natureza e motivação ele desconhece ou conhece só em parte; a frustração leva ao represamento da libido.",
+    "trecho": "os sintomas apresentados pelo paciente derivariam de impulsos instintuais, cuja natureza e motivação o paciente desconhece ou conhece apenas em parte",
+    "onde": 3
+   },
+   {
+    "frente": "Segundo Winnicott, o que o analista deve fazer diante dos ataques do paciente?",
+    "verso": "Sobreviver: manter confiabilidade e disponibilidade, sem revidar os ataques e permanecendo atento ao paciente.",
+    "trecho": "a sobrevivência do analista mostra-se fundamental no tratamento de pacientes com dificuldades em vivenciar o processo de análise, devendo o terapeuta manter sua confiabilidade e disponibilidade, não revidando os ataques do paciente",
+    "onde": 5
+   },
+   {
+    "frente": "Para Lacan, que posição a transferência coloca o analista?",
+    "verso": "A de sujeito suposto saber, vínculo que viabiliza o tratamento.",
+    "trecho": "estabelecendo entre analisando e analista o vínculo que viabiliza o tratamento, na medida em que coloca o analista na posição de sujeito suposto saber",
+    "onde": 6
+   },
+   {
+    "frente": "Como Freud diferencia o amor transferencial do amor comum?",
+    "verso": "Ele ocorre em condições artificiais, baseia-se pouco na realidade e afasta o paciente do esforço terapêutico.",
+    "trecho": "O enamoramento na transferência ocorre em condições artificiais e parece basear-se pouco na realidade e nas possíveis consequências em vivenciá-lo de fato.",
+    "onde": 8
+   },
+   {
+    "frente": "Quando o analista deve revelar as resistências do paciente, segundo Bocca e Perez?",
+    "verso": "Não a esmo: só quando estiver seguro de que os apontamentos farão sentido para o paciente naquele momento.",
+    "trecho": "não deve ser feita a esmo, sem que o analista esteja seguro de que tais apontamentos farão sentido para o paciente",
+    "onde": 9
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Em que obra de Freud o artigo diz que o termo transferência foi denominado pela primeira vez?",
+    "alternativas": [
+     "Recordar, repetir e elaborar",
+     "A interpretação de Sonhos",
+     "A dinâmica da transferência",
+     "Notas sobre um caso de neurose obsessiva"
+    ],
+    "certa": 1,
+    "comentario": "O artigo afirma que Freud denominou transferência pela primeira vez em A interpretação de Sonhos, ligando-a desde cedo à resistência ao processo analítico.",
+    "trecho": "tais processos, que Freud denominou transferência pela primeira vez em “A interpretação de Sonhos”",
+    "onde": 3
+   },
+   {
+    "enunciado": "No caso do Homem dos Ratos, o que a transferência permitiu a Freud, segundo o artigo?",
+    "alternativas": [
+     "Evitar que o paciente ofendesse o analista nas associações livres",
+     "Substituir a livre associação por sugestão direta",
+     "Encerrar o tratamento em poucas sessões",
+     "Trazer à consciência intensos sentimentos ambivalentes dirigidos ao pai"
+    ],
+    "certa": 3,
+    "comentario": "O artigo conta que, embora o paciente ofendesse Freud em suas associações, só pela transferência foi possível trazer à consciência seus sentimentos ambivalentes dirigidos ao pai.",
+    "trecho": "apenas por meio da transferência pôde auxiliar este paciente que o ofendia veementemente em suas associações livres, embora o tratasse com muito respeito e polidez, a trazer à consciência intensos sentimentos ambivalentes dirigidos ao pai",
+    "onde": 6
+   },
+   {
+    "enunciado": "Segundo Racker, além da necessidade de amor do sujeito, o que pode explicar a intensidade dos sentimentos transferenciais na análise?",
+    "alternativas": [
+     "A capacidade de amar aumentada no setting analítico, favorecida pela tolerância e sobrevivência do analista",
+     "A ausência de regras no setting",
+     "A presença de terceiros durante a sessão",
+     "O fato de o analista retribuir os sentimentos do paciente"
+    ],
+    "certa": 0,
+    "comentario": "Racker propõe que a capacidade de amar do paciente aumenta dentro do setting, pela tolerância do analista e sua sobrevivência aos ataques, e a regra da livre associação também favorece a transferência intensa.",
+    "trecho": "a intensidade dos sentimentos transferenciais, para além de expressar a necessidade de amor do sujeito, poderia estar relacionada ao fato de que sua capacidade de amar é aumentada dentro do setting analítico",
+    "onde": 8
+   },
+   {
+    "enunciado": "Que atitude Freud recomenda ao analista diante dos sentimentos transferenciais do paciente?",
+    "alternativas": [
+     "Retribuí-los moderadamente, para fortalecer o vínculo",
+     "Reprimir o paciente por seus afetos, para proteger o tratamento",
+     "Manter o domínio sobre eles, recusando-se a retribuí-los sem reprimir o paciente",
+     "Ignorá-los até que o paciente os abandone sozinho"
+    ],
+    "certa": 2,
+    "comentario": "Freud recomenda manter o domínio sobre os sentimentos transferenciais pela recusa em retribuí-los, mantendo-se firme sem reprimir o paciente por seus afetos.",
+    "trecho": "Freud ressalta também que, conjuntamente a essa postura, deve-se manter o domínio sobre os sentimentos transferenciais através da recusa em retribuí-los, mantendo-se",
+    "onde": 8
+   },
+   {
+    "enunciado": "Quando a transferência se torna hostil ou erotizada e serve à resistência, o que Freud (1914) advertia que podia ocorrer?",
+    "alternativas": [
+     "O paciente deixava de repetir e passava apenas a recordar",
+     "Os sintomas e comportamentos patológicos já reduzidos reapareciam, com possível piora do quadro",
+     "O analista perdia a posição de sujeito suposto saber",
+     "A transferência desaparecia por completo"
+    ],
+    "certa": 1,
+    "comentario": "Nessas condições, advertia Freud, o paciente manifestava novamente sintomas, inibições e comportamentos patológicos já reduzidos, e o analista podia observar piora.",
+    "trecho": "o paciente manifestava novamente sintomas, inibições, e comportamentos patológicos os quais já havia reduzido no decorrer do tratamento, podendo o analista observar uma piora em seu quadro.",
+    "onde": 5
+   }
+  ]
+ }
+}

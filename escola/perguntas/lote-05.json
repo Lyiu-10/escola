@@ -1,0 +1,739 @@
+{
+ "https://www.cvv.org.br/wp-content/uploads/2017/05/manual_prevencao_suicidio_profissionais_saude.pdf": [
+  {
+   "enunciado": "O que os estudos citados no manual mostram sobre a relação entre suicídio e transtorno mental?",
+   "alternativas": [
+    "Menos da metade dos suicídios ocorre em pessoas com transtorno mental diagnosticável",
+    "O transtorno mental só pesa como risco nos casos de esquizofrenia",
+    "Na quase totalidade dos suicídios, a pessoa estava padecendo de um transtorno mental, sendo os transtornos do humor os mais frequentes",
+    "Os transtornos relacionados ao uso de substâncias são a principal causa isolada, à frente dos transtornos do humor"
+   ],
+   "certa": 2,
+   "comentario": "O manual afirma que quase todos os suicídios ocorrem em pessoas com transtorno mental; na compilação da OMS, os transtornos do humor lideram (35,8%), seguidos pelo uso de substâncias (22,4%).",
+   "trecho": "na quase totalidade dos suicídios, os indivíduos estavam padecendo de um transtorno mental",
+   "onde": 19
+  },
+  {
+   "enunciado": "Segundo o manual, qual é a conduta inicial recomendada para um paciente com depressão leve?",
+   "alternativas": [
+    "Iniciar antidepressivo tricíclico em dose plena",
+    "Associar benzodiazepínico isolado como tratamento principal",
+    "Indicar eletroconvulsoterapia, o tratamento mais eficaz",
+    "Tentar primeiro a psicoterapia, quando disponível, pois antidepressivos não são recomendados no tratamento inicial da depressão leve"
+   ],
+   "certa": 3,
+   "comentario": "Para a depressão leve o manual indica psicoterapia primeiro; nos casos moderados e graves os antidepressivos devem ser iniciados, de preferência com psicoterapia.",
+   "trecho": "Os antidepressivos não são recomendados para o tratamento inicial da depressão leve. Deve ser tentada psicoterapia primeiramente, quando disponível.",
+   "onde": 37
+  },
+  {
+   "enunciado": "Um paciente com dependência de álcool diz: Talvez fosse melhor para a minha saúde se eu bebesse menos, embora não ache que beba demais. Em qual estágio de prontidão para mudança (Prochaska e Di Clemente) ele está, segundo o manual?",
+   "alternativas": [
+    "Contemplação, marcada pela ambivalência: ainda não está convencido da necessidade de se tratar",
+    "Pré-contemplação, em que não vê motivo algum para mudar",
+    "Determinação, em que já percebeu que precisa mudar mas não sabe como",
+    "Manutenção, em que já mudou o hábito, mas teme a recaída"
+   ],
+   "certa": 0,
+   "comentario": "A contemplação é a posição de ambivalência; o profissional ajuda a perceber a realidade, por exemplo com a técnica da balança.",
+   "trecho": "Contemplação: posição marcada pela ambivalência, a pessoa ainda não está convencida da necessidade de se tratar",
+   "onde": 45
+  },
+  {
+   "enunciado": "Segundo o manual, por que a ambivalência é importante na prevenção do suicídio?",
+   "alternativas": [
+    "Porque mostra que a pessoa não pretende realmente se matar e dispensa intervenção",
+    "Porque indica que a decisão pela morte já está tomada e é irreversível",
+    "Porque o predomínio do desejo de vida sobre o desejo de morte é o fator que possibilita a prevenção, e o apoio emocional pode fortalecer o desejo de viver",
+    "Porque a ambivalência só ocorre em pessoas com transtorno de personalidade"
+   ],
+   "certa": 2,
+   "comentario": "Quem pensa em suicídio quase sempre quer, ao mesmo tempo, morrer e viver; se o apoio emocional aumentar o desejo de viver, o risco diminui.",
+   "trecho": "O predomínio do desejo de vida sobre o desejo de morte é o fator que possibilita a prevenção do suicídio",
+   "onde": 51
+  },
+  {
+   "enunciado": "Um colega teme que perguntar a um paciente deprimido se ele pensa em se matar possa colocar a ideia na cabeça dele. O que o manual responde?",
+   "alternativas": [
+    "Deve perguntar apenas depois de o paciente tentar suicídio",
+    "Falar a respeito de suicídio não inocula a ideia, e perguntar diretamente é a melhor maneira de descobrir se há pensamentos suicidas",
+    "Perguntar só é seguro se o paciente já estiver internado",
+    "Perguntar aumenta o risco, por isso o profissional deve esperar o paciente tocar no assunto"
+   ],
+   "certa": 1,
+   "comentario": "O manual desfaz esse mito: perguntar sobre suicídio não induz o ato, alivia o paciente e aumenta o vínculo.",
+   "trecho": "Ao contrário da crença popular, falar a respeito de suicídio não inocula a idéia na cabeça das pessoas",
+   "onde": 57
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2019/11/ServHosp_web1.pdf": [
+  {
+   "enunciado": "Segundo as Referências Técnicas do CFP, por que se diz que no hospital a demanda de atendimento psicológico é inversa?",
+   "alternativas": [
+    "Porque o paciente procura a psicóloga e depois a equipe é informada",
+    "Porque a família solicita o atendimento antes mesmo da internação",
+    "Porque em geral são os agentes de saúde que pedem a avaliação, muitas vezes sem avisar o paciente, e a psicóloga precisa evidenciar essa demanda com ele",
+    "Porque a psicóloga atende primeiro a instituição e só depois o paciente"
+   ],
+   "certa": 2,
+   "comentario": "A demanda é inversa porque costuma partir da equipe, e não do paciente; por isso a psicóloga precisa construir a demanda e o vínculo com ele.",
+   "trecho": "são os agentes de saúde (médicos, enfermeiros, assistentes sociais, fisioterapeutas, dentre outros) que solicitam avaliação e acompanhamento psicológico, muitas vezes sem antes comunicar ao próprio paciente",
+   "onde": 45
+  },
+  {
+   "enunciado": "Como o texto diferencia a avaliação psicológica no hospital do psicodiagnóstico tradicional?",
+   "alternativas": [
+    "No hospital o objetivo é aplicar uma bateria completa de testes para fechar o diagnóstico",
+    "No hospital avalia-se um momento específico da vida da pessoa, buscando uma visão ampla de quem ela é frente à doença, e não um diagnóstico formal e acadêmico",
+    "No hospital a avaliação é feita apenas pela equipe médica, e a psicóloga só registra no prontuário",
+    "No hospital a avaliação se limita à criança, pois adultos não passam por avaliação psicológica"
+   ],
+   "certa": 1,
+   "comentario": "Citando Fongaro e Sebastiani, o texto diz que não se busca um diagnóstico formal, mas uma visão ampla do paciente diante da doença, da internação e do tratamento.",
+   "trecho": "não se está atrás de um diagnóstico no sentido formal e acadêmico do termo, mas sim, na busca, da melhor forma possível, de uma visão ampla de quem é e como está aquela pessoa frente ao seu processo de doença",
+   "onde": 50
+  },
+  {
+   "enunciado": "Qual é a característica do acolhimento psicológico em serviços de urgência e emergência, segundo o texto?",
+   "alternativas": [
+    "É longitudinal e visa reestruturar a personalidade do paciente ao longo de meses",
+    "É focal e emergencial: atua na crise que gera angústia incapacitante, sem a pretensão de alterar estruturas psíquicas básicas",
+    "É restrito aos familiares, pois o paciente em emergência não pode ser atendido",
+    "É feito apenas depois da alta, quando o paciente já está estabilizado"
+   ],
+   "certa": 1,
+   "comentario": "Na emergência o acolhimento é focal, lida com a crise e busca melhorar o enfrentamento, sem mexer em estruturas psíquicas básicas; quanto mais rápida a intervenção, maior a chance de recuperação.",
+   "trecho": "No atendimento de emergência procura-se atuar na crise que gera uma angústia específica incapacitante, sem a pretensão de alterar estruturas psíquicas básicas",
+   "onde": 54
+  },
+  {
+   "enunciado": "Na avaliação psicológica de um paciente candidato à cirurgia bariátrica, o que a avaliação pode oferecer à equipe, segundo o texto?",
+   "alternativas": [
+    "Um laudo que substitui a avaliação médica e nutricional",
+    "Uma lista de dietas adequadas ao perfil emocional",
+    "Um parecer de elegibilidade ou não para o procedimento do ponto de vista emocional",
+    "Um diagnóstico definitivo de transtorno alimentar, indispensável para qualquer cirurgia"
+   ],
+   "certa": 2,
+   "comentario": "A avaliação pode dar um parecer de elegibilidade do ponto de vista emocional, pois quem não está preparado para a mudança da autoimagem pode ter insucesso com o tempo.",
+   "trecho": "Essa avaliação psicológica pode dar à equipe um parecer de elegibilidade ou não para este procedimento do ponto de vista emocional",
+   "onde": 62
+  },
+  {
+   "enunciado": "No CTI, de que modo a psicóloga contribui para a comunicação entre a família e a equipe, de acordo com o texto?",
+   "alternativas": [
+    "Substituindo o médico na entrega do boletim sobre o quadro clínico",
+    "Funcionando como decodificador da linguagem médica e intermediando a relação família e equipe",
+    "Impedindo que os familiares façam perguntas sobre condutas e rotinas",
+    "Orientando a família a evitar o contato com a equipe até o fim da internação"
+   ],
+   "certa": 1,
+   "comentario": "Mesmo quando o médico explica com clareza, o impacto emocional pode comprometer a compreensão; a psicóloga traduz a linguagem médica e media a relação, o que diminui a angústia.",
+   "trecho": "a(o) psicóloga(o) funciona com o “decodificador” da linguagem médica, onde os familiares e o próprio paciente se sentem mais próximas e íntimas a essa(e) profissional",
+   "onde": 66
+  }
+ ],
+ "https://books.scielo.org/id/z7ytj/pdf/alves-9788578791926.pdf#page=78": [
+  {
+   "enunciado": "Segundo o texto, o que caracteriza a prevenção de terceiro nível (terciária) em saúde?",
+   "alternativas": [
+    "Ações de promoção da saúde e prevenção de doenças voltadas à população geral",
+    "Assistência a problemas de alta complexidade derivados dos níveis 1 e 2 e pesquisas em saúde, feita em geral nos hospitais",
+    "Triagem e encaminhamento em unidades básicas de saúde, sem acompanhamento posterior",
+    "Ações de assistência especializada de seguimento, realizadas somente em ambulatórios de especialidades"
+   ],
+   "certa": 1,
+   "comentario": "A prevenção terciária trata de problemas de alta complexidade e de pesquisas em saúde, em geral nos hospitais, incluindo o seguimento de tratamentos clínico, cirúrgico, quimioterápico e radioterápico.",
+   "trecho": "Está involucrada com a assistência aos problemas de alta complexidade derivados dos outros níveis de atenção (1º e 2º) e com as pesquisas em saúde",
+   "onde": 78
+  },
+  {
+   "enunciado": "Na preparação do paciente adulto para uma cirurgia, citando Antón e Méndez, o que a informação fornecida antes da operação pode produzir?",
+   "alternativas": [
+    "Apenas mudanças nas respostas cognitivas, sem efeito fisiológico",
+    "Aumento da ansiedade, por antecipar os riscos do procedimento",
+    "Mudança nas respostas cognitivas e também nas respostas psicofisiológicas",
+    "Dispensa de técnicas de redução da ansiedade durante a internação"
+   ],
+   "certa": 2,
+   "comentario": "A informação antes da operação modifica as respostas cognitivas e pode produzir mudanças nas respostas psicofisiológicas; técnicas de enfrentamento da ansiedade também são muito usadas.",
+   "trecho": "A informação proporcionada antes da operação que, além de modificar as respostas cognitivas, pode produzir mudanças nas respostas psicofisiológicas",
+   "onde": 79
+  },
+  {
+   "enunciado": "Um psicólogo de uma equipe de pesquisa em saúde precisa saber quantos casos novos de uma doença surgiram numa população em um intervalo de tempo. Qual medida epidemiológica ele busca, segundo o texto?",
+   "alternativas": [
+    "Prevalência, que é o número total de casos manifestados na população em um período",
+    "Letalidade, que é a proporção de mortes entre os doentes",
+    "Incidência, que indica a frequência de novos casos em um espaço de tempo determinado",
+    "Morbidade, que é o grau de gravidade dos sintomas de cada paciente"
+   ],
+   "certa": 2,
+   "comentario": "A incidência indica a frequência de novos casos em um intervalo de tempo; a prevalência remete ao total de casos manifestados em um período.",
+   "trecho": "A prevalência remete ao número total de casos de uma doença manifestada em uma população em um período específico de tempo. A incidência indica a frequência de novos casos em um espaço de tempo determinado",
+   "onde": 81
+  },
+  {
+   "enunciado": "Qual conjunto de características descreve o padrão de conduta Tipo A, de Friedman e Rosenman, citado no texto?",
+   "alternativas": [
+    "Passividade, baixa necessidade de logro e tranquilidade diante de prazos",
+    "Competitividade, necessidade de logro, agressividade, impaciência e sensação de estar pressionado pelo tempo",
+    "Introversão, isolamento e evitação de desafios pessoais",
+    "Dependência, submissão e ausência de hostilidade"
+   ],
+   "certa": 1,
+   "comentario": "O Tipo A inclui competitividade, necessidade de logro, agressividade, impaciência, inquietude, tensão da musculatura facial, sensação de pressão do tempo e hostilidade.",
+   "trecho": "padrão de conduta Tipo A que Friedman e Rosenman (1959) descrevem como: competitividade, necessidade de logro, agressividade, impaciência",
+   "onde": 82
+  },
+  {
+   "enunciado": "Entre as atividades do psicólogo na intervenção terciária, o texto cita as urgências psicológicas. Onde elas são atendidas por meio de plantões?",
+   "alternativas": [
+    "Apenas em hospitais psiquiátricos de longa permanência",
+    "Em serviços substitutivos aos hospitais psiquiátricos, como CAPS, residências terapêuticas e centros de dia para idosos",
+    "Exclusivamente em unidades de terapia intensiva neonatal",
+    "Somente nas unidades básicas de saúde da família"
+   ],
+   "certa": 1,
+   "comentario": "O texto lista a atuação nas urgências psicológicas por plantões em serviços substitutivos aos hospitais psiquiátricos (CAPS, residências terapêuticas, centros de dia).",
+   "trecho": "atuar nas urgências psicológicas através de plantões em serviços substitutivos aos hospitais psiquiátricos",
+   "onde": 83
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf": [
+  {
+   "enunciado": "A cartilha desfaz o mito de que psicólogos de POT apenas melhoram os rendimentos das empresas. Qual é a correção apresentada?",
+   "alternativas": [
+    "O objetivo central da POT é a produtividade, e a saúde do trabalhador é tratada fora da psicologia",
+    "A POT promove saúde, bem-estar e dignidade dos trabalhadores, defendendo equilíbrio entre os objetivos organizacionais e a qualidade de vida",
+    "A POT atende apenas ao trabalhador, sem considerar os objetivos da organização",
+    "A POT se limita a aplicar testes psicológicos para reduzir custos com pessoal"
+   ],
+   "certa": 1,
+   "comentario": "A cartilha afirma que o objetivo central da POT é promover saúde, bem-estar e dignidade dos trabalhadores, com atuação ética que equilibra metas organizacionais e qualidade de vida.",
+   "trecho": "promover a saúde, o bem-estar e a dignidade dos trabalhadores, considerando sempre as condições adequadas para o exercício profissional. A atuação ética e responsável em POT defende o equilíbrio entre os objetivos organizacionais e a qualidade de vida",
+   "onde": 12
+  },
+  {
+   "enunciado": "Sobre o mito de que psicólogos de POT só fazem recrutamento e seleção, o que a cartilha diz?",
+   "alternativas": [
+    "Historicamente a POT começou pelo recrutamento e seleção, mas hoje a atuação é mais ampla, incluindo desenvolvimento organizacional, gestão de carreiras e promoção da saúde no trabalho",
+    "A POT nunca teve relação com recrutamento e seleção, que são exclusivos da Administração",
+    "Recrutamento e seleção continuam sendo a única atividade reconhecida como privativa da POT",
+    "A POT abandonou o recrutamento e seleção por não terem base científica"
+   ],
+   "certa": 0,
+   "comentario": "A cartilha reconhece a origem em recrutamento e seleção, mas afirma que a atuação atual é mais ampla e diversificada.",
+   "trecho": "mas atualmente sua atuação é mais ampla e diversificada. Psicólogas e psicólogos de POT atuam em desenvolvimento organizacional,",
+   "onde": 14
+  },
+  {
+   "enunciado": "Segundo a cartilha, qual é o duplo objetivo da POT, conforme a perspectiva da organização e a do trabalhador?",
+   "alternativas": [
+    "Para a organização, reduzir custos; para o trabalhador, aumentar o salário",
+    "Para a organização, cumprir a legislação; para o trabalhador, obter promoção",
+    "Para a organização, selecionar os melhores candidatos; para o trabalhador, prepará-lo para a aposentadoria",
+    "Para a organização, promover o bom desempenho e a sobrevivência; para o trabalhador, promover saúde e bem-estar"
+   ],
+   "certa": 3,
+   "comentario": "A cartilha diz que, pelo olhar da organização, a POT busca bom desempenho e sobrevivência; pelo olhar do trabalhador, saúde e bem-estar.",
+   "trecho": "Sob a perspectiva das organizações, o objetivo da POT é promover o bom desempenho e a sobrevivência das instituições onde é empregada; no enfoque do trabalhador, por sua vez, seu objetivo é promover saúde e bem-estar.",
+   "onde": 16
+  },
+  {
+   "enunciado": "Qual dos três grandes campos da POT direciona a atuação para a análise das condições laborais e seus impactos na saúde física e mental dos trabalhadores?",
+   "alternativas": [
+    "Psicologia e Gestão de Pessoas",
+    "Psicologia do Trabalho",
+    "Psicologia Organizacional",
+    "Psicologia Forense"
+   ],
+   "certa": 1,
+   "comentario": "É o campo da Psicologia do Trabalho, que identifica fatores psicossociais de risco e proteção; Gestão de Pessoas cuida de interações pessoa-organização e a Organizacional, de dinâmicas como clima e cultura.",
+   "trecho": "Esse campo direciona a atuação da psicóloga e do psicólogo para a análise das condições laborais e seus impactos sobre a saúde física e mental dos trabalhadores.",
+   "onde": 18
+  },
+  {
+   "enunciado": "Entre os modos de atuação em POT, em que consiste a Consultoria?",
+   "alternativas": [
+    "Aplicar diretamente técnicas psicológicas em atividades cotidianas, como recrutamento e treinamento",
+    "Participar da formulação de políticas organizacionais em cargos diretivos",
+    "Fornecer orientação especializada para diagnosticar situações organizacionais e propor soluções customizadas, podendo atuar nos níveis operacional, gerencial ou diretivo",
+    "Realizar perícias psicológicas e laudos técnicos em processos trabalhistas"
+   ],
+   "certa": 2,
+   "comentario": "A consultoria envolve orientação especializada para diagnosticar e propor soluções customizadas, em qualquer nível; as outras alternativas descrevem os modos operacional, diretivo e jurídico.",
+   "trecho": "Envolvem fornecer orientação especializada para diagnosticar situações organizacionais e propor soluções customizadas que atendam às necessidades específicas de indivíduos e organizações",
+   "onde": 22
+  }
+ ],
+ "https://www.redalyc.org/pdf/2820/282021760010.pdf": [
+  {
+   "enunciado": "Segundo Chiavenato, citado no artigo, quais são as cinco etapas consecutivas do processo de seleção de pessoal em sentido amplo?",
+   "alternativas": [
+    "Recrutamento, triagem dos candidatos, seleção de pessoal, identificação de características pessoais e integração na equipe",
+    "Triagem, recrutamento, entrevista, teste psicológico e contratação",
+    "Análise de cargo, recrutamento, entrevista, simulação e avaliação de desempenho",
+    "Seleção de pessoal, recrutamento, treinamento, integração e desligamento"
+   ],
+   "certa": 0,
+   "comentario": "O processo segue recrutamento, triagem, seleção, identificação de características pessoais e integração; a seleção só começa depois do recrutamento e da triagem.",
+   "trecho": "Tal processo é composto por cinco etapas consecutivas: recrutamento, triagem dos candidatos, seleção de pessoal, identificação de características pessoais e a integração na equipe",
+   "onde": 4
+  },
+  {
+   "enunciado": "Como Chiavenato diferencia aptidão de capacidade, segundo o artigo?",
+   "alternativas": [
+    "Aptidão é a habilidade atual da pessoa, e capacidade é o potencial para aprender",
+    "Aptidão é a potencialidade de aprender determinada habilidade, e capacidade é a habilidade atual em relação a certa atividade",
+    "Aptidão e capacidade são sinônimos, ambas medidas por testes de personalidade",
+    "Aptidão é adquirida pelo treino, e capacidade é inata"
+   ],
+   "certa": 1,
+   "comentario": "A aptidão é uma habilidade em estado latente, que pode ou não ser desenvolvida; a capacidade é adquirida com o desenvolvimento dessa aptidão.",
+   "trecho": "aptidão é a potencialidade do indivíduo em aprender determinada habilidade, enquanto capacidade seria a habilidade atual da pessoa em relação a certa atividade",
+   "onde": 5
+  },
+  {
+   "enunciado": "Qual é o foco da entrevista comportamental, descrita no artigo com base em Monti?",
+   "alternativas": [
+    "Apresentar ao candidato situações hipotéticas e perguntar como agiria",
+    "Avaliar traços de personalidade por meio de perguntas sobre preferências e aspirações",
+    "Verificar a formação escolar e os interesses do candidato",
+    "O comportamento passado do candidato no ambiente de trabalho, pedindo que descreva situações em que exibiu as habilidades desejáveis para o cargo"
+   ],
+   "certa": 3,
+   "comentario": "A entrevista comportamental parte do pressuposto de que o comportamento passado prediz o futuro e pede relatos de situações reais em que o candidato mostrou as habilidades exigidas.",
+   "trecho": "Nesse tipo de entrevista, o foco é o comportamento passado do candidato em um ambiente de trabalho, sendo requerida dos candidatos a descrição de situações nas quais exibiram comportamentos condizentes com as habilidades desejáveis",
+   "onde": 11
+  },
+  {
+   "enunciado": "O que caracteriza a entrevista situacional, segundo o artigo?",
+   "alternativas": [
+    "Propor situações hipotéticas que podem ocorrer no cargo e perguntar aos candidatos como agiriam",
+    "Pedir ao candidato que relate apenas experiências passadas em empregos anteriores",
+    "Aplicar um teste projetivo para inferir traços de personalidade",
+    "Observar o candidato dramatizando um papel em grupo"
+   ],
+   "certa": 0,
+   "comentario": "Na entrevista situacional, as situações hipotéticas vêm da análise de cargo; o artigo ressalta a dificuldade de correspondência entre o relato e o comportamento real e sugere usá-la junto com a comportamental.",
+   "trecho": "Nesse modelo, são propostas situações hipotéticas que podem ocorrer no exercício do cargo, sendo inquiridos dos candidatos como eles agiriam mediante tais contextos",
+   "onde": 12
+  },
+  {
+   "enunciado": "Por que, na perspectiva analítico-comportamental do artigo, as técnicas de simulação são úteis na seleção?",
+   "alternativas": [
+    "Porque medem traços permanentes de personalidade de modo padronizado",
+    "Porque dispensam a análise de cargo e a observação do candidato",
+    "Porque permitem observar diretamente o candidato em contingências semelhantes às da organização, identificando seu repertório comportamental atual",
+    "Porque garantem a emissão futura dos comportamentos observados"
+   ],
+   "certa": 2,
+   "comentario": "O artigo defende a observação direta do repertório atual do candidato em contingências semelhantes às do trabalho; ressalta, porém, que nenhuma técnica garante a emissão futura.",
+   "trecho": "observar diretamente o candidato em meio a contingências semelhantes às dispostas na organização através de técnicas de simulação pode ser útil para identificar seu repertório comportamental",
+   "onde": 14
+  }
+ ],
+ "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854": [
+  {
+   "enunciado": "No modelo da Teoria Clássica dos Testes (T = V + E), qual é, segundo Pasquali, a grande tarefa dessa teoria?",
+   "alternativas": [
+    "Estimar a probabilidade de acerto de cada item individualmente",
+    "Elaborar estratégias estatísticas para controlar ou avaliar a magnitude do erro (E)",
+    "Construir bancos de itens para gerar testes ilimitados",
+    "Eliminar o escore verdadeiro (V), que é impossível de medir"
+   ],
+   "certa": 1,
+   "comentario": "Na TCT o escore empírico é a soma do escore verdadeiro e do erro; a tarefa central é controlar ou avaliar o erro. Estimar a probabilidade de cada item é característico da TRI.",
+   "trecho": "Assim, a grande tarefa da TCT consiste em elaborar estratégias (estatísticas) para controlar ou avaliar a magnitude do E",
+   "onde": 3
+  },
+  {
+   "enunciado": "Qual é um dos dois axiomas fundamentais da Teoria de Resposta ao Item (TRI)?",
+   "alternativas": [
+    "O escore total do teste é a soma dos itens acertados, sem erro de medida",
+    "A validade de um teste depende exclusivamente da correlação com outro teste paralelo",
+    "O desempenho em um item se explica por traços latentes: o desempenho é o efeito e os traços latentes são a causa",
+    "A precisão do teste é definida pela divisão do teste em metades"
+   ],
+   "certa": 2,
+   "comentario": "A TRI assume que o desempenho no item é explicado por traços latentes (aptidões, habilidades) e que a relação pode ser descrita por uma curva característica do item.",
+   "trecho": "O desempenho do sujeito numa tarefa (item do teste) se explica em função de um conjunto de fatores ou traços latentes (aptidões, habilidades etc.). O desempenho é o efeito e os traços latentes são a causa",
+   "onde": 3
+  },
+  {
+   "enunciado": "Entre os tipos de validade, qual é considerada por Pasquali a forma mais fundamental de validade dos instrumentos psicológicos?",
+   "alternativas": [
+    "Validade de conteúdo",
+    "Validade de critério concorrente",
+    "Validade aparente",
+    "Validade de construto ou de conceito"
+   ],
+   "certa": 3,
+   "comentario": "A validade de construto verifica diretamente a legitimidade da representação comportamental dos traços latentes; as outras duas classes do modelo trinitário são a de conteúdo e a de critério.",
+   "trecho": "A validade de construto ou de conceito é considerada a forma mais fundamental de validade dos instrumentos psicológicos",
+   "onde": 5
+  },
+  {
+   "enunciado": "Um pesquisador aplica um teste hoje e coleta o desempenho profissional dos mesmos sujeitos seis meses depois. Que tipo de validade de critério ele está avaliando?",
+   "alternativas": [
+    "Validade concorrente, pois o critério é um desempenho profissional",
+    "Validade de conteúdo, pois o desempenho profissional é uma amostra de comportamentos",
+    "Validade preditiva, pois os dados do critério foram coletados após a aplicação do teste",
+    "Validade de construto, pois há um intervalo de tempo entre as coletas"
+   ],
+   "certa": 2,
+   "comentario": "Se as coletas são mais ou menos simultâneas, a validação é concorrente; se o critério é coletado depois, é preditiva.",
+   "trecho": "Se estas coletas forem (mais ou menos) simultâneas, a validação será do tipo concorrente; caso os dados sobre o critério sejam coletados após a coleta da informação sobre o teste, fala-se em validade preditiva",
+   "onde": 5
+  },
+  {
+   "enunciado": "O que significa, segundo o texto, dizer que um teste é fidedigno (preciso)?",
+   "alternativas": [
+    "Que o mesmo teste ou testes equivalentes produzem resultados idênticos para os mesmos sujeitos, ou seja, mede sem erros",
+    "Que mede de fato o construto que se propõe a medir",
+    "Que os itens cobrem uma amostra representativa de um universo de comportamentos",
+    "Que o escore do teste prevê um desempenho futuro específico"
+   ],
+   "certa": 0,
+   "comentario": "Fidedignidade é medir sem erros: mesmo teste em ocasiões diferentes, ou formas equivalentes, devem dar resultados idênticos, com correlação ideal igual a 1. As outras alternativas descrevem validade de construto, de conteúdo e de critério.",
+   "trecho": "Medir sem erros significa que o mesmo teste, medindo os mesmos sujeitos em ocasiões diferentes, ou testes equivalentes, medindo os mesmos sujeitos na mesma ocasião, produzem resultados idênticos",
+   "onde": 7
+  }
+ ],
+ "https://periodicos.puc-campinas.edu.br/estpsi/article/download/8007/5519/31949": [
+  {
+   "enunciado": "Segundo o artigo, qual é a relação correta entre os termos Psicologia Hospitalar e Psicologia da Saúde?",
+   "alternativas": [
+    "Psicologia Hospitalar é o termo internacional e Psicologia da Saúde é usada só no Brasil",
+    "Os dois termos são sinônimos exatos e podem ser trocados sem prejuízo",
+    "Psicologia da Saúde é o termo correto para os vários contextos da área, e a atuação no hospital é uma subespecialidade dela",
+    "Psicologia da Saúde se limita à atenção primária, enquanto a Psicologia Hospitalar cobre os demais níveis"
+   ],
+   "certa": 2,
+   "comentario": "O artigo diz que Psicologia Hospitalar é termo usado só no Brasil e inadequado por nomear a área pelo local; o termo correto é Psicologia da Saúde, e o hospital é uma subespecialidade.",
+   "trecho": "Psicologia da Saúde é o termo correto para destacar as atividades desenvolvidas pelo psicólogo nos diversos contextos da área",
+   "onde": 8
+  },
+  {
+   "enunciado": "Nos Estados Unidos, o que motivou a entrada do psicólogo no hospital geral, conforme o artigo?",
+   "alternativas": [
+    "A necessidade de assistência psicológica aos militares hospitalizados após a Segunda Guerra Mundial",
+    "A criação do Sistema Único de Saúde e da Política Nacional de Atenção Hospitalar",
+    "A exigência dos planos de saúde de que todo paciente tivesse avaliação psicológica antes de cirurgias",
+    "O crescimento dos consultórios particulares de psicanálise na década de 1930"
+   ],
+   "certa": 0,
+   "comentario": "A atuação no hospital geral americano surgiu após a Segunda Guerra, pela necessidade de assistência psicológica a militares com reações psíquicas durante a internação.",
+   "trecho": "a atuação do psicólogo no hospital geral ocorreu após o término da Segunda Guerra Mundial (1939-1945), quando foi identificada a necessidade da assistência psicológica para os militares",
+   "onde": 2
+  },
+  {
+   "enunciado": "Qual fato marcou o surgimento da área denominada Psicologia da Saúde nos Estados Unidos?",
+   "alternativas": [
+    "A publicação do documento A Hospital Practice Primer for Psychologists, em 1985",
+    "A aprovação da ata federal de 1977 que oficializou as práticas do psicólogo no país",
+    "A criação do periódico Journal Health Psychology, em 1982",
+    "A oficialização da Divisão 38 pela American Psychological Association, em 1978"
+   ],
+   "certa": 3,
+   "comentario": "Foi a oficialização da Divisão 38 da APA, em 1978, que marcou o surgimento da Psicologia da Saúde.",
+   "trecho": "somente em 1978 que a American Psychological Association oficializou a Divisão 38. Esse fato marcou o surgimento da área denominada de Psicologia da Saúde",
+   "onde": 3
+  },
+  {
+   "enunciado": "Quem é apontada pelo artigo como pioneira da Psicologia no hospital geral brasileiro, e onde começou?",
+   "alternativas": [
+    "Aydil Pérez-Ramos, na unidade pediátrica do Hospital das Clínicas, a partir de 1956",
+    "Matilde Néder, em 1954, na clínica ortopédica e traumatológica do Hospital das Clínicas da USP",
+    "Célia Zannon, no Instituto da Criança, com a primeira tese em hospital geral",
+    "Bellkiss Romano, em 1977, com o primeiro curso de Psicologia Hospitalar na PUC-SP"
+   ],
+   "certa": 1,
+   "comentario": "O artigo considera Matilde Néder a pioneira, com atividades iniciadas em 1954 na clínica ortopédica e traumatológica do HC.",
+   "trecho": "As primeiras atividades foram realizadas por Matilde Néder em 1954 na clínica ortopédica e traumatológica do Hospital das Clínicas",
+   "onde": 4
+  },
+  {
+   "enunciado": "Seja qual for a abordagem teórica, em que tríade o psicólogo no hospital geral deve focalizar sua atuação?",
+   "alternativas": [
+    "Paciente, médico e administração hospitalar",
+    "Paciente, acompanhante e equipe de saúde",
+    "Paciente, comunidade e gestor do SUS",
+    "Paciente, psicólogo e instituição de ensino"
+   ],
+   "certa": 1,
+   "comentario": "O artigo, citando Campos, destaca a tríade paciente, acompanhante (família) e equipe de saúde como ponto central em qualquer abordagem.",
+   "trecho": "Campos (1995), por exemplo, destaca a necessidade de focalizar a tríade paciente, acompanhante, equipe de saúde.",
+   "onde": 9
+  }
+ ],
+ "https://www.redalyc.org/pdf/3953/395336186011.pdf": [
+  {
+   "enunciado": "Segundo o artigo, quem usou pela primeira vez o termo psicossomática, e em que contexto de estudo?",
+   "alternativas": [
+    "Helen Dunbar, em 1922, ao propor a medicina psicossomática",
+    "Heinroth, psiquiatra alemão, em 1808, em estudos sobre insônia",
+    "Hipócrates, no século VI a.C., em seus aforismos sobre corpo e alma",
+    "Felix Deutsch, em 1823, ao descrever a influência dos fatores orgânicos sobre os emocionais"
+   ],
+   "certa": 1,
+   "comentario": "Heinroth usou o termo em 1808 estudando insônia; o termo medicina psicossomática veio depois, com Deutsch (1922), desenvolvido por Dunbar.",
+   "trecho": "O termo ‘psicossomática’ foi utilizado pela primeira vez por um psiquiatra alemão chamado Heinroth, em 1808, quando realizou seus estudos sobre insônia",
+   "onde": 3
+  },
+  {
+   "enunciado": "De acordo com Mello Filho, a psicossomática moderna se desenvolveu em três fases. Qual alternativa descreve a primeira delas?",
+   "alternativas": [
+    "Fase behaviorista, com pesquisas em homens e animais e avanço nos estudos sobre stress",
+    "Fase interdisciplinar, que destaca a dimensão social e a interação entre profissionais de saúde",
+    "Fase psicanalítica, voltada à gênese inconsciente das enfermidades, regressão e benefícios secundários do adoecer",
+    "Fase biomédica, centrada na lesão orgânica como única causa da doença"
+   ],
+   "certa": 2,
+   "comentario": "A primeira fase foi estimulada pela psicanálise; a segunda foi behaviorista e a terceira, atual, é multi ou interdisciplinar.",
+   "trecho": "A primeira foi estimulada pela psicanálise com o enfoque dos estudos sobre a gênese inconsciente das enfermidades",
+   "onde": 4
+  },
+  {
+   "enunciado": "Além das três fases de Selye (alerta, resistência e exaustão), Lipp identificou uma quarta. Qual é e onde se situa?",
+   "alternativas": [
+    "Fase de alarme, antes da fase de alerta",
+    "Fase de recuperação, depois da exaustão",
+    "Fase de quase exaustão, entre a resistência e a exaustão",
+    "Fase de adaptação, entre o alerta e a resistência"
+   ],
+   "certa": 2,
+   "comentario": "Lipp, com o Inventário de Sintomas de Stress, identificou a fase de quase exaustão, entre a resistência e a exaustão, em que as doenças surgem em nível mais leve.",
+   "trecho": "identificou uma quarta fase que está entre a fase de resistência e a fase de exaustão",
+   "onde": 6
+  },
+  {
+   "enunciado": "Pela teoria de Folkman e Lazarus, o que caracteriza o coping focalizado no problema?",
+   "alternativas": [
+    "Regular o estado emocional ligado ao stress, por exemplo tomando remédios ou assistindo TV",
+    "Evitar o problema por condutas de fuga para reduzir a tensão",
+    "Aceitar a situação sem agir, deixando que o estressor passe sozinho",
+    "Esforço para mudar a situação geradora de stress, como negociar, pedir ajuda ou redefinir o estressor"
+   ],
+   "certa": 3,
+   "comentario": "O coping focalizado no problema tenta alterar a relação da pessoa com o ambiente estressor; o focalizado na emoção regula o estado emocional.",
+   "trecho": "coping focalizado no problema, constitui um esforço para mudar a situação geradora de stress, alterando o problema existente na relação da pessoa com o ambiente gerador de tensão",
+   "onde": 6
+  },
+  {
+   "enunciado": "Segundo Montagu, citado no artigo, por que a pele é altamente sensível às emoções, independentemente da consciência?",
+   "alternativas": [
+    "Porque a pele é o maior órgão do sistema imunológico e reage só a infecções",
+    "Porque as ligações com o sistema nervoso fazem da pele um sistema nervoso externo conectado ao interno",
+    "Porque a pele é formada pela mesoderme, a mesma camada dos músculos que reagem ao stress",
+    "Porque os melanócitos produzem hormônios do stress em resposta a estímulos sociais"
+   ],
+   "certa": 1,
+   "comentario": "Montagu afirma que a pele, ligada ao sistema nervoso e com a mesma origem embrionária (ectoderme), funciona como um sistema nervoso externo.",
+   "trecho": "É possível identificar a pele como um sistema nervoso externo que se mantém em conexão com o sistema nervoso interno",
+   "onde": 7
+  }
+ ],
+ "https://laps.ensp.fiocruz.br/arquivos/documentos/19": [
+  {
+   "enunciado": "Segundo a Portaria 336/2002, descrita no texto, qual é a missão dos CAPS?",
+   "alternativas": [
+    "Oferecer internação de curta duração para pacientes em crise, substituindo os hospitais gerais",
+    "Fazer apenas o acompanhamento ambulatorial de casos leves, encaminhando os graves aos hospitais",
+    "Dar atendimento diuturno a pessoas com transtornos mentais severos e persistentes em um território, com cuidado clínico e reabilitação psicossocial",
+    "Funcionar como porta de entrada exclusiva para a atenção básica, sem atendimento clínico próprio"
+   ],
+   "certa": 2,
+   "comentario": "A Portaria 336/2002 define a missão do CAPS como o atendimento diuturno a quem tem transtorno mental severo e persistente num território, para substituir o modelo hospitalocêntrico.",
+   "trecho": "têm a missão de dar um atendimento diuturno às pessoas que sofrem com transtornos mentais severos e persistentes, num dado território",
+   "onde": 12
+  },
+  {
+   "enunciado": "No primeiro contato de uma pessoa com o CAPS, o texto afirma que o acolhimento deve priorizar o quê?",
+   "alternativas": [
+    "Compreender a situação e iniciar um vínculo terapêutico e de confiança, pois o diagnóstico não é o único nem o principal objetivo",
+    "Fechar o diagnóstico psiquiátrico no primeiro encontro para definir logo a medicação",
+    "Verificar se o paciente tem histórico de internação, condição para ser aceito no serviço",
+    "Encaminhar imediatamente ao hospital psiquiátrico mais próximo se houver sofrimento intenso"
+   ],
+   "certa": 0,
+   "comentario": "O texto diz que estabelecer diagnóstico é importante, mas o foco do primeiro contato é compreender a situação e iniciar o vínculo de confiança.",
+   "trecho": "Estabelecer um diagnóstico é importante, mas não deverá ser o único nem o principal objetivo desse momento de encontro do usuário com o serviço",
+   "onde": 15
+  },
+  {
+   "enunciado": "Um usuário do CAPS já saiu da crise e melhorou nos relacionamentos, mas ainda precisa de atenção direta da equipe para recuperar a autonomia. Que modalidade de atendimento o texto indica?",
+   "alternativas": [
+    "Atendimento intensivo, diário, para quem está em grave sofrimento psíquico",
+    "Atendimento não-intensivo, até três dias no mês, para quem vive sem suporte contínuo da equipe",
+    "Atendimento hospitalar de curta permanência, fora do CAPS",
+    "Atendimento semi-intensivo, até 12 dias no mês, quando a desestruturação diminuiu mas a atenção direta ainda é necessária"
+   ],
+   "certa": 3,
+   "comentario": "O semi-intensivo é oferecido quando o sofrimento diminuiu e as possibilidades de relacionamento melhoraram, mas ainda há necessidade de atenção direta da equipe.",
+   "trecho": "Essa modalidade é oferecida quando o sofrimento e a desestruturação psíquica da pessoa diminuíram, melhorando as possibilidades de relacionamento",
+   "onde": 16
+  },
+  {
+   "enunciado": "Qual tipo de CAPS funciona 24 horas por dia, inclusive feriados e fins de semana, em municípios com mais de 200.000 habitantes?",
+   "alternativas": [
+    "CAPS II",
+    "CAPS III",
+    "CAPSad",
+    "CAPS I"
+   ],
+   "certa": 1,
+   "comentario": "O CAPS III é o que funciona 24 horas diariamente e pode oferecer acolhimento noturno; CAPS I e II funcionam em horário diurno de segunda a sexta.",
+   "trecho": "CAPS III – municípios com população acima de 200.000 habitantes Funciona 24 horas, diariamente, também nos feriados e fins de semana",
+   "onde": 19
+  },
+  {
+   "enunciado": "Como o texto diferencia o apoio matricial do CAPS às equipes da atenção básica da lógica do encaminhamento?",
+   "alternativas": [
+    "O apoio matricial significa a responsabilidade compartilhada dos casos, e não a simples referência e contra-referência",
+    "O apoio matricial transfere o caso para a atenção básica depois da primeira avaliação do CAPS",
+    "O apoio matricial é uma especialização separada, com equipe própria isolada do funcionamento do CAPS",
+    "O apoio matricial se limita a distribuir medicamentos às unidades de saúde da família"
+   ],
+   "certa": 0,
+   "comentario": "O texto diz que o apoio matricial é diferente do encaminhamento ou da referência e contra-referência no sentido estrito, porque implica responsabilidade compartilhada dos casos.",
+   "trecho": "porque significa a responsabilidade compartilhada dos casos",
+   "onde": 25
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2021/10/Crepop-RT-Emerge%CC%82ncias-e-Desastres-web_v2.pdf": [
+  {
+   "enunciado": "Segundo o texto, em que consistiu o estudo de Lindemann, de 1944, considerado o primeiro na área de intervenção pós-desastre?",
+   "alternativas": [
+    "Uma pesquisa de campo sobre desastres em minas e ferrovias, feita por um psiquiatra e depois negligenciada",
+    "Um levantamento sobre explosões e desastres marítimos no Canadá",
+    "Uma avaliação sistemática das respostas psicológicas dos sobreviventes do incêndio de uma boate em Boston",
+    "Uma lei que garantia acompanhamento psicológico por tempo indeterminado a todos os afetados"
+   ],
+   "certa": 2,
+   "comentario": "Lindemann avaliou os sobreviventes do incêndio de uma boate em Boston (EUA); Stierlin (1909) estudou minas e ferrovias, Prince (1920) explosões e desastres marítimos, e a lei americana é de 1974.",
+   "trecho": "Tratou-se de uma avaliação sistemática das respostas psicológicas dos sobreviventes do incêndio de uma boate em Boston (EUA)",
+   "onde": 27
+  },
+  {
+   "enunciado": "Segundo o texto, como devem ser entendidas as reações das pessoas diante de um evento extremo?",
+   "alternativas": [
+    "Como sinais de transtorno mental que exigem diagnóstico imediato",
+    "Como reações “normais” dentro de uma “situação anormal”, o que pede estratégias de segurança, reativação de redes afetivas e cuidado",
+    "Como reações superficiais e passageiras, que dispensam intervenção psicológica",
+    "Como reações previsíveis apenas em quem já tinha histórico de psicopatologia"
+   ],
+   "certa": 1,
+   "comentario": "O texto, citando o IASC, afirma que as reações a um evento extremo são normais numa situação anormal, e mantém serviços especializados só para os casos mais graves.",
+   "trecho": "Ressalta-se que as reações advindas de um evento extremo são consideradas “normais” dentro de uma “situação anormal”",
+   "onde": 31
+  },
+  {
+   "enunciado": "Qual mudança de perspectiva sobre o estresse nos desastres é atribuída a Solomon e a Vitaliano e colaboradores?",
+   "alternativas": [
+    "Passaram a tratar o estresse apenas como resposta orgânica, sem componente social",
+    "Passaram a ver o estresse dos desastres como exclusivamente individual e psicopatológico",
+    "Passaram a considerar que os desastres só afetam quem tem vulnerabilidade prévia",
+    "Passaram a interpretar os desastres como um estressor coletivo, abrindo espaço para causas e efeitos não só individuais"
+   ],
+   "certa": 3,
+   "comentario": "Com Solomon, as pesquisas passaram a analisar o estresse também em perspectiva social, e Vitaliano et al. defenderam que o desastre é um estressor coletivo.",
+   "trecho": "VITALIANO et al. (1987) enfatizam que os desastres deveriam ser interpretados como um estressor coletivo",
+   "onde": 32
+  },
+  {
+   "enunciado": "No contexto dos marcos de Hyogo e Sendai, como a resiliência é definida pela ONU, segundo o texto?",
+   "alternativas": [
+    "Capacidade de evitar totalmente a ocorrência de perigos por meio de obras estruturais",
+    "Capacidade de um sistema, comunidade ou sociedade exposto a riscos de resistir, absorver, adaptar-se e recuperar-se dos efeitos de um perigo de modo tempestivo e eficiente",
+    "Capacidade individual de suportar o sofrimento sem buscar ajuda externa",
+    "Capacidade do Estado de indenizar as perdas materiais após o desastre"
+   ],
+   "certa": 1,
+   "comentario": "A definição da ONU/UNISDR inclui resistir, absorver, adaptar-se e recuperar-se, preservando estruturas básicas e funções essenciais.",
+   "trecho": "a capacidade de um sistema, comunidade ou sociedade exposto a riscos de resistir, absorver, adaptar-se e recuperar-se dos efeitos de um perigo de maneira tempestiva e eficiente",
+   "onde": 34
+  },
+  {
+   "enunciado": "O que o eixo 2 do texto, a partir da Psicologia Social, diz sobre o papel da comunidade atingida por um desastre?",
+   "alternativas": [
+    "A comunidade deve esperar as equipes de fora, pois seus recursos são menos eficazes",
+    "O sofrimento compartilhado costuma gerar solidariedade, e os recursos da própria comunidade são geralmente mais eficazes e eficientes e devem ser valorizados",
+    "A solidariedade comunitária atrapalha a Defesa Civil e deve ser desestimulada",
+    "A participação da população é um favor concedido pelo poder público, não um direito"
+   ],
+   "certa": 1,
+   "comentario": "O texto afirma que o sofrimento compartilhado produz uma cultura mais coletivista e que os recursos da comunidade costumam ser mais eficazes, devendo ser somados aos saberes das equipes externas.",
+   "trecho": "Afinal, os recursos que uma comunidade dispõe geralmente são mais eficazes e eficientes para o enfrentamento de situações de desastres",
+   "onde": 49
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2024/09/SEI_1812191_Nota_Tecnica_22.pdf": [
+  {
+   "enunciado": "Quais indicadores de afetação da população a Nota Técnica CFP 22/2024 manda observar, citando o relatório do ACNUR de 2015?",
+   "alternativas": [
+    "Transtornos graves em 15% a 20% e leves ou moderados em 3% a 4%",
+    "Transtornos graves em 30% a 40% e leves ou moderados em 50% a 60%",
+    "Transtornos graves em 1% a 2% e leves ou moderados em 5% a 8%",
+    "Transtornos graves em 3% a 4% e leves ou moderados em 15% a 20%"
+   ],
+   "certa": 3,
+   "comentario": "A nota cita transtornos mentais graves de 3% a 4% e leves ou moderados de 15% a 20%; a minoria grave e a maioria leve ou moderada.",
+   "trecho": "transtornos mentais graves, de 3% a 4%, e transtornos mentais leves ou moderados, de 15% a 20%, conforme relatório da ACNUR em 2015",
+   "onde": 1
+  },
+  {
+   "enunciado": "Na fase de preparação, que ação de formação a nota destaca para que a população afetada tenha um primeiro acolhimento?",
+   "alternativas": [
+    "Formar líderes e agentes comunitários em primeiros cuidados psicológicos e atenção psicossocial",
+    "Formar apenas psicólogas clínicas em psicoterapia breve de crise",
+    "Treinar a imprensa local para divulgar o número de vítimas",
+    "Capacitar os gestores para decidir sozinhos o plano de resposta, sem participação comunitária"
+   ],
+   "certa": 0,
+   "comentario": "Na preparação, destaca-se a formação de líderes e agentes comunitários em primeiros cuidados psicológicos e atenção psicossocial, para que ofereçam o primeiro acolhimento.",
+   "trecho": "Destaca-se, neste cenário, a realização de formações para líderes e agentes comunitários voltadas a primeiros cuidados psicológicos e atenção psicossocial",
+   "onde": 2
+  },
+  {
+   "enunciado": "Na fase de resposta, qual postura a prática psicológica deve adotar diante das pessoas afetadas?",
+   "alternativas": [
+    "Priorizar o diagnóstico individual de todos os afetados, para identificar quem tem transtorno",
+    "Promover a autonomia das pessoas afetadas e evitar a vitimização ou patologização delas",
+    "Atuar de forma independente do Plano de Contingência, para ter mais liberdade",
+    "Oferecer psicoterapia a toda a população, pois todo afetado desenvolverá transtorno"
+   ],
+   "certa": 1,
+   "comentario": "A nota diz que a prática deve promover a autonomia e evitar vitimizar ou patologizar, em articulação com as políticas públicas e o Plano de Contingência.",
+   "trecho": "A prática psicológica deve promover a autonomia das pessoas afetadas e evitar a vitimização ou patologização das mesmas",
+   "onde": 3
+  },
+  {
+   "enunciado": "Como a nota define os Primeiros Cuidados Psicológicos (PCP), que todos os profissionais da resposta devem saber ofertar?",
+   "alternativas": [
+    "Psicoterapia breve conduzida somente por psicólogas, em consultório",
+    "Triagem diagnóstica feita pela equipe de saúde mental para encaminhar ao psiquiatra",
+    "Prescrição de medicamentos para o sofrimento agudo",
+    "Cuidados práticos não invasivos para pessoas em sofrimento agudo"
+   ],
+   "certa": 3,
+   "comentario": "Os PCP são cuidados práticos não invasivos para manejar pessoas em sofrimento agudo, ofertados por profissionais qualificados, apoiados pelas psicólogas.",
+   "trecho": "utilizando cuidados práticos não invasivos, nomeados como Primeiros Cuidados Psicológicos (PCP)",
+   "onde": 6
+  },
+  {
+   "enunciado": "Qual das ações abaixo corresponde à Reintegração Comunitária na fase de reconstrução?",
+   "alternativas": [
+    "Encerrar os serviços de saúde mental assim que o abrigo temporário for desativado",
+    "Concentrar o planejamento da reconstrução nos gestores, sem consulta popular",
+    "Fortalecer a reintegração das pessoas às rotinas e comunidades, incentivando o restabelecimento dos laços sociais",
+    "Restringir o atendimento a quem já tinha transtorno mental antes do desastre"
+   ],
+   "certa": 2,
+   "comentario": "A reintegração comunitária busca o restabelecimento dos laços sociais e a reconstrução do tecido comunitário; o planejamento deve ser participativo e o apoio, continuado.",
+   "trecho": "Reintegração Comunitária: fortalecer a facilitação da reintegração das pessoas nas suas rotinas e comunidades, promovendo atividades que incentivem o restabelecimento dos laços sociais",
+   "onde": 8
+  }
+ ]
+}

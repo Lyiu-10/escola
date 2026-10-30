@@ -1,0 +1,518 @@
+{
+ "prova": "FGV Pref. Caraguatatuba 2024",
+ "cor": "Tipo 1",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/cns354e3-psicologo-30hcns354e3-tipo-1.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/caraguatatuba2024e0302_gabarito_definitivo_20240226.pdf",
+ "questoes": [
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "René Spitz, psicanalista e pesquisador do desenvolvimento infantil, é conhecido por suas contribuições para a compreensão das primeiras relações entre bebês e cuidadores. Ele desenvolveu seus estudos na observação de bebês institucionalizados e concluiu que a privação afetiva total levava à deterioração do desenvolvimento e até a morte dos bebês. A esse quadro ele deu o nome de",
+   "alternativas": [
+    "Síndrome de Burnout",
+    "Melancolia Infantil",
+    "Transtorno de Apego Reativo",
+    "Transtorno do Espectro Autista",
+    "Síndrome de Hospitalismo"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "https://www.youtube.com/watch?v=75JX_G-dqFo",
+   "comentario": "Spitz chamou de hospitalismo a deterioração física e psíquica de bebês institucionalizados privados de vínculo afetivo, que podia chegar à morte; na privação parcial ele descreveu a depressão anaclítica. Transtorno de apego reativo é categoria diagnóstica posterior do DSM, não o nome dado por Spitz. Burnout é síndrome ligada ao trabalho, e o autismo não é causado por privação afetiva."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "Márcia é psicóloga em um serviço de Planejamento Familiar e faz a avaliação psicológica de mulheres que desejam fazer a laqueadura. Para fazer a avaliação psicológica, Márcia deverá fazer uso de",
+   "alternativas": [
+    "testes psicométricos revogados pelo Sistema de Aplicação de Testes Psicológicos do CFP",
+    "testes projetivos aprovados pelo SATEPSI para uso na prática profissional do psicólogo",
+    "entrevistas psiquiátricas de anamnese clínica para diagnóstico psicopatológico",
+    "entrevistas investigativas semiestruturadas para inquirição das pacientes",
+    "técnicas de dessensibilização sistemática e de relaxamento para manejo do stress"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "",
+   "comentario": "Na avaliação psicológica o psicólogo só pode usar testes com parecer favorável do SATEPSI, e os projetivos aprovados estão entre eles. Teste com parecer desfavorável ou revogado não pode ser usado. Anamnese psiquiátrica para diagnóstico psicopatológico, entrevista investigativa de inquirição e dessensibilização sistemática não são instrumentos de avaliação psicológica para essa demanda."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Sobre a Entrevista Motivacional (EM), técnica usada na abordagem de usuários de substâncias psicoativas, assinale a afirmativa correta.",
+   "alternativas": [
+    "A EM busca auxiliar a pessoa a lidar com sua ambivalência para possibilitar a mudança",
+    "A EM considera a recaída no uso de substâncias psicotrópicas como um fracasso do tratamento",
+    "O objetivo da EM é persuadir o dependente químico a aderir à estratégia de redução de danos",
+    "A abstinência é condição prévia necessária para a realização do tratamento motivacional",
+    "Como resultado da EM, o paciente consegue desenvolver tolerância às substâncias psicoativas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "A Entrevista Motivacional (Miller e Rollnick) trabalha a ambivalência da pessoa diante da mudança, evocando as razões dela própria para mudar. Ela não exige abstinência prévia, trata a recaída como parte do processo e não como fracasso, e evita a persuasão e o confronto. Desenvolver tolerância à substância é efeito do uso repetido, não objetivo de tratamento."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Rodrigo, 16 anos, foi apreendido quando pichava o muro de sua escola e passou por audiência na Vara da Infância e da Juventude, na qual recebeu uma medida que deverá ser cumprida junto ao CREAS de seu município. Assinale a opção que apresenta a atribuição do CREAS no atendimento a adolescentes em conflito com a lei.",
+   "alternativas": [
+    "A aplicação da medida protetiva de liberdade assistida",
+    "O atendimento em regime de semiliberdade",
+    "A execução da medida socioeducativa de prestação de serviços à comunidade",
+    "A aplicação da pena de advertência ao menor e aos responsáveis legais",
+    "A execução da pena alternativa de reparação de danos"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "No meio aberto, o CREAS executa as medidas socioeducativas de liberdade assistida e de prestação de serviços à comunidade aplicadas pelo juiz. Liberdade assistida é medida socioeducativa, não protetiva; a semiliberdade é executada em unidade própria, fora do CREAS. Advertência e reparação do dano são medidas aplicadas pela Justiça, não penas executadas pelo CREAS."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "A prevalência da Doença de Alzheimer aumenta rapidamente com o envelhecimento, com repercussões importantes na vida do indivíduo, na família e na sociedade. Sobre a Doença de Alzheimer, de acordo com o DSM 5, analise as afirmativas a seguir.\nI. A Doença de Alzheimer é classificada como um Transtorno Psicótico.\nII. Na Doença de Alzheimer há um declínio na memória e na aprendizagem.\nIII. A demência causada pela Doença de Alzheimer é progressiva e incurável.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "I e II, apenas",
+    "II e III, apenas",
+    "I e III, apenas",
+    "I, II e III"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "No DSM-5 a doença de Alzheimer aparece entre os transtornos neurocognitivos (maior ou leve), não entre os transtornos psicóticos, por isso a afirmativa I está errada. O declínio da memória e da aprendizagem é central no quadro (II), e a demência do Alzheimer tem curso progressivo e sem cura (III)."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "Lia participava na UBS de um grupo de convivência de mulheres idosas até que teve um AVC e não pôde mais comparecer. O psicólogo da UBS tentou visitá-la em seu domicílio, mas a família nunca permitiu seu contato com a idosa. O psicólogo suspeita de maus tratos e de apropriação do benefício de Lia pela família. De acordo com o que prevê o Estatuto da Pessoa Idosa, nessa situação é dever do psicólogo",
+   "alternativas": [
+    "intimar a família da idosa a comparecer à UBS para prestar esclarecimentos",
+    "acionar o Conselho Tutelar do Idoso para uma sindicância na residência da idosa",
+    "aguardar a confirmação da suspeita de violência antes de comunicar a Polícia",
+    "realizar a notificação compulsória do caso à autoridade sanitária do Município",
+    "abordar os sentimentos do grupo com relação à situação de capacitismo da idosa"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O Estatuto da Pessoa Idosa (Lei 10.741/2003) obriga os serviços de saúde a notificar compulsoriamente à autoridade sanitária a suspeita ou a confirmação de violência contra a pessoa idosa; basta a suspeita. Psicólogo não intima ninguém, e Conselho Tutelar atende criança e adolescente, não idoso. Esperar confirmação antes de comunicar contraria a lógica da notificação."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "Considerando a legislação sobre adoção de crianças e adolescentes, assinale a afirmativa correta.",
+   "alternativas": [
+    "A adoção atribui a condição de filho ao adotado, com os mesmos direitos e deveres, inclusive sucessórios",
+    "Os avós têm preferência na adoção de netos por ser parte da família extensa da criança ou do adolescente",
+    "As mães que manifestarem interesse em entregar seus filhos para adoção devem ser dissuadidas dessa intenção",
+    "O adotado ganhará um novo sobrenome, sendo vedada a alteração do prenome da criança ou do adolescente",
+    "A morte dos adotantes restabelece o pátrio poder dos pais naturais legítimos"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pelo ECA (art. 41), a adoção atribui ao adotado a condição de filho, com os mesmos direitos e deveres, inclusive sucessórios. Avós e irmãos do adotando não podem adotá-lo (art. 42, § 1º), e a morte dos adotantes não restabelece o poder familiar dos pais naturais (art. 49). A mãe que quer entregar o filho deve ser encaminhada à Justiça da Infância, sem constrangimento, e o prenome do adotado pode ser alterado."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "João, 20 anos, diagnosticado como esquizofrênico, teve um surto psicótico durante o qual agrediu violentamente sua mãe. Sobre o caso apresentado, assinale a afirmativa correta.",
+   "alternativas": [
+    "João é inimputável do ponto de vista penal por ser menor de 21 anos",
+    "João poderá ser considerado inimputável em função da doença mental",
+    "João deverá ser interditado como punição pelo crime de violência doméstica",
+    "João deverá cumprir a pena em um serviço residencial terapêutico",
+    "João precisará ser internado compulsoriamente por sua mãe no hospital de custódia"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pelo Código Penal (art. 26), é isento de pena quem, por doença mental, era inteiramente incapaz de entender o caráter ilícito do fato ao tempo da ação, o que se apura em perícia; por isso João 'poderá' ser considerado inimputável. A maioridade penal é aos 18 anos, não aos 21. Interdição não é punição, o serviço residencial terapêutico não cumpre pena, e o hospital de custódia recebe medida de segurança determinada pelo juiz, não internação pedida pela mãe."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "A psicóloga Débora coordena um grupo terapêutico voltado para adolescentes e constata que a internalização de um ideal corporal magro aumenta o risco de desenvolver preocupações com o peso. Jéssica, 16 anos, está muito magra, mas se vê gorda ao se olhar no espelho e praticamente só se alimenta com alface e água, temendo ganhar peso. É possível identificar em Jéssica o quadro de",
+   "alternativas": [
+    "seletividade alimentar do Transtorno do Espectro Autista",
+    "bulimia nervosa",
+    "Transtorno da Personalidade Narcisista",
+    "compulsão alimentar",
+    "anorexia nervosa"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Baixo peso, restrição alimentar intensa, medo de ganhar peso e distorção da imagem corporal são os critérios centrais da anorexia nervosa. A bulimia envolve episódios de compulsão seguidos de comportamentos compensatórios, geralmente com peso normal, e o transtorno de compulsão alimentar não tem restrição nem compensação. A seletividade alimentar do autismo não vem acompanhada de medo de engordar nem de distorção da imagem."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "O movimento antimanicomial caracteriza-se pela luta por direitos das pessoas com sofrimento mental. A reforma psiquiátrica tem como diretriz a reorganização do modelo de atenção em saúde mental no Brasil. Ela propõe para a atenção aos usuários com transtornos mentais",
+   "alternativas": [
+    "a internação humanizada em comunidades terapêuticas",
+    "a descriminalização do uso de entorpecentes",
+    "a implantação de serviços abertos, comunitários e territorializados",
+    "a suspensão do uso de medicação para o tratamento da doença mental",
+    "a proibição da internação em situações de emergência psiquiátrica"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "A reforma psiquiátrica troca o modelo hospitalocêntrico por uma rede de serviços abertos, comunitários e de base territorial, como os CAPS. Ela não propõe internação em comunidades terapêuticas, não suspende a medicação e não proíbe a internação, que a Lei 10.216/2001 admite quando os recursos extra-hospitalares forem insuficientes. Descriminalizar drogas não é diretriz da reforma."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "Dentre as várias formas de manifestação da violência, o abuso sexual é uma das mais graves e pode se estender por anos até que as vítimas denunciem seus ofensores. Sobre os sintomas comumente encontrados entre adolescentes vítimas de abuso sexual, avalie os itens a seguir.\nI. Depressão e isolamento.\nII. Comportamento suicida.\nIII. Autoagressão e abuso de substâncias.\nAssinale a opção que indica os itens coretos.",
+   "alternativas": [
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas",
+    "I, II e III",
+    "I, apenas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Depressão e isolamento, comportamento suicida, autoagressão e abuso de substâncias aparecem com frequência entre adolescentes vítimas de abuso sexual, por isso os três itens estão certos. A questão pede a lista completa: marcar só parte dos itens é o erro mais comum."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "João tem 12 anos e foi pego pichando na escola, a qual registrou boletim de ocorrência diante do ato infracional. O adolescente foi levado para oitiva com a promotora Flávia, que concedeu a remissão como forma de exclusão do processo antes de iniciado o procedimento judicial.\nDiante da situação hipotética, assinale a afirmativa correta.",
+   "alternativas": [
+    "Na condição de representante do Ministério Público, Flávia pode conceder a remissão",
+    "Apenas o juiz poderia conceder a remissão na hipótese que está sendo analisada",
+    "Diante desse caso a remissão poderia ser concedida pelo promotor, defensor público ou magistrado",
+    "A remissão não é procedimento possível diante de ato infracional praticado por adolescente",
+    "Como João é criança. segundo o ECA, não é cabível que seja submetido a medida socioeducativa"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pelo ECA (art. 126), antes de iniciado o procedimento judicial o Ministério Público pode conceder a remissão como forma de exclusão do processo; depois de iniciado, ela cabe ao juiz. Defensor público não concede remissão. Com 12 anos completos João já é adolescente para o ECA, então pode receber medida socioeducativa."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Marília, de 3 anos, foi acolhida no Programa de Família Acolhedora pelo Conselho Tutelar, após ser encontrada sozinha em casa, pois seus responsáveis haviam ido a um baile dois dias antes.\nSobre o caso, segundo o Estatuto da Criança e do Adolescente, assinale a afirmativa correta.",
+   "alternativas": [
+    "Marília não pode ser colocada em Família Acolhedora antes de ser destituída de poder familiar",
+    "O Conselho Tutelar não pode acolher crianças ou adolescentes",
+    "Marília pode permanecer acolhida, no máximo, por 24 meses, segundo dispõe a lei",
+    "A criança deverá ter sua situação processual reavaliada pelo juiz, no máximo, a cada três meses",
+    "A criança deve ser imediatamente destituída do poder familiar, diante da situação de abandono"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pelo ECA (art. 19), a criança em acolhimento familiar ou institucional tem a situação reavaliada no máximo a cada 3 meses, e a permanência não deve passar de 18 meses, salvo necessidade comprovada; por isso a opção dos 24 meses está errada. O acolhimento é medida provisória e não depende de destituição do poder familiar, que só se dá por processo judicial, nunca de forma imediata."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Ana vive relacionamento amoroso com Camila, que é alcoolista. Ao chegar embriagada em casa, Camila proferiu palavras de baixo calão contra a companheira, humilhando-a verbalmente.\nSobre essa situação, de acordo com as disposições da Lei Maria da Penha, assinale a afirmativa correta.",
+   "alternativas": [
+    "Como se trata de casal homoafetivo não é possível caracterizar a violência contra a mulher",
+    "A conduta de Camila é caracterizada como violência doméstica e familiar contra a mulher",
+    "A mera altercação verbal não constitui forma de violência doméstica",
+    "Como Camila é alcoolista e estava em estado alterado de consciência não se caracteriza o crime",
+    "Camila é incapaz para todos os efeitos de direito em função de sua dependência do álcool"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Maria da Penha (Lei 11.340/2006) protege a mulher independentemente da orientação sexual, então a relação entre duas mulheres está coberta. Humilhar e insultar verbalmente é violência psicológica e moral, formas previstas na lei. Estar embriagada ou ser alcoolista não afasta a violência nem torna a agressora incapaz para todos os efeitos."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Josefa foi ameaçada de morte pelo ex-marido e buscou ajuda em Delegacia especializada em situação de violência doméstica e familiar. Sobre a hipótese formulada, analise as afirmativas a seguir.\nI. A autoridade policial deverá garantir proteção policial, quando necessária, comunicando o fato de imediato ao Ministério Público e ao Poder Judiciário.\nII. A autoridade policial deverá encaminhar a ofendida ao hospital ou posto de saúde e ao Instituto Médico Legal.\nIII. A autoridade policial deverá fornecer transporte para a ofendida e seus dependentes para abrigo ou local seguro, quando houver risco de vida. Segundo as considerações da Lei Maria da Penha, está correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Maria da Penha lista, entre as providências da autoridade policial no atendimento à mulher, garantir proteção policial comunicando de imediato o Ministério Público e o Judiciário, encaminhar a ofendida ao hospital ou posto de saúde e ao IML e fornecer transporte para abrigo ou local seguro quando houver risco de vida. Por isso os três itens estão certos."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Marcelo vive com sua família, tem 15 anos, nunca frequentou a escola e é analfabeto. Essa situação caracteriza",
+   "alternativas": [
+    "abuso físico",
+    "negligência física",
+    "negligência emocional",
+    "negligência educacional",
+    "abuso emocional"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Deixar um adolescente de 15 anos sem nunca frequentar a escola é negligência educacional: a família falha em garantir a escolarização. Negligência física é falta de cuidados básicos como alimentação, higiene e saúde, e negligência ou abuso emocional dizem respeito a afeto e a agressões psicológicas, não ao acesso à escola."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Com relação ao que dispõe o Estatuto da Pessoa Idosa, assinale a afirmativa correta.",
+   "alternativas": [
+    "O Estatuto da Pessoa Idosa regula os direitos das pessoas com idade igual ou superior a 65 anos",
+    "O envelhecimento é um direito personalíssimo e, sua proteção, um direito social",
+    "É facultado ao Estado a efetivação de políticas sociais públicas que permitam um envelhecimento saudável",
+    "Serão concedidos descontos de, pelo menos, 75% (cinquenta por cento) nos ingressos artísticos para pessoas idosas",
+    "Às pessoas idosas, a partir de 70 anos, que não consigam prover sua subsistência, nem tê-la provida pela família, é assegurado o benefício mensal de 1 salário mínimo"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Novas formas de constituição familiar vêm se configurando nas últimas décadas, principalmente diante da emergência dos discursos pós-modernos que assimilam a cultura como mercadoria de consumo. Sobre as características da família na atual conjuntura, analise as afirmativas a seguir.\nI. A identificação da criança de forma periférica nas famílias contemporâneas.\nII. O aumento da importância dos avós e forte presença da solidariedade entre as gerações para tentar fazer frente à ausência de estabilidade socioeconômica.\nIII. A família passa a ser regida por laços afetivos e é pautada na liberdade de escolha.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "II e III, apenas",
+    "I, II e III"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Na família contemporânea os avós ganharam importância, e a solidariedade entre gerações ajuda a enfrentar a instabilidade econômica (II); os laços passam a ser regidos pelo afeto e pela liberdade de escolha (III). A afirmativa I inverte a tendência: a criança passou a ocupar lugar central na família, e não periférico."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Assinale a opção que, segundo Leon Festinger, apresenta o conceito que exprime a tensão psicológica derivada de um conflito entre as ideias, crenças e valores do indivíduo com o seu comportamento, levando as pessoas a procurarem algum tipo de coerência em suas crenças e ideologias, embora a realidade as desminta com fatos.",
+   "alternativas": [
+    "Zona de Desenvolvimento Proximal",
+    "Externalização",
+    "Dissonância Cognitiva",
+    "Objetificação",
+    "Representação Social"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "",
+   "comentario": "Dissonância cognitiva é o conceito de Festinger para a tensão causada pela incoerência entre crenças e comportamento, que leva a pessoa a buscar coerência, às vezes mudando a crença ou desqualificando os fatos. Zona de desenvolvimento proximal é de Vygotsky, e representação social e objetivação vêm da teoria de Moscovici."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "A Psicologia teve papel importante na Reforma Psiquiátrica brasileira e na luta antimanicomial, defendendo políticas públicas intersetoriais que valorizassem o cuidado humanizado e em liberdade. Com relação à Reforma Psiquiátrica, assinale a afirmativa correta.",
+   "alternativas": [
+    "Trata-se de um processo social que consiste basicamente na reforma dos serviços e das tecnologias de cuidado",
+    "O que estava em pauta de maneira decisiva era delinear um outro lugar social para a loucura em nossa tradição cultural",
+    "Apesar da Reforma, o número de leitos psiquiátricos aumentou de 1990 até os anos 2000",
+    "A arte e a cultura foram percebidas como recursos terapêuticos, cuja função exclusiva é auxiliar a clínica",
+    "O movimento surgiu nos anos 1990, por meio da expansão da luta dos direitos humanos para as vítimas da violência psiquiátrica"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "A reforma psiquiátrica é um processo social complexo, que vai além de reformar serviços e técnicas: o que estava em jogo era construir outro lugar social para a loucura. O movimento surgiu no fim dos anos 1970, com os trabalhadores de saúde mental, e não nos anos 1990. Desde então o número de leitos psiquiátricos caiu, e a arte e a cultura não servem só de recurso da clínica."
+  },
+  {
+   "numero": 51,
+   "texto": "",
+   "enunciado": "Foucault analisa como a prisão se tornou a forma de punição por excelência a partir do século XIX, associando a privação da liberdade como modelo punitivo à adequação e ao controle de determinadas “classes perigosas” ao mundo do trabalho.\nEle defendeu que, nessa lógica, o eixo do funcionamento da prisão passe a girar em torno do indivíduo que cometeu a conduta criminosa, que será considerado pela sociedade ao nível de suas virtualidades e não ao nível de seus atos; não ao nível das infrações efetivas a uma lei efetiva, mas das potencialidades de comportamento que exprimem, ou seja em termos de seu/sua",
+   "alternativas": [
+    "panoptismo",
+    "discurso",
+    "periculosidade",
+    "norma",
+    "disciplina"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para Foucault, a prisão passa a julgar o indivíduo pelo que ele pode vir a fazer, e não pelo que fez: é a noção de periculosidade. Panoptismo, disciplina e norma também são conceitos de Foucault, mas descrevem os mecanismos de vigilância e normalização, não a avaliação das virtualidades do indivíduo."
+  },
+  {
+   "numero": 52,
+   "texto": "",
+   "enunciado": "Ana Maria trabalha há 10 anos como chefe de departamento da empresa X. Há aproximadamente dez meses vem acumulando tarefas diante da redução de sua equipe de trabalho. Recentemente, ela passou a apresentar sintomas físicos e emocionais, como cansaço físico e mental constante, enxaqueca, alterações de humor, pessimismo e apatia. Esses sintomas conjugados podem ser indicativos de",
+   "alternativas": [
+    "gaslighting",
+    "transtorno de personalidade paranoide",
+    "transtorno obsessivo-compulsivo",
+    "transtorno de personalidade borderline",
+    "síndrome de Burnout"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Sobrecarga de trabalho prolongada com exaustão física e mental, sintomas físicos, pessimismo e apatia apontam para a síndrome de Burnout, ligada ao estresse ocupacional crônico. Os transtornos de personalidade são padrões duradouros, não reações a uma situação de trabalho recente, e o TOC tem obsessões e compulsões. Gaslighting é uma forma de manipulação psicológica, não um quadro clínico."
+  },
+  {
+   "numero": 53,
+   "texto": "",
+   "enunciado": "A Psicologia vem fazendo uma revisão do seu papel no sentido de eliminar ou diminuir a discriminação e o preconceito que atinge grande parcela da população brasileira, sobretudo, jovens, mulheres, pobres e negros. Em vez de se utilizar do paradigma centrado na figura do homem branco e heterossexual, deve-se promover outras formas de existência e de conhecimento diferentes do discurso hegemônico do colonizador. Para tanto, lança-se mão de uma ferramenta teórico-metodológica importante para analisar as múltiplas opressões que atingem a população através dos marcadores de classe, raça, gênero, geração e território, haja vista que eles não afetam uma pessoa ou grupo social separadamente, ao contrário, combinam-se de diferentes formas e geram diversas desigualdades. Trata-se do conceito de:",
+   "alternativas": [
+    "sexismo",
+    "patriarcalismo",
+    "racismo estrutural",
+    "interseccionalidade",
+    "intergeracionalidade"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "",
+   "comentario": "Interseccionalidade é a ferramenta que analisa como classe, raça, gênero, geração e território se combinam e produzem opressões que não se somam simplesmente. Sexismo, patriarcalismo e racismo estrutural nomeiam um eixo de opressão só, e intergeracionalidade trata da relação entre gerações."
+  },
+  {
+   "numero": 54,
+   "texto": "",
+   "enunciado": "A Resolução CFP nº 9, de 25 de abril de 2018 estabelece diretrizes para a realização de Avaliação Psicológica no exercício profissional da psicóloga e do psicólogo.\nDe acordo com a Resolução, é correto afirmar que:",
+   "alternativas": [
+    "o (a)psicólogo(o) deve decidir os instrumentos empregados na Avaliação Psicológica sob a prerrogativa de seu superior administrativo caso seja pertencente a um órgão ou instituição",
+    "os métodos, técnicas e instrumentos psicológicos reconhecidos cientificamente são fontes fundamentais de informação, podendo o(a) psicólogo(a) recorrer a procedimentos e recursos auxiliares para a realização da Avaliação Psicológica",
+    "documentos técnicos, tais como protocolos ou relatórios de equipes multiprofissionais, são fontes fundamentais de informação",
+    "protocolos de observação de comportamentos obtidos individualmente ou por meio de processo grupal são fontes complementares de informação",
+    "o teste psicológico tem por objetivo identificar, descrever, qualificar e mensurar características psicológicas, bem como apontar para a probabilidade de comportamentos criminosos e antissociais"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "https://satepsi.cfp.org.br/docs/ResolucaoCFP009-18.pdf",
+   "comentario": "Pela Res. CFP 09/2018, métodos, técnicas e instrumentos psicológicos reconhecidos cientificamente são fontes fundamentais de informação, e o psicólogo pode recorrer a procedimentos e recursos auxiliares. Protocolos de observação de comportamento são fonte fundamental, e documentos técnicos de equipes multiprofissionais são fonte complementar, por isso as alternativas que invertem essas categorias estão erradas. A escolha dos instrumentos é decisão técnica do psicólogo, não do superior administrativo, e o teste não serve para prever comportamento criminoso."
+  },
+  {
+   "numero": 55,
+   "texto": "",
+   "enunciado": "Freud assinala o surgimento de um fenômeno que corresponde às manifestações do inconsciente do analista relacionadas com as da transferência de seu paciente. Embora não considerasse que esse conjunto de reações inconscientes do analista fosse utilizada de maneira dinâmica no desenrolar do tratamento, tal fenômeno foi objeto de crescente atenção por parte dos psicanalistas, sobretudo da escola inglesa e norte-americana, na medida em que o tratamento era cada vez mais compreendido e descrito como relação.\nTrata-se do conceito de:",
+   "alternativas": [
+    "repetição",
+    "defesa do ego",
+    "análise didática",
+    "formação reativa",
+    "contratransferência"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Contratransferência é o conjunto das reações inconscientes do analista à pessoa do analisando e, em especial, à transferência dele; Freud a via como obstáculo a ser analisado, e foram os pós-freudianos, sobretudo da escola inglesa, que passaram a usá-la como instrumento. Repetição e formação reativa são fenômenos do paciente, e análise didática é a análise pessoal na formação do analista."
+  },
+  {
+   "numero": 56,
+   "texto": "",
+   "enunciado": "A guarda compartilhada é reflexo das transformações socioculturais ocorridas nas últimas décadas, nas quais o homem deixou de ser um mero visitante dos filhos para querer assumir conjuntamente da mãe a responsabilidade e os cuidados em relação a eles.\nCom efeito, foi estabelecida no Brasil a lei da guarda compartilhada em 2008, cuja última alteração ocorreu em 23 de dezembro de 2014, com a publicação da nº Lei 13.058/2014.\nDe acordo com a guarda compartilhada, é correto afirmar que:",
+   "alternativas": [
+    "a guarda compartilhada é compulsória, sendo vedado que um dos genitores não queira a guarda do(s) filho(s)",
+    "o tempo de convívio com os filhos deve ser dividido de forma igual com a mãe e com o pai independentemente das condições fáticas e dos interesses dos filhos",
+    "compete a ambos os pais o pleno exercício do poder familiar, não se aplicando se estiverem divorciados ou formalmente separados",
+    "o consentimento ao menor para casar-se pertence ao poder familiar dos pais enquanto ele for criança, não se aplicando quando se tratar de adolescente",
+    "qualquer estabelecimento público ou privado é obrigado a prestar informações a qualquer dos genitores sobre os filhos destes, sob pena de multa pelo não atendimento da solicitação"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Com a Lei 13.058/2014, o Código Civil passou a obrigar qualquer estabelecimento público ou privado a prestar informações a qualquer dos genitores sobre os filhos, sob pena de multa. A guarda compartilhada não se aplica quando um dos genitores declara ao juiz que não a deseja, e o convívio é dividido de forma equilibrada considerando as condições fáticas e o interesse dos filhos, não em partes iguais a qualquer custo. O poder familiar cabe aos dois pais mesmo depois do divórcio."
+  },
+  {
+   "numero": 57,
+   "texto": "",
+   "enunciado": "Winnicott foi um psicanalista e pediatra inglês de grande importância para a compreensão dos fatores de amadurecimento humano. Para o autor, a agressividade e a destrutividade que a criança e/ou adolescente apresenta podem ser integradas à personalidade total do indivíduo e se transformar num elemento central em sua capacidade de relacionar-se com outros, cujo fator decisivo para o amadurecimento é a:",
+   "alternativas": [
+    "resposta do ambiente",
+    "intrusão da realidade externa",
+    "entrada no campo da linguagem",
+    "dissolução do complexo de Édipo",
+    "predisposição neuroquímica e genética"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Para Winnicott, o amadurecimento depende de um ambiente suficientemente bom: é a resposta do ambiente, que sobrevive à destrutividade sem retaliar, que permite à criança integrar a agressividade e usá-la na relação com os outros. Entrada na linguagem é ideia lacaniana, dissolução do Édipo é o eixo freudiano, e intrusão da realidade externa é justamente o que Winnicott vê como prejudicial ao amadurecimento."
+  },
+  {
+   "numero": 58,
+   "texto": "",
+   "enunciado": "Uma das inovações introduzidas pela Resolução CFP 06/2019 foi a modalidade de Relatório Multiprofissional, cujo documento permite a elaboração conjunta das equipes multiprofissionais, a responsabilidade compartilhada e referenciais interdisciplinares.\nA esse respeito, analise as afirmativas a seguir.\nI. O Relatório Multiprofissional é composto de cinco itens: identificação; descrição da demanda; procedimento; análise; conclusão.\nII. A descrição da demanda constitui requisito indispensável e deve apresentar o raciocínio técnico-científico que justifica os procedimentos utilizados pela(o) psicóloga(o) e/ou pela equipe multiprofissional, e todos os procedimentos realizados pela(o) psicóloga(o), especificando o referencial teórico que fundamentou suas análises e interpretações.\nIII. A conclusão do relatório multiprofissional deve ser realizada em separado, mesmo quando se trata de um processo de trabalho interdisciplinar.\nEsta correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I e III, apenas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "",
+   "comentario": "Pela Res. CFP 06/2019, o relatório multiprofissional tem os mesmos cinco itens do relatório psicológico: identificação, descrição da demanda, procedimento, análise e conclusão (I). A afirmativa II descreve o item procedimento, não a descrição da demanda. A III inverte a norma: a conclusão pode ser feita em conjunto, principalmente no trabalho interdisciplinar."
+  },
+  {
+   "numero": 59,
+   "texto": "",
+   "enunciado": "Rosane é psicóloga e servidora pública, e costuma encaminhar os usuários do Serviço onde atua para uma entidade que oferta tratamento psicoterápico a baixo custo para população de baixa renda. Tal rotina de encaminhamento estabeleceu um laço de confiança com a diretora da entidade que, em retribuição, passou a indicar pacientes com melhor poder aquisitivo a Rosane que, além do serviço público, atende em consultório privado. Desde então, a profissional tem optado por fazer os encaminhamentos exclusivamente para tal entidade.\nDe acordo com o Código de Ética profissional do Psicólogo(a), Rosane:",
+   "alternativas": [
+    "não comete infração ética porque faz um benefício à população de baixa renda que necessita de psicoterapia",
+    "não comete infração ética por encaminhar como servidora pública e atender em consultório privado, não havendo relação entre uma coisa e outra",
+    "não comete infração ética pelo fato de receber pacientes da diretora da unidade em razão do laço de confiança e não por interesses escusos",
+    "comete infração ética por desviar as pessoas atendidas no Serviço com o qual mantém vínculo profissional para outra instituição, visando benefício próprio",
+    "comete infração ética por atuar como psicóloga tanto na esfera pública quanto privada, o que viola os princípios fundamentais elencados no Código de Ética"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "",
+   "comentario": "O Código de Ética (Res. CFP 010/2005), no art. 2º, veda ao psicólogo desviar para serviço particular ou de outra instituição, visando benefício próprio, pessoas atendidas por instituição com a qual mantenha vínculo profissional. Ao encaminhar exclusivamente para a entidade em troca de pacientes para o consultório, Rosane se beneficia, e o laço de confiança ou o atendimento à baixa renda não afastam a infração. Atuar ao mesmo tempo no serviço público e no privado, por si só, não é infração."
+  },
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "O enfrentamento à violência contra as mulheres é uma grande preocupação das políticas públicas, sendo fundamental a existência de referências técnicas para a atuação dos/as psicólogas(os) em serviços de atenção à mulher em situação de violência.\nA esse respeito, analise as afirmativas a seguir:\nI. A clínica ampliada pode ser um referencial para a conduta profissional daqueles que compõem as equipes de trabalho dos serviços de atendimento a mulheres em situação de violência, sejam da rede de saúde ou não, pois se mostra como ferramenta de articulação de diferentes enfoques.\nII. A ideia de mulher vítima de violência foi substituída pela de mulher em situação de violência, na medida em que o rompimento da situação de violência não implica necessariamente condição de subalternidade, presente no conceito de vítima.\nIII. A formalização da denúncia por meio do boletim de ocorrência é um direito da mulher a ser informado pelos profissionais envolvidos e nunca imposto como condição para o atendimento e assistência.\nEstá correto o que se afirma em:",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e III, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As três afirmativas seguem as referências técnicas do CFP para atuação nos serviços de atenção à mulher em situação de violência. A clínica ampliada serve de referencial para articular diferentes enfoques na equipe; o termo 'em situação de violência' substitui 'vítima' para não fixar a mulher numa condição de subalternidade; e o boletim de ocorrência é um direito a ser informado, nunca condição para o atendimento."
+  }
+ ]
+}

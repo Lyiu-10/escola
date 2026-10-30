@@ -1,0 +1,389 @@
+{
+ "p-psicoterapias": [
+  {
+   "tipo": "aula",
+   "titulo": "PSICOTERAPIAS para CONCURSOS PSI!",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+   "url": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "minutos": 25,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Visão geral das abordagens psicoterápicas e seus princípios, no formato de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psicoterapia das depressões (Schestatsky e Fleck)",
+   "fonte": "Revista HCPA / UFRGS",
+   "url": "https://seer.ufrgs.br/index.php/hcpa/article/view/125095",
+   "arquivo": "p-psicoterapias/psicoterapia-eficacia-depressao.pdf",
+   "minutos": 27,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Eficácia das psicoterapias (TCC, interpessoal, psicodinâmica breve) comparadas, usando a depressão como exemplo; não substitui Cordioli nem Rangé."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Eficácia psicoterapêutica: terapia de família e o efeito \"Dodô\" (Diniz Neto e Féres-Carneiro, 2005)",
+   "fonte": "Estudos de Psicologia (UFRN), 10(3), 2005 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/261/26110303.pdf",
+   "arquivo": "p-psicoterapias/diniz-neto-eficacia-psicoterapia-dodo.pdf",
+   "minutos": 21,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Eficácia das psicoterapias em geral: Eysenck 1952, estudos comparativos controlados, critérios de tratamentos empiricamente validados (APA), efeito Dodô e terapia de família. Ler as 7 páginas do artigo (pp. 355-361); a capa do Redalyc não conta. Complementa o texto sobre depressão."
+  }
+ ],
+ "p-psicanalise": [
+  {
+   "tipo": "aula",
+   "titulo": "Aula #1: A DINÂMICA DA TRANSFERÊNCIA (1912) | Sigmund Freud [Mini Curso de Psicanálise]",
+   "fonte": "Márisson Fraga",
+   "url": "https://www.youtube.com/watch?v=kESXXd111h4",
+   "minutos": 28,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aula sobre o texto de 1912 do edital: transferência e seu papel na análise."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "A repetição na análise: transferência e resistência (Silva, 2012)",
+   "fonte": "Omnia Saúde (FAI)",
+   "url": "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273",
+   "arquivo": "p-psicanalise/repeticao-transferencia-resistencia.pdf",
+   "minutos": 33,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Artigo aberto que liga transferência, repetição e resistência nos escritos técnicos de Freud (1912 e 1914)."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Considerações sobre as teorias da angústia em Freud (Pisetta, 2008)",
+   "fonte": "Psicologia: Ciência e Profissão (CFP), 28(2), 2008 (acesso aberto, Redalyc)",
+   "url": "https://www.redalyc.org/pdf/2820/282021763014.pdf",
+   "arquivo": "p-psicanalise/pisetta-teorias-angustia-freud.pdf",
+   "minutos": 42,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "As duas teorias freudianas da angústia (1916-17: afeto ligado ao recalque; 1926: sinal de perigo, Inibições, sintomas e ansiedade), fobia e castração. Ler as 14 páginas do artigo (pp. 404-417); a capa do Redalyc não conta. Luto e melancolia segue sem leitura (só a aula extra)."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Depressão: clínica, crítica e ética, cap. 4, Melancolia e depressão na psicanálise (Coser)",
+   "fonte": "Editora Fiocruz, 2003 (acesso aberto, SciELO Livros)",
+   "url": "https://books.scielo.org/id/6gsm7/pdf/coser-9788575412558.pdf#page=106",
+   "arquivo": "p-psicanalise/coser-depressao-melancolia-psicanalise.pdf",
+   "minutos": 54,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 106 a 123 (cap. 4). Comenta \"Luto e melancolia\" (1917) com Abraham e Klein para distinguir luto, melancolia e depressão; não substitui o texto de Freud."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "O que é \"recordar, repetir e elaborar\"? | Falando nIsso 199",
+   "fonte": "Christian Dunker",
+   "url": "https://www.youtube.com/watch?v=fdEPLdqwwdo",
+   "minutos": 11,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Resumo do texto de 1914 do edital: recordar, repetir e elaborar."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Introdução à psicanálise - Luto e Melancolia",
+   "fonte": "Egolab",
+   "url": "https://www.youtube.com/watch?v=oHsInJ9BpXM",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aula sobre Luto e melancolia (1917) do edital. Inibições, sintomas e ansiedade (1926) ficou sem aula boa nesta busca."
+  }
+ ],
+ "p-terapia-breve": [
+  {
+   "tipo": "aula",
+   "titulo": "Psicoterapia Breve - 1ª Parte",
+   "fonte": "Cetapes Escola de Psicanálise",
+   "url": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "minutos": 23,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Conceito, foco e técnica da psicoterapia breve de orientação psicanalítica."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Possibilidades de utilização da psicoterapia breve em hospital geral (Almeida, 2010)",
+   "fonte": "Revista da SBPH, 13(1), 2010 (acesso aberto)",
+   "url": "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484",
+   "arquivo": "p-terapia-breve/almeida-psicoterapia-breve-hospital.pdf",
+   "minutos": 39,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Psicoterapia breve: objetivos limitados, foco, prazo fixado, técnicas de Knobel, Gilliéron, Braier e Fiorini, critérios de indicação e contraindicação e uso no hospital (ambulatório, emergência, enfermaria). Ler as 13 páginas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psicoterapias psicodinâmicas breves: propostas atuais (resenha)",
+   "fonte": "Estudos de Psicologia (PUC-Campinas)",
+   "url": "https://periodicos.puc-campinas.edu.br/estpsi/article/download/6707/4346/28784",
+   "arquivo": "p-terapia-breve/psicoterapias-breves-resenha.pdf",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Resenha curta que resume as gerações e propostas de psicoterapia breve; o livro de Lemgruber do edital não tem versão gratuita."
+  }
+ ],
+ "p-grupos": [
+  {
+   "tipo": "aula",
+   "titulo": "PSICOTERAPIAS DE GRUPOS, GRUPOTERAPIAS, TERAPIAS GRUPAIS PARA CONCURSOS DE PSICOLOGIA",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+   "url": "https://www.youtube.com/watch?v=h-fdQEGLRG8",
+   "minutos": 21,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Tipos de grupo e grupoterapia, no formato de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Minhas mudanças pessoais na prática de grupoterapia psicanalítica (David E. Zimerman)",
+   "fonte": "Revista da SPAGESP (via Dialnet)",
+   "url": "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf",
+   "arquivo": "p-grupos/zimerman-grupoterapia.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Texto do próprio Zimerman, autor do edital: seleção do grupo, resistência, transferência e interpretação em grupo."
+  }
+ ],
+ "p-relacao-terapeutica": [
+  {
+   "tipo": "aula",
+   "titulo": "O que é a Aliança Terapêutica?",
+   "fonte": "Diego Falco",
+   "url": "https://www.youtube.com/watch?v=uMXThEi_vl4",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Aliança e vínculo terapêutico como base da relação psicoterápica."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Aliança terapêutica em psicoterapia de orientação psicanalítica: aspectos teóricos e manejo clínico (Peres, 2009)",
+   "fonte": "Estudos de Psicologia (PUC-Campinas), via Redalyc",
+   "url": "https://www.redalyc.org/pdf/3953/395335845011.pdf",
+   "arquivo": "p-relacao-terapeutica/alianca-terapeutica.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Vínculo, aliança, rupturas e manejo clínico da relação terapêutica; não cobre diagnóstico nem término em detalhe."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Como fazer o CONTRATO TERAPÊUTICO em psicoterapia",
+   "fonte": "Maria Emília Psi",
+   "url": "https://www.youtube.com/watch?v=a34C1vD4yRA",
+   "minutos": 33,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Contrato terapêutico: o que combinar no início do tratamento."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "O Psicólogo na Equipe Multidisciplinar: Introdução",
+   "fonte": "Estudo Dirigido Psi",
+   "url": "https://www.youtube.com/watch?v=77aTu8icrU4",
+   "minutos": 21,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "O trabalho interdisciplinar do psicólogo."
+  }
+ ],
+ "p-psicodiagnostico": [
+  {
+   "tipo": "aula",
+   "titulo": "AULA 1 de 2 - AVALIAÇÃO PSICOLÓGICA E PSICODIAGNÓSTICO PARA CONCURSOS DE PSICOLOGIA",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+   "url": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "minutos": 23,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Processo psicodiagnóstico e avaliação psicológica, no formato de concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Planejamento do Processo de Avaliação Psicológica: Implicações para a Prática e para a Formação (Schneider et al., 2020)",
+   "fonte": "Psicologia: Ciência e Profissão (SciELO)",
+   "url": "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en",
+   "arquivo": "p-psicodiagnostico/planejamento-avaliacao-psicologica.pdf",
+   "minutos": 39,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Como planejar e conduzir o processo de avaliação (hipóteses, instrumentos, integração dos dados), do grupo de Bandeira (UFRGS, mesma escola do Hutz)."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "AULA 2 de 2 - AVALIAÇÃO PSICOLÓGICA E PSICODIAGNÓSTICO PARA CONCURSOS DE PSICOLOGIA",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+   "url": "https://www.youtube.com/watch?v=Mn2dOFEpvIs",
+   "minutos": 26,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Continuação da aula 1."
+  }
+ ],
+ "p-psicopatologia": [
+  {
+   "tipo": "aula",
+   "titulo": "LIPSAM - Exame do Estado Mental - EBRAMED",
+   "fonte": "LIPSAM UFCSPA/UFRGS",
+   "url": "https://www.youtube.com/watch?v=1fCmjabKTd8",
+   "minutos": 53,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Exame do estado mental e das funções psíquicas, aula de liga acadêmica de universidade federal."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Semiologia psiquiátrica (Zuardi e Loureiro, 1996)",
+   "fonte": "Medicina (Ribeirão Preto), 29, 1996 (acesso aberto, USP)",
+   "url": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "arquivo": "p-psicopatologia/zuardi-loureiro-semiologia-psiquiatrica.pdf",
+   "minutos": 30,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Entrevista psiquiátrica e exame do estado mental por função: aparência e psicomotricidade, linguagem e pensamento (forma e conteúdo, delírios), sensopercepção, afeto e humor, atenção, memória, orientação, consciência, inteligência e juízo crítico, com as alterações de cada uma. Ler as 10 páginas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "O exame do estado mental. É possível sistematizá-lo? (Sanches et al., 2005)",
+   "fonte": "Arquivos Médicos da Santa Casa de São Paulo",
+   "url": "https://arquivosmedicos.fcmsantacasasp.edu.br/index.php/AMSCSP/article/download/428/481",
+   "arquivo": "p-psicopatologia/exame-estado-mental.pdf",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Roteiro do exame psíquico e das funções psíquicas; é um artigo curto, não substitui o Dalgalarrondo."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Depressão: clínica, crítica e ética, cap. 2, Melancolia e depressão na psicopatologia clássica (Coser)",
+   "fonte": "Editora Fiocruz, 2003 (acesso aberto, SciELO Livros)",
+   "url": "https://books.scielo.org/id/6gsm7/pdf/coser-9788575412558.pdf#page=50",
+   "arquivo": "p-psicopatologia/coser-depressao-melancolia-psicopatologia.pdf",
+   "minutos": 66,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Ler as páginas 50 a 71 (cap. 2). Semiologia e classificação do quadro depressivo (melancolia, depressões primárias e secundárias) na psiquiatria clássica; cobre só o afeto, não as demais funções psíquicas. Ficou como extra: o edital pede as funções psíquicas, e este capítulo trata só da depressão."
+  }
+ ],
+ "p-transtornos": [
+  {
+   "tipo": "aula",
+   "titulo": "REVISÃO DE CONTEÚDOS DE PSICOPATOLOGIA PARA CONCURSOS DE PSICOLOGIA 2024 - TRANSTORNOS MENTAIS",
+   "fonte": "Prof. Monique Mistura - Concursos de Psicologia",
+   "url": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "minutos": 73,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Revisão dos transtornos mentais e síndromes para concurso (passa um pouco de 1 hora)."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Análise da Classificação de transtornos mentais e de comportamento da CID-10 (monografia, Univ. da Beira Interior)",
+   "fonte": "Universidade da Beira Interior (Portugal)",
+   "url": "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download",
+   "arquivo": "p-transtornos/cid10-transtornos-mentais.pdf",
+   "minutos": 78,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Ler as páginas 13 a 38: estrutura do capítulo V da CID-10 e análise bloco a bloco (F00 a F99). Texto em português de Portugal; não cobre DSM-5-TR."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "The ICD-10 Classification of Mental and Behavioural Disorders: lista de categorias F00-F99 (OMS)",
+   "fonte": "Organização Mundial da Saúde, 1992 (distribuição gratuita oficial, WHO IRIS)",
+   "url": "https://iris.who.int/server/api/core/bitstreams/87b0aff4-461c-4af5-9262-d21ed44b33c0/content#page=35",
+   "arquivo": "p-transtornos/oms-cid10-transtornos-mentais.pdf",
+   "minutos": 57,
+   "idioma": "en",
+   "extra": true,
+   "nota": "Ler as páginas 35 a 53 (\"List of categories\"). Lista dos códigos F00 a F99, a classificação da CID-10 que o edital da Marinha cita; as descrições clínicas vêm depois, a partir da p. 54."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psychology 2e, cap. 15: ansiedade, TOC, TEPT, humor e esquizofrenia (OpenStax)",
+   "fonte": "OpenStax / Rice University, 2020 (acesso aberto, CC BY, openstax.org)",
+   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=558",
+   "arquivo": "p-personalidade/openstax-psychology-2e.pdf",
+   "minutos": 78,
+   "idioma": "en",
+   "extra": true,
+   "nota": "Ler as páginas 558 a 583 (seções 15.4 a 15.8). Quadro clínico, causas e tratamento dos grandes grupos de transtornos, em linguagem de manual de graduação."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CID-11 em SAÚDE MENTAL: O que muda? Impactos, polêmicas e novos diagnósticos",
+   "fonte": "Psi em Áudio",
+   "url": "https://www.youtube.com/watch?v=yKCpRDlItMc",
+   "minutos": 22,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "O que a CID-11 muda em relação à CID-10 nos transtornos mentais."
+  }
+ ],
+ "p-personalidade": [
+  {
+   "tipo": "aula",
+   "titulo": "A personalidade - o que é? principais teorias psicológicas.",
+   "fonte": "Escola para Psicólogos",
+   "url": "https://www.youtube.com/watch?v=zUkW0IYxTYI",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Definição de personalidade e principais teorias, em resumo."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Genética: um fator de influência na formação da personalidade",
+   "fonte": "Journal of Management & Primary Health Care",
+   "url": "https://jmphc.emnuvens.com.br/jmphc/article/download/114/115",
+   "arquivo": "p-personalidade/genetica-personalidade.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Só o determinante biológico (genética x ambiente); métodos de estudo e teorias de Schultz/Friedman não estão nele."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "O constructo personalidade em uma perspectiva da terapia cognitiva comportamental: considerações dos modelos de avaliação psicológica (Costa e Rocha, 2021)",
+   "fonte": "Dialog Interdis Psiq S Ment (revista da UECE), 1(1), 2021 (acesso aberto)",
+   "url": "https://revistas.uece.br/index.php/dipsm/article/download/7329/6770",
+   "arquivo": "p-personalidade/costa-rocha-personalidade-tcc-avaliacao.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Definições de personalidade e temperamento, abordagens idiográfica e nomotética, modelo dos Cinco Grandes Fatores, avaliação por inventários e transtornos de personalidade. Ler as 8 páginas do artigo; tem viés da TCC e não traz as teorias psicodinâmica e humanista. Complementa o texto de genética."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Psychology 2e, cap. 11: perspectivas psicodinâmica, neofreudiana, da aprendizagem e humanista (OpenStax)",
+   "fonte": "OpenStax / Rice University, 2020 (acesso aberto, CC BY, openstax.org)",
+   "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=374",
+   "arquivo": "p-personalidade/openstax-psychology-2e.pdf",
+   "minutos": 48,
+   "idioma": "en",
+   "extra": true,
+   "nota": "Ler as páginas 374 a 389 (seções 11.2 a 11.5). Freud, Adler, Erikson, Jung, Horney, a abordagem da aprendizagem e a humanista (Rogers, Maslow), que faltavam neste assunto."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Psicologia – Teoria da Personalidade e TTP na FUNDATEC 2020 com Prof. Fabíola Izaías",
+   "fonte": "Gran Cursos Saúde",
+   "url": "https://www.youtube.com/watch?v=Hd6MxC8C_lM",
+   "minutos": 105,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Aula de concurso sobre teorias da personalidade; longa, para aprofundar."
+  }
+ ]
+}

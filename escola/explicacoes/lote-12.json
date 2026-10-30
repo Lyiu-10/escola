@@ -1,0 +1,492 @@
+{
+ "8caac26cf99c": [
+  null,
+  "Resistência é a oposição do paciente ao tratamento, conceito da técnica psicanalítica. O mecanismo de potencialização dos ganhos por repetidas EECs, para Lemgruber, é o efeito carambola.",
+  "Insight é a compreensão súbita de um conteúdo psíquico, não o efeito multiplicador das EECs. Lemgruber chama esse mecanismo de efeito carambola.",
+  "Neurose de transferência é a reedição da neurose na relação com o analista, típica da psicanálise clássica. O mecanismo das EECs na terapia focal é o efeito carambola.",
+  "Associação livre é a regra fundamental da psicanálise, um método de fala, não um mecanismo de ganho terapêutico. Lemgruber chama a potencialização por EECs de efeito carambola."
+ ],
+ "d3626ddd87e2": [
+  null,
+  "Tronco fendido é sinal de desorganização, não compatível com organização da personalidade; a frase contradiz a si mesma. O indicador psicótico dado por Cunha é a casa sem portas e janelas.",
+  "Copa de tamanho máximo não é o indicador de traço psicótico apontado por Cunha. O indicador correto é a casa sem partes essenciais, como portas e janelas.",
+  "Pessoa com todas as partes essenciais indica percepção do corpo como totalidade, sinal de adequação, não de psicose. Psicótica seria a ausência de partes essenciais.",
+  "Roupa sem ênfase nos órgãos sexuais mostra respeito às normas sociais, sinal de adequação. O indicador psicótico é a casa sem portas e janelas."
+ ],
+ "878227e4abee": [
+  "Inverte o quadro: no pensamento operatório o mundo interno é pobre, não rico. A pessoa se apega à realidade externa e concreta justamente por falta de vida fantasmática.",
+  "Inverte o comportamento: diante de problemas, esses pacientes aumentam o investimento no trabalho, que funciona como objeto segurador, em vez de diminuí-lo.",
+  "Erra ao separar descrever de sentir: no pensamento operatório e na alexitimia, a dificuldade é de descrever e também de sentir as emoções.",
+  null,
+  "Descreve o oposto: no pensamento operatório os sonhos são pobres e a vida fantasmática é empobrecida, porque os restos diurnos não se articulam com os traços de memória."
+ ],
+ "4c9c7137f4bf": [
+  "Na depressão, a alteração típica do espaço é vivê-lo como vazio, distante ou estreitado, não a fusão do eu com o mundo. A fusão descrita é o estado de êxtase.",
+  "Na mania o espaço tende a ser vivido como amplo e cheio de possibilidades, sem fusão do eu com o mundo. A perda das fronteiras com sensação de fusão é o êxtase.",
+  "No quadro paranoico o espaço é vivido como ameaçador e cheio de significados referidos ao sujeito, não fundido a ele. A fusão com o mundo é o êxtase.",
+  "Na esquizofrenia a alteração típica é da vivência do eu, com invasão e perda de controle, não uma fusão experimentada com o mundo. Dalgalarrondo chama essa fusão de êxtase.",
+  null
+ ],
+ "b00d7c2d5b7e": [
+  "O Código não condiciona a comunicação ao que os responsáveis perguntam. Comunica-se apenas o estritamente essencial para promover medidas em benefício do atendido.",
+  null,
+  "Repassar todas as informações quebraria o sigilo. O Código manda comunicar apenas o estritamente essencial para promover medidas em benefício do menor ou interdito.",
+  "O critério não é o que os responsáveis perguntam, nem há exigência de relatório. Comunica-se só o estritamente essencial para promover medidas em benefício do atendido.",
+  "Fatos delituosos graves não são o critério para o menor impúbere ou interdito. O Código manda comunicar aos responsáveis o estritamente essencial para promover medidas em seu benefício."
+ ],
+ "30892a969d50": [
+  "A consciência da família sobre fatores emocionais não é o critério de Campos. A indicação depende de o componente orgânico prevalecer, com o emocional apenas desencadeando ou agravando.",
+  null,
+  "Inverte o quadro: o paciente somático costuma minimizar, não maximizar, a importância das emoções. A indicação é apoio focado na queixa física quando o orgânico prevalece.",
+  "Abordar conflitos sexuais não é o foco dessa psicoterapia. Ela é de apoio ou suporte, centrada na queixa física, quando o componente orgânico prevalece.",
+  "Elevar a ansiedade para fazer emergir o recalcado descreve técnica de psicoterapia expressiva ou analítica. A do paciente somático é de apoio, focada na queixa física."
+ ],
+ "ee055c95474e": [
+  "O apenas está errado: para Zimerman, os sentimentos transferenciais não refletem só figuras do passado; também envolvem a situação atual do grupo e seus membros.",
+  "Inverte o autor: é comum o grupo iniciante se dividir em subgrupos, e os sentimentos transferenciais não se reduzem à dependência.",
+  "Inverte a ideia: no grupo há maior facilidade, não dificuldade, de regredir a níveis primitivos, psicóticos, da personalidade, o que muda a transferência grupal.",
+  null,
+  "Erra na segunda parte: nem toda manifestação de transferência precisa ser trabalhada no grupo. Zimerman distingue movimento transferencial de neurose de transferência e não exige interpretar tudo."
+ ],
+ "1fbd88867d10": [
+  "A melancólica ou endógena tem sintomas intensos, como anedonia marcada, piora matinal e alterações vegetativas graves. O quadro leve e crônico de mais de dois anos é distimia.",
+  "A depressão atípica se caracteriza por humor reativo, hipersonia, aumento de apetite e sensibilidade à rejeição, que não aparecem no caso. Humor deprimido leve crônico por dois anos é distimia.",
+  "Transtorno depressivo grave exige sintomas intensos num episódio, não um mau humor crônico de intensidade leve por anos. O quadro descrito é distimia.",
+  "Depressão secundária ou orgânica pressupõe causa clínica ou substância, e o caso não menciona nenhuma. Sintomas leves e crônicos por mais de dois anos indicam distimia.",
+  null
+ ],
+ "c3c710bc3469": [
+  "A maioria dos dependentes tem abstinência leve a moderada; as formas graves são minoria. Por isso não se pode dizer que a maioria tem SAA moderada a grave.",
+  "A SAA é autolimitada, mas dura em geral cerca de uma semana, não 15 dias em média.",
+  "Pelo gabarito oficial não é a resposta: o que a banca toma como afirmação correta sobre a gravidade da SAA é a presença comum de alucinações no nível II.",
+  null,
+  "O sintoma mais comum da abstinência alcoólica é o tremor, não a agitação psicomotora. Sudorese aparece, mas o sinal mais frequente é o tremor."
+ ],
+ "113b272123f0": [
+  "Erra o 2º e o 3º itens: o Código não exige assinatura do repasse diante de representante do CRP, então o 2º é falso; e o 3º também é falso, porque não há previsão de incineração.",
+  null,
+  "Erra o 1º item: na demissão ou exoneração o psicólogo repassa o material ao substituto, então é verdadeiro. E o 3º é falso: o Código não prevê incineração do material.",
+  "Erra o 1º e o 5º: o repasse ao substituto na demissão é previsto, então o 1º é verdadeiro; e o rompimento do lacre também se faz na presença do representante do CRP, logo o 5º é verdadeiro.",
+  "Erra o 1º, o 2º e o 5º: o repasse ao substituto é verdadeiro, não há exigência de assinatura diante do CRP, e o rompimento do lacre também exige representante do CRP."
+ ],
+ "4190b56c53d9": [
+  "Está correta: Arzeno recomenda conversa breve, de dez a quinze minutos, e início logo dos testes, sobretudo os gráficos. A questão pede a incorreta.",
+  "Está correta: no paciente de outro terapeuta, a coleta se reduz a dados mínimos e ao motivo do pedido do terapeuta. A questão pede a incorreta.",
+  "Está correta: Arzeno prefere que a devolução seja feita pelo próprio terapeuta do paciente, para preservar a relação transferencial. A questão pede a incorreta.",
+  "Está correta: como quem avalia não faz a devolução, o informe ao terapeuta ganha relevância e deve conter toda a informação de que ele precisa. A questão pede a incorreta.",
+  null
+ ],
+ "6805e88b9b09": [
+  "Erra a primeira posição: funcionais são as desencadeadas por estímulos sensoriais (III), não as dos quadros psico-orgânicos (I), que são as alucinoses. Também inverte hipnagógicas e hipnopômpicas.",
+  "Erra ao ligar alucinações funcionais aos quadros psico-orgânicos (I) e alucinoses aos estímulos sensoriais (III): é o contrário. Funcionais vêm de estímulos; alucinoses, de quadros orgânicos.",
+  null,
+  "Erra hipnagógicas e alucinoses: hipnagógicas são as do adormecer (IV), não dos quadros orgânicos (I); e as alucinoses é que ocorrem mais nos quadros psico-orgânicos, não no adormecer.",
+  "Erra quase tudo: funcionais são desencadeadas por estímulos (III), não do despertar; hipnagógicas são do adormecer (IV); e hipnopômpicas, do despertar (II), não do adormecer."
+ ],
+ "e247be012655": [
+  "O borderline se caracteriza por instabilidade afetiva, da autoimagem e das relações, com impulsividade. Rancor persistente, senso combativo de direitos e autorreferência são do transtorno paranoide.",
+  "O anancástico é marcado por perfeccionismo, rigidez, escrupulosidade e preocupação com detalhes. Rancor, sensibilidade à rejeição e autorreferência descrevem o paranoide.",
+  "O esquizoide se caracteriza por distanciamento afetivo, frieza e preferência por atividades solitárias. Os sintomas citados, como rancor e autorreferência, são do paranoide.",
+  null,
+  "O dependente se caracteriza por necessidade excessiva de ser cuidado e dificuldade de decidir sozinho. Rancor persistente e senso combativo de direitos são do paranoide."
+ ],
+ "b91067509211": [
+  null,
+  "Está correta: o modelo cognitivo supõe que emoções e comportamentos são influenciados pela percepção dos eventos. A questão pede a que não se enquadra.",
+  "Está correta: o terapeuta cognitivo se interessa pelos pensamentos automáticos, que correm junto ao pensamento mais óbvio e superficial. A questão pede a que não se enquadra.",
+  "Está correta: avaliar racionalmente pensamentos disfuncionais costuma levar à mudança das emoções. A questão pede a que não se enquadra.",
+  "Está correta: o terapeuta cognitivo busca entender como o paciente se sente e vê o mundo pelos olhos dele. A questão pede a que não se enquadra."
+ ],
+ "e29a3660a3dd": [
+  "A reação aguda ao estresse é transitória, dura horas a poucos dias após um estressor excepcional. Início em até um mês e duração de até seis meses descrevem o transtorno de ajustamento.",
+  "O TEPT surge após evento traumático excepcional, com revivescências, evitação e hiperexcitação. Uma adaptação a mudança de vida com angústia por até seis meses é transtorno de ajustamento.",
+  null,
+  "Neurose traumática é termo antigo, não uma categoria da CID-10. O quadro descrito, ligado a mudança de vida, é o transtorno de ajustamento.",
+  "O transtorno misto de ansiedade e depressão não exige um estressor ou mudança de vida como desencadeante. A ligação com o evento e o prazo definem o transtorno de ajustamento."
+ ],
+ "6b60960b2fb0": [
+  "Romano não propõe hierarquizar as variáveis; elas são complexamente imbricadas e inseparáveis da prática dos demais profissionais.",
+  "Cria regras que a autora não estabelece, como o somente em conjunto e o registro obrigatório. O ponto dela é que essas variáveis não se dissociam da prática da equipe.",
+  null,
+  "Romano não proíbe a investigação minuciosa das variáveis. O que ela afirma é que elas não podem ser dissociadas da prática dos outros profissionais de saúde.",
+  "Explicar tudo minuciosamente à equipe não é a tese de Romano. Ela afirma que as variáveis não se separam da prática dos demais profissionais."
+ ],
+ "aca149742532": [
+  "Distração e refocalização servem para desviar a atenção de pensamentos perturbadores, não para testar sua validade. A técnica que testa diretamente é o experimento comportamental.",
+  "Monitoração e agendamento de atividades organizam a rotina e avaliam prazer e domínio, sem testar diretamente a validade de um pensamento. Isso é o experimento comportamental.",
+  "O RPD serve para registrar e responder aos pensamentos automáticos por escrito. A técnica que testa a validade na prática, sozinha ou com questionamento socrático, é o experimento comportamental.",
+  "O role-play serve para ensaiar habilidades ou trazer à tona pensamentos, não para testar diretamente a validade de suposições. Isso é o experimento comportamental.",
+  null
+ ],
+ "6d94a3f02f09": [
+  "No TEPT a ênfase da terapia cognitiva recai sobre o trauma e seus significados, não sobre a história de formação das crenças centrais. A ênfase descrita é a dos transtornos de personalidade.",
+  "Na fobia social a ênfase está nos pensamentos e comportamentos de segurança da ansiedade social. Trabalhar a relação terapêutica e a história das crenças centrais caracteriza os transtornos de personalidade.",
+  "No TOC a ênfase está nas avaliações dos pensamentos intrusivos e na exposição com prevenção de resposta. A ênfase descrita, na história das crenças centrais, é dos transtornos de personalidade.",
+  null,
+  "No transtorno bipolar a terapia cognitiva enfatiza adesão à medicação e reconhecimento precoce dos sintomas. A ênfase descrita, com relação terapêutica e crenças centrais, é dos transtornos de personalidade."
+ ],
+ "14db599753e4": [
+  "Inverte o princípio: Judith Beck diz que a terapia cognitiva visa ser limitada no tempo.",
+  null,
+  "Inverte o princípio: a terapia cognitiva requer uma aliança terapêutica segura.",
+  "Inverte os papéis: no início é o terapeuta que fica mais ativo, estruturando a sessão; o paciente assume mais esse papel com o avanço da terapia.",
+  "O apenas está errado: a identificação dos problemas em termos cognitivos é um ponto de partida, mas a terapia também se baseia em conceituação, aliança, estrutura e técnicas variadas."
+ ],
+ "b9fb04f77469": [
+  "Está no texto: Freud diz que as causas excitantes da melancolia são mais amplas que as do luto. A questão pede a que não corresponde.",
+  null,
+  "Está no texto: no luto, a retirada da libido do objeto é um processo prolongado e gradual. A questão pede a que não corresponde.",
+  "Está no texto: o luto leva o ego a desistir do objeto, declarando-o morto, e lhe oferece o incentivo de continuar a viver. A questão pede a que não corresponde.",
+  "Está no texto: no luto os esforços para separar a libido são como na melancolia, mas nada impede que sigam o caminho normal. A questão pede a que não corresponde."
+ ],
+ "d08ad1cc313c": [
+  null,
+  "O luto é tratado por Freud em outro texto e não tem relação com a amnésia histérica. A condição dela, nos Três ensaios, é a amnésia infantil.",
+  "O período de latência é a fase que segue a sexualidade infantil, não a condição da amnésia histérica. A condição é a amnésia infantil, que já recobre os primeiros anos.",
+  "Projeção é mecanismo de defesa de atribuir ao outro o que é do sujeito, sem relação com a amnésia histérica. A condição proposta é a amnésia infantil.",
+  "Id é uma instância da segunda tópica, formulada depois de 1905. A condição da amnésia histérica nos Três ensaios é a amnésia infantil."
+ ],
+ "bf36643d5781": [
+  "Evasão está entre as ocorrências que a lei manda comunicar em até 24 horas. A questão pede a que não se enquadra.",
+  "Transferência está entre as ocorrências que a lei manda comunicar em até 24 horas. A questão pede a que não se enquadra.",
+  "Acidente está entre as ocorrências que a lei manda comunicar em até 24 horas. A questão pede a que não se enquadra.",
+  null,
+  "Intercorrência clínica grave está entre as ocorrências que a lei manda comunicar em até 24 horas. A questão pede a que não se enquadra."
+ ],
+ "cf829488861e": [
+  "A camada implosiva é a de paralisia e contração, em que a energia fica presa. A emergência da pessoa capaz de expressar emoções ocorre na camada explosiva, a seguinte.",
+  "A camada dos clichês é a mais superficial, dos contatos sociais vazios. A emergência da pessoa que experiencia e expressa emoções é na camada explosiva.",
+  null,
+  "Autêntica não é o nome de nenhuma das cinco camadas. A pessoa autêntica emerge na camada explosiva, que é a resposta.",
+  "A camada dos papéis é a dos jogos e personagens que a pessoa representa, ainda superficial. A emergência emocional ocorre na camada explosiva."
+ ],
+ "e1dcbd2cce59": [
+  "Mistura grupos: paranoide é do grupo A e ansiosa é do grupo C. O grupo B reúne borderline, sociopática e histriônica.",
+  "Esquizoide e esquizotípica são do grupo A, dos excêntricos. O grupo B reúne borderline, sociopática e histriônica.",
+  "Esquizotípica é do grupo A, não do B. O grupo B reúne borderline, sociopática e histriônica.",
+  null,
+  "Ansiosa, anancástica e dependente formam o grupo C, dos ansiosos ou medrosos. O grupo B reúne borderline, sociopática e histriônica."
+ ],
+ "e0d7f45354f3": [
+  "Buscar insight é marca das psicoterapias breves expressivas, não da de apoio. A PBA visa fortalecer defesas e recursos, com ênfase na aliança e na empatia.",
+  "Associação livre é técnica da psicanálise e das terapias expressivas. A PBA é ativa e diretiva, apoiada na aliança terapêutica e em respostas empáticas.",
+  "Modificar a personalidade é objetivo de terapias expressivas e longas. A PBA busca fortalecer funções adaptativas, não mudar a estrutura da personalidade.",
+  "Déficit de memória recente não é indicação da PBA no texto de Lemgruber. Ela se volta a pacientes que precisam desenvolver funções sociais e manejar habilidades.",
+  null
+ ],
+ "ec0552ac2651": [
+  null,
+  "Erra ao aceitar só a II, que é falsa: a labilidade do humor é frequente na ansiedade de base orgânica. E deixa de fora I e IV, que são verdadeiras.",
+  "Erra ao aceitar a III: a ansiedade generalizada exige sintomas por um período mais longo que três meses. E deixa de fora a I, verdadeira.",
+  "Erra ao aceitar a II: na ansiedade de base orgânica a labilidade do humor é frequente. E deixa de fora a IV, que é verdadeira.",
+  "Erra ao aceitar a III, cujo prazo de três meses é curto demais para a ansiedade generalizada. E deixa de fora I e IV, que são verdadeiras."
+ ],
+ "7f9d6af7279b": [
+  "A identificação é o laço afetivo que une os membros da massa ao líder e entre si, não o estado regressivo descrito. Freud liga essas características à horda primeva.",
+  "Freud discute e recusa o instinto gregário como explicação da massa. A regressão a uma atividade mental primitiva ele relaciona à horda primeva.",
+  null,
+  "O ideal de ego é a instância que os membros da massa substituem pelo líder, não o estado regressivo descrito. A regressão remete à horda primeva.",
+  "Pulsão de vida é conceito de Além do princípio do prazer, não o estado regressivo da massa. Freud associa essas características à horda primeva."
+ ],
+ "8814e02d25bf": [
+  "As memórias remetem a modelos de reconstrução do passado. Para Lemgruber, o que orienta a adaptação e é foco da psicoterapia breve são as emoções.",
+  "Sensações não são o mecanismo que Lemgruber aponta como orientador da adaptação. O foco de intervenção, para ele, são as emoções.",
+  "Os impulsos remetem a modelos pulsionais. Para Lemgruber, são as emoções que orientam a adaptação e são o foco da psicoterapia breve.",
+  "Pensamentos seriam o foco de uma abordagem cognitiva. Para Lemgruber, o foco da psicoterapia breve são as emoções, que orientam a adaptação.",
+  null
+ ],
+ "80d08c216829": [
+  null,
+  "Analisar todas as situações disfóricas não é necessário nem viável. O terapeuta seleciona situações-chave, e o alívio começa por reconhecer e empatizar com como o paciente se sente.",
+  "O terapeuta cognitivo questiona pensamentos, não emoções. As emoções são reconhecidas e acolhidas, e é o pensamento disfuncional que se examina.",
+  "Na terapia cognitiva a escuta sozinha não reduz as emoções negativas; a redução vem da mudança do pensamento disfuncional, a partir do acolhimento de como o paciente se sente.",
+  "Judith Beck prescreve tarefas de casa como parte central da terapia, mesmo que gerem algum desconforto. Evitá-las contraria o modelo."
+ ],
+ "1e2596d4f995": [
+  "O ganho do grupo de apoio vem de compartilhar sentimentos com pessoas em situação semelhante, não diferente. Por isso a família percebe que não está só.",
+  null,
+  "Contradiz o benefício: o grupo de apoio ajuda a reduzir a ansiedade da família, não deixa de influenciar nela.",
+  "Melhor compreensão dos problemas familiares não está entre os benefícios citados por Halm para a família. O benefício apontado é perceber que não está só.",
+  "Compreender a motivação inconsciente da família é objetivo de terapia, não de grupo de apoio. O ganho citado é perceber que não está só."
+ ],
+ "d6b6e18cabeb": [
+  null,
+  "No alcoolismo crônico a alucinose ocorre ligada ao uso de álcool, em geral com crítica preservada. Sem esse contexto, com convicção e sem crítica, a hipótese é esquizofrenia.",
+  "No transtorno dissociativo costuma haver alteração da consciência, e o enunciado diz que ela é normal. O quadro descrito aponta para esquizofrenia.",
+  "Transtorno de personalidade não costuma produzir alucinações audioverbais persistentes, com convicção e sem crítica. A hipótese que se impõe é esquizofrenia.",
+  "O enunciado exclui transtorno do humor, depressão ou mania. Sem ele, com consciência normal e sem crítica, a hipótese é esquizofrenia."
+ ],
+ "66c116ddee9c": [
+  "Troca a instância: o delírio é o remendo na fenda da relação do ego com o mundo externo, não do superego.",
+  null,
+  "Inverte Freud: a etiologia comum a neurose e psicose é a mesma, a frustração de um desejo de infância. Ele não as trata como fundamentalmente diferentes.",
+  "Troca o conflito: a neurose de transferência é um conflito do ego com o id. O conflito do ego com o superego é o das neuroses narcísicas.",
+  "O somente está errado: o mundo externo governa o ego por duas vias, as percepções atuais e as lembranças de percepções anteriores."
+ ],
+ "0af9f875bdaf": [
+  "Inverte o traço: Engel descreve no paciente propenso à dor culpa intensa, não ausência de culpa.",
+  "Erra na intolerância: Engel descreve intolerância ao sucesso, não ao fracasso, junto da história de sofrimento e derrota.",
+  "Engel fala de impulsos agressivos não satisfeitos, não sexuais.",
+  "Erotização do corpo infantil não está entre os traços que Engel descreve no paciente propenso à dor. Um deles é a dor que aparece diante de perda real ou ameaçada.",
+  null
+ ],
+ "e5b9a3eb4b14": [
+  null,
+  "Respostas verbais não são o par das motoras na formulação de Romano. As estratégias adaptativas se medem por respostas motoras e afetivas.",
+  "Não verbais não é o par das motoras em Romano. Ela separa o que a pessoa faz (motor) do que sente (afetivo).",
+  "Involuntárias não é a categoria usada por Romano. As estratégias se medem por respostas motoras e afetivas.",
+  "Autônomas não é a categoria usada por Romano. As estratégias de adaptação se medem por respostas motoras e afetivas."
+ ],
+ "77a093d97965": [
+  null,
+  "Intertransferência designa a relação entre os terapeutas, como na coterapia, não o fenômeno entre os membros. O que torna o grupo mais complexo são as transferências cruzadas.",
+  "Transferência paradoxal não é a denominação que Zimerman dá ao fenômeno grupal. A complexidade vem das transferências cruzadas entre os membros.",
+  "Extratransferência é o que ocorre fora da relação com o terapeuta, presente também no individual. O específico do grupo são as transferências cruzadas.",
+  "A transferência negativa existe também no atendimento individual. O que o grupo acrescenta são as transferências cruzadas."
+ ],
+ "7c7bf0bb6cf5": [
+  "Erra ao aceitar II e IV: é possível reaplicar um teste na própria entrevista para tirar dúvidas, e o ponto de partida da devolução não são as fantasias inconscientes de doença e cura.",
+  "Erra ao aceitar a II: Arzeno admite reaplicar algum teste na entrevista para eliminar dúvidas. E deixa de fora a III, que é verdadeira.",
+  "Erra ao aceitar II e IV, que são falsas, e deixar de fora I e V: a devolução começa por quem consultou, e nem tudo precisa ser transmitido.",
+  null,
+  "Erra ao aceitar a II: Arzeno admite reaplicar algum teste para eliminar dúvidas. E deixa de fora a I: a devolução começa por quem consultou primeiro."
+ ],
+ "07cccf0ced12": [
+  "O diagnóstico psicopatológico é sindrômico e descritivo, não baseado em mecanismos etiológicos supostos pelo entrevistador.",
+  "O diagnóstico em psicopatologia é sobretudo clínico, pela entrevista e observação. Testes são complementares, não a base preponderante.",
+  null,
+  "Inverte Dalgalarrondo: quase não há sinais ou sintomas totalmente específicos de um transtorno mental, por isso o diagnóstico é sindrômico.",
+  "O apenas está errado: o diagnóstico considera também aspectos sociais e culturais, não só biológicos e psicológicos."
+ ],
+ "917a7a362b5a": [
+  null,
+  "Pensamento recorrente e estereotipado lembra o obsessivo, não o operatório, que é concreto e colado aos fatos. E a alexitimia é dificuldade de descrever e sentir emoções, não de lidar com as intensas.",
+  "Pensamento delirante sobre doenças inexistentes descreve delírio hipocondríaco, não o pensamento operatório. A alexitimia é dificuldade de descrever e sentir emoções, não negação.",
+  "Pensamento lentificado e humor deprimido são da depressão. O pensamento operatório é concreto, de pouca função para o equilíbrio psíquico, e a alexitimia é dificuldade com as emoções.",
+  "Fuga de ideias é da mania, e humor deprimido da depressão. Nada disso define pensamento operatório nem alexitimia."
+ ],
+ "6d91f5039dc6": [
+  "Penna não define resiliência como capacidade de resolução, e coping não é copiar comportamentos. Resiliência é adaptar-se a eventos negativos sem maiores danos; coping, a forma de lidar com a doença.",
+  "Acerta a resiliência, mas erra o coping: para Penna ele é a forma de lidar com a doença, as estratégias de enfrentamento, não a capacidade de resolução.",
+  null,
+  "Reduz resiliência a capacidade de resolução e coping a resistir ao sofrimento. Para Penna, resiliência é adaptar-se sem maiores danos, e coping é a forma de lidar com a doença.",
+  "Resiliência não é só resistir ao sofrimento, e coping não é capacidade de resolução. Para Penna, resiliência é adaptar-se sem maiores danos; coping, a forma de lidar com a doença."
+ ],
+ "e606526710d5": [
+  "Grupos comunitários se voltam a ações na comunidade, como saúde coletiva, não à prioridade educacional de unir informação e formação. Essa é dos grupos de reflexão.",
+  "Grupos institucionais servem a objetivos da instituição, não especificamente a programas educacionais de formação de atitudes. Zimerman indica para isso os grupos de reflexão.",
+  "Grupos de base analítica são terapêuticos, voltados ao insight e à mudança psíquica. Para programas educacionais, Zimerman indica os grupos de reflexão.",
+  "Grupos de abordagem múltipla não são a modalidade indicada para unir informação e formação de atitudes. A indicação de Zimerman é o grupo de reflexão.",
+  null
+ ],
+ "24ad16ded0c4": [
+  "Pedido de parecer ao Serviço de Psicologia é encaminhamento formal. O planejado anteriormente se faz por programas de atenção a pacientes com características específicas.",
+  "Registro em prontuário é encaminhamento formal. O planejado anteriormente se faz por programas de atenção para pacientes com características específicas.",
+  "Conversas de corredor são encaminhamento informal. O planejado anteriormente se faz por programas de atenção a grupos específicos de pacientes.",
+  null,
+  "Reuniões de equipe para discutir casos não são a forma de encaminhamento planejado descrita por Romano. Ele se faz por programas de atenção para pacientes com características específicas."
+ ],
+ "f6fa0ac104c5": [
+  null,
+  "Está correta: no grupo a regra de abstinência é relativizada, e o intercâmbio afetivo costuma continuar fora das sessões. A questão pede a incorreta.",
+  "Está correta: no grupo as cadeias associativas se formam no intercâmbio entre os membros. A questão pede a incorreta.",
+  "Está correta: a integração faz parte do enquadre grupal e funciona como continente das angústias de cada um e de todos. A questão pede a incorreta.",
+  "Está correta: para Zimerman a neutralidade admite intercâmbio afetivo, desde que se preservem os limites e a hierarquia do enquadre. A questão pede a incorreta."
+ ],
+ "d17d6af5db00": [
+  null,
+  "Atenção e memória são mais afetadas nos quadros orgânicos. Nos psicóticos, as funções mais afetadas são sensopercepção, pensamento, juízo de realidade e vivência do eu.",
+  "Orientação, vontade e personalidade não são as mais afetadas nos psicóticos; orientação aponta para quadro orgânico. As típicas são sensopercepção, pensamento, juízo de realidade e vivência do eu.",
+  "Inclui atenção, mais típica dos quadros orgânicos, e deixa de fora a vivência do eu, central nas psicoses.",
+  "Inclui afetividade, eixo dos transtornos do humor, e deixa de fora o juízo de realidade, central nas psicoses."
+ ],
+ "3b729539c1d7": [
+  "Erra ao aceitar a II: a comunicação da internação involuntária vai ao Ministério Público Estadual, não ao Federal, e o prazo não é de 24 horas. E deixa de fora a III, verdadeira.",
+  null,
+  "Erra ao aceitar a II, que é falsa: a comunicação da internação involuntária vai ao Ministério Público Estadual, e o prazo não é de 24 horas. E deixa de fora a I, verdadeira.",
+  "Erra ao aceitar II e IV: a involuntária é comunicada ao Ministério Público Estadual, e o juiz da compulsória não considera somente a salvaguarda do paciente, mas também a dos demais.",
+  "Erra ao aceitar a IV: o juiz da compulsória considera a segurança do estabelecimento quanto à salvaguarda do paciente, dos demais internados e dos funcionários, não somente do paciente. E deixa de fora a III."
+ ],
+ "cd8ad872f7ff": [
+  "Os atos compulsivos são uma face do TOC, mas não a que a CID-10 liga estreitamente à depressão. São os pensamentos obsessivos, as ruminações, que têm essa relação.",
+  "Fobias não são sintomas definidores do TOC na CID-10. A estreita relação com a depressão é dos pensamentos obsessivos.",
+  "A ansiedade acompanha o TOC, mas não é o sintoma que a CID-10 liga estreitamente à depressão. São os pensamentos obsessivos.",
+  "Início abrupto não é característica do TOC, que costuma começar de modo gradual. A relação com a depressão é dos pensamentos obsessivos.",
+  null
+ ],
+ "7592c1b5bc06": [
+  "Está correta: ouvir tudo o que a família já fez qualifica a família e mostra o que a intervenção deve evitar. A questão pede a incorreta.",
+  null,
+  "Está correta: o foco na capacitação e nas possibilidades de cada membro faz parte da abordagem familiar. A questão pede a incorreta.",
+  "Está correta: o terapeuta é ativo, mas não deve tentar resolver o problema pela família. A questão pede a incorreta.",
+  "Está correta: incluir e qualificar a família como fonte de recuperação favorece a mudança. A questão pede a incorreta."
+ ],
+ "c00fe74b7fca": [
+  "Troca o poder de referência por um inexistente poder da deferência. As cinco bases são recompensa, coercitivo, legítimo, de referência e da experiência (perícia).",
+  "Tem só quatro bases, troca recompensa por compensação e esquece a experiência. As cinco são recompensa, coercitivo, legítimo, de referência e da experiência.",
+  "Troca o poder de referência por poder da deferência, que não existe na classificação. As cinco bases são recompensa, coercitivo, legítimo, de referência e da experiência.",
+  null,
+  "Troca o poder de recompensa por compensação. As cinco bases são recompensa, coercitivo, legítimo, de referência e da experiência."
+ ],
+ "084e0133d7b1": [
+  "Validade é propriedade que o teste precisa demonstrar, não uma vantagem sobre outros métodos. Para Urbina, as vantagens são eficiência e objetividade.",
+  "Fidedignidade e validade são qualidades psicométricas exigidas do teste, não as vantagens que ele oferece. Urbina aponta eficiência e objetividade.",
+  "Aplicação e interpretação são etapas do uso do teste, não vantagens. As vantagens apontadas por Urbina são eficiência e objetividade.",
+  "Interpretação é uma etapa, e nela pode até entrar subjetividade. As vantagens que Urbina aponta são eficiência e objetividade.",
+  null
+ ],
+ "7a45a6410902": [
+  "Diretrizes não fazem parte da SWOT, e falta ameaças. A sigla é forças, fraquezas, oportunidades e ameaças.",
+  null,
+  "Troca oportunidades por vulnerabilidades. A SWOT analisa forças e fraquezas no ambiente interno e oportunidades e ameaças no externo.",
+  "Troca ameaças por vulnerabilidades. A SWOT é forças, fraquezas, oportunidades e ameaças.",
+  "Diretrizes e vulnerabilidades não fazem parte da matriz. A SWOT é forças, fraquezas, oportunidades e ameaças."
+ ],
+ "4adf80ac539a": [
+  null,
+  "Clima organizacional é a percepção que os membros têm do ambiente de trabalho, não o sistema de valores que diferencia a organização. Isso é cultura organizacional.",
+  "Valores organizacionais são um componente da cultura, não a definição dada por Robbins. O sistema de valores compartilhados que diferencia a organização é a cultura organizacional.",
+  "Subcultura é a cultura de um departamento ou grupo dentro da organização, não o sistema que a diferencia das demais.",
+  "Identidade organizacional não é o conceito que Robbins define assim. O sistema de valores compartilhados que diferencia a organização é a cultura organizacional."
+ ],
+ "a74ca456f01c": [
+  "Entrevista diretiva fixa o tipo de resposta desejada, não deixa resposta aberta. Perguntas prontas com resposta livre é a padronizada apenas nas perguntas.",
+  "Na totalmente padronizada as respostas também são fechadas. Com perguntas prontas e resposta aberta, é a padronizada apenas nas perguntas.",
+  "A não diretiva é livre, sem roteiro de perguntas prévias. Com perguntas elaboradas antes e resposta aberta, é a padronizada apenas nas perguntas.",
+  null,
+  "Entrevista diretiva aberta não está na classificação de Chiavenato. O tipo descrito é a padronizada apenas nas perguntas."
+ ],
+ "de4e8002adfa": [
+  null,
+  "Atribui ao modelo tradicional o traço do modelo por competências. A descrição tradicional foca as tarefas do cargo; a dependência da estratégia e dos valores da empresa é do modelo por competências.",
+  "Inverte o método: comparar pessoas com histórico de sucesso às demais é justamente um meio de identificar competências.",
+  "Confunde níveis: conhecimentos, habilidades e atitudes mobilizados numa atividade definem a competência individual, não as competências essenciais da organização.",
+  "Inverte a recomendação: o envolvimento dos gestores das áreas e dos especialistas de RH é fundamental na elaboração do perfil de competências."
+ ],
+ "2e838aaeb97a": [
+  "Erra tudo: as justificativas aceitas por todos são os valores compartilhados (II), o nível mais profundo são as pressuposições básicas (III) e o visível são os artefatos (I).",
+  "Erra a ordem: a primeira definição é de valores compartilhados (II), a segunda de pressuposições básicas (III) e a terceira de artefatos (I).",
+  "Acerta a primeira (II), mas troca as outras: o nível mais profundo e inconsciente são as pressuposições básicas (III), e o visível ou audível são os artefatos (I).",
+  "Erra a primeira: as justificativas aceitas por todos são os valores compartilhados (II), não os artefatos; e o visível ou audível são os artefatos (I).",
+  null
+ ],
+ "6ea017b55ae5": [
+  "Na demissão ou exoneração o psicólogo não leva o material: repassa ao psicólogo substituto ou o lacra para uso posterior.",
+  "Inverte o Código: é vedado ao psicólogo usar ou favorecer o uso de práticas psicológicas como instrumento de castigo ou punição.",
+  null,
+  "O Código manda comunicar aos responsáveis só o estritamente essencial para promover medidas em benefício da criança ou adolescente, não o máximo de informações.",
+  "Inverte o Código: é dever do psicólogo fornecer a quem de direito os resultados da prestação de serviços psicológicos."
+ ],
+ "b98e7691c8e0": [
+  "Inverte o halo: o efeito halo ocorre quando o avaliador dá classificações iguais ou parecidas em todas as dimensões, apesar das diferenças de desempenho.",
+  null,
+  "Tendência central é dar a todos notas no meio da escala, não avaliar com base em informação de outros.",
+  "Severidade é tender a dar notas baixas a todos, não basear-se em antipatia por alguém. É um erro de distribuição.",
+  "Tolerância ou leniência é tender a dar notas altas a todos, não basear-se em simpatia por alguém. É um erro de distribuição."
+ ],
+ "2c6eff53262c": [
+  "Amostra representativa de um universo de comportamentos define a validade de conteúdo, não a de critério.",
+  null,
+  "Pasquali considera a validade de construto, não a de critério, a forma fundamental de validade dos instrumentos psicológicos.",
+  "Os dois tipos de validade de critério são preditiva e concorrente, não temporal.",
+  "Verificar diretamente a legitimidade da representação dos traços latentes é a validade de construto, não a de critério."
+ ],
+ "30b91615caee": [
+  null,
+  "A curva normal é simétrica, não assimétrica.",
+  "A curva normal é unimodal, com um único pico; não pode ser bimodal.",
+  "Na curva normal, média, mediana e moda coincidem no mesmo ponto central.",
+  "Não se aplica a todas as distribuições: muitas distribuições reais são assimétricas, e usar a curva normal nelas leva a interpretações erradas."
+ ],
+ "1d01037792fd": [
+  "Hipótese de trabalho é a ideia aproximada do conteúdo do cargo a partir da requisição, não a anotação sistemática de comportamentos. O procedimento descrito é a técnica dos incidentes críticos.",
+  "Requisição de pessoal é só o pedido de preenchimento da vaga. O registro de fatos de desempenho excelente ou péssimo é a técnica dos incidentes críticos.",
+  "Análise do cargo no mercado compara o cargo com outros semelhantes em outras empresas. A anotação de comportamentos dos ocupantes é a técnica dos incidentes críticos.",
+  "Descrição e análise do cargo levanta tarefas e requisitos do cargo, não registra episódios de desempenho extremo. Isso é a técnica dos incidentes críticos.",
+  null
+ ],
+ "fd89106b5ba1": [
+  "Ociosidade grupal não é o termo usado. A redução de esforço no trabalho coletivo chama-se ociosidade social.",
+  "Ociosidade entre pares não é o nome do fenômeno. O termo é ociosidade social.",
+  "Ociosidade instrumental não é o nome do fenômeno. Dedicar menos esforço no coletivo do que no individual é ociosidade social.",
+  null,
+  "Ociosidade interpessoal não é o nome do fenômeno. O termo é ociosidade social."
+ ],
+ "4a4e5755f9f8": [
+  "Multa consta como penalidade no Código de Ética. A questão pede a que não consta.",
+  "Advertência consta como penalidade no Código de Ética. A questão pede a que não consta.",
+  null,
+  "Suspensão por até 30 dias, ad referendum do CFP, consta no Código. A questão pede a que não consta.",
+  "Cassação do exercício profissional, ad referendum do CFP, consta no Código. A questão pede a que não consta."
+ ],
+ "5ae615b3262a": [
+  "Normatização e padronização dizem respeito à interpretação e à aplicação do teste, não aos fatores externos que afetam a fidedignidade. Esses são variabilidade da amostra e comprimento do teste.",
+  "Acerta o comprimento, mas padronização não é o outro fator. Pasquali aponta variabilidade da amostra e comprimento do teste.",
+  "Correlação item-critério e validade dizem respeito à validade, não à fidedignidade. Os fatores são variabilidade da amostra e comprimento do teste.",
+  "Acerta a variabilidade da amostra, mas validade não é fator que afeta a fidedignidade. O outro é o comprimento do teste.",
+  null
+ ],
+ "3887e5b8274e": [
+  "Maslow organiza necessidades em hierarquia, das fisiológicas à autorrealização, e não trata de uma necessidade dominante aprendida. Realização, afiliação e poder são de McClelland.",
+  null,
+  "Herzberg separa fatores higiênicos e motivadores, não trata de realização, afiliação e poder. Essa teoria é a de McClelland.",
+  "Motivação situacional não é a teoria das três necessidades aprendidas. Essa é a das necessidades socialmente adquiridas de McClelland.",
+  "Motivação social não é o nome dessa teoria. Realização, afiliação e poder aprendidos ao longo da vida são da teoria de McClelland."
+ ],
+ "a8836cdf3648": [
+  "Inverte o efeito: a cultura forte reduz a rotatividade, porque aumenta a coesão e o comprometimento dos membros.",
+  "Pelo gabarito, não é a resposta: para Chiavenato, o que reforça a cultura eliminando quem destoa dos padrões é o processo de seleção. A indução, ou socialização, vem depois da entrada.",
+  null,
+  "As culturas que mantêm o status quo são as conservadoras, não as adaptativas. As adaptativas se caracterizam pela flexibilidade e pela abertura à mudança.",
+  "Inverte a relação: quanto mais forte a cultura, menos a organização precisa de regras e regulamentos, porque os valores já orientam o comportamento."
+ ],
+ "c4823062b274": [
+  "Inverte o critério: as técnicas projetivas se distinguem por serem pouco estruturadas, com tarefa ambígua.",
+  "Para Anastasi e Urbina o Rorschach é técnica projetiva de manchas de tinta, não técnica expressiva.",
+  null,
+  "Inverte a origem: os métodos projetivos nasceram na clínica, não em pesquisa educacional.",
+  "A base teórica da maioria das técnicas projetivas vem da psicanálise, não da Gestalt."
+ ],
+ "50fab24dd743": [
+  null,
+  "O líder carismático inspira pela força pessoal e pela visão, com foco no próprio líder. O que se apoia na dignidade humana e no bem-estar dos seguidores é o líder servidor.",
+  "O transformacional inspira mudança e eleva metas dos seguidores, mas o foco é a transformação da organização. Autoridade moral e serviço ao bem-estar dos outros definem o líder servidor.",
+  "O visionário se define pela visão de futuro que comunica, não pela autoridade moral e pelo cuidado com as pessoas. Isso é o líder servidor.",
+  "A liderança baseada em princípios se apoia em valores, mas o serviço ao bem-estar e ao desenvolvimento dos outros, sem posição formal, define o líder servidor."
+ ],
+ "153fdbabfa84": [
+  "A Gestalt-terapia trabalha o aqui e agora; não manda vasculhar o passado em busca de traumas. As situações inacabadas são tratadas como aparecem no presente.",
+  "Erra a definição: para Perls, ansiedade é a lacuna, a tensão entre o agora e o depois, não entre o passado e o agora.",
+  null,
+  "Inverte Perls: ele enfatiza a experiência descritiva, o como, e não a causal; o porquê não é considerado relevante para a compreensão.",
+  "Erra na segunda parte: Perls não diferencia atividade física e mental; para ele o organismo funciona como um todo, sem essa separação."
+ ],
+ "c7a952e200fc": [
+  "A Entrevista Motivacional não é interpretativa: trabalha a ambivalência do paciente com escuta reflexiva, sem interpretar conteúdos.",
+  "A EM é diretiva, embora centrada no paciente: o terapeuta conduz intencionalmente a conversa para a resolução da ambivalência.",
+  null,
+  "Apresentar os riscos logo na primeira entrevista é confrontar, o que a EM evita, porque pela reatância isso faz o paciente defender o comportamento.",
+  "A EM se destina justamente a pacientes ambivalentes ou pouco motivados, não a quem já está absolutamente decidido a mudar."
+ ],
+ "9159007da3a0": [
+  "Ambivalentes não é uma das três categorias de Beck. As crenças que facilitam o uso são antecipatórias, de alívio e permissivas.",
+  null,
+  "Ambivalentes não é uma das três categorias; falta a de alívio. As crenças que facilitam o uso são antecipatórias, de alívio e permissivas.",
+  "De anonimato não é uma das categorias de Beck; falta a de alívio. As três são antecipatórias, de alívio e permissivas.",
+  "Ambivalentes e de anonimato não fazem parte do modelo. As três crenças que facilitam o uso são antecipatórias, de alívio e permissivas."
+ ],
+ "df8f7cc70d33": [
+  "Arzeno admite que algumas incongruências resistem à compreensão; insistir sem aceitá-las contraria a postura dela. Elas não devem ser desprezadas, mas podem ficar fora da devolução.",
+  "Aplicar novos instrumentos não é a conduta que Arzeno propõe para essas contradições. Ela recomenda não desprezá-las e ter prudência ao levá-las à devolução.",
+  "O cuidado que Arzeno aponta é com a entrevista de devolução ao paciente, não com o laudo ao solicitante. E ela não as chama de ininteligíveis a ponto de excluí-las.",
+  null,
+  "Arzeno diz o contrário: as incongruências não devem ser desprezadas, ainda que seja imprudente levá-las à devolução."
+ ],
+ "188ffbfe09f4": [
+  "No TOC a atenção tende a ficar presa aos pensamentos obsessivos, com tenacidade aumentada, não reduzida. Hipotenacidade com atenção espontânea aumentada é do quadro maníaco.",
+  "Na depressão a atenção costuma estar globalmente diminuída, voluntária e espontânea. O aumento da atenção espontânea com hipotenacidade é típico da mania.",
+  "No TDAH há desatenção, mas o quadro com hipervigilância e atenção espontânea aumentada, captada por qualquer estímulo, é o que Dalgalarrondo descreve na mania.",
+  null,
+  "No TAG a atenção se volta a preocupações e à apreensão, sem o padrão descrito. Atenção voluntária diminuída com espontânea aumentada e hipotenacidade é do quadro maníaco."
+ ]
+}

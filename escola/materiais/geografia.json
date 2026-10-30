@@ -1,0 +1,321 @@
+{
+ "g-economia": [
+  {
+   "tipo": "aula",
+   "titulo": "INTERNACIONALIZAÇÃO DA ECONOMIA BRASILEIRA (AULA 1) | GEOGRAFIA DO BRASIL | PMMA",
+   "fonte": "Prof Diego Sucesso - GEOGRAFIA",
+   "url": "https://www.youtube.com/watch?v=iunklfG9l5Q",
+   "minutos": 50,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Integração do Brasil à internacionalização da economia, em aula voltada a concurso."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Síntese de Indicadores Sociais: uma análise das condições de vida da população brasileira 2025",
+   "fonte": "IBGE (Estudos e Pesquisas, n. 55)",
+   "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102240.pdf",
+   "arquivo": "g-economia/sintese-indicadores-sociais-2025.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Indicadores sociais oficiais (renda, desigualdade, trabalho, condições de vida); 136 páginas, leia por capítulos."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Indicadores sociais: IDH e Índice de Gini",
+   "fonte": "Bruno Geo",
+   "url": "https://www.youtube.com/watch?v=stGAjzkNa74",
+   "minutos": 21,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Desenvolvimento econômico e social: o que são e como ler IDH e Gini."
+  }
+ ],
+ "g-industria-transportes": [
+  {
+   "tipo": "aula",
+   "titulo": "FATORES LOCACIONAIS DA INDÚSTRIA - Geobrasil {Prof. Rodrigo Rodrigues}",
+   "fonte": "Geobrasil",
+   "url": "https://www.youtube.com/watch?v=IHHSH3T5Xqs",
+   "minutos": 25,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Fatores de localização da indústria."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Região e indústria no Brasil: ainda a continuidade da \"desconcentração concentrada\"? (Monteiro Neto, Silva e Severian)",
+   "fonte": "Economia e Sociedade (Unicamp)",
+   "url": "https://www.eco.unicamp.br/images/arquivos/artigos/ES/69/9_Monteiro_Neto.pdf",
+   "arquivo": "g-industria-transportes/desconcentracao-industrial-monteiro-neto.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Industrialização e sua repercussão econômica e regional entre 1996 e 2015; artigo acadêmico, mais denso."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Industrialização brasileira - Brasil Escola",
+   "fonte": "Brasil Escola Oficial",
+   "url": "https://www.youtube.com/watch?v=NPixZjTK8Us",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Histórico da industrialização brasileira, base para as repercussões econômicas e urbanas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Infraestrutura de Transportes e o Impacto em Custos Logísticos",
+   "fonte": "Observatório Nacional de Transporte e Logística (Infra S.A./Ministério dos Transportes)",
+   "url": "https://ontl.infrasa.gov.br/wp-content/uploads/2025/05/Infraestrutura-de-Transportes-e-o-Impacto-em-Custos-Logisticos.pdf",
+   "arquivo": "g-industria-transportes/infraestrutura-transportes-custos-logisticos.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Rede e matriz de transportes do Brasil e seus custos logísticos (2025)."
+  }
+ ],
+ "g-urbanizacao": [
+  {
+   "tipo": "aula",
+   "titulo": "Urbanização Brasileira Geobrasil",
+   "fonte": "Geobrasil",
+   "url": "https://www.youtube.com/watch?v=g-DEwpP2xuM",
+   "minutos": 17,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Processo de urbanização do Brasil."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Arranjos Populacionais e Concentrações Urbanas do Brasil, 2ª edição",
+   "fonte": "IBGE",
+   "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv99700.pdf",
+   "arquivo": "g-urbanizacao/arranjos-populacionais-concentracoes-urbanas.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Quadro oficial da urbanização brasileira: estrutura urbana, arranjos e concentrações; 167 páginas, leia a introdução e os resultados gerais."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Regiões de Influência das Cidades 2018 (folder)",
+   "fonte": "IBGE",
+   "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv101728_folder.pdf",
+   "arquivo": "g-urbanizacao/regic-2018-folder.pdf",
+   "minutos": 18,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Resumo curto da rede urbana brasileira e da hierarquia das cidades."
+  }
+ ],
+ "g-agropecuaria": [
+  {
+   "tipo": "aula",
+   "titulo": "Agricultura do Brasil - Estrutura Fundiária (AULA COMPLETA)| Ricardo Marcílio",
+   "fonte": "Professor Ricardo Marcílio",
+   "url": "https://www.youtube.com/watch?v=L7J8Ke8_gjs",
+   "minutos": 48,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Estrutura fundiária e problemas sociais rurais."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Atlas do Espaço Rural Brasileiro: Estrutura fundiária",
+   "fonte": "IBGE",
+   "url": "https://www.ibge.gov.br/apps/atlasrural/pdfs/02_00_Texto.pdf",
+   "arquivo": "g-agropecuaria/atlas-espaco-rural-estrutura-fundiaria.pdf",
+   "minutos": 24,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Estrutura fundiária e desigualdade no campo, com dados do Censo Agropecuário 2017."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Expansão da Fronteira Agrícola no Brasil - Geobrasil {Prof. Rodrigo Rodrigues}",
+   "fonte": "Geobrasil",
+   "url": "https://www.youtube.com/watch?v=s6feMX81nV8",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Expansão da fronteira agrícola para o Centro-Oeste e a Amazônia."
+  }
+ ],
+ "g-populacao": [
+  {
+   "tipo": "aula",
+   "titulo": "Migrações no Brasil (AULA COMPLETA) | Ricardo Marcílio",
+   "fonte": "Professor Ricardo Marcílio",
+   "url": "https://www.youtube.com/watch?v=8eX1EkICOf8",
+   "minutos": 44,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Distribuição da população e migrações internas."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Censo Demográfico 2022: Fecundidade e migração (resultados preliminares da amostra)",
+   "fonte": "IBGE",
+   "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv102187.pdf",
+   "arquivo": "g-populacao/censo2022-fecundidade-migracao.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Dinâmica demográfica e migrações internas atuais; 91 páginas, priorize o capítulo de migração."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Estrutura etária da população - Geografia - Ensino Médio",
+   "fonte": "Canal Futura",
+   "url": "https://www.youtube.com/watch?v=xTQ8H2ISqNQ",
+   "minutos": 11,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Estrutura etária e evolução da população brasileira."
+  }
+ ],
+ "g-regioes": [
+  {
+   "tipo": "aula",
+   "titulo": "As Regiões do Brasil (IBGE) - Geobrasil",
+   "fonte": "Geobrasil",
+   "url": "https://www.youtube.com/watch?v=y1mRbJGyBKg",
+   "minutos": 20,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Regionalização do IBGE e características das regiões."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Divisão Regional do Brasil em Regiões Geográficas Imediatas e Regiões Geográficas Intermediárias 2017",
+   "fonte": "IBGE",
+   "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv100600.pdf",
+   "arquivo": "g-regioes/ibge-divisao-regional-2017.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Critérios da divisão regional vigente do IBGE; 83 páginas, leia a parte metodológica."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Regionalizações do Brasil | Ricardo Marcílio",
+   "fonte": "Professor Ricardo Marcílio",
+   "url": "https://www.youtube.com/watch?v=Y5yMCH7wdIA",
+   "minutos": 10,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Comparação das propostas de regionalização do Brasil."
+  }
+ ],
+ "g-relevo": [
+  {
+   "tipo": "aula",
+   "titulo": "Relevo do Brasil (Aula completa) | Ricardo Marcílio",
+   "fonte": "Professor Ricardo Marcílio",
+   "url": "https://www.youtube.com/watch?v=E3lOxx6e_D8",
+   "minutos": 42,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Feições e classificações do relevo brasileiro."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Relevo brasileiro: uma nova proposta de classificação (Jurandyr L. S. Ross, 1985)",
+   "fonte": "Revista do Departamento de Geografia (USP)",
+   "url": "https://revistas.usp.br/rdg/en/article/view/47094",
+   "arquivo": "g-relevo/ross-1985-relevo-brasileiro.pdf",
+   "minutos": 45,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Texto original da classificação de Ross, citado no edital; PDF escaneado, sem texto selecionável."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "CLASSIFICAÇÃO DO RELEVO BRASILEIRO: JURANDYR ROSS, AROLDO DE AZEVEDO E AZIZ AB'SABER",
+   "fonte": "Quadro Livre",
+   "url": "https://www.youtube.com/watch?v=M1jO8NKvoag",
+   "minutos": 17,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Compara as classificações de Ross, Aroldo de Azevedo e Ab'Saber."
+  }
+ ],
+ "g-ambiente-recursos": [
+  {
+   "tipo": "aula",
+   "titulo": "Matriz energética brasileira - Geografia - Ensino Médio",
+   "fonte": "Canal Futura",
+   "url": "https://www.youtube.com/watch?v=6cVmzpG_iqM",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Energia: a matriz energética brasileira."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Balanço Energético Nacional 2025: Relatório Síntese (ano base 2024)",
+   "fonte": "EPE (Empresa de Pesquisa Energética)",
+   "url": "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-885/topico-767/BEN_S%C3%ADntese_2025_PT.pdf",
+   "arquivo": "g-ambiente-recursos/ben-sintese-2025.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Oferta e consumo de energia no Brasil e emissões; 74 páginas, leia as seções de oferta e de energia elétrica."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Recursos Minerais - Geobrasil {Prof. Rodrigo Rodrigues}",
+   "fonte": "Geobrasil",
+   "url": "https://www.youtube.com/watch?v=qJlzjoh6mWw",
+   "minutos": 12,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Recursos minerais do Brasil."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "Hidrografia Brasileira - Geobrasil {Prof. Rodrigo Rodrigues}",
+   "fonte": "Geobrasil",
+   "url": "https://www.youtube.com/watch?v=WG_8YG9nnEg",
+   "minutos": 15,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Água: rios e bacias hidrográficas do Brasil."
+  }
+ ],
+ "g-clima-biomas": [
+  {
+   "tipo": "aula",
+   "titulo": "Clima do Brasil (Aula completa) | Ricardo Marcílio",
+   "fonte": "Professor Ricardo Marcílio",
+   "url": "https://www.youtube.com/watch?v=bEQz0HijQpA",
+   "minutos": 55,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Climas do Brasil."
+  },
+  {
+   "tipo": "leitura",
+   "titulo": "Biomas e Sistema Costeiro-Marinho do Brasil (compatível com a escala 1:250 000)",
+   "fonte": "IBGE (Relatórios Metodológicos, v. 45)",
+   "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv101676.pdf",
+   "arquivo": "g-clima-biomas/ibge-biomas-sistema-costeiro-marinho.pdf",
+   "minutos": 60,
+   "idioma": "pt",
+   "extra": false,
+   "nota": "Definição e limites oficiais dos biomas brasileiros; 161 páginas, leia a introdução e as fichas de cada bioma."
+  },
+  {
+   "tipo": "aula",
+   "titulo": "DOMÍNIOS MORFOCLIMÁTICOS PARA O ENEM 2026 (brutal)",
+   "fonte": "Pedro Assaad",
+   "url": "https://www.youtube.com/watch?v=8bUVI_iE6zk",
+   "minutos": 43,
+   "idioma": "pt",
+   "extra": true,
+   "nota": "Domínios morfoclimáticos de Ab'Saber, que ligam clima, relevo e vegetação."
+  }
+ ]
+}

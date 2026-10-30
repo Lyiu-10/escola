@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2013",
+ "cor": "AMARELA",
+ "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/40007/marinha-2013-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/Gabarito_CP-T_2013.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Segundo Spector (2010), a técnica de coleta de informações para análise do trabalho que \"apresenta como vantagem ser o meio eficaz e econômico e, como limitação, a facilidade de ser distorcida pelos encarregados para fazer com que seus trabalhos pareçam mais importantes do que são\" é denominada:",
+   "alternativas": [
+    "entrevista.",
+    "o analista realizando o trabalho.",
+    "observação.",
+    "questionário.",
+    "dinâmica de grupo."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://www.youtube.com/watch?v=NtEbyak5Uac",
+   "comentario": "Na análise do trabalho descrita por Spector, o questionário aplicado aos ocupantes do cargo é o meio mais eficiente e barato de reunir informação de muita gente, mas depende do relato do próprio trabalhador, que pode inflar a importância do que faz. A entrevista também depende do relato, porém é mais cara e demorada, e a observação e o analista realizando o trabalho dão informação direta, sem esse viés de autorrelato, à custa de tempo. Dinâmica de grupo é técnica de seleção, não de análise do trabalho."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "Com relação ao teste palográfico, no que diz respeito às irregularidades do traçado, é correto afirmar que",
+   "alternativas": [
+    "quando o tremor nos traçados ocorre no primeiro intervalo de tempo ou na fase de treino do teste e depois desaparece, indica medo e insegurança.",
+    "o gancho na parte inferior esquerda sugere heteroagressividade física, que se caracteriza por frequentes explosões que podem chegar à violência física.",
+    "palos quebrados, se acompanhados de trabalho desorganizado, provavelmente indicam deficiência em termos morais.",
+    "palos em laço significam capacidade intelectual limitada a tarefas simples e repetitivas.",
+    "as linhas espelhadas revelam características ligadas ao transtorno do sistema nervoso central e podem indicar uso de álcool, de droga ou uso acentuado de fumo."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Palográfico, o tremor que aparece só no primeiro intervalo ou no treino e depois some é lido como reação à situação nova: medo e insegurança iniciais que cedem com a adaptação à tarefa. As outras trocam os significados dos indicadores de irregularidade do traçado: ganchos, palos quebrados, laços e linhas espelhadas têm interpretações próprias no manual, e as alternativas atribuem a eles conclusões fortes demais (violência física, deficiência moral, limitação intelectual, lesão do sistema nervoso) que o teste não autoriza."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "De acordo com Kerlinger (2007), a atribuição de significado a um construto ou variável, especificando as atividades ou operações necessárias para medi-lo ou manipulá-lo é denominada:",
+   "alternativas": [
+    "objetividade.",
+    "experimento.",
+    "definição operacional.",
+    "definição constitutiva.",
+    "definição do problema."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-metodologia",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=48",
+   "comentario": "Para Kerlinger, a definição operacional dá sentido a um construto dizendo quais operações ou atividades são necessárias para medi-lo ou manipulá-lo (por exemplo, inteligência é o escore em tal teste). A tentação é a definição constitutiva, que define o construto por outros construtos, como num dicionário, sem dizer como medir. Objetividade, experimento e definição do problema são outros conceitos de método, não o modo de definir uma variável."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "De acordo com Urbina (2007), assinale a opção correta quanto à classificação das variáveis.",
+   "alternativas": [
+    "As variáveis dicotômicas são variáveis discretas que podem assumir uma gama de valores.",
+    "As variáveis discretas são aquelas que apresentam uma gama finita de valores ou potencialmente infinita, porém contáveis.",
+    "As variáveis contínuas têm variações infinitas e podem ser medidas com exatidão.",
+    "Na medição de variáveis contínuas, os erros de mensuração são evitáveis devido à exatidão das ferramentas de medição.",
+    "Temperatura e distância são variáveis discretas e politônicas."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Para Urbina, variáveis discretas assumem um conjunto finito de valores ou um conjunto infinito, porém contável (como o número de filhos). As dicotômicas são discretas de apenas dois valores, não de uma gama; as contínuas variam infinitamente e por isso nunca são medidas com exatidão absoluta, de modo que o erro de medida é inevitável. Temperatura e distância são exemplos clássicos de variáveis contínuas."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "De acordo com Farr (2004), a psicologia social floresceu no contexto de duas disciplinas bastante distintas, a sociologia e a psicologia, assumindo diferentes formas nos dois contextos. Dentro dessa perspectiva assinale a opção correta.",
+   "alternativas": [
+    "A pesquisa francesa sobre representações sociais e a pesquisa americana (e britânica) sobre atitudes e opiniões são exemplos específicos das semelhanças entre as formas sociológicas e psicológicas da psicologia social.",
+    "O interacionismo simbólico é considerado uma forma psicológica da psicologia social iniciada em Chicago, por Blumer, e se baseia na interpretação dele sobre a psicologia social de Mead.",
+    "O Behaviorismo social constitui-se em uma importante crítica à natureza puramente individual da assim chamada psicologia social dos Estados Unidos e do Reino Unido.",
+    "O individualismo, como um valor cultural central, também se evidencia na história da psicologia, mas não na história da psicologia social.",
+    "A psicologia social, que se desenvolveu como um fenômeno especificamente americano, na era moderna, é uma forma psicológica de psicologia social."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "https://www.redalyc.org/pdf/3093/309326391017.pdf",
+   "comentario": "Farr distingue as formas sociológicas e psicológicas da psicologia social, e a psicologia social que floresceu nos Estados Unidos na era moderna, centrada no indivíduo, é para ele a forma psicológica. A pesquisa francesa sobre representações sociais e a americana sobre atitudes ilustram as diferenças entre as duas formas, não as semelhanças, e o interacionismo simbólico de Blumer, derivado de Mead, é forma sociológica. O individualismo como valor cultural marca justamente a história da psicologia social, ao contrário do que diz a alternativa D."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "Que teste de significância requer normalidade e nível intervalar?",
+   "alternativas": [
+    "Paramétrico.",
+    "Não paramétrico.",
+    "Do Qui-quadrado.",
+    "Da Mediana.",
+    "Da Prova Exata de Fisher."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Testes paramétricos (como t de Student e ANOVA) pressupõem distribuição normal da variável na população e medida em nível intervalar ou de razão. Os não paramétricos dispensam essas exigências e servem para dados nominais ou ordinais; qui-quadrado, prova da mediana e prova exata de Fisher são exemplos deles, por isso não podem ser a resposta."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "Segundo Mello Filho (2002), no que diz respeito à relação médico-paciente, \"o tratamento não devia visar apenas ao paciente, mas também ao relacionamento formado, pois, a psicoterapia é essencialmente uma interação\". O trecho acima se refere",
+   "alternativas": [
+    "ao ponto nodal da terapia de Balint.",
+    "à interconsulta e suas crises.",
+    "à psicoterapia implícita.",
+    "à relação humana denominada transpessoal.",
+    "à psicoterapia explícita."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.youtube.com/watch?v=XP0VGNLFpsg",
+   "comentario": "Mello Filho apresenta como ponto nodal do trabalho de Balint a ideia de que a relação médico-paciente é ela própria terapêutica: trata-se o paciente e também o vínculo formado entre os dois, porque toda psicoterapia é interação. Interconsulta é a consultoria de um profissional de saúde mental a pedido de outra equipe, e psicoterapia implícita e explícita são modalidades de atuação, não o núcleo da proposta de Balint."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "Segundo Wollberg (1993), o modo concreto de organizar o fim do tratamento varia sempre segundo a individualidade do paciente e suas possibilidades de evoluir. Depende, também, do fato de os objetivos, combinados desde o início entre o terapeuta e o paciente, terem sido ou não alcançados. Segundo esse autor, o paciente deveria alcançar, no fim do tratamento, os seguintes objetivos, EXCETO:",
+   "alternativas": [
+    "diminuição da angústia e da tensão.",
+    "percepção das dificuldades interiores e de suas origens.",
+    "finalização da etapa de prevenção de recaída.",
+    "adaptação crescente às dificuldades cotidianas.",
+    "capacidade de introspecção."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.redalyc.org/pdf/261/26110303.pdf",
+   "comentario": "(Cobra além deste material.) Os objetivos de término listados por Wolberg são de uma psicoterapia de base dinâmica: alívio da angústia e da tensão, percepção das dificuldades interiores e de suas origens, adaptação crescente às dificuldades do dia a dia e capacidade de introspecção. Prevenção de recaída é etapa característica dos modelos cognitivo-comportamentais, por isso é a exceção."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "De acordo com o Inventario de Personalidade Comrey, \"os indivíduos com escores baixos tendem a se ocuparem mais de si mesmos e de seus próprios objetivos\". Que escala descreve esses indivíduos?",
+   "alternativas": [
+    "Escala E – Extroversão x Introversão.",
+    "Escala T – Confiança x Atitude Defensiva.",
+    "Escala P – Empatia (Altruísmo) x Egocentrismo.",
+    "Escala C – Conformidade x Inconformidade Social.",
+    "Escala S – Estabilidade x Instabilidade Emocional."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Inventário de Personalidade de Comrey, a escala P vai da empatia (altruísmo) ao egocentrismo, e escores baixos descrevem quem se ocupa sobretudo de si e dos próprios objetivos. As outras escalas medem outra coisa: E, a sociabilidade (extroversão e introversão); T, a confiança nos outros em oposição à atitude defensiva; C, a aceitação das normas sociais; S, a estabilidade emocional."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "A classificação de Transtornos Mentais e de Comportamento da CID-10 considera que o Transtorno Delirante é caracterizado pelo desenvolvimento de um delírio",
+   "alternativas": [
+    "continuado, que permanece pelo período de aproximadamente um ano, para ser considerado verdadeiramente um transtorno.",
+    "recorrente, com intervalos de aproximadamente um a dois meses entre cada episódio delirante e outro.",
+    "isolado ou de um conjunto de delírios, que não são usualmente persistentes e, muitas vezes, duram alguns meses.",
+    "recorrente e seu conteúdo e o momento de sua emergência não estão relacionados com as situações de vida do indivíduo.",
+    "isolado ou de um conjunto de delírios relacionados entre si, que são usualmente persistentes e, muitas vezes, duram a vida toda."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Na CID-10, o transtorno delirante (F22.0) se define por um delírio isolado ou por um conjunto de delírios relacionados entre si, em geral persistentes e às vezes para a vida toda. A alternativa C descreve o oposto (delírios passageiros, de meses), e as que falam em delírio recorrente com intervalos entre episódios não correspondem ao quadro, que é contínuo. A CID-10 exige ao menos 3 meses de duração, não um ano."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "De acordo com Spector (2010), que planejamento de pesquisa é considerado o mais simples e fácil de se conduzir por utilizar uma série de questões compiladas para estudar uma ou mais variáveis de interesse, sendo estas questões dirigidas a uma amostra de entrevistados em um único momento?",
+   "alternativas": [
+    "Experimento.",
+    "Quasi-experimento.",
+    "Tipo survey.",
+    "Qualitativo.",
+    "Experimento de campo."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-metodologia",
+   "item": "https://www.scielo.br/j/pcp/a/6RBYrsv88tHdJVzgBN49k6r/",
+   "comentario": "Spector descreve o delineamento tipo survey (levantamento) como o mais simples: um questionário com perguntas sobre as variáveis de interesse aplicado a uma amostra num único momento, o que o torna correlacional e transversal. Experimento e quase-experimento exigem manipular a variável independente, e o experimento de campo faz isso no ambiente real de trabalho; pesquisa qualitativa não se apoia numa série padronizada de questões."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "Como são denominados os usuários que consomem anfetaminas com a finalidade de evitar o desconforto dos sintomas de abstinência?",
+   "alternativas": [
+    "Instrumentais.",
+    "Recreacionais.",
+    "Ocasionais.",
+    "Compulsivos.",
+    "Crônicos."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf",
+   "comentario": "(Cobra além deste material.) Na tipologia de usuários de anfetaminas usada pela banca, o usuário crônico é o que mantém o consumo para evitar o desconforto da abstinência, isto é, o uso já se sustenta pela dependência. O instrumental usa com um fim específico (ficar acordado, emagrecer, render mais), o recreacional busca o efeito prazeroso em contexto social, e o ocasional usa de modo esporádico. A alternativa compulsivos atrai porque também sugere dependência, mas não é o termo que a classificação reserva para o uso que evita a abstinência."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "Segundo Moscovici (2012), com relação às fases do processo psicossocial de mudança no grupo pode-se afirmar que",
+   "alternativas": [
+    "na fase de descongelamento, o grupo apresenta certo grau de desestruturação, dúvida das certezas anteriores, ansiedade e desmotivação para examinar o novo.",
+    "na fase de incorporação, há uma substituição total da operacionalidade desenvolvida pelo grupo anteriormente, pela nova aprendizagem.",
+    "na fase de congelamento, há a recuperação do equilíbrio da dinâmica do grupo, não havendo necessidade de reforço externo para sua manutenção.",
+    "na etapa de descongelamento, ainda não é possível promover a sensibilização e a conscientização de problemas.",
+    "a fase de incorporação consiste na decisão pela mudança e na implementação dessa mudança através da aprendizagem de novos padrões de percepção, conhecimentos, atitudes e ações."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "",
+   "comentario": "Fela Moscovici descreve a mudança no grupo em três fases inspiradas em Lewin: descongelamento, mudança (incorporação) e recongelamento. Na incorporação o grupo decide mudar e aprende novos padrões de percepção, conhecimento, atitude e ação. As erradas distorcem as fases: no descongelamento há desestruturação, mas também abertura e motivação para o novo, e é nele que se faz sensibilização e conscientização; a incorporação não apaga tudo o que o grupo já fazia; e o recongelamento precisa de reforço para se manter."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Assinale a opção que corresponde a um distúrbio no conteúdo do pensamento, segundo Kaplan e Sadock (2003).",
+   "alternativas": [
+    "Estupor.",
+    "Confabulação.",
+    "Alucinação.",
+    "Fobia.",
+    "Despersonalização."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://www.youtube.com/watch?v=1fCmjabKTd8",
+   "comentario": "(Cobra além deste material.) No exame do estado mental de Kaplan e Sadock, fobias, obsessões e preocupações figuram entre os distúrbios do conteúdo do pensamento, ao lado dos delírios. As outras pertencem a outras funções: estupor é alteração da consciência e da psicomotricidade, confabulação é alteração da memória, alucinação é da sensopercepção e despersonalização é alteração da vivência do eu e da percepção de si."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "Segundo Robbins (2007), \"uma equipe de trabalho gera uma sinergia positiva por meio do esforço coordenado\", por isso, muitas organizações reestruturaram seus processos em torno da constituição de equipes, a fim de alcançarem desempenhos melhores. Com relação aos tipos de equipes, assinale a opção correta.",
+   "alternativas": [
+    "As equipes multifuncionais são formadas por funcionários de diferentes setores e diferentes níveis hierárquicos, e propiciam a troca de informações sobre as diferentes áreas.",
+    "Nas equipes de resolução de problemas, os membros trocam ideias, emitem sugestões acerca dos processos e métodos de trabalho, e não têm autoridade para implementar unilateralmente as sugestões.",
+    "As equipes autogerenciadas apresentam índices mais altos de satisfação no trabalho e índices mais baixos de absenteísmo e rotatividade do que as equipes de estruturas mais tradicionais.",
+    "As equipes virtuais tendem a se concentrar mais na consecução das tarefas e nas trocas de informações, e seus membros demonstram maior satisfação com o processo de interação do que aqueles participantes de equipes que interagem pessoalmente.",
+    "A força-tarefa é um tipo de equipe multifuncional que ocorre de forma temporária para cumprir um objetivo."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "comentario": "Robbins define a força-tarefa como uma equipe multifuncional temporária, criada para cumprir um objetivo e depois desfeita. A alternativa A erra porque as equipes multifuncionais reúnem pessoas do mesmo nível hierárquico de áreas diferentes. Nas equipes autogerenciadas, Robbins relata satisfação maior, mas absenteísmo e rotatividade às vezes mais altos, e nas virtuais os membros ficam menos satisfeitos com a interação do que em equipes presenciais; a B atrai, mas o texto diz que essas equipes raramente têm autoridade para implementar sozinhas as sugestões."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "No teste \"as pirâmides coloridas de Pfister\", que cor está mais relacionada à esfera do contato e dos relacionamentos afetivos e sociais?",
+   "alternativas": [
+    "Verde.",
+    "Azul.",
+    "Marrom.",
+    "Violeta.",
+    "Cinza."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Teste das Pirâmides Coloridas de Pfister, o verde é a cor ligada à sensibilidade e ao contato afetivo, isto é, à disposição para os relacionamentos interpessoais e sociais. As outras cores falam de outras esferas: o azul se associa ao controle dos impulsos, o violeta à tensão e à ansiedade, e o cinza ao retraimento afetivo."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "De acordo com Robbins (2004), os líderes carismáticos apresentam características que os diferenciam. Assinale a opção que apresenta uma dessas características:",
+   "alternativas": [
+    "Fortes convicções em relação à visão, sendo considerados indivíduos fortemente comprometidos e dispostos a enfrentar altos custos para atingir sua visão.",
+    "Objetividade, estabelecendo metas compatíveis com a situação atual mantendo o status quo.",
+    "Diretivo, esclarecendo os papéis de cada funcionário e as exigências das tarefas.",
+    "Orientador, oferendo apoio e recompensas necessários para o desempenho eficaz.",
+    "Participativo, consultando os funcionários e utilizando as ideias por eles apresentadas, antes de tomar decisões."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "Para Robbins, o líder carismático tem uma visão que propõe um futuro melhor que o status quo, forte convicção nela e disposição para correr riscos e arcar com custos pessoais para realizá-la. A alternativa B descreve o oposto, a manutenção do status quo. Diretivo, apoiador e participativo são estilos da teoria do caminho-objetivo de House, não traços do carisma."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "De acordo com Bleger (2007), sobre a ansiedade na entrevista, é correto afirmar que",
+   "alternativas": [
+    "diante da ansiedade do entrevistado, o entrevistador não deve recorrer a procedimentos de conselho e apoio direto.",
+    "o entrevistador deve estar atento ao surgimento da ansiedade do entrevistado, evitando com que ela seja mobilizada.",
+    "o entrevistador, diante de mecanismos de defesa do entrevistado, não deve atuar no sentido de desarmá-los, a fim de evitar o surgimento de conflitos.",
+    "a ansiedade não constitui um indicador do desenvolvimento de uma entrevista.",
+    "o TIMING da entrevista não depende do tipo e grau de organização da personalidade do entrevistado."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en",
+   "comentario": "(Cobra além deste material.) Para Bleger, a ansiedade é o indicador central do andamento da entrevista: deve ser mobilizada em grau tolerável, nem evitada nem deixada crescer sem controle. Diante dela, o entrevistador não recorre a conselho ou apoio direto, que encobrem o conflito, e sim a intervenções que o tornem compreensível. As erradas contrariam isso: evitar a ansiedade, deixar intocadas as defesas, negar seu valor de indicador ou ignorar que o timing da entrevista depende da organização da personalidade do entrevistado."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "Segundo Pasquali (2003), para viabilizar um teste com validade de conteúdo, é preciso que se façam que especificações?",
+   "alternativas": [
+    "Determinar, através da técnica de validação convergente-discriminante, a correlação significativa com outras variáveis com as quais o constructo medido pelo teste deveria, pela teoria, estar relacionado.",
+    "Utilizar a intervenção experimental que consiste em verificar se o teste discrimina claramente grupos-critérios produzidos experimentalmente.",
+    "Realizar uma análise da consistência interna do teste que implica o cálculo das correlações de cada item, individualmente, com o restante do teste.",
+    "Definir a representação comportamental do constructo, do conteúdo e da validade de critério.",
+    "Definir o conteúdo, os objetivos a serem avaliados e a determinação da proporção relativa de representação no teste de cada tópico do conteúdo."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "Pasquali ensina que a validade de conteúdo se constrói antes do teste, com um plano que define o conteúdo, os objetivos a avaliar e a proporção de itens de cada tópico (a tabela de especificação). Validação convergente-discriminante e grupos-critério produzidos experimentalmente são técnicas de validade de construto, e a correlação de cada item com o restante do teste é análise de consistência interna, ou seja, de precisão."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "De acordo com Carter (1995), no que diz respeito às mudanças no ciclo de vida familiar, o estágio que \"frequentemente é uma época de consolidação e funcionamento, pois a experiência e a maturidade, e a solvência financeira (nas classes média e alta) geralmente estão em seu pico\", é denominado:",
+   "alternativas": [
+    "reequilíbrio.",
+    "reelaboração dos laços conjugais.",
+    "acréscimo dos \"parentes por afinidade\".",
+    "pós-criação dos filhos.",
+    "emancipação."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "https://www.youtube.com/watch?v=sCxZx6xnLH4",
+   "comentario": "(Cobra além deste material.) No ciclo de vida familiar de Carter e McGoldrick, a fase em que os filhos já saíram de casa costuma ser de consolidação, porque experiência, maturidade e situação financeira estão no auge; é a pós-criação dos filhos. A reelaboração dos laços conjugais e o acréscimo dos parentes por afinidade são tarefas de outras transições (formação do casal, saída dos filhos), e emancipação e reequilíbrio não nomeiam esse estágio."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "De acordo com a Resolução CFP n°07/2003, os documentos escritos decorrentes de avaliação psicológica, bem como todo o material que os fundamentou, deverão ser guardados pelo prazo mínimo de:",
+   "alternativas": [
+    "6 meses.",
+    "1 ano.",
+    "2 anos.",
+    "3 anos.",
+    "5 anos."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+   "comentario": "A Resolução CFP 07/2003 manda guardar os documentos decorrentes de avaliação psicológica e todo o material que os fundamentou por, no mínimo, 5 anos. A Resolução CFP 06/2019, que a substituiu, manteve o mesmo prazo mínimo de 5 anos, que pode ser ampliado por lei ou determinação judicial. Os prazos menores das outras alternativas não existem na norma."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "Segundo Alves et al. (2009), a distorção perceptual que constitui a valorização ou o menosprezo do outro, em função da contaminação de conteúdos cognitivos ou psicológicos, que sempre provoca uma crítica desprezando ou um elogio exacerbado é denominada:",
+   "alternativas": [
+    "efeito halo.",
+    "obstáculos interpessoais.",
+    "diferentes graus de rigor.",
+    "falsidade.",
+    "obstáculos políticos."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.youtube.com/watch?v=VLQBDVe17HU",
+   "comentario": "Efeito halo é a distorção em que uma impressão geral, boa ou ruim, contamina o julgamento do avaliado como um todo, gerando elogio exagerado ou crítica que despreza. É o erro clássico de avaliação de desempenho e de entrevista. Diferentes graus de rigor tratam de avaliadores mais brandos ou mais severos que outros, e obstáculos interpessoais e políticos são barreiras ao processo, não essa contaminação perceptual."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "Segundo Zanelli (2004), as equipes de trabalho passam por cinco fases de desenvolvimento até atingirem um estágio em que o desempenho das tarefas seja favorecido. Correlacione essas fases às suas respectivas definições, e assinale a opção que apresenta a sequência correta.\\nFASES DE DESENVOLVIMENTO\\nI - Formação\\nII - Conflito\\nIII - Normatização\\nIV - Desempenho\\nV - Desintegração\\nDEFINIÇÕES\\n( ) As relações entre os membros estão mais próximas e a troca de informações tende a ser mais espontânea e aberta.\\n( ) Ocorre em todos os tipos de equipe quando os objetivos que levaram à sua criação são atingidos, exceto nas equipes temporárias.\\n( ) O grupo tem sua energia toda voltada para a realização das atividades, mas nem sempre se espera que essas atividades ocorram em níveis constantes.\\n( ) Fase em que são realizados ajustes no sentido de estabelecer o que será realizado, por quem e de qual maneira.\\n( ) Os indivíduos procuram identificar quem é o outro e em que aspectos ele pode contribuir para atingir o objetivo estabelecido pela equipe.\\n( ) O término dessa fase ocorre quando os indivíduos passam a se reconhecer como membros da equipe.",
+   "alternativas": [
+    "(I) (IV) (V) (III) (II) (III)",
+    "(V) (III) (I) (II) (IV) (II)",
+    "(III) (V) (IV) (II) (I) (I)",
+    "(III) (II) (IV) (V) (I) (II)",
+    "(II) (V) (IV) (III) (I) (V)"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "As cinco fases seguem o modelo de Tuckman citado por Zanelli: na formação os membros procuram saber quem é o outro e a fase termina quando se reconhecem como equipe; no conflito ajustam o que fazer, quem faz e como; na normatização as relações ficam próximas e a troca de informação, aberta; no desempenho a energia vai para a tarefa; na desintegração a equipe se desfaz quando atinge seus objetivos. A pegadinha é confundir conflito com normatização, já que as duas falam de ajuste e de regras."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Uma pesquisa de antropólogos relacionada a diferenças de QI ligadas ao sexo, diz que homens e mulheres apresentam um QI médio igual a 100 e desvio padrão, respectivamente, igual a 10 e 5. Utilizando a curva normal para auxiliar na interpretação dos dados e admitindo que cada conjunto de QI tem distribuição normal, pode-se afirmar que",
+   "alternativas": [
+    "68,26% dos QI femininos se localizam entre 95 e 105.",
+    "a distribuição dos escores de QI masculinos é mais homogênea.",
+    "a variável QI não se ajusta à distribuição teórica da curva normal.",
+    "34,13% dos escores masculinos se localizam entre 100 e 120.",
+    "o gênero feminino apresentou o valor mais alto de QI."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=243",
+   "comentario": "Na curva normal, 68,26% dos casos ficam entre a média menos um e a média mais um desvio padrão; para as mulheres (média 100, DP 5), isso dá de 95 a 105. Os homens, com DP 10, têm distribuição mais heterogênea, e não mais homogênea, e entre 100 e 120 (dois desvios acima da média) estão 47,72% deles, não 34,13%, que é o intervalo de 100 a 110. Como as médias são iguais, nenhum gênero teve QI médio maior."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "No teste \"as pirâmides coloridas de Pfister\", que estrutura se caracteriza por uma distribuição das cores que, à primeira vista, pode parecer aleatória, quase como um tapete puro, mas que um exame mais cuidadoso revela um alto grau de elaboração e forte intuição espacial e estética?",
+   "alternativas": [
+    "Em mosaico.",
+    "Assimétrica dinâmica.",
+    "Simétrica.",
+    "Em escada.",
+    "Em manto."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Pfister, a estrutura assimétrica dinâmica parece à primeira vista uma distribuição aleatória de cores, quase um tapete, mas o exame cuidadoso revela organização elaborada, com intuição espacial e estética, e por isso é lida como produção de alto nível. A confusão possível é com os tapetes, que são de fato desorganizados, e com as estruturas simétricas, em escada ou em manto, que mostram a ordem logo à primeira vista."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "Com relação ao Modelo de Avaliação-Intervenção na avaliação prospectiva do exame da criança, segundo Cunha et al. (2003), coloque V (verdadeiro) ou F (falso) nas afirmativas abaixo e, em seguida, assinale a opção correta.\\n( ) Entende-se por avaliação a compreensão do momento evolutivo da criança nas diferentes áreas de seu desenvolvimento, especificando aqueles aspectos significativos e as inter-relações dessa criança com o ambiente sociofamiliar em que ela vive.\\n( ) A avaliação compreende as ações de compilar, analisar, interpretar e integrar dados que possam conduzir ao efetivo conhecimento das condições em que se apresenta o desenvolvimento da criança, inclusive seus progressos e limitações.\\n( ) Nesse modelo, como se pode inferir, a avaliação e a intervenção passam a ser inter-relacionadas intimamente por ações recíprocas, podendo ser concebidas por uma perspectiva integradora de três etapas sucessivas na sua evolução.\\n( ) Com relação ao processo de avaliação, a observação participante, também denominada \"Hora do Jogo\", é destinada ao RAPPORT com a criança e a mãe, e também é utilizada para se obter uma primeira impressão do desenvolvimento daquela e da atitude desta última frente ao filho.\\n( ) Destaca-se que os sinais de alerta e os indicadores têm valor diagnóstico e são avisos para seguir observando e estimulando, convenientemente, o comportamento da criança.",
+   "alternativas": [
+    "(V) (F) (V) (V) (V)",
+    "(V) (V) (V) (V) (F)",
+    "(F) (V) (F) (V) (V)",
+    "(V) (F) (F) (V) (F)",
+    "(V) (F) (V) (V) (F)"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en",
+   "comentario": "(Cobra além deste material.) No modelo de avaliação-intervenção apresentado por Cunha e colaboradores, as quatro primeiras afirmativas estão corretas: a avaliação compreende o momento evolutivo da criança e sua relação com o ambiente, envolve compilar, analisar, interpretar e integrar dados, liga-se à intervenção de modo recíproco e usa a Hora do Jogo para o rapport e a primeira impressão. A última é falsa porque sinais de alerta e indicadores não têm valor diagnóstico: são apenas avisos para seguir observando e estimulando a criança."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Assinale a opção correta, no que tange à administração do T.A.T (Teste de Apercepção Temática), de acordo com Murray (2005).",
+   "alternativas": [
+    "O psicólogo não deve fazer interrupções nas narrativas das histórias contadas pelo examinando, mesmo que essas se apresentem demasiadamente longas e inconsistentes.",
+    "Não convém ao psicólogo fazer observações quando o examinando, mesmo após receber as instruções, apresentar-se orientado para construir várias narrativas de uma mesma prancha.",
+    "Ao término da primeira sessão, o psicólogo deve elogiar as produções do examinando e orientá-lo quanto à continuidade do trabalho na próxima sessão, no que diz respeito à solicitação de novas histórias.",
+    "Aconselha-se que os sujeitos que nunca passaram por testes psicológicos, iniciem a avaliação com uma tarefa menos exigente, como um teste de inteligência, de aptidão mecânica, o Rorschard, antes de serem submetidos ao T.A.T.",
+    "A prancha n° 16 é dada com uma instrução especial: \"Veja o que você pode ver nesta prancha em branco. Imagine uma cena aí e a descreva em detalhe\". Caso o sujeito não consiga, o psicólogo deve elogiar as produções anteriores e solicitar que ele descreva uma experiência vivida."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "De acordo com Chiavenato (2010), quais são os quatro modelos de tratamento admitidos para a seleção de pessoal?",
+   "alternativas": [
+    "Seleção, treinamento, desenvolvimento e avaliação.",
+    "Recrutamento, seleção, classificação e avaliação.",
+    "Colocação, seleção, classificação e agregação de valor.",
+    "Comparação, decisão, agregação de valor e escolha.",
+    "Triagem, avaliação, classificação e decisão."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "Chiavenato apresenta quatro modelos de tratamento na seleção: colocação (um candidato para uma vaga), seleção (vários candidatos para uma vaga), classificação (vários candidatos para várias vagas) e agregação de valor (o candidato é avaliado pelo que acrescenta à organização, não por uma vaga). As outras alternativas misturam etapas do processo de gestão de pessoas, como recrutamento, treinamento e avaliação, que não são modelos de tratamento."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "Com relação à compreensão dos conteúdos e seus significados num protocolo do Z-TESTE, de acordo com Cícero Vaz (2002), assinale a opção INCORRETA.",
+   "alternativas": [
+    "Pessoas flexíveis no modo de perceber e avaliar as coisas apresentam três ou mais categorias de conteúdo.",
+    "É de se esperar que pessoas de nível cultural primário apresentem um índice de conteúdo animal mais elevado do que as pessoas de nível sócio-cultural mais destacado.",
+    "Quando o conteúdo Anatômico é superior a 14% num protocolo, pode ser indício do uso da intelectualização para tolerar a ansiedade, tensão ou frustração, quando não se tratar de profissional da área médica.",
+    "Os conteúdos são os elementos do RORSCHACH menos estáveis e que sofrem maior influência do meio circunstancial e cultural.",
+    "As respostas de animais com características de pessoas são classificadas como (H) e podem indicar relacionamento interpessoal receoso, cauteloso e controlador."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "A afirmativa E é a incorreta porque, na classificação de conteúdos usada por Vaz, o símbolo (H) é para figuras humanas irreais ou fantásticas, e animais com características de pessoas não entram nessa categoria. As demais estão de acordo com o autor: três ou mais categorias de conteúdo indicam flexibilidade, o conteúdo animal tende a ser maior em nível cultural mais simples, anatomia acima do esperado em leigos sugere intelectualização, e os conteúdos são os elementos mais instáveis e mais influenciados pelo meio."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "A Antipsiquiatria sofreu forte influência da teoria da lógica das comunicações da Escola de Palo Alto. De acordo com essa Escola, o conceito, que estaria no âmago da experiência esquizofrênica, que diz respeito a uma forma comunicacional na qual a mensagem expressa verbalmente se contradiria ou se oporia à mensagem expressa gestual ou emocionalmente, é denominado:",
+   "alternativas": [
+    "Crise.",
+    "Doença Mental.",
+    "Duplo Vínculo.",
+    "Saúde Mental.",
+    "Dissonância Cognitiva."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://www.youtube.com/watch?v=HyXJy2ZIbwo",
+   "comentario": "(Cobra além deste material.) Duplo vínculo é o conceito de Bateson e da Escola de Palo Alto para a comunicação em que a mensagem verbal contradiz a gestual ou emocional e a pessoa não pode sair da situação nem comentar a contradição; para esse grupo, estaria no centro da experiência esquizofrênica, e a ideia influenciou a antipsiquiatria. Dissonância cognitiva atrai, mas é conceito de Festinger sobre o desconforto de crenças contraditórias dentro do próprio indivíduo, não sobre a comunicação entre pessoas."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Coloque F (falso) ou V (verdadeiro) nas afirmativas abaixo, com relação à aplicação, levantamento e interpretação do teste palográfico, assinalando, a seguir, a opção que apresenta a sequência correta.\\n( ) Pode-se afirmar que, na segunda parte do teste, o examinando passa a automatizar o movimento, realizando-o com menor concentração que a primeira parte do teste, e a tarefa continua com maior naturalidade.\\n( ) Ritmos diferentes nas duas fases mostram um desequilíbrio entre o ritmo consciente e o inconsciente, entre o comportamento instrumental e o expressivo.\\n( ) O NOR entre 0 e 2,1 pontos revela alta regularidade na realização das atividades, sem oscilações bruscas na produção, e é característico de pessoas que conseguem adaptação adequada às tarefas rotineiras.\\n( ) Para a comparação entre as duas partes do teste, calcula-se o NOR da 1a parte do mesmo modo que ele é calculado para a 2a parte.\\n( ) O gráfico de rendimento que apresenta uma curva parabólica, com NOR acima de 6, é característico de pessoas que expressam ímpeto para iniciar a tarefa, porém não mantém esse rendimento até o final.",
+   "alternativas": [
+    "(V) (F) (V) (F) (F)",
+    "(V) (V) (F) (V) (V)",
+    "(F) (V) (F) (V) (V)",
+    "(V) (V) (V) (F) (F)",
+    "(F) (F) (V) (V) (V)"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Palográfico, a segunda parte do teste é feita com o movimento mais automatizado e menos concentração, ritmos diferentes nas duas fases indicam desequilíbrio entre o ritmo consciente e o inconsciente, o NOR da primeira parte se calcula como o da segunda, e a curva parabólica com NOR alto marca quem começa com ímpeto e não sustenta o rendimento. A afirmativa sobre NOR entre 0 e 2,1 é a falsa pela leitura da banca, que não liga essa faixa à adaptação adequada a tarefas rotineiras como descrito."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "Dentre as concepções acerca da dinâmica do campo grupal, Bion, citado por Zimermam (2000), afirma que \"todo grupo propriamente dito opera sempre em dois níveis que são simultâneos, opostos e interativos, embora bem delimitados entre si\". Qual é o nível de funcionamento grupal, cujos membros atuam nos moldes do processo primário do pensamento, ignorando a noção de temporalidade, de relação causa-efeito, ou se opondo a todo processo de desenvolvimento?",
+   "alternativas": [
+    "mentalidade grupal.",
+    "grupo de trabalho.",
+    "supostos básicos.",
+    "valência.",
+    "cultura do grupo."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://www.youtube.com/watch?v=h-fdQEGLRG8",
+   "comentario": "Para Bion, todo grupo funciona em dois níveis simultâneos: o grupo de trabalho, voltado para a tarefa, consciente e ligado à realidade, e o dos supostos básicos (dependência, luta e fuga, acasalamento), que opera pelo processo primário, ignora tempo e causalidade e se opõe ao desenvolvimento. Mentalidade grupal, valência e cultura do grupo também são conceitos de Bion, mas descrevem outras coisas: a opinião unânime do grupo, a disposição de cada membro para entrar nos supostos básicos e a estrutura que resulta do conflito entre a mentalidade grupal e os desejos de cada membro."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "O Artigo 8o do Código de Ética do Psicólogo versa sobre o atendimento não eventual de criança, adolescente ou interdito. Nesses casos, o psicólogo deverá:",
+   "alternativas": [
+    "obter autorização de ao menos um dos responsáveis pela criança, adolescente ou interdito.",
+    "obter autorização dos dois responsáveis pela criança, adolescente ou interdito.",
+    "obter autorização judicial e dos dois responsáveis, no caso do interdito.",
+    "obter autorização do próprio adolescente, se for maior de 15 anos.",
+    "atender à criança, ao adolescente ou ao interdito, independente de autorização."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://www.youtube.com/watch?v=1MVmB5iFdms",
+   "comentario": "(Cobra além deste material.) Código de Ética (Res. CFP 010/2005), art. 8º: para atender de forma não eventual criança, adolescente ou interdito, o psicólogo deve obter autorização de ao menos um de seus responsáveis. Basta um responsável: o Código não exige os dois responsáveis, nem autorização judicial, nem permite que o adolescente autorize sozinho."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Segundo May (2009), qual é o ponto central do problema da personalidade?",
+   "alternativas": [
+    "A não relação do sofrimento com os aspectos neuróticos da personalidade.",
+    "O amadurecimento do problema em antecipação à crise.",
+    "A transferência do problema para alguma área fora do próprio si-mesmo.",
+    "O ajustamento das tensões dentro do indivíduo.",
+    "O ajustamento do problema para as tensões existentes fora do indivíduo."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://seer.ufrgs.br/index.php/hcpa/article/view/125095",
+   "comentario": "(Cobra além deste material.) Em A arte do aconselhamento psicológico, Rollo May afirma que o ponto central do problema da personalidade é o ajustamento das tensões dentro do próprio indivíduo; o conselheiro ajuda a pessoa a reorganizar esse conflito interno. As alternativas que deslocam o problema para fora do indivíduo (transferi-lo para outra área ou ajustá-lo às tensões externas) contrariam exatamente essa ideia."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "No processo de desenvolvimento da linguagem, a criança passa por um processo de mudanças qualitativas na forma como relaciona a palavra e o objeto representado. De acordo com Baeta (2006), para Luria (1987), o segundo componente fundamental da palavra, que é compreendido como a função de separação de determinados traços no objeto, sua generalização e a introdução desse objeto em um determinado sistema de categorias é denominado:",
+   "alternativas": [
+    "sentido.",
+    "signo.",
+    "ontogênese.",
+    "significado.",
+    "referência objetal."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "https://books.scielo.org/id/5vwmw/pdf/dongo-9786557140505.pdf#page=39",
+   "comentario": "Para Luria, a palavra tem dois componentes: a referência objetal, que é designar o objeto, e o significado, que separa traços do objeto, os generaliza e o insere num sistema de categorias. Sentido atrai, mas é a acepção pessoal e contextual que a palavra ganha para cada sujeito, e signo e ontogênese não são componentes da palavra nesse modelo."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "De acordo com Rabaglio (2012), em relação às técnicas para entrevista comportamental, devem ser utilizadas perguntas:",
+   "alternativas": [
+    "situacionais, para conhecer todas as variáveis que envolveram o relato do candidato e para compreender a dinâmica em que tudo aconteceu.",
+    "fechadas, para que não se perca o foco da situação a ser investigada.",
+    "indutivas, a fim de investigar comportamentos futuros.",
+    "hipotéticas, que investiguem as características de personalidade requeridas para o perfil comportamental.",
+    "com verbos de ação no futuro para averiguar quais seriam as reações do candidato em situações específicas."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=h_Ec7nWKmIc",
+   "comentario": "Na entrevista comportamental de Rabaglio, as perguntas são situacionais e abertas, com verbos de ação no passado, pedindo que o candidato conte o que de fato fez numa situação real, e assim se conhecem as variáveis e a dinâmica do que aconteceu. Perguntas fechadas, indutivas, hipotéticas ou com verbos no futuro levam a respostas idealizadas, e o princípio da técnica é que o comportamento passado prevê o futuro."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "Embora os vários modelos de mediação acolham os princípios da autonomia da vontade, da confidencialidade e da inexistência de hierarquia, como se denomina o modelo que, de acordo com Vasconcelos (2008), adota o princípio da hierarquia e limita a confidencialidade e a autonomia da vontade?",
+   "alternativas": [
+    "Negociação.",
+    "Mediação satisfativa.",
+    "Conciliação.",
+    "Circular-narrativo.",
+    "Transformativo."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Vasconcelos apresenta a conciliação como o modelo que, ao contrário dos demais, admite hierarquia (o conciliador pode sugerir e conduzir a solução) e por isso limita a confidencialidade e a autonomia da vontade das partes. A mediação satisfativa, a circular-narrativa e a transformativa preservam esses princípios, variando o foco entre acordo, narrativa e relação. Negociação não tem terceiro facilitador."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Qual é o modelo de avaliação de aprendizagem que \"enfoca os seguintes requisitos: cognição, habilidade e atitudes vertidas por meio da aquisição de novos conhecimentos, e aplicabilidade efetiva nas tarefas a serem desenvolvidas e na mudança de comportamento dos participantes\" (Pacheco et al., 2009)?",
+   "alternativas": [
+    "Avaliação de processos.",
+    "Avaliação por competências.",
+    "Avaliação de reação e satisfação.",
+    "RETURN ON INVESTMENT.",
+    "Autoavaliação."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.redalyc.org/pdf/261/26170905.pdf",
+   "comentario": "O modelo que examina cognição, habilidades e atitudes adquiridas e sua aplicação efetiva no trabalho, com mudança de comportamento, é a avaliação por competências, porque competência é justamente a combinação de conhecimento, habilidade e atitude em ação. A avaliação de reação mede só a satisfação do participante com o treinamento, e o ROI mede o retorno financeiro."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "Segundo Gonçalves (2004), a primeira tarefa de uma equipe de adoção, antes de se iniciar um programa de trabalho com os postulantes aceitos é",
+   "alternativas": [
+    "investigar a motivação dos candidatos.",
+    "garantir que os candidatos estejam dentro dos limites das disposições legais em vigor no país.",
+    "verificar a qualidade da união conjugal.",
+    "avaliar a capacidade dos candidatos para exercer os papéis inerentes à paternidade e maternidade.",
+    "considerar como sendo prioritários os interesses da criança."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para Gonçalves, antes de iniciar qualquer trabalho com os postulantes, a equipe de adoção precisa garantir que estão dentro dos limites legais em vigor, porque sem isso a adoção não pode prosseguir. Investigar a motivação, a qualidade da união e a capacidade para a parentalidade são tarefas importantes, mas vêm depois, já dentro do programa de trabalho com os candidatos aceitos."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Segundo Alves et al. (2009), qual é o método tradicional de avaliação de desempenho que é apoiado em observações e registros sistemáticos de fatos positivos e negativos que afetam o desempenho?",
+   "alternativas": [
+    "Pesquisa de campo.",
+    "Escolha e distribuição forçada.",
+    "Autoavaliação.",
+    "Incidentes críticos.",
+    "Comparação de pares."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.scielo.br/pdf/rae/v41n1/v41n1a02.pdf",
+   "comentario": "O método dos incidentes críticos se apoia na observação e no registro sistemático de fatos excepcionalmente positivos ou negativos do desempenho, em vez de traços médios. Escolha forçada e comparação de pares comparam ou classificam avaliados por frases ou pares, e a pesquisa de campo se baseia em entrevistas entre um especialista e os gestores; a autoavaliação é feita pelo próprio funcionário."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "Segundo Gonçalves e Brandão (2004), com relação às diversas práticas de resolução de conflitos, é correto afirmar que",
+   "alternativas": [
+    "o mediador deve se deter à análise das determinações psíquicas do conflito do casal, visando a garantir o caráter terapêutico.",
+    "a mediação deve incidir mais sobre o acordo do que sobre o resgate de um canal de comunicação entre os oponentes.",
+    "na conciliação, a solução é decidida por um terceiro, ao qual as partes se submetem.",
+    "o mediador atua mais como facilitador do que interventor ativo, restabelecendo o diálogo para que surjam das partes as possibilidades de entendimento.",
+    "na arbitragem, um terceiro auxilia a manter ou restabelecer a negociação entre os oponentes, reduzindo as animosidades, opinando e sugerindo novas alternativas."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para Gonçalves e Brandão, o mediador atua como facilitador que restabelece o diálogo para que as possibilidades de entendimento surjam das próprias partes. A mediação não tem caráter terapêutico nem prioriza o acordo sobre a comunicação. As alternativas C e E trocam os conceitos: quem decide pelas partes é o árbitro, e quem opina e sugere alternativas é o conciliador."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "No que se refere ao Questionário de Avaliação Tipológica (QUATI), é correto afirmar que",
+   "alternativas": [
+    "o indivíduo que busca novas soluções e estratégias para os problemas, e que tende a farejar possibilidades e a ter atitudes imprevisíveis, tem como função principal o sentimento.",
+    "o indivíduo que está atento à causalidade lógica de seus atos e dos eventos, baseando sempre seu julgamento em padrões universais, ao invés de valores pessoais, tem como função principal o sentimento.",
+    "a sensação e a intuição são consideradas funções avaliativas e descrevem de que maneira a pessoa prefere abordar o mundo.",
+    "o indivíduo caracterizado por apresentar certa impulsividade diante do mundo, que gosta de se arriscar e que tem sempre uma resposta imediata para qualquer situação, tem como função principal a extroversão.",
+    "o pensamento e o sentimento avaliam se o foco de atenção do sujeito, está no mundo externo ou interno."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "O QUATI se baseia nos tipos de Jung: sensação e intuição são funções perceptivas (como a pessoa capta o mundo), pensamento e sentimento são funções avaliativas (como julga), e extroversão e introversão são atitudes que indicam se a energia se volta para fora ou para dentro. Por isso A, B, C e E estão erradas: quem fareja possibilidades é intuitivo, quem julga pela lógica é do tipo pensamento, e o foco interno ou externo é dado pela atitude. A D descreve a orientação extrovertida de quem age imediatamente sobre o mundo, e a banca a aceitou mesmo chamando a extroversão de função."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Que técnica de seleção, segundo Chiavenato (2010), permite pesquisar o comportamento real dos candidatos e suas interações com pessoas, situações e desafios, e que é utilizada como um complemento ao diagnóstico?",
+   "alternativas": [
+    "Testes psicológicos.",
+    "Entrevistas.",
+    "Provas de conhecimento.",
+    "Testes de personalidade.",
+    "Técnicas de simulação."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "",
+   "comentario": "Chiavenato apresenta as técnicas de simulação (dramatização, dinâmicas, provas situacionais) como as que permitem observar o comportamento real do candidato diante de pessoas, situações e desafios, e as trata como complemento do diagnóstico feito pelas outras técnicas. Entrevistas, provas de conhecimento e testes psicológicos ou de personalidade medem por relato ou por desempenho em tarefa padronizada, não pela interação em situação simulada."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Como se denomina o método tradicional de avaliação de desempenho, citado por Chiavenato (2010), que se baseia no princípio da responsabilidade de linha e da função de staff, e que requer entrevistas entre um especialista em avaliação com os gerentes para, em conjunto, avaliarem o desempenho dos respectivos funcionários?",
+   "alternativas": [
+    "Listas de verificação.",
+    "Método dos incidentes críticos.",
+    "Pesquisa de campo.",
+    "Avaliação por objetivos.",
+    "Escolha forçada."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "A pesquisa de campo, segundo Chiavenato, parte do princípio da responsabilidade de linha (o gerente avalia) e da função de staff (o especialista assessora) e é feita por entrevistas entre um especialista em avaliação e cada gerente sobre o desempenho de seus subordinados. Listas de verificação e escolha forçada usam formulários com frases, incidentes críticos registram fatos extremos e a avaliação por objetivos compara resultados com metas combinadas."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "A Escala R, no Teste CPS (Escala de Personalidade do Comrey), permite ao psicólogo uma verificação quanto à tendenciosidade do sujeito ao responder o teste de forma consistente, ponderada e coerente. Com relação à essa escala, é INCORRETO afirmar que",
+   "alternativas": [
+    "a presença de um protocolo com escore acima de 62 pode indicar a possibilidade de invalidação dos testes, visto que o psicólogo não poderá inferir com confiabilidade quais fatores de personalidade estariam verdadeiramente presentes no sujeito.",
+    "um Escore extremo pode significar que o sujeito não leu as afirmações com atenção ou respondeu-as aleatoriamente, sem utilizar o bom-senso.",
+    "para ter certeza da intenção de distorção das respostas, deve-se, antes da aplicação, advertir o candidato quanto à capacidade do teste de detectar essa ação.",
+    "na interpretação da Escala R, deve-se considerar a possibilidade de o sujeito não se conhecer muito bem e, com isso, alterar positiva ou negativamente sua autoimagem.",
+    "escores elevados são comuns em situação de seleção em que as pessoas querem impressionar positivamente o avaliador com respostas socialmente aceitáveis."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No CPS, a escala R avalia a tendência a responder de modo socialmente desejável, para causar boa impressão; escores altos aparecem em seleção e podem invalidar a leitura dos fatores. A afirmativa B é a incorreta porque responder sem ler ou ao acaso é o que detecta a escala V (validade), não a R. As demais tratam do viés de desejabilidade e do autoconhecimento do sujeito, que são justamente o objeto da escala R."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Segundo Vaz (2002), correlacione os determinantes formais do Z-Teste aos critérios de classificação das respostas relativos a esses determinantes, a partir da imagem projetada durante a aplicação do teste, e assinale a opção que apresenta a sequência correta.\\nDETERMINANTES\\nI - F+ (Forma de boa qualidade)\\nII - F+/- (Forma duvidosa)\\nIII - F- (Forma de má performance)\\nCRITÉRIOS DE CLASSIFICAÇÃO\\n( ) O examinando emite a resposta levado simplesmente pela forma, e o conteúdo se situa numa área que não é comum naquela figura, mas ele caracteriza bem esse conteúdo, descrevendo-lhe o formato e configurando-o na área.\\n( ) A resposta dada é considerada comum pela área em que está localizada e ela não vem combinada com outros determinantes, com ou sem descrição do formato.\\n( ) O examinando emite uma resposta em que o conteúdo, percebido somente pela forma, vem associado a um ou mais fenômenos especiais: contaminação, confabulação, ideia de autorreferência, ideia de referência e respostas de posição.\\n( ) Se trata de uma resposta com conteúdo abstrato e que não vem acompanhada de nenhum determinante combinatório (movimento, cor, sombreado, preto e branco).\\n( ) O conteúdo da resposta é visto numa área em que comumente é dada essa resposta; vem verbalizada com forma simples, mas o examinando, por si mesmo, tira a precisão formal do que está vendo.",
+   "alternativas": [
+    "(II) (II) (III) (II) (I)",
+    "(I) (II) (II) (II) (II)",
+    "(II) (I) (II) (III) (I)",
+    "(II) (I) (II) (III) (II)",
+    "(I) (I) (III) (III) (II)"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "No Z-Teste, segundo Vaz, é F+ a resposta de boa forma, seja a comum para aquela área, seja a de área incomum bem descrita e configurada pelo examinando. É F- a que vem associada a fenômenos especiais (contaminação, confabulação, autorreferência, posição) e a de conteúdo abstrato sem nenhum determinante combinado. É F+/- a resposta de área comum em que o próprio examinando tira a precisão da forma que vê. A sequência I, I, III, III, II resulta disso."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "No livro de Gilliéron (1993), D. Malan, em seus estudos, demonstrou que mudanças duráveis podem ser conseguidas através de uma psicoterapia de curta duração. Segundo D. Malan, os fatores indicativos de um bom prognóstico para as psicoterapias breves são: forte desejo de mudar, via melhor autoconhecimento;",
+   "alternativas": [
+    "apoio mais ativo ao ego do paciente; e ausências de perturbações neuróticas.",
+    "possibilidade de focalizar o tratamento; e interpretações que possam ligar os movimentos transferenciais às imagos parentais.",
+    "possibilidade de focalizar o tratamento; e interpretações que possam ligar as suas angústias aos mecanismos de defesa do ego.",
+    "possibilidade de focalizar o tratamento; e negligência ou atenção seletiva.",
+    "ênfase na problemática intra-psíquica do sujeito; e apoio mais ativo ao ego do paciente."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "",
+   "comentario": "Malan, citado por Gilliéron, aponta como sinais de bom prognóstico na psicoterapia breve a forte motivação para mudar pelo autoconhecimento, a possibilidade de focalizar o tratamento e interpretações que liguem a transferência às figuras parentais, ou seja, o trabalho psicanalítico focal. As alternativas com apoio mais ativo ao ego descrevem a terapia de apoio, e a ligação das angústias aos mecanismos de defesa, embora pareça psicanalítica, não é o vínculo transferência e pais que Malan destaca."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Dentre as teorias de motivação, citadas em Spector (2010), com relação à teoria da autoeficácia, assinale a opção INCORRETA.",
+   "alternativas": [
+    "A autoeficácia pode ser desenvolvida por meio da realização bem sucedida de tarefas com graus de dificuldade crescentes.",
+    "A autoeficácia guarda relação com o desempenho, mas não com a habilidade.",
+    "A teoria da autoeficácia e a teoria da expectativa são compatíveis ao preverem se as pessoas podem realizar bem suas tarefas quando acreditam fazer isso.",
+    "O efeito Galatea mostra que, se um indivíduo acredita em sua capacidade de realizar algo, seu desempenho tende a ser melhor.",
+    "A autoeficácia das pessoas pode ser diferenciada para tarefas distintas."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=LkDyXYo7Tpk",
+   "comentario": "Para Spector, a autoeficácia, a crença de que se consegue realizar uma tarefa, se relaciona tanto com o desempenho quanto com a habilidade real da pessoa, por isso a afirmativa B é a incorreta. As demais estão de acordo com o autor: a autoeficácia cresce com sucessos em tarefas de dificuldade crescente, é compatível com a teoria da expectativa, varia de uma tarefa para outra, e o efeito Galatea mostra que acreditar na própria capacidade melhora o desempenho."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Segundo Levenfus et al. (2002), o processo de orientação profissional clínica é dividido em etapas. Assinale a opção que corresponde à tarefa do orientador na etapa \"Estudo das Possibilidades\".",
+   "alternativas": [
+    "Favorecer e evidenciar o aparecimento das contradições na fala do orientando para que possa checá-las e fazer algumas confrontações, tendo sempre em vista o aclaramento dos seus desejos e interesses.",
+    "Traçar um perfil sobre o funcionamento geral da pessoa e elaborar uma hipótese diagnóstica relativa à sua problemática.",
+    "Proporcionar ao orientando a análise dos prós e dos contras de cada alternativa que ele tem, levando sempre em conta seus referenciais internos.",
+    "Ajudar o orientando a suprir sua carência de dados, e a promover a ampliação e a correção das possíveis distorções dos conhecimentos que ele possa ter em relação às profissões, ao curso, ao mercado de trabalho, aos concursos e às capacidades exigidas dos profissionais.",
+    "Buscar esclarecimentos sobre a dimensão temporal vivenciada pelo cliente, ou seja, como ele concebe e articula o passado, o presente e as expectativas que tem sobre o futuro."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.youtube.com/watch?v=-hvdqpVhAN4",
+   "comentario": "(Cobra além deste material.) Na lógica da banca, a etapa de estudo das possibilidades em Levenfus não se limita a listar opções: o orientador faz aparecer as contradições no discurso do orientando e o confronta com elas para que fiquem claros seus desejos e interesses. Por essa leitura, traçar o perfil e a hipótese diagnóstica, dar informação profissional e explorar a dimensão temporal pertencem a outros momentos do processo, e a análise de prós e contras de cada alternativa também é entendida como outro momento."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "De acordo com Chiavenato (2010), o modelo contingencial de desenho de cargo não se baseia na presunção de estabilidade e permanência dos objetivos e dos processos organizacionais. Com relação a esse modelo é INCORRETO afirmar que",
+   "alternativas": [
+    "supõe a utilização das capacidades de autodireção e autocontrole das pessoas e, sobretudo, objetivos definidos conjuntamente entre o ocupante e seu gerente.",
+    "é mutável em decorrência do desenvolvimento pessoal do ocupante e do desenvolvimento tecnológico da tarefa.",
+    "a satisfação das necessidades individuais de participação e de consideração torna-se o objetivo principal das atividades gerenciais.",
+    "possui dimensões essenciais que criam condições para a satisfação intrínseca como resultado do cumprimento da tarefa que o ocupante realiza.",
+    "todo cargo deve introduzir a dimensão de autonomia, a qual se refere ao grau de independência e de critério pessoal que o ocupante tem para executar e planejar seu trabalho."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2025/07/cartilha_POT_B-1.pdf",
+   "comentario": "(Cobra além deste material.) No modelo contingencial de desenho de cargos de Chiavenato, o cargo muda com o desenvolvimento do ocupante e da tecnologia, supõe autodireção e autocontrole com objetivos combinados com o gerente e inclui dimensões essenciais, como autonomia, que geram satisfação intrínseca. A alternativa C é a incorreta porque colocar a satisfação das necessidades de participação e consideração como objetivo principal da gerência é a marca do modelo humanístico (das relações humanas), não do contingencial."
+  }
+ ]
+}

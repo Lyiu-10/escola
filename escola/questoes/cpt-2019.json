@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2019",
+ "cor": "AMARELA",
+ "url": "https://arquivos.qconcursos.com/prova/arquivo_prova/62573/marinha-2019-quadro-tecnico-primeiro-tenente-psicologia-prova.pdf",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/CP-T%20-%202019_Gabarito%20final_1.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Assinale a opção que apresenta, segundo Dalgalarrondo (2008), uma forma de psicose caracterizada pelo surgimento e desenvolvimento de um delírio, geralmente sistematizado, com ausência de alucinações, e que permanece como que \"cristalizado\" em um domínio da personalidade do indivíduo, com relativa preservação do resto do psiquismo, e que via de regra tem um curso crônico e estável.",
+   "alternativas": [
+    "Paranoia.",
+    "Transtorno bipolar.",
+    "Distimia.",
+    "Transtorno esquizofreniforme.",
+    "Mania."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Dalgalarrondo descreve a paranoia como psicose em que um delírio sistematizado, sem alucinações, fica restrito a um setor da vida psíquica, com o restante da personalidade relativamente preservado e curso crônico e estável. O transtorno esquizofreniforme, a alternativa mais tentadora, tem quadro semelhante ao da esquizofrenia (com alucinações e desorganização) e duração curta, não crônica. Transtorno bipolar, distimia e mania são quadros do humor, não psicoses delirantes isoladas."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "Bergamini (1997) afirma, quanto aos Estilos de Comportamento Motivacional, que há pessoas que têm a convicção pessoal de que o mais importante na vida seja \"promover o valor que os outros têm\". Assim, motivadas pelo desejo de contribuir em tudo o que for possível para a realização pessoal dos demais, será possível descobrir o que há de melhor neles. Consideradas como \"formadoras de talentos\", têm abertura e sensibilidade no sentido de buscar o que for mais produtivo para o outro, procurando identificar seus problemas e ajudar naquilo que for possível. Nesse sentido, a autora refere-se ao estilo de comportamento motivacional de orientação:",
+   "alternativas": [
+    "para a ação.",
+    "para a conciliação.",
+    "para a manutenção.",
+    "participativa.",
+    "para pessoas."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "comentario": "No modelo de estilos de comportamento motivacional de Bergamini, a orientação participativa é a de quem tem como valor central promover o valor dos outros, contribuindo para a realização pessoal deles e funcionando como formador de talentos. A opção \"para pessoas\" é a armadilha, porque descreve o conteúdo do estilo mas não é o nome que a autora usa. Os estilos de ação, manutenção e conciliação têm outros eixos: buscar resultados e desafios, preservar o que já existe e buscar harmonia e aceitação no grupo."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "Segundo Wahl, citado por Mello Filho (1991), a seguinte dinâmica inconsciente seria encontrada no hipocondríaco, EXCETO:",
+   "alternativas": [
+    "hostilidade dirigida contra a representação externa de um objeto real sentido como mal.",
+    "necessidade de expiar culpas através de queixas somáticas.",
+    "relações de ambivalências durante importantes fases do seu desenvolvimento.",
+    "benefício secundário advindo da doença.",
+    "doença como uma defesa contra sentimentos de abandono e perigo de morte."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.youtube.com/watch?v=XP0VGNLFpsg",
+   "comentario": "Na leitura psicodinâmica de Wahl, a hostilidade do hipocondríaco não se dirige a um objeto externo real, mas a um objeto mau internalizado, que passa a ser vivido no próprio corpo, no órgão de que ele se queixa. Por isso a alternativa A é a exceção. As demais aparecem na lista: expiação de culpa pelas queixas somáticas, ambivalência em fases importantes do desenvolvimento, ganho secundário e a doença como defesa contra o abandono e o perigo de morte."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "De acordo com Hutz et al. (2016), a entrevista inicial pode seguir diferentes modelos. Que modelo de entrevista é mais rara no contexto clínico, com menor aplicabilidade no psicodiagnóstico e que, caso utilizada, irá necessitar de informações complementares?",
+   "alternativas": [
+    "Anamnese.",
+    "Livre estruturação.",
+    "Semiestruturada.",
+    "Estruturada.",
+    "Triagem."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "comentario": "Em Hutz et al. (2016), a entrevista estruturada, com perguntas fixas em ordem fixa, é a menos usada na clínica: serve mais a pesquisa e a diagnóstico padronizado, e no psicodiagnóstico precisa ser completada por outras fontes de informação. A semiestruturada é o modelo mais comum na clínica justamente por combinar roteiro e flexibilidade. A anamnese e a triagem são finalidades da entrevista, não o grau de estruturação, e a de livre estruturação é o oposto da descrita."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "Robbins (2010) apresenta a divisão das bases ou fontes do poder em dois grupos genéricos - formal e pessoal. Um dos tipos de poder apresentados pelo autor trata do controle formal que uma pessoa tem para usar e regular os recursos da organização, de acordo com sua posição dentro dela. Esse poder é mais amplo que os outros tipos de poder formal e inclui, mais especificamente, a aceitação da autoridade do cargo pelos demais membros da organização. Tal descrição corresponde ao poder:",
+   "alternativas": [
+    "de competência.",
+    "de recompensa.",
+    "de referência.",
+    "legítimo.",
+    "coercitivo."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "Robbins divide o poder em formal (coercitivo, de recompensa e legítimo) e pessoal (de competência e de referência). O poder legítimo é o que vem da posição na hierarquia e é o mais amplo dos formais, porque inclui a aceitação da autoridade do cargo pelos demais membros. Coerção e recompensa também são formais, mas se limitam a punir ou premiar; competência e referência vêm da pessoa, não do cargo."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "Assinale a opção que apresenta, de acordo com Cronbach (in: Erthal, 2001), os testes chamados de execução típica ou habitual em que o indivíduo não precisa se esforçar para resolver uma tarefa do melhor modo possível.",
+   "alternativas": [
+    "Teste de aptidão.",
+    "Teste de aproveitamento.",
+    "Teste de personalidade.",
+    "Teste de inteligência.",
+    "Teste de habilidade."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "Cronbach separa os testes de desempenho máximo, em que se pede ao indivíduo que faça o melhor possível (aptidão, aproveitamento, inteligência, habilidade), dos testes de execução típica, que buscam o modo habitual de a pessoa agir. Os testes de personalidade, interesses e atitudes são o exemplo clássico de execução típica, porque não há resposta melhor a alcançar com esforço. Todas as outras alternativas são de desempenho máximo."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "No texto \"Psicologia de grupo e análise do ego\", Freud (1920) faz alusão ao instinto gregário anteriormente proposto por Trotter. Segundo Trotter, tal instinto, inato aos seres humanos, faria com que os indivíduos se deixassem arremessar junto com a multidão, quase que fortuitamente. Freud, no entanto, faz uma crítica a essa proposição de Trotter. Qual é a crítica feita por Freud?",
+   "alternativas": [
+    "Esse gregarismo tão somente constitui uma analogia à multicelularidade, sendo, por assim dizer, uma continuação dela.",
+    "O instinto gregário é da mesma natureza que os instintos de autopreservação, nutrição e sexo.",
+    "O instinto gregário não deixa lugar para a figura do líder, que faz do indivíduo não um animal gregário, mas um animal de horda, conduzido por um chefe.",
+    "O instinto gregário, ou sentimento de grupo, não eclode apenas na puberdade, mas pode ser observado nas crianças pequenas quando são deixadas sozinhas.",
+    "O instinto gregário é, na verdade, uma continuação do instinto de sedução instaurador do complexo de Édipo."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.redalyc.org/pdf/2820/282021763014.pdf",
+   "comentario": "(Cobra além deste material.) Em Psicologia de grupo e análise do ego, Freud critica Trotter por o instinto gregário não deixar lugar para o líder, e corrige a fórmula: o homem não é um animal de rebanho, mas um animal de horda, conduzido por um chefe. Essa crítica sustenta a tese do texto de que o laço libidinal com o líder organiza o grupo. As outras alternativas atribuem a Freud ideias que ele não defende ali, como tratar o gregarismo como instinto primário da mesma natureza dos de autopreservação ou derivá-lo da sedução edípica."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "Schein (in: Carvalho e Ronchi, 2005), com relação ao papel da liderança, considera ser uma das mais decisivas funções dos líderes a construção da cultura da organização. Para ele, quando a organização já possui potencial para viver e sobreviver, as crenças, os valores e as premissas maiores do empresário são transmitidos aos modelos conceituais dos subordinados. O autor mostra um conjunto de mecanismos primários utilizados pela liderança para implantação e transmissão da cultura aos membros de novas organizações. Assinale a opção que apresenta alguns desses mecanismos primários.",
+   "alternativas": [
+    "Ritos e rituais organizacionais.",
+    "Estórias, lendas e mitos sobre pessoas e eventos.",
+    "Sistemas e rotinas organizacionais.",
+    "Declarações formais de filosofia, valores e credos organizacionais.",
+    "Regras deliberadas de modelagem, ensino e treino."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/2410/241016430005.pdf",
+   "comentario": "Schein separa os mecanismos primários de implantação da cultura, ligados ao comportamento direto do líder (aquilo a que ele presta atenção e mede, como reage a crises, a modelagem, o ensino e o treino deliberados, e os critérios para recompensar e selecionar), dos mecanismos secundários, de reforço. Ritos e rituais, histórias e mitos, sistemas e rotinas e declarações formais de filosofia são todos secundários. Por isso só a alternativa da modelagem, ensino e treino cabe entre os primários."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "Assinale a opção que apresenta corretamente três níveis essenciais para a atuação do psicólogo em hospitais, de acordo com Romano (1999).",
+   "alternativas": [
+    "Psicossocial, psicopedagógico e psicodinâmico.",
+    "Psicossocial, psicodinâmico, e psicossomático.",
+    "Psicoprofilático, psicodiagnóstico e psicoterapêutico.",
+    "Psicopropedêutico, psicodiagnóstico e psicossomático.",
+    "Psicopedagógico, psicoprofilático e psicoterapêutico."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-hospitalar",
+   "item": "https://www.youtube.com/watch?v=Dtpy12uWMpE",
+   "comentario": "A banca adota a formulação de Romano (1999) em que a atuação do psicólogo no hospital se dá em três níveis: psicopedagógico (orientar e informar paciente, família e equipe), psicoprofilático (prevenir agravos emocionais do adoecimento e da internação) e psicoterapêutico (intervir sobre o sofrimento já instalado). A alternativa com psicodiagnóstico é a mais tentadora, porque troca só um dos termos e mantém os outros dois. As opções com psicossocial, psicodinâmico e psicossomático misturam referenciais teóricos com níveis de atuação."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "Segundo Urbina (2007), quando decisões de qualquer tipo devem ser tomadas, no todo ou em parte, com base em escores de teste, seus usuários precisam ter certeza de que esses escores são razoavelmente confiáveis. Qual termo se baseia na consistência e precisão dos resultados do processo de mensuração e sugere confiabilidade?",
+   "alternativas": [
+    "Validade.",
+    "Fidedignidade.",
+    "Objetividade.",
+    "Eficiência.",
+    "Amplitude."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.youtube.com/watch?v=XUrunX0QGGA",
+   "comentario": "Para Urbina, fidedignidade (ou precisão) é a consistência e a estabilidade dos escores: o quanto o resultado se repete e está livre de erro de medida, o que justifica confiar nele para decidir. Validade é outra coisa: diz se o teste mede o que pretende medir e se as inferências feitas com os escores se sustentam. Objetividade, eficiência e amplitude não são o termo técnico para a consistência da mensuração."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "Faissal et al (2005) apresenta um tipo de entrevista onde em vez de fazer perguntas ao candidato que o remetam a situações hipotéticas e condicionais, o entrevistador formula a pergunta solicitando ao candidato que descreva uma situação concreta que ilustre o que se pretende analisar. As perguntas nesse tipo de entrevista devem ser abertas, específicas e devem utilizar verbos de ação no passado. A qual tipo de entrevista os autores se referem?",
+   "alternativas": [
+    "Técnica.",
+    "Psicológica.",
+    "Situacional.",
+    "Comportamental.",
+    "Experimental."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "comentario": "A entrevista comportamental pede ao candidato que descreva situações concretas que viveu, com perguntas abertas, específicas e verbos de ação no passado (\"conte uma vez em que você...\"), partindo da ideia de que o comportamento passado prediz o futuro. A situacional é a pegadinha: ela faz justamente o que a questão diz que esta não faz, ao propor situações hipotéticas (\"o que você faria se...\"). Técnica e psicológica dizem respeito ao conteúdo avaliado, não à forma das perguntas."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "Segundo Robbins (2010), com relação à tomada de decisão intuitiva, assinale a opção INCORRETA.",
+   "alternativas": [
+    "A tomada de decisão intuitiva é um processo cognitivo inconsciente apoiado nas experiências vividas e que funciona, necessariamente, como uma alternativa ao método racional, não podendo tais métodos serem utilizados de forma complementar.",
+    "O tomador de decisões intuitivo é capaz de decidir rapidamente com base no que parece ser um volume de informações muito limitado.",
+    "Durante a maior parte do século XX, acreditou-se que o uso da intuição pelos tomadores de decisões era irracional e ineficaz. Atualmente o modelo racional tem sido superenfatizado e, em certas situações, confiar na intuição pode resultar em decisões melhores.",
+    "Não se pode confiar muito na intuição. Por não ser quantificável, é difícil saber quando os palpites estão certos ou errados. O segredo é não abandonar a intuição e nem confiar exclusivamente nela, mas complementá-la com evidências e bom senso.",
+    "A racionalidade é extremamente valorizada pela maioria dos administradores e é tida como o jeito certo de tomar decisões."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Robbins trata a intuição como complemento da análise racional, não como substituto excludente: a afirmação A erra ao dizer que ela funciona necessariamente como alternativa e que os dois métodos não podem ser usados juntos. As demais reproduzem o autor: o decisor intuitivo decide rápido com pouca informação, o modelo racional foi superenfatizado e a intuição pode ajudar em certas situações, não se deve confiar só nela, e a racionalidade é muito valorizada pelos administradores."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "Segundo Bentham (2006), a teoria de Piaget é uma teoria de estágios, formando uma sequência invariável, o que significa que todos os indivíduos, em todos os lugares, passam por esses estágios na mesma ordem. De acordo com a autora, a emergência da função simbólica geral é uma das conquistas-chave do estágio:",
+   "alternativas": [
+    "pré-operatório.",
+    "sensório-motor.",
+    "operatório-motor.",
+    "operatório concreto.",
+    "operatório formal."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+   "comentario": "Na leitura de Bentham, a emergência da função simbólica geral fecha o período sensório-motor: no último subestágio a criança passa a representar mentalmente objetos e ações ausentes, o que permite a imitação diferida e o início do faz de conta. A alternativa pré-operatório tenta porque é nesse estágio que o simbolismo se expande (linguagem, jogo simbólico), mas a conquista inicial pertence ao sensório-motor. \"Operatório-motor\" não é um estágio de Piaget, e os operatórios concreto e formal tratam de operações lógicas, não do surgimento do símbolo."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Lemgruber (2000), quanto à Psicoterapia Breve Focal, reporta-se ao conceito de irradiação dos ganhos terapêuticos, ao falar de modificações e progressos que podem ser realizados pelo paciente como reflexo da reestruturação de um aspecto específico, focalizado durante a terapia. Como a autora denomina esse mecanismo interno de potencialização dos ganhos terapêuticos na técnica focal?",
+   "alternativas": [
+    "Tesouro da experiência.",
+    "Efeito catalisador.",
+    "Feedback positivo.",
+    "Experiência Emocional Corretiva (EEC).",
+    "Efeito carambola."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "comentario": "Lemgruber chama de efeito carambola o mecanismo pelo qual a mudança obtida no foco trabalhado se irradia para outras áreas da vida do paciente, como a bola que, ao ser tocada, movimenta outras. Experiência emocional corretiva é um conceito de Alexander e French sobre reviver com o terapeuta uma situação de modo diferente, não a irradiação dos ganhos. Efeito catalisador, feedback positivo e tesouro da experiência não são o termo usado pela autora."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "Um paciente busca atendimento psicológico dizendo sentir-se \"diferente\", tendo seu contato com os amigos se tornado mais distante, seus sentimentos variando pouco, e com dificuldades na vida social que não consegue explicar ou entender. Perguntado pelo psicólogo sobre quando isso teve início, o paciente responde que depois de um período em que começou a ver vultos pela casa e a ouvir vozes, controlado em seguida pelo uso de medicamentos. Contudo, o que o incomoda agora são as dificuldades relatadas inicialmente, e que seu psiquiatra sugeriu que fossem levadas ao psicólogo. De acordo com Dalgalarrondo (2008), qual a hipótese diagnóstica para esse paciente?",
+   "alternativas": [
+    "Depressão atípica.",
+    "Depressão com sintomas psicóticos.",
+    "Transtorno bipolar.",
+    "Esquizofrenia.",
+    "Paranoia."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "Dejours (2005) realiza uma análise crítica do conceito de fator humano. Um importante conceito apresentado pelo autor diz respeito àquilo que em uma tarefa não pode ser obtido pela execução rigorosa do prescrito, representando assim, os limites do saber, do conhecimento e da concepção, com os quais se chocam os atos técnicos e as atividades de trabalho. Nesse contexto, o autor se refere a qual termo?",
+   "alternativas": [
+    "O real do trabalho.",
+    "O inconsciente do trabalho.",
+    "O trabalho latente.",
+    "O teatro do trabalho.",
+    "O trabalho tácito."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf",
+   "comentario": "(Cobra além deste material.) Para Dejours, o real do trabalho é aquilo que resiste ao domínio técnico e escapa à execução rigorosa do prescrito: o ponto em que o saber e a concepção falham e o trabalhador precisa inventar. É a distância entre trabalho prescrito e trabalho real que dá sentido ao conceito. Os outros termos não são os do autor; \"teatro do trabalho\" aparece em Dejours, mas como o cenário em que o sujeito encena seu sofrimento, não como limite do saber técnico."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "Um psicólogo foi designado para realizar uma Pesquisa de Clima Organizacional em sua empresa. Ele decidiu elaborar o questionário de sua pesquisa baseando-se na Teoria da motivação-higiene de Herzberg. De acordo com Cavancalti et al (2009), sobre a Teoria de Herzberg, é INCORRETO afirmar que:",
+   "alternativas": [
+    "Herzberg identificou que os fatores envolvidos na produção da satisfação no trabalho são distintos dos que levam à insatisfação.",
+    "uma concentração nos fatores higiênicos pode produzir a satisfação no trabalho e fazer com que as pessoas obtenham um maior desempenho, desde que gerenciados de forma sistemática pelo líder.",
+    "fatores motivadores são fatores de crescimento e relacionam-se ao trabalho em si, como execução da atividade, reconhecimento recebido, conteúdo do trabalho, responsabilidade e desenvolvimento.",
+    "fatores de higiene são externos à atividade, como política e administração da empresa, supervisão, relacionamentos interpessoais, condições de trabalho, salário, status e segurança, e quando presentes apenas impedem a insatisfação.",
+    "Herzberg propôs, para motivar, o enriquecimento dos cargos, de forma a proporcionar mais autonomia, senso de realização, responsabilidade e desenvolvimento aos funcionários."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "comentario": "Na teoria de Herzberg, os fatores higiênicos (salário, supervisão, condições de trabalho, relacionamentos, política da empresa) apenas evitam a insatisfação; não produzem satisfação nem maior desempenho, por mais bem gerenciados que sejam. Por isso a alternativa B é a incorreta. As demais estão de acordo com a teoria: satisfação e insatisfação têm fatores distintos, os motivadores estão no conteúdo do próprio trabalho, e a proposta para motivar é o enriquecimento do cargo."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "De acordo com Moscovici (2015), as pessoas diferem na maneira de perceber, pensar, sentir e agir. A partir de divergências de percepção e ideias, as pessoas se colocam em posições antagônicas, caracterizando uma situação conflitiva. Sobre as características do conflito, abordadas por Moscovici, coloque F (falso) ou V (verdadeiro) nas afirmativas abaixo e, em seguida, assinale a opção correta.\n( ) As situações de conflito são componentes evitáveis, mas necessárias à vida grupal.\n( ) O conflito, em si, não é patológico nem destrutivo.\n( ) O conflito não funciona como a raiz de mudanças pessoais, grupais e sociais.\n( ) De um ponto de vista amplo, o conflito tem muitas funções positivas.\n( ) O conflito previne a estagnação decorrente do equilíbrio constante da concordância.",
+   "alternativas": [
+    "(V) (V) (F) (V) (F)",
+    "(F) (V) (F) (V) (F)",
+    "(V) (F) (F) (V) (V)",
+    "(F) (V) (F) (V) (V)",
+    "(V) (V) (V) (F) (V)"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "",
+   "comentario": "Moscovici trata o conflito como inevitável, e não evitável, na vida dos grupos, o que torna falsa a primeira afirmação. Para a autora, o conflito em si não é patológico nem destrutivo, tem muitas funções positivas, previne a estagnação da concordância constante e é raiz de mudanças pessoais, grupais e sociais; por isso a terceira afirmação, que nega esse papel, também é falsa. A sequência fica F, V, F, V, V."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "Segundo Zimerman (2000), há um fenômeno específico e típico que costuma aparecer no campo grupal e que consiste no fato de que, como um jogo de diapasões acústicos ou de bilhar, a comunicação trazida por um membro do grupo vai ecoar em um outro, o qual, por sua vez, vai transmitir um significado afetivo equivalente, ainda que provavelmente venha embutido numa narrativa de embalagem bem diferente, e assim por diante. De acordo com o autor, esse fenômeno equivale ao da \"livre associação de ideias\" que acontece nas situações individuais e que, por isso mesmo, exige uma atenção especial por parte do coordenador do grupo. Assinale a opção que apresenta a denominação de tal fenômeno.",
+   "alternativas": [
+    "Telefone sem fio.",
+    "Associação livre grupal.",
+    "Ressonância.",
+    "Continente.",
+    "Repercussão afetiva."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf",
+   "comentario": "Zimerman chama de ressonância o fenômeno em que a fala de um membro ecoa em outro, que responde com significado afetivo equivalente embalado em outra narrativa, como diapasões que vibram juntos; é o correspondente grupal da livre associação, e o coordenador deve acompanhar esse fio. \"Associação livre grupal\" é a pegadinha, porque descreve a função do fenômeno mas não é o nome dado pelo autor. Continente é outro conceito (a capacidade de acolher as angústias do grupo), e as demais opções não são termos técnicos dele."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "De acordo com Beck (2013), assinale a opção que apresenta uma parte integral, não opcional, da terapia cognitiva, por meio da qual o terapeuta busca, em essência, estender as oportunidades para a mudança cognitiva e comportamental durante toda a semana do paciente.",
+   "alternativas": [
+    "Treinamento cognitivo.",
+    "Sessões na residência do paciente (home sessions).",
+    "Exercícios de casa.",
+    "Sessões de encorajamento.",
+    "Encontro terapêutico online."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "Judith Beck considera os exercícios de casa (tarefas entre sessões) parte integral, e não opcional, da terapia cognitiva, porque estendem para a semana inteira as oportunidades de testar pensamentos e mudar comportamentos. Sessões de encorajamento (booster) existem, mas acontecem depois do fim do tratamento para manter ganhos. As demais alternativas não são componentes obrigatórios do modelo."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "Schein (in: Carvalho e Ronchi, 2005) afirma que a dificuldade de mudar está intimamente ligada à necessidade de não somente aprender o novo, mas também desaprender o que existe, apontando então para possibilidades aplicadas a ________ fortes que dificultam o gerenciamento do(a) ________.\nAssinale a opção que apresenta o termo que completa corretamente as lacunas em branco, segundo o autor.",
+   "alternativas": [
+    "Modos de comportamentos, clima organizacional.",
+    "Modelos mentais, cultura organizacional.",
+    "Impressões sensoriais, cultura organizacional.",
+    "Modelos mentais, clima organizacional.",
+    "Interesses pessoais, comportamento organizacional."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=AjgMgRMpKc0",
+   "comentario": "Para Schein, mudar exige desaprender, e o obstáculo são os modelos mentais fortes, que tornam difícil gerir a cultura organizacional, já que a cultura se apoia em pressupostos básicos compartilhados e tidos como certos. As opções com clima erram o construto: clima é a percepção mais imediata e superficial do ambiente, não o nível profundo que resiste à mudança. Modos de comportamento, impressões sensoriais e interesses pessoais não são os termos usados pelo autor."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "Segundo Spector (2005), muitas empresas possuem regras de como demonstrar emoções, exigindo expressões positivas como sorrir para os clientes e parecer estar se divertindo com o trabalho. Assim, a expressão exigida de determinadas emoções no trabalho, que pode ter tanto efeitos positivos como negativos sobre os funcionários, é chamada pelo autor de:",
+   "alternativas": [
+    "Esforço expressivo.",
+    "Trabalho aparente.",
+    "Emoções falsas.",
+    "Trabalho emocional.",
+    "Exigência afetiva."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/SaudeDoTrabalhador_WEB_FINAL_1_outubro.pdf",
+   "comentario": "(Cobra além deste material.) Spector chama de trabalho emocional a exigência de expressar certas emoções no trabalho, como sorrir e parecer satisfeito diante do cliente, independentemente do que a pessoa sente. O conceito importa para a saúde do trabalhador porque a distância entre a emoção sentida e a exigida pode gerar desgaste, embora também possa ter efeitos positivos. As demais opções não são o termo técnico do autor."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "De acordo com Robbins (2010), uma equipe de trabalho é um grupo em que os esforços individuais resultam em um nível de desempenho maior do que a soma das contribuições individuais. Nesse sentido, o autor descreve os tipos mais comuns de equipes em uma organização. Um desses tipos é tão amplamente utilizado que torna-se difícil imaginar uma organização de grande porte sem ele. Tal modelo de equipe é formado por um grupo de funcionários do mesmo nível hierárquico, mas de diferentes setores da empresa e que se juntam para cumprir uma tarefa. Assinale a opção que apresenta o tipo de equipe descrito.",
+   "alternativas": [
+    "Equipes autogerenciadas.",
+    "High performance team.",
+    "Equipes multifuncionais.",
+    "Equipes de resolução de problemas.",
+    "Equipes em rede."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://www.youtube.com/watch?v=qJ8VqqunnEw",
+   "comentario": "Robbins descreve a equipe multifuncional como formada por funcionários do mesmo nível hierárquico e de diferentes setores que se juntam para cumprir uma tarefa, e diz que ela é tão usada que é difícil imaginar uma grande organização sem ela. As equipes de resolução de problemas reúnem pessoas do mesmo departamento para sugerir melhorias; as autogerenciadas assumem também funções de supervisão. High performance team e equipes em rede não são o tipo que o autor descreve com essa composição."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Chiavenato (2004) apresenta uma técnica de seleção que deixa o tratamento individual e isolado para centrar-se no tratamento em grupos, substitui o método verbal ou de execução pela Ação Social e permite o autoconhecimento. Assinale a opção que corresponde a essa técnica de seleção.",
+   "alternativas": [
+    "Testes de personalidade.",
+    "Técnicas de simulação.",
+    "Provas de realização.",
+    "Testes situacionais.",
+    "Entrevista coletiva."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "comentario": "Chiavenato apresenta as técnicas de simulação (como o psicodrama e a dramatização) como as que trocam o tratamento individual pelo grupal e o método verbal ou de execução pela ação social, colocando o candidato para viver papéis diante do grupo e favorecendo o autoconhecimento. Testes de personalidade e provas de realização (ou de conhecimento) são aplicados individualmente e medem traços ou desempenho. \"Testes situacionais\" e \"entrevista coletiva\" não são os nomes dessa categoria na classificação do autor."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Segundo Hélia Goúvêa, citada por Lemgruber (2000), a Psicoterapia Breve de Apoio (PBA) é uma forma de tratamento caracterizada pela utilização direta de determinadas medidas em relação ao paciente. Assinale a opção INCORRETA em relação a essas medidas.",
+   "alternativas": [
+    "Reforço dos mecanismos de defesa adaptativos.",
+    "Afastamento das pressões ambientais demasiadamente intensas.",
+    "Ênfase na modificação da personalidade e obtenção de insights.",
+    "Adoção de medidas que visam ao alívio dos sintomas.",
+    "Desenvolvimento de habilidades egoicas, como a promoção de autonomia."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484",
+   "comentario": "A Psicoterapia Breve de Apoio visa a estabilizar o paciente: reforça defesas adaptativas, afasta pressões ambientais excessivas, alivia sintomas e desenvolve recursos do ego, como a autonomia. Buscar modificação da personalidade e insight é objetivo das psicoterapias breves de orientação mobilizadora ou expressiva, não da de apoio, por isso a alternativa C é a incorreta."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "Assinale a opção que apresenta o conceito que constitui, de acordo com Dalgalarrondo (2008), elemento fundamental que o profissional de saúde mental deve conhecer para realizar as primeiras entrevistas com o paciente de forma mais habilidosa, entendendo-o e tratando-o de modo menos ingênuo, mais profundo e sensível.",
+   "alternativas": [
+    "Diagnóstico diferencial.",
+    "Transferência.",
+    "Resistência.",
+    "Mecanismos de defesa.",
+    "Simulação."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "https://journals.usp.br/rmrp/article/download/711/723/1387",
+   "comentario": "Dalgalarrondo destaca a transferência (e a contratransferência) como conceito que o profissional de saúde mental precisa conhecer para conduzir as primeiras entrevistas de modo menos ingênuo, entendendo os afetos que o paciente projeta sobre ele e os que despertam no próprio entrevistador. Diagnóstico diferencial, resistência e mecanismos de defesa são importantes, mas não são o elemento que o autor coloca como base da relação nas primeiras entrevistas. Simulação é um tema pontual de avaliação."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Segundo a Classificação de Transtornos Mentais e de Comportamento da CID-10 (1993), assinale a opção que apresenta a síndrome decorrente de doença cerebral, usualmente de natureza crônica ou progressiva, na qual há perturbação de múltiplas funções corticais superiores, e na qual não há obnubilação de consciência.",
+   "alternativas": [
+    "Síndrome de Korsakov.",
+    "Demência.",
+    "Transorno de ansiedade.",
+    "Distimia.",
+    "Doença de Huntington."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download",
+   "comentario": "Na CID-10, demência (F00-F03) é a síndrome decorrente de doença cerebral, em geral crônica ou progressiva, com perturbação de múltiplas funções corticais superiores (memória, pensamento, orientação, linguagem, julgamento) e sem obnubilação da consciência, o que a separa do delirium. A síndrome de Korsakov é amnéstica, centrada na memória, não em múltiplas funções. A doença de Huntington é uma das causas possíveis de demência, não a síndrome; ansiedade e distimia não são quadros orgânicos."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "Segundo Selye, citado por Mello Filho (1991), tudo aquilo que ameaça a vida provoca stress e respostas adaptativas, das quais participa o organismo como um todo. Nesse processo de reação, chamado de síndrome geral de adaptação, Selye distinguiu três fases sucessivas: de alarme, resistência e esgotamento. Assinale a opção que apresenta o primeiro estágio da fase de alarme.",
+   "alternativas": [
+    "Impacto.",
+    "Ação.",
+    "Relutância.",
+    "Contrachoque.",
+    "Choque."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.redalyc.org/pdf/3953/395336186011.pdf",
+   "comentario": "Na síndrome geral de adaptação de Selye, a fase de alarme se divide em dois momentos: o choque, reação inicial ao agente estressor, e o contrachoque, em que o organismo começa a mobilizar defesas. O primeiro estágio, portanto, é o choque; contrachoque é a alternativa que confunde por estar na mesma fase, mas vem depois. Impacto, ação e relutância não fazem parte do modelo."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "Em \"Psicologia de grupo e análise do ego\", a distinção entre a identificação do ego com um objeto e a substituição do ideal do ego por um objeto encontra, segundo Freud (1920), uma interessante ilustração em dois grandes grupos artificiais estudados por Freud nesse texto. Assinale a opção que apresenta esses grupos.",
+   "alternativas": [
+    "As comunidades religiosas e a horda primitiva.",
+    "O povo egípcio e o povo hebreu.",
+    "As sociedades com Estado e as sociedades sem Estado.",
+    "Os grupos sem líderes e os grupos com líderes.",
+    "O exército e a igreja cristã."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=oHsInJ9BpXM",
+   "comentario": "(Cobra além deste material.) Freud usa a Igreja (a cristandade católica) e o exército como os dois grandes grupos artificiais, mantidos por uma força externa e organizados pelo laço libidinal com um líder (Cristo, o comandante). A partir deles distingue a identificação do ego entre os membros e a substituição do ideal do ego pelo objeto (o líder). A horda primitiva aparece no texto, mas como hipótese sobre a origem do grupo, não como grupo artificial estudado."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "De acordo com a Lei 10.216/2001, que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais, assinale a opção correta.",
+   "alternativas": [
+    "É facultada a internação de pacientes portadores de transtornos mentais em instituições com características asilares.",
+    "A internação psiquiátrica involuntária deverá, no prazo de quarenta e oito horas, ser comunicada ao Ministério Público Estadual pelo responsável técnico do estabelecimento.",
+    "A internação, em qualquer de suas modalidades, poderá ser indicada mesmo quando os recursos extra-hospitalares se mostrarem suficientes.",
+    "O paciente há longo tempo hospitalizado ou para o qual se caracterize situação de grave dependência institucional será objeto de política específica de alta planejada e reabilitação psicossocial assistida.",
+    "A internação involuntária é a única que necessita ser autorizada por médico devidamente registrado no Conselho Regional de Medicina do Estado onde se localize o estabelecimento."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm",
+   "comentario": "Lei 10.216/2001, art. 5º: o paciente há longo tempo hospitalizado ou em grave dependência institucional é objeto de política específica de alta planejada e reabilitação psicossocial assistida. As outras erram: a internação em instituições com características asilares é vedada (art. 4º, § 3º), a internação involuntária é comunicada ao Ministério Público Estadual em 72 horas, não 48 (art. 8º, § 1º), a internação só é indicada quando os recursos extra-hospitalares forem insuficientes (art. 4º, caput), e tanto a voluntária quanto a involuntária precisam de autorização de médico registrado no CRM (art. 8º, caput)."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Com relação às síndromes relacionadas ao comportamento alimentar, de acordo com Dalgalarrondo (2008), coloque F (falso) ou V (verdadeiro) nas afirmativas abaixo e, em seguida, assinale a opção correta:\n( ) A anorexia nervosa caracteriza-se pela perda de peso autoinduzida e distorção da imagem corporal (apesar de muito emagrecida, a paciente percebe-se gorda).\n( ) O comer compulsivo (binge eating) é um quadro próximo à bulimia, mas dela se distingue pela ausência de vômitos e purgações autoinduzidos.\n( ) Não é comum que a anorética apresente episódios de bulimia (\"ataques\" à geladeira, à sorveteria, etc., seguidos de vômitos e/ou purgação).\n( ) Obesos têm dificuldade em diferenciar a fome de sensações desagradáveis, bem como ansiedade e disforias em geral, de modo que todo mal-estar é falsamente percebido como fome.",
+   "alternativas": [
+    "(F) (V) (V) (V)",
+    "(V) (F) (F) (F)",
+    "(V) (V) (F) (V)",
+    "(V) (F) (V) (V)",
+    "(V) (V) (V) (F)"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Dalgalarrondo descreve a anorexia pela perda de peso autoinduzida com distorção da imagem corporal, o comer compulsivo como quadro próximo da bulimia mas sem as purgações, e a dificuldade do obeso de distinguir fome de ansiedade e mal-estar, o que torna verdadeiras a primeira, a segunda e a quarta afirmações. A terceira é falsa porque é comum, e não incomum, a anoréxica ter episódios bulímicos seguidos de vômitos ou purgação. A sequência fica V, V, F, V."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "De acordo com Elizabeth Carneiro, citada em Gigliotti e Guimarães (2010), estima-se que apenas 20% das pessoas que procuram tratamento para dependências químicas encontram-se preparadas para a mudança, ou seja, querem se tratar. 40% delas estariam ambivalentes e outros 40% em resistência absoluta, não considerando a possibilidade de mudança. Dado que a aplicação do programa de Doze Passos (originalmente criado para o tratamento do alcoolismo) e a abordagem cognitivo-comportamental destina-se, em geral, àqueles 20% que desejam se tratar, qual opção é indicada pela autora para dar conta dos chamados pacientes difíceis?",
+   "alternativas": [
+    "Entrevista Motivacional (EM).",
+    "Abordagem Corretiva das Defesas (ACD).",
+    "Grupos anônimos.",
+    "Abordagem focal sobre resistências (AFR).",
+    "Psicoterapia Breve de Apoio (PBA)."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf",
+   "comentario": "(Cobra além deste material.) A entrevista motivacional foi desenvolvida para quem ainda está ambivalente ou resistente à mudança: em vez de confrontar, o terapeuta explora a ambivalência e reforça a motivação do próprio paciente. Por isso é a indicação para os pacientes difíceis, que não estão entre os 20% já prontos para os Doze Passos ou para a abordagem cognitivo-comportamental. Grupos anônimos seguem o modelo dos Doze Passos, e as demais siglas não são abordagens propostas para esse fim."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Zimerman (2000) adota uma classificação de grupo que se baseia no critério das finalidades a que se propõe, dividindo-o em dois grandes grupos: operativos e terapêuticos. Com relação à classificação de grupo adotada por Zimerman, assinale a opção correta.",
+   "alternativas": [
+    "Os grupos operativos subdividem-se em grupos de ensino-aprendizagem, de autoajuda e institucionais.",
+    "Os grupos de autoajuda se dão na área médica em geral e na área de psiquiatria, inclusive com pacientes borderline.",
+    "Os grupos terapêuticos subdividem-se em grupos de reflexão e psicoterápicos propriamente ditos.",
+    "Os grupos comunitários estão classificados entre os grupos terapêuticos.",
+    "Os grupos de autoajuda estão classificados entre os grupos operativos."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://www.youtube.com/watch?v=h-fdQEGLRG8",
+   "comentario": "Zimerman divide os grupos em operativos (ensino-aprendizagem, institucionais e comunitários) e terapêuticos (psicoterápicos e de autoajuda), e situa os grupos de autoajuda na área médica em geral e na psiquiatria, incluindo pacientes borderline. Por isso A e E erram ao pôr autoajuda entre os operativos, D erra ao pôr os comunitários entre os terapêuticos, e C erra porque os grupos de reflexão pertencem aos operativos de ensino-aprendizagem."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Segundo Beck (2013), em geral, pensamentos carregados de afeto são os mais importantes para se trabalhar na sessão. Portanto, é vital para o terapeuta estar alerta a indícios tanto verbais como não-verbais que evidenciem uma alteração ou intensificação da emoção do paciente na sessão. Tais mudanças são o momento oportuno para se obter o que Beck chama de:",
+   "alternativas": [
+    "Respostas automáticas.",
+    "Cognições arco-reflexas.",
+    "Continuum cognitivo.",
+    "Cognições quentes.",
+    "Cognições disfuncionais."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "Judith Beck chama de cognições quentes os pensamentos automáticos que surgem com carga afetiva na própria sessão, e recomenda aproveitar a mudança ou intensificação da emoção do paciente para perguntar o que passou pela cabeça dele naquele momento. Cognições disfuncionais é a opção que tenta, mas é um termo genérico, que não depende da emoção presente na sessão. Continuum cognitivo é uma técnica de reestruturação, e as demais não são termos do modelo."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Segundo Bergamini (1997), da mesma forma como é possível classificar os indivíduos de acordo com os seus estilos comportamentais, pode-se caracterizar as organizações segundo sua psicoestrutura. Possuindo sinais típicos, as disfunções organizacionais apresentam, segundo a autora, cinco síndromes diferentes de comportamento neurótico. Sendo assim, correlacione o tipo de patologia organizacional à sua respectiva definição e, em seguida, assinale a opção correta.\nTIPO\nI- Organização paranóide\nII- Organização compulsiva\nIII- Organização teatral\nIV- Organização depressiva\nV- Organização esquizóide\nDEFINIÇÃO\n( ) O ambiente dessas organizações reflete hiperatividade, impulsividade e perigosa incredulidade diante das ameaças. Portanto, ter audácia, assumir riscos e estar aberto à inovação, bem como à diversificação representam os seus temas preferidos.\n( ) Facilmente observam-se nessas organizações cenários típicos de um verdadeiro campo de batalha no qual, motivados por ambição pessoal, os executivos, seja em que nível for, procuram satisfazer seus próprios interesses e motivações carreiristas.\n( ) Essas empresas pendem mais para o conservadorismo, procurando evitar de forma sistemática o desenvolvimento de novas estratégias, bem como experimentam dificuldades quanto a inovações de produtos, pois isso lhes parece excessivamente ameaçador.\n( ) Há uma ausência sistemática de diretividade que se espalha sob forma de apatia desde o topo até a base da organização. Ao se fugir sistematicamente das decisões, a estratégia adotada é a de contemporização, na qual a maior parte do tempo é consagrada ao detalhamento de rotinas irrelevantes.\n( ) É essa a organização que prioriza de tal modo a sua preocupação com as ameaças que institucionaliza, de forma sistemática e clara, todo um conjunto de rituais defensivos.",
+   "alternativas": [
+    "(II) (III) (IV) (V) (I)",
+    "(II) (I) (V) (III) (IV)",
+    "(III) (V) (I) (IV) (II)",
+    "(V) (II) (I) (IV) (III)",
+    "(III) (I) (IV) (II) (V)"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=AjgMgRMpKc0",
+   "comentario": "(Cobra além deste material.) Bergamini apresenta cinco tipos de organização neurótica: a teatral, impulsiva e audaciosa; a esquizoide, com vazio de liderança e executivos disputando interesses próprios; a paranoide, desconfiada e conservadora diante de inovações que parecem ameaças; a depressiva, apática e presa a rotinas irrelevantes; e a compulsiva, que institucionaliza rituais e controles. A associação fica III, V, I, IV, II. O ponto que mais confunde é separar a paranoide, marcada pelo conservadorismo diante do risco, da compulsiva, marcada pelos rituais institucionalizados."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "Spector (2005) aborda cinco fatores que podem atuar como possíveis causas de desgaste e estresse no trabalho. Segundo o autor, o grau de incerteza dos funcionários sobre suas funções e responsabilidades no trabalho diz respeito a que tipo de fator estressante do trabalho?",
+   "alternativas": [
+    "Conflito de papéis.",
+    "Carga psicológica.",
+    "Ambiguidade do papel.",
+    "Conflito interfuncional.",
+    "Controle."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf",
+   "comentario": "Spector define ambiguidade de papel como a incerteza do funcionário sobre quais são suas funções e responsabilidades. Conflito de papéis é a alternativa que tenta, mas descreve outra coisa: demandas incompatíveis entre si, como ordens contraditórias de dois chefes. Carga de trabalho e controle (autonomia) são outros estressores do modelo, e conflito interfuncional não é um deles."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "De acordo com o Código de Ética Profissional do Psicólogo, é correto afirmar que:",
+   "alternativas": [
+    "ao psicólogo é vedado fornecer, mesmo a quem de direito, os resultados decorrentes da prestação de serviços psicológicos.",
+    "ao psicólogo é facultado utilizar ou favorecer o uso de conhecimento e a utilização de práticas psicológicas como instrumento de castigo ou punição.",
+    "em caso de extinção do serviço de psicologia, o psicólogo responsável informará ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais.",
+    "no atendimento à criança e ao adolescente, deve ser comunicado aos responsáveis o máximo de informações para se promoverem medidas em seu benefício.",
+    "nos documentos que embasam as atividades em equipe multiprofissional, o psicólogo registrará todas as informações do atendimento, mesmo que não estejam relacionadas ao cumprimento do objetivo do trabalho."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+   "comentario": "Código de Ética (Res. CFP 010/2005), art. 15, § 2º: na extinção do serviço de Psicologia, o psicólogo responsável informa ao Conselho Regional, que providencia a destinação dos arquivos confidenciais. As outras erram: é dever informar a quem de direito os resultados (art. 1º, g), é vedado usar a Psicologia como castigo ou punição (art. 2º, c), aos responsáveis pela criança ou adolescente comunica-se só o estritamente essencial (art. 13) e nos documentos de equipe registra-se só o necessário ao objetivo do trabalho (art. 12)."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Segundo Robbins (2010), costumamos utilizar diversas simplificações quando julgamos outras pessoas. Tais simplificações nos permitem chegar rapidamente a percepções precisas e oferecem dados válidos para previsões, entretanto, não estão livres de erros e podem resultar em distorções significativas. De acordo com o autor, o julgamento de uma pessoa com base na percepção sobre o grupo ao qual ela pertence, diz respeito a qual forma de simplificação?",
+   "alternativas": [
+    "Projeção.",
+    "Estereotipagem.",
+    "Percepção seletiva.",
+    "Efeito de Halo.",
+    "Efeito de contraste."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=412",
+   "comentario": "Para Robbins, estereotipagem é julgar alguém pela percepção que se tem do grupo a que a pessoa pertence. Projeção é atribuir aos outros as próprias características; efeito de halo é generalizar a partir de uma única característica da própria pessoa; percepção seletiva é filtrar o que se vê conforme interesses e experiências; efeito de contraste é avaliar alguém em comparação com quem foi visto antes."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "De acordo com Hutz et al. (2016), um psicodiagnóstco de criança ou adolescente deve levar em consideração elementos desenvolvimentais que abrangem a avaliação das seguintes características:",
+   "alternativas": [
+    "Emocionais, psicomotoras, de autonomia.",
+    "Emocionais, comportamentais, psicomotoras.",
+    "Cognitivas, objetais, emocionais.",
+    "Cognitivas, psicomotoras, emocionais.",
+    "Cognitivas, psicomotoras, genéticas."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "https://www.youtube.com/watch?v=CtabP9zF6Qs",
+   "comentario": "Hutz et al. indicam que o psicodiagnóstico de criança e adolescente precisa considerar o momento do desenvolvimento, avaliando as características cognitivas, psicomotoras e emocionais, para saber se o que se observa é esperado para a idade. As alternativas parecidas trocam um desses três eixos por outro que não é o do autor, como autonomia, comportamento, relações objetais ou genética."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Dejours (2013) reconsidera a definição dada inicialmente à noção de sofrimento em psicopatologia do trabalho. Considerando o que é apresentado pelo autor, assinale a opção correta.",
+   "alternativas": [
+    "A teoria em psicopatologia do trabalho pretende dar definições objetivas que em matéria de organização do trabalho e de pressões psíquicas colocariam os sujeitos definitivamente ao abrigo de todo e qualquer sofrimento.",
+    "O sofrimento pode ser evitado e nem sempre tem raízes na história singular do sujeito, podendo repercutir ou não no teatro do trabalho.",
+    "O desafio para a psicopatologia do trabalho é definir as ações suscetíveis de eliminar o sofrimento, que quando eliminado beneficia a identidade.",
+    "O sofrimento patogênico aparece quando todas as margens de liberdade na transformação, gestão e aperfeiçoamento da organização do trabalho já foram utilizadas.",
+    "Para Dejours, o sofrimento tem sempre uma conotação negativa, podendo existir apenas um tipo de sofrimento, o patogênico."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "comentario": "Para Dejours, o sofrimento patogênico aparece quando o trabalhador já esgotou as margens de liberdade para transformar, gerir e aperfeiçoar a organização do trabalho, e não lhe resta como transformar o sofrimento em algo criativo. As outras erram porque, para o autor, o sofrimento não pode ser eliminado nem evitado e tem raízes na história singular do sujeito; a psicopatologia do trabalho não promete pôr ninguém ao abrigo de todo sofrimento; e há também o sofrimento criativo, de modo que ele não é sempre negativo nem só patogênico."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "Em \"Luto e melancolia\", Freud (1917) ocupa-se em distinguir as características clínicas do luto e da melancolia. De acordo com o que é observado por Freud no referido texto, assinale a opção INCORRETA.",
+   "alternativas": [
+    "Jamais ocorre considerar o luto como sendo uma condição patológica e submetê-lo a tratamento.",
+    "A melancolia está de alguma forma relacionada a uma perda objetal retirada da consciência, em contraposição ao luto, no qual nada existe de inconsciente a respeito da perda.",
+    "Confia-se que o luto seja superado após certo lapso de tempo, julgando-se inútil ou mesmo prejudicial qualquer interferência em relação a ele.",
+    "As características do luto em relação à melancolia são exatamente as mesmas, exceto apenas no que diz respeito à perturbação da autoestima.",
+    "Na melancolia, o mundo torna-se pobre e vazio; no luto, isso acontece com o ego."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=oHsInJ9BpXM",
+   "comentario": "A alternativa E inverte a frase célebre de Freud: no luto, é o mundo que se torna pobre e vazio; na melancolia, é o próprio ego. As demais estão no texto: o luto não é tratado como condição patológica e espera-se que passe com o tempo, na melancolia a perda é retirada da consciência, e luto e melancolia têm os mesmos traços exceto a perturbação da autoestima, presente só na melancolia."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "De acordo com Cavalcanti et al (2009), a teoria da liderança situacional de Hersey e Blanchard é uma teoria contingencial cujo foco está voltado para os seguidores. Segundo essa teoria, a liderança bem-sucedida só será alcançada por meio da seleção de um estilo de liderança adequado, que depende do nível de preparo ou maturidade dos seguidores. Assim, se um subordinado apresenta um nível de maturidade moderada para alta, ou seja, possui capacidade para realizar a tarefa, mas não está disposto nem motivado a fazer o que o líder quer, é correto afirmar que o líder deve:",
+   "alternativas": [
+    "delegar responsabilidade a ele e permitir considerável autonomia para que possa decidir como o trabalho deve ser feito (delegar).",
+    "se concentrar no comportamento orientado para a tarefa e ser bastante diretivo ao determinar o papel do subordinado e estabelecer objetivos, padrões e procedimentos (determinar).",
+    "dar suporte e consultar o subordinado na tomada de decisão, utilizando um estilo participativo, de apoio e não diretivo (compartilhar).",
+    "dar total suporte e direcionar detalhadamente o trabalho do subordinado (envolver).",
+    "adotar um comportamento diretivo, mas ao mesmo tempo deve oferecer apoio (persuadir)."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "No modelo de Hersey e Blanchard, o seguidor de maturidade moderada a alta, capaz mas sem disposição, pede o estilo compartilhar (participar): pouca direção na tarefa e muito apoio, consultando-o nas decisões para recuperar o engajamento. Persuadir (alta direção e alto apoio) serve a quem está disposto mas ainda não é capaz; determinar, a quem não é capaz nem está disposto; delegar, a quem é capaz e está disposto."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Chiavenato (2004) afirma que em todo acidente de trabalho estão presentes alguns elementos. Um desses elementos diz respeito à violação de procedimento aceito como seguro, ou seja, deixar de usar equipamento de proteção individual, distrair-se ou conversar durante o serviço, fumar em área proibida e limpar máquina ligada ou em movimento. Segundo o autor, a definição acima se refere a qual elemento presente nos acidentes no trabalho?",
+   "alternativas": [
+    "O agente.",
+    "O tipo de acidente.",
+    "A condição insegura.",
+    "O fator pessoal de insegurança.",
+    "O ato inseguro."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Chiavenato distingue a condição insegura, que está no ambiente (máquina sem proteção, piso escorregadio), do ato inseguro, que é a violação pela pessoa de um procedimento aceito como seguro, como deixar de usar o EPI, distrair-se ou limpar máquina em movimento. Os exemplos do enunciado são todos de conduta, por isso o elemento é o ato inseguro. Agente, tipo de acidente e fator pessoal de insegurança são outros elementos do acidente, mas não descrevem a violação do procedimento."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Em relação à Psicoterapia Breve (PB), de acordo com Lemgruber (2000), analise as afirmativas abaixo e, em seguida, assinale a opção correta.\nI- Comunicar e esclarecer ao paciente o foco a ser trabalhado é um componente inerente à técnica de PB.\nII- A atitude deliberadamente ativa do terapeuta em PB evidencia a diferença desta em relação à postura de neutralidade/ ambiguidade/ atenção flutuante da psicanálise.\nIII- A atividade do terapeuta em PB independe de uma avaliação e de um diagnóstico do paciente.\nIV- O terapeuta em PB interpreta seletivamente em direção ao foco terapêutico.",
+   "alternativas": [
+    "Apenas as afirmativas I, II e IV estão corretas.",
+    "Apenas as afirmativas II e IV estão corretas.",
+    "Apenas as afirmativas I, III e IV estão corretas.",
+    "Apenas as afirmativas I e II estão corretas.",
+    "Apenas as afirmativas II, III e IV estão corretas."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484",
+   "comentario": "Na psicoterapia breve de Lemgruber, o foco é comunicado e esclarecido ao paciente, o terapeuta adota postura deliberadamente ativa, diferente da neutralidade e da atenção flutuante da psicanálise, e interpreta seletivamente na direção do foco, o que torna corretas as afirmativas I, II e IV. A III é falsa porque a atividade do terapeuta depende de avaliação e diagnóstico prévios, que definem a indicação e o próprio foco."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Segundo Siqueira e Tamayo (2008), os conceitos de clima e cultura organizacional já foram tratados como similares, porém a evolução dos estudos mostra uma distinção nítida entre os dois constructos. Sendo assim, assinale a opção correta.",
+   "alternativas": [
+    "O clima organizacional é mais voltado para a compreensão e para o compartilhamento do sistema de normas e de valores que dão origem às políticas e às atividades da organização e para os modos por meio dos quais eles são comunicados e transmitidos.",
+    "A cultura organizacional está mais relacionada às percepções e interpretações comuns das dimensões das atividades, do ambiente e das políticas que caracterizam a organização.",
+    "O clima organizacional é formado por padrões de referência criados por um dado grupo que influenciam o modo de perceber, pensar e sentir dos membros deste grupo.",
+    "O clima organizacional envolve alguns elementos da cultura, mas é mais superficial do que esta, sendo o clima parte da cultura e está relacionado ao que pode ser experimentado de modo mais imediato.",
+    "O clima organizacional inspira as filosofias gerenciais e as práticas administrativas e estas moldam a cultura organizacional em diferentes setores."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.redalyc.org/pdf/4006/400638287004.pdf",
+   "comentario": "Siqueira e Tamayo tratam o clima como mais superficial e imediato que a cultura: ele envolve alguns elementos culturais e é vivido de forma direta pelos membros, por isso pode ser visto como parte da cultura. As alternativas A, B e C trocam os construtos: normas e valores compartilhados e padrões de referência que moldam o modo de pensar e sentir são da cultura, e percepções comuns sobre o ambiente são do clima. A E inverte a direção, porque é a cultura que inspira filosofias e práticas gerenciais."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Urbina (2007) aponta que uma das primeiras coisas a saber ao se inspecionar um conjunto de dados é onde a maior quantidade deles pode ser localizada, bem como seu valor mais representativo ou central. Segundo a autora, qual é a medida de tendência central mais influenciada pelos escores extremos e mais amplamente usada para variáveis quantitativas?",
+   "alternativas": [
+    "Moda.",
+    "Média.",
+    "Mediana.",
+    "Bimodal.",
+    "Multimodal."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.youtube.com/watch?v=XUrunX0QGGA",
+   "comentario": "(Cobra além deste material.) A média é a medida de tendência central mais usada para variáveis quantitativas e, por somar todos os valores, é a mais influenciada por escores extremos. A mediana é justamente a mais resistente a extremos, e a moda indica só o valor mais frequente. Bimodal e multimodal descrevem a forma da distribuição, não são medidas de tendência central."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Robbins (2010) afirma que as atitudes relacionadas com o trabalho revelam avaliações positivas ou negativas que os trabalhadores têm em relação a diversos aspectos de seu ambiente de trabalho. Segundo o autor, a maior parte das pesquisas em comportamento organizacional tem focalizado três tipos de atitudes: satisfação com o trabalho, envolvimento com o trabalho e comprometimento organizacional. Com relação a tais atitudes, segundo o autor, é correto afirmar que:",
+   "alternativas": [
+    "o conceito de satisfação com o trabalho diz respeito ao grau em que a pessoa se identifica psicologicamente com seu trabalho e considera seu desempenho nele importante para sua valorização pessoal.",
+    "um estudo descobriu que o comprometimento normativo de gestores apresentava uma relação mais forte com o desempenho organizacional que o comprometimento afetivo.",
+    "quando as pessoas falam sobre atitudes de um funcionário, normalmente se referem ao comprometimento organizacional.",
+    "o conceito de envolvimento com o trabalho se refere ao sentimento positivo com relação ao trabalho, resultado de uma avaliação de suas características.",
+    "o conceito de comprometimento normativo diz respeito a uma obrigação de permanecer na empresa por razões morais e éticas."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=nNw8-eCKz5Q",
+   "comentario": "Para Robbins, comprometimento normativo é a obrigação de permanecer na organização por razões morais ou éticas. As outras trocam os conceitos: identificar-se psicologicamente com o trabalho e ver nele importância para o valor pessoal é envolvimento, não satisfação; o sentimento positivo resultante da avaliação das características do trabalho é satisfação, não envolvimento; quando se fala de atitudes do funcionário fala-se em geral de satisfação; e o comprometimento que o estudo citado relaciona mais fortemente ao desempenho é o afetivo."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "Na área de orientação profissional, as teorias psicológicas são as que analisam os determinantes internos do indivíduo que explicariam seus movimentos de escolha. De acordo com Crites (in: Bock, 2006), em relação à teoria de traço e fator, é correto afirmar que:",
+   "alternativas": [
+    "busca explicar como os indivíduos constituem sua personalidade e, por isso, como se aproximam das profissões.",
+    "a concepção de escolha aproxima-se do modelo médico, que \"radiografa\" o sujeito, analisa os dados coletados e os sintomas, realiza um diagnóstico e, por fim, propõe um prognóstico.",
+    "defende a concepção de desenvolvimento vocacional, os indivíduos se desenvolvem vocacionalmente, e este processo dura a vida toda.",
+    "propõe que o orientador profissional deve ajudar a pessoa a determinar empiricamente a utilidade de cada decisão.",
+    "propõe que o orientador profissional deve ajudar a pessoa a analisar os dados capazes de constituírem bases adequadas para se estabelecer uma decisão."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.youtube.com/watch?v=GZkzw6MSfxc",
+   "comentario": "Crites aproxima a teoria de traço e fator do modelo médico: o orientador \"radiografa\" o sujeito com testes de aptidões e interesses, analisa os dados, faz um diagnóstico e propõe um prognóstico, casando traços da pessoa com fatores da ocupação. Explicar a escolha pela constituição da personalidade é das teorias psicodinâmicas, o desenvolvimento vocacional ao longo da vida é das teorias desenvolvimentistas, e ajudar a pesar a utilidade e os dados de cada decisão é das teorias decisionais."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Segundo Urbina (2007), a administração apropriada de testes psicológicos requer a preparação cuidadosa do ambiente da testagem, do testando e da pessoa que administra o teste. Que termo, segundo a autora, se refere à relação harmônica que deve existir entre testandos e examinadores, a fim de maximizar a fidedignidade e a validade dos resultados?",
+   "alternativas": [
+    "Eficiência.",
+    "Objetividade.",
+    "Rapport.",
+    "Cooperação.",
+    "Coordenação."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "",
+   "comentario": "Urbina chama de rapport a relação harmoniosa entre examinador e testando, construída para que ele se sinta à vontade e coopere, o que protege a fidedignidade e a validade dos escores. Cooperação é a opção que tenta, mas é o efeito esperado do rapport, não o nome da relação. Eficiência e objetividade são qualidades do instrumento ou da aplicação, e coordenação não é termo da autora."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Segundo Bentham (2006), o conceito de Vygotsky que atribui uma grande importância ao papel da instrução, uma vez que supõe que aquilo que um indivíduo pode fazer atualmente, com auxílio, poderá fazer amanhã por si mesmo é o conceito de:",
+   "alternativas": [
+    "Zona de Assimilação Formal.",
+    "Zona de Acomodação Proximal.",
+    "Zona de Desenvolvimento Principal.",
+    "Zona de Desenvolvimento Proximal.",
+    "Zona de Equilibração Proximal."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://idonline.emnuvens.com.br/id/article/download/2369/3654/9465",
+   "comentario": "A zona de desenvolvimento proximal de Vygotsky é a distância entre o que a criança faz sozinha e o que faz com ajuda de alguém mais experiente; o que hoje ela faz com auxílio, amanhã fará sozinha, o que dá à instrução um papel central. As outras opções misturam o termo com conceitos de Piaget (assimilação, acomodação, equilibração) ou trocam \"proximal\" por \"principal\", e não existem como conceitos."
+  }
+ ]
+}

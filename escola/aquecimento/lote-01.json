@@ -1,0 +1,818 @@
+{
+ "https://www.youtube.com/watch?v=1MVmB5iFdms": {
+  "resumo": "O Código de Ética do psicólogo (Resolução CFP 010/2005) é mais principiológico do que prático: não é um manual técnico, e sim uma moldura de valores dentro da qual a atuação é livre. Os princípios fundamentais mandam basear o trabalho no respeito ao ser humano e na Declaração Universal dos Direitos Humanos, atuar com responsabilidade social, aprimorar-se continuamente, universalizar o acesso à informação psicológica, zelar pela dignidade da profissão e considerar as relações de poder. Esses temas caem muito em prova.",
+  "cartoes": [
+   {
+    "frente": "O Código de Ética do psicólogo é um manual técnico de conduta? Explique.",
+    "verso": "Não. É principiológico: traz princípios gerais e funciona como instrumento de reflexão, sem normatizar a técnica nem impor conduta rígida.",
+    "trecho": "O nosso código de ética profissional visa estabelecer princípios, normativos gerais, bases gerais de conduta para seguirmos",
+    "onde": 471
+   },
+   {
+    "frente": "Em que valores o primeiro princípio manda basear o trabalho do psicólogo?",
+    "verso": "No respeito e na promoção da liberdade, dignidade, igualdade e integridade do ser humano, apoiado na Declaração Universal dos Direitos Humanos.",
+    "trecho": "o psicólogo baseará o seu trabalho no respeito e na promoção da liberdade, dignidade, igualdade e integridade do ser humano",
+    "onde": 538
+   },
+   {
+    "frente": "Que postura o terceiro princípio exige do psicólogo diante da realidade social?",
+    "verso": "Atuar com responsabilidade social, analisando de forma crítica e histórica a realidade política, econômica, social e cultural.",
+    "trecho": "O psicólogo atuará com responsabilidade social, analisando crítica historicamente à realidade política, econômica, social e cultural",
+    "onde": 658
+   },
+   {
+    "frente": "Qual é o dever do psicólogo quanto ao próprio conhecimento, pelo quarto princípio?",
+    "verso": "Aprimorar-se continuamente, contribuindo para o desenvolvimento da psicologia como campo de saber científico e de prática.",
+    "trecho": "o psicólogo atuará com responsabilidade por meio do contínuo aprimoramento profissional",
+    "onde": 796
+   },
+   {
+    "frente": "O que o psicólogo deve considerar nos contextos em que atua, segundo o último princípio?",
+    "verso": "As relações de poder presentes nesses contextos e os impactos dessas relações sobre as atividades profissionais.",
+    "trecho": "o psicólogo considerará as relações de poder nos contextos em que atua e os impactos dessas relações sobre as atividades profissionais",
+    "onde": 935
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Pelo quinto princípio fundamental do Código de Ética, o psicólogo contribuirá para:",
+    "alternativas": [
+     "restringir o conhecimento psicológico a profissionais habilitados",
+     "promover a universalização do acesso da população às informações referentes à psicologia",
+     "padronizar as técnicas de avaliação em todo o território",
+     "limitar a divulgação da psicologia às instituições públicas"
+    ],
+    "certa": 1,
+    "comentario": "O princípio manda disseminar o conhecimento e a prática psicológica em toda a sociedade, e não restringi-los a algumas práticas ou populações.",
+    "trecho": "O psicólogo contribuirá, quinto princípio, para promover a universalização do acesso da população às informações referentes à psicologia",
+    "onde": 830
+   },
+   {
+    "enunciado": "Que viés, segundo a aula, permeia as publicações do Conselho Federal de Psicologia e é importante conhecer para as provas?",
+    "alternativas": [
+     "O viés estritamente técnico-experimental",
+     "O viés exclusivamente clínico individual",
+     "O viés jurídico-punitivo",
+     "O viés sócio-histórico"
+    ],
+    "certa": 3,
+    "comentario": "A professora destaca que o viés sócio-histórico atravessa as publicações do CFP e que conhecer esse posicionamento ajuda na prova.",
+    "trecho": "esse viés sócio-histórico, ele é um viés que permeia todas as publicações do Conselho Federal",
+    "onde": 658
+   },
+   {
+    "enunciado": "Uma questão afirma que o Código de Ética visa estabelecer normas técnicas a serem seguidas rigorosamente. Essa afirmação está:",
+    "alternativas": [
+     "errada, pois o código estabelece princípios gerais e funciona como instrumento de reflexão",
+     "certa, pois o código é um manual de conduta técnica",
+     "certa, pois define qual teste usar em cada avaliação",
+     "errada, pois o código não traz nenhum princípio, apenas penalidades"
+    ],
+    "certa": 0,
+    "comentario": "A aula chama de pegadinha clássica: o código é principiológico, sem estabelecer conduta técnica rígida.",
+    "trecho": "Vira e mexe tem questão cobrando assim, o código de ética profissional do psicólogo visa estabelecer normas técnicas a serem seguidas rigorosamente. Não, tá errado.",
+    "onde": 471
+   },
+   {
+    "enunciado": "O documento que embasa o primeiro princípio fundamental e que também inspirou a Constituição Federal é:",
+    "alternativas": [
+     "o Código Civil",
+     "a Lei de Diretrizes e Bases da Educação",
+     "a Declaração Universal dos Direitos Humanos",
+     "a Resolução do Conselho Nacional de Saúde"
+    ],
+    "certa": 2,
+    "comentario": "O primeiro princípio cita os valores que embasam a DUDH, documento que inclusive embasou a Constituição Federal.",
+    "trecho": "apoiado em valores que embasam a DUDH, a Declaração Universal dos Direitos Humanos, que é um documento que inclusive embasou a nossa Constituição Federal",
+    "onde": 538
+   },
+   {
+    "enunciado": "Uma psicóloga atende uma vítima de violência e percebe desigualdades que influenciam o sofrimento da pessoa. Que princípio do código ela está aplicando ao levar isso em conta?",
+    "alternativas": [
+     "Considerar as relações de poder nos contextos em que atua",
+     "Promover a universalização do acesso às informações",
+     "Rejeitar situações em que a psicologia seja aviltada",
+     "Aprimorar-se continuamente como profissional"
+    ],
+    "certa": 0,
+    "comentario": "As relações de poder atravessam a sociedade e influenciam o sofrimento psíquico; o psicólogo deve estar atento a elas em qualquer contexto.",
+    "trecho": "essa transversalidade das relações de poder, ela influencia no sofrimento psíquico dos sujeitos",
+    "onde": 965
+   }
+  ]
+ },
+ "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf": {
+  "resumo": "O Código de Ética Profissional do Psicólogo (Resolução CFP 010/05) é o terceiro da profissão e se aproxima mais de um instrumento de reflexão do que de um conjunto de normas. Traz sete princípios fundamentais, os deveres do Art. 1º e as vedações do Art. 2º, regras sobre sigilo, atendimento de crianças, pesquisa, documentos e publicidade. Transgressões geram infração disciplinar, com penalidades que vão da advertência à cassação, e os casos omissos são resolvidos pelos Conselhos Regionais, ad referendum do CFP.",
+  "cartoes": [
+   {
+    "frente": "Que lugar ocupa o Código de 2005 entre os códigos de ética dos psicólogos no Brasil?",
+    "verso": "É o terceiro código de ética da profissão de psicólogo no Brasil.",
+    "trecho": "A formulação deste Código de Ética, o terceiro da profissão de psicólogo no Brasil, responde ao contexto organizativo dos psicólogos",
+    "onde": 5
+   },
+   {
+    "frente": "O que o psicólogo deve levar ao conhecimento das instâncias competentes?",
+    "verso": "O exercício ilegal ou irregular da profissão e as transgressões ao Código ou à legislação profissional.",
+    "trecho": "Levar ao conhecimento das instâncias competentes o exercício ilegal ou irregular da profissão, transgressões a princípios e diretrizes deste Código ou da legislação profissional",
+    "onde": 9
+   },
+   {
+    "frente": "O que o Art. 2º veda quanto a diagnósticos e resultados em meios de comunicação?",
+    "verso": "Realizar diagnósticos, divulgar procedimentos ou apresentar resultados de modo a expor pessoas, grupos ou organizações.",
+    "trecho": "Realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, de forma a expor pessoas, grupos ou organizações",
+    "onde": 11
+   },
+   {
+    "frente": "Em caso de demissão, o que o psicólogo faz com os arquivos confidenciais?",
+    "verso": "Repassa todo o material ao psicólogo substituto ou o lacra para uso posterior por ele (Art. 15, §1º).",
+    "trecho": "o psicólogo deverá repassar todo o material ao psicólogo que vier a substituí-lo, ou lacrá-lo para posterior utilização pelo psicólogo substituto",
+    "onde": 14
+   },
+   {
+    "frente": "Quem resolve as dúvidas e os casos omissos na aplicação do Código?",
+    "verso": "Os Conselhos Regionais de Psicologia, ad referendum do Conselho Federal de Psicologia.",
+    "trecho": "As dúvidas na observância deste Código e os casos omissos serão resolvidos pelos Conselhos Regionais de Psicologia",
+    "onde": 16
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Ao participar de greve ou paralisação, o psicólogo deve garantir, entre outras coisas, que:",
+    "alternativas": [
+     "os usuários só sejam avisados depois da paralisação",
+     "todos os atendimentos sejam suspensos, inclusive os de emergência",
+     "o conselho regional autorize previamente a paralisação",
+     "as atividades de emergência não sejam interrompidas"
+    ],
+    "certa": 3,
+    "comentario": "O Art. 5º exige que as atividades de emergência continuem e que haja prévia comunicação da paralisação aos usuários.",
+    "trecho": "quando participar de greves ou paralisações, garantirá que: a) As atividades de emergência não sejam interrompidas",
+    "onde": 11
+   },
+   {
+    "enunciado": "Durante o atendimento, uma psicóloga tenta convencer o paciente a adotar a religião dela. Segundo o Código de Ética, essa conduta é:",
+    "alternativas": [
+     "permitida, se o paciente não se opuser",
+     "vedada, pois é proibido induzir a convicções religiosas no exercício das funções profissionais",
+     "permitida, se feita fora do horário da sessão",
+     "vedada apenas se o paciente for criança"
+    ],
+    "certa": 1,
+    "comentario": "O Art. 2º, alínea b, veda induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas ou de orientação sexual no exercício profissional.",
+    "trecho": "Induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito, quando do exercício de suas funções profissionais",
+    "onde": 9
+   },
+   {
+    "enunciado": "Um psicólogo quer vender a leigos um manual de aplicação de testes psicológicos. Pelo Código de Ética, essa venda:",
+    "alternativas": [
+     "é vedada, pois facilita o exercício ilegal da profissão",
+     "é permitida, se o comprador assinar um termo",
+     "é permitida, se o psicólogo informar o CRP",
+     "é permitida, se o manual for barato"
+    ],
+    "certa": 0,
+    "comentario": "O Art. 18 proíbe divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas que permitam ou facilitem o exercício ilegal da profissão.",
+    "trecho": "O psicólogo não divulgará, ensinará, cederá, emprestará ou venderá a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício ilegal da profissão",
+    "onde": 15
+   },
+   {
+    "enunciado": "Na realização de pesquisas, o psicólogo, em regra, deve garantir o anonimato das pessoas, grupos ou organizações, salvo:",
+    "alternativas": [
+     "autorização do coordenador da pesquisa",
+     "interesse manifesto destes",
+     "decisão do Conselho Regional",
+     "exigência da instituição financiadora"
+    ],
+    "certa": 1,
+    "comentario": "O Art. 16, alínea c, determina o anonimato, ressalvando apenas o interesse manifesto das próprias pessoas, grupos ou organizações.",
+    "trecho": "Garantirá o anonimato das pessoas, grupos ou organizações, salvo interesse manifesto destes",
+    "onde": 14
+   },
+   {
+    "enunciado": "Um psicólogo percebe que as práticas de uma organização onde pretende trabalhar são incompatíveis com o Código de Ética. O que o Art. 3º determina?",
+    "alternativas": [
+     "Aceitar o trabalho e tentar mudar a organização aos poucos",
+     "Aceitar o trabalho se o salário compensar",
+     "Recusar-se a prestar serviços e, se pertinente, denunciar ao órgão competente",
+     "Aceitar o trabalho e comunicar o fato apenas aos colegas"
+    ],
+    "certa": 2,
+    "comentario": "Havendo incompatibilidade entre as práticas da organização e o Código, cabe ao psicólogo recusar-se a prestar serviços e, se pertinente, denunciar.",
+    "trecho": "Existindo incompatibilidade, cabe ao psicólogo recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente",
+    "onde": 11
+   }
+  ]
+ },
+ "https://site.cfp.org.br/wp-content/uploads/2019/12/Nota_0192444_SEI_CFP___0108451___Nota_Tecnica.pdf": {
+  "resumo": "A Nota Técnica CFP 02/2019 orienta os Conselhos Regionais sobre o registro profissional de psicólogos com diploma de bacharel. Para cursos do Sistema Federal de Ensino, com Portaria de Renovação de Reconhecimento da SERES referente ao último ciclo do SINAES, basta o diploma ou certificado de conclusão, sem citar a formação de Psicólogo. Para cursos estaduais e municipais, exige-se ainda declaração de que o curso atende às exigências da formação de psicólogo. A Portaria MEC 1.095/2018 dá 180 dias para as instituições federais se adequarem.",
+  "cartoes": [
+   {
+    "frente": "Que orientação o CFP deu em 2010 sobre o texto dos diplomas de Psicologia?",
+    "verso": "Que fossem do grau de Bacharel, mas citassem no texto a formação de Psicólogo.",
+    "trecho": "Psicologia, reconhecidos e desenvolvidos de acordo com as DCNs de 2004, se referissem ao grau de Bacharel, mas constassem, em seu texto, referência à formação de Psicólogo",
+    "onde": 1
+   },
+   {
+    "frente": "O que o SINAES, criado pela Lei 10.861/2004, avalia?",
+    "verso": "As instituições, os cursos e o desempenho dos estudantes; seus resultados subsidiam autorização e reconhecimento dos cursos.",
+    "trecho": "Em 2004, a Lei nº 10.861 criou o Sistema Nacional de Avaliação da Educação Superior (SINAES), que envolve a avaliação das ins tuições, dos cursos e do desempenho dos estudantes",
+    "onde": 1
+   },
+   {
+    "frente": "O que indica a Portaria de Renovação de Reconhecimento publicada pela SERES?",
+    "verso": "Que o curso recebeu avaliação satisfatória, por visita in loco ou pelo CPC, e atende às DCNs de Psicologia.",
+    "trecho": "implica que o curso recebeu avaliação sa sfatória, seja mediante visita in loco ou mediante o Conceito Preliminar de Curso",
+    "onde": 2
+   },
+   {
+    "frente": "O que a Lei 12.605/2012 determina para os diplomas?",
+    "verso": "O emprego obrigatório da flexão de gênero ao nomear a profissão e o grau do diploma.",
+    "trecho": "Importante observar também a Lei nº 12.605, de 03 de abril de 2012, que determina o emprego obrigatório da",
+    "onde": 2
+   },
+   {
+    "frente": "Nos cursos do Sistema Federal, ainda é preciso citar a formação de Psicólogo no diploma?",
+    "verso": "Não. Basta o diploma ou certificado de conclusão; não é mais necessário referir a formação de Psicólogo.",
+    "trecho": "nestes casos não é mais necessário fazer referência à formação de Psicólogo nos diplomas dos concluintes desses pos de cursos",
+    "onde": 3
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a Nota Técnica, o Ofício Circular nº 159-10/CT-CFP, de 1º de junho de 2010, foi enviado a quem?",
+    "alternativas": [
+     "Aos reitores das universidades federais",
+     "Aos presidentes dos Conselhos Regionais",
+     "Aos egressos dos cursos de Psicologia",
+     "Aos coordenadores de curso de Psicologia"
+    ],
+    "certa": 3,
+    "comentario": "A nota informa que o CFP enviou o ofício circular aos coordenadores de curso de Psicologia, com orientações sobre o que constar nos diplomas e sobre o registro.",
+    "trecho": "e enviou o O cio Circular no. 159-10/CT-CFP aos coordenadores de curso de Psicologia, em 1º de junho",
+    "onde": 1
+   },
+   {
+    "enunciado": "De acordo com a Lei 12.605/2012, citada na Nota Técnica, uma pessoa já diplomada que tenha o diploma sem a flexão de gênero correta pode:",
+    "alternativas": [
+     "requerer a reemissão gratuita do diploma, com a devida correção",
+     "pagar nova taxa para emitir outro diploma",
+     "apenas apresentar declaração ao Conselho Regional",
+     "manter o diploma, sem direito a correção"
+    ],
+    "certa": 0,
+    "comentario": "O Art. 2º da lei permite às pessoas já diplomadas requerer das instituições a reemissão gratuita dos diplomas, com a correção.",
+    "trecho": "As pessoas já diplomadas poderão requerer das ins tuições referidas no art. 1o a reemissão gratuita dos diplomas",
+    "onde": 2
+   },
+   {
+    "enunciado": "Segundo a Lei 9.394/1996 citada na Nota, qual instituição integra o Sistema Federal de Ensino?",
+    "alternativas": [
+     "Instituição estadual de ensino superior",
+     "Faculdade mantida pelo município",
+     "Instituição de educação superior criada e mantida pela iniciativa privada",
+     "Escola de ensino médio criada pela iniciativa privada"
+    ],
+    "certa": 2,
+    "comentario": "O Art. 16 inclui no sistema federal as instituições mantidas pela União, as de educação superior privadas e os órgãos federais de educação.",
+    "trecho": "II - as ins tuições de educação superior criadas e man das pela inicia va privada",
+    "onde": 2
+   },
+   {
+    "enunciado": "Com que periodicidade o reconhecimento dos cursos deve ser renovado, segundo a Nota Técnica?",
+    "alternativas": [
+     "A cada ano",
+     "A cada ciclo trienal do SINAES",
+     "A cada cinco anos",
+     "A cada dois anos, por decisão do CFP"
+    ],
+    "certa": 1,
+    "comentario": "A Nota afirma que o reconhecimento dos cursos deve ser renovado a cada ciclo trienal do SINAES.",
+    "trecho": "O reconhecimento dos cursos deve ser renovado a cada ciclo trienal do SINAES",
+    "onde": 1
+   },
+   {
+    "enunciado": "Quanto à Portaria MEC nº 1.095/2018, os diplomas de cursos superiores reconhecidos, quando registrados, têm:",
+    "alternativas": [
+     "validade apenas estadual",
+     "validade condicionada à declaração do curso",
+     "validade apenas para licenciaturas",
+     "validade nacional como prova da formação recebida"
+    ],
+    "certa": 3,
+    "comentario": "A Nota Técnica lembra que, registrados, os diplomas de cursos reconhecidos têm validade nacional como prova da formação recebida.",
+    "trecho": "Os diplomas de cursos superiores reconhecidos, quando registrados, terão validade nacional como prova da formação recebida",
+    "onde": 2
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=zp6DEkDtCVQ": {
+  "resumo": "A Resolução CFP 06/2019 define as regras dos documentos psicológicos: declaração, atestado, relatório psicológico, relatório multiprofissional, laudo e parecer. Os dados devem ser fidedignos, a linguagem objetiva e as laudas numeradas, com assinatura na última página. O atestado e o laudo decorrem de avaliação psicológica; o laudo é o documento mais completo, e o parecer responde a uma dúvida sobre questão ou documento. O prazo de validade deve constar no último parágrafo, considerando a estabilidade do construto avaliado.",
+  "cartoes": [
+   {
+    "frente": "Como devem ser numeradas e assinadas as laudas de um documento psicológico?",
+    "verso": "Laudas numeradas e rubricadas da primeira até a penúltima, com a assinatura da psicóloga na última página.",
+    "trecho": "primeira até a penúltima lauda e a assinatura da psicóloga na última página",
+    "onde": 1758
+   },
+   {
+    "frente": "O que a psicóloga pode atestar no atestado psicológico?",
+    "verso": "Somente o que foi verificado no processo de avaliação psicológica e está dentro de sua competência profissional.",
+    "trecho": "sendo responsabilidade da psicóloga atestar somente o que foi verificado no processo de avaliação psicológica e que esteja dentro do âmbito de sua competência profissional",
+    "onde": 862
+   },
+   {
+    "frente": "O relatório psicológico tem como finalidade produzir diagnóstico?",
+    "verso": "Não. Comunica a atuação do psicólogo e pode gerar orientações, recomendações, encaminhamentos e intervenções.",
+    "trecho": "não tendo então como finalidade produzir diagnóstico psicológico",
+    "onde": 985
+   },
+   {
+    "frente": "Como o atestado psicológico deve ser escrito para evitar adulteração?",
+    "verso": "Em texto corrido, em parágrafo único, sem espaçamento; se houver parágrafos, os espaços vazios são preenchidos.",
+    "trecho": "é importante que o documento seja escrito em texto corrido e que as informações não tenham espaçamento, que seja feita em um parágrafo único",
+    "onde": 1232
+   },
+   {
+    "frente": "Onde ficam, preferencialmente, as referências do laudo e do parecer?",
+    "verso": "Em nota de rodapé, ligadas à informação por um número sobrescrito.",
+    "trecho": "a informação das fontes científicas ou referências bibliográficas utilizadas devem ser apresentadas em nota de rodapé",
+    "onde": 1879
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Qual documento psicológico tem a estrutura mais completa, com todos os elementos da identificação até as referências?",
+    "alternativas": [
+     "Relatório psicológico",
+     "Laudo psicológico",
+     "Atestado psicológico",
+     "Declaração"
+    ],
+    "certa": 1,
+    "comentario": "O laudo é o documento mais completo; o relatório psicológico e o multiprofissional têm todos os elementos, exceto as referências.",
+    "trecho": "psicológico, ele vai ser o documento mais completo. Então, ele vai ter todos esses esses itens na sua estrutura, desde a identificação até as referências",
+    "onde": 1294
+   },
+   {
+    "enunciado": "Um candidato precisa comprovar que está apto a manusear arma de fogo, após avaliação psicológica. O documento adequado é:",
+    "alternativas": [
+     "a declaração psicológica",
+     "o parecer psicológico",
+     "o relatório multiprofissional",
+     "o atestado psicológico"
+    ],
+    "certa": 3,
+    "comentario": "O atestado serve para justificar estar apto ou não para atividades específicas, como manusear armas de fogo ou dirigir, após avaliação psicológica.",
+    "trecho": "Justificar estar apto ou não para atividades específicas, como manusear armas de fogo, dirigir veículo motorizado no trânsito, assumir cargo público ou privado",
+    "onde": 892
+   },
+   {
+    "enunciado": "No relatório multiprofissional, como se orienta que seja feita a análise?",
+    "alternativas": [
+     "Cada profissional faz sua análise separadamente, identificando nome e categoria como subtítulo",
+     "Apenas o psicólogo faz a análise, em nome da equipe",
+     "Uma análise única, sem identificar os profissionais",
+     "A análise é dispensada nesse tipo de documento"
+    ],
+    "certa": 0,
+    "comentario": "Orienta-se que cada profissional analise separadamente, com nome e categoria profissional no subtítulo.",
+    "trecho": "orienta-se então que cada profissional faça sua análise separadamente, identificando como",
+    "onde": 1634
+   },
+   {
+    "enunciado": "O parecer psicológico tem por finalidade:",
+    "alternativas": [
+     "comunicar a atuação do psicólogo em um processo de trabalho",
+     "registrar o comparecimento da pessoa atendida",
+     "dirimir dúvidas de uma questão, problema ou documento psicológico que interferem na decisão do solicitante",
+     "produzir diagnóstico a partir de avaliação psicológica"
+    ],
+    "certa": 2,
+    "comentario": "O parecer é uma resposta a uma consulta: esclarece dúvidas sobre uma questão-problema ou sobre outro documento psicológico.",
+    "trecho": "tem por finalidade dirimir dúvidas de uma questão, problema ou documento psicológico que estão interferindo na decisão do solicitante",
+    "onde": 1140
+   },
+   {
+    "enunciado": "Ao pensar no prazo de validade do documento, qual construto tende a permitir validade mais longa por ser relativamente estável?",
+    "alternativas": [
+     "A regulação emocional",
+     "A emoção momentânea",
+     "A inteligência",
+     "O humor do dia"
+    ],
+    "certa": 2,
+    "comentario": "Construtos dinâmicos, como a emoção, pedem prazo mais curto; inteligência e personalidade são relativamente estáveis, e o prazo pode se estender.",
+    "trecho": "Já no caso de inteligência, de personalidade, são construtos relativamente estáveis",
+    "onde": 2061
+   }
+  ]
+ },
+ "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf": {
+  "resumo": "A Resolução CFP 06/2019 comentada institui as regras para os documentos escritos do psicólogo: declaração, atestado, relatório psicológico, relatório multiprofissional, laudo e parecer. Descumpri-la é falta ético-disciplinar. O documento deve ter dados fidedignos, linguagem impessoal e objetiva, laudas numeradas e assinatura na última página. Os documentos devem ser guardados por no mínimo cinco anos, entregues em entrevista devolutiva com protocolo assinado, e trazer o prazo de validade no último parágrafo. O laudo decorre de avaliação psicológica e exige referências.",
+  "cartoes": [
+   {
+    "frente": "Qual é a consequência de não observar a Resolução CFP 06/2019?",
+    "verso": "Constitui falta ético-disciplinar, passível de enquadramento nos dispositivos do Código de Ética.",
+    "trecho": "A não-observância da presente norma constitui falta ético-disciplinar, passível de capitulação nos dispositivos referentes ao exercício profissional do Código de Ética Profissional do Psicólogo",
+    "onde": 5
+   },
+   {
+    "frente": "O que a declaração psicológica pode registrar?",
+    "verso": "Comparecimento da pessoa atendida e acompanhante, acompanhamento psicológico realizado ou em realização, e tempo, dias e horários.",
+    "trecho": "Comparecimento da pessoa atendida e seu(sua) acompanhante; II - Acompanhamento psicológico realizado ou em realização; III - Informações sobre tempo de acompanhamento, dias e horários",
+    "onde": 10
+   },
+   {
+    "frente": "Em que prazo os Conselhos Regionais podem pedir a fundamentação técnico-científica de um atestado?",
+    "verso": "No prazo de até cinco anos.",
+    "trecho": "Os Conselhos Regionais podem, no prazo de até cinco anos, solicitar à(ao) psicóloga(o) a apresentação da fundamentação técnico-científica do atestado",
+    "onde": 11
+   },
+   {
+    "frente": "Quantos e quais são os itens da estrutura do laudo psicológico?",
+    "verso": "Seis: identificação, descrição da demanda, procedimento, análise, conclusão e referências.",
+    "trecho": "O Laudo Psicológico é composto de seis itens: a) Identificação; b) Descrição da demanda; c) Procedimento; d) Análise; e) Conclusão; f) Referências",
+    "onde": 24
+   },
+   {
+    "frente": "Que protocolo o psicólogo deve manter ao entregar um documento?",
+    "verso": "Protocolo de entrega com a assinatura do solicitante, comprovando que recebeu e se responsabiliza pelo uso e sigilo das informações.",
+    "trecho": "É obrigatório que a(o) psicóloga(o) mantenha protocolo de entrega de documentos, com assinatura do solicitante",
+    "onde": 32
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Uma psicóloga avalia que o paciente precisa se afastar do trabalho por mais de quinze dias. O que a orientação do texto comentado indica?",
+    "alternativas": [
+     "Emitir um atestado de afastamento por tempo indeterminado",
+     "Emitir uma declaração com o diagnóstico",
+     "Encaminhar a pessoa atendida ao INSS",
+     "Emitir um parecer psicológico sobre o afastamento"
+    ],
+    "certa": 2,
+    "comentario": "Quando o afastamento laboral é superior a quinze dias, a orientação, conforme a legislação brasileira, é encaminhar a pessoa ao INSS.",
+    "trecho": "nos casos em que a(o) psicóloga(o) perceba a necessidade de afastamento laboral da pessoa atendida por um período superior a quinze dias, a orientação, de acordo com a legislação brasileira, é encaminhar a pessoa atendida ao INSS",
+    "onde": 13
+   },
+   {
+    "enunciado": "Nos processos de avaliação psicológica compulsória, qual documento deve ser emitido pela psicóloga?",
+    "alternativas": [
+     "O parecer psicológico",
+     "A declaração psicológica",
+     "O relatório multiprofissional",
+     "O atestado psicológico"
+    ],
+    "certa": 3,
+    "comentario": "O texto comentado afirma que, na avaliação psicológica compulsória, o documento a emitir é o atestado, podendo ainda emitir laudo quando solicitado.",
+    "trecho": "Nos processos de avaliação psicológica compulsória, o documento a ser emitido pela(o) psicóloga(o) deverá ser o atestado psicológico",
+    "onde": 13
+   },
+   {
+    "enunciado": "Quanto à pessoa gramatical e ao estilo, os documentos psicológicos devem ser escritos de forma:",
+    "alternativas": [
+     "impessoal, na terceira pessoa",
+     "pessoal, na primeira pessoa",
+     "narrativa, reproduzindo as falas das sessões",
+     "livre, conforme o estilo de cada psicólogo"
+    ],
+    "certa": 0,
+    "comentario": "O Art. 6º, §4º, exige texto impessoal, na terceira pessoa, com coerência na ordenação das ideias.",
+    "trecho": "Os documentos psicológicos devem ser escritos de forma impessoal, na terceira pessoa",
+    "onde": 8
+   },
+   {
+    "enunciado": "Por que as referências do laudo psicológico não devem ir em folha à parte, mas em nota de rodapé?",
+    "alternativas": [
+     "Porque a folha à parte é proibida em qualquer documento",
+     "Porque o laudo não pode ter mais de uma página",
+     "Porque a folha à parte só vale para pareceres",
+     "Porque a folha à parte poderia ser destacada, tornando o documento incompleto"
+    ],
+    "certa": 3,
+    "comentario": "O texto comentado explica que a folha separada poderia ser destacada do conjunto, o que tornaria o documento incompleto.",
+    "trecho": "Não deve ser colocada em folha a parte, pois esta poderia ser destacada do conjunto do documento, o que o tornaria incompleto",
+    "onde": 28
+   },
+   {
+    "enunciado": "Em processos legais e da justiça do trabalho, em que o número do CID costuma ser exigido no documento, o que se faz necessário?",
+    "alternativas": [
+     "Dispensar qualquer autorização, pois o CID é obrigatório",
+     "Solicitar autorização por escrito da pessoa atendida para divulgar o número do CID",
+     "Omitir o CID e descrever apenas sintomas",
+     "Pedir autorização do juiz antes de emitir o documento"
+    ],
+    "certa": 1,
+    "comentario": "O texto comentado diz que, nesses casos, é necessária a autorização por escrito da pessoa atendida para divulgar o CID.",
+    "trecho": "a solicitação de autorização por escrito da pessoa atendida para divulgação do número do CID no documento se faz necessária",
+    "onde": 12
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=rPpcPcQ0qec": {
+  "resumo": "A aula trata das políticas sobre tabaco e álcool. O Programa Nacional de Controle do Tabagismo existe desde 1986, e o tratamento no SUS combina abordagem cognitivo-comportamental com apoio medicamentoso, como goma de nicotina, adesivos e bupropiona, em ciclos de 12 semanas. O cigarro eletrônico é proibido no Brasil. No álcool, o DSM-5 reúne abuso e dependência em um único transtorno, graduado em leve, moderado e grave, e o AUDIT-C rastreia o risco. A abstinência alcoólica piora do terceiro dia em diante.",
+  "cartoes": [
+   {
+    "frente": "Quando é o Dia Nacional de Combate ao Fumo, criado em 1986?",
+    "verso": "Em 29 de agosto; reforça ações de sensibilização sobre os danos sociais, políticos, econômicos e ambientais do tabaco.",
+    "trecho": "no dia 29 de agosto e tem como objetivo reforçar aí as ações nacionais de sensibilização e mobilização da população",
+    "onde": 248
+   },
+   {
+    "frente": "Quem é considerado fumante, segundo a OPAS?",
+    "verso": "Quem fumou mais de 100 cigarros, ou cinco maços, em toda a vida e fuma atualmente.",
+    "trecho": "é considerado fumante o indivíduo que fumou mais de 100 cigarros ou cinco maços de cigarros em toda sua vida e fuma atualmente",
+    "onde": 1118
+   },
+   {
+    "frente": "Em que dia após iniciar a bupropiona o fumante deve parar de fumar?",
+    "verso": "No oitavo dia após o início da medicação; se não parar, deve-se repensar a intervenção farmacológica.",
+    "trecho": "deve-se parar de fumar né no oitavo dia após o início da medicação",
+    "onde": 1814
+   },
+   {
+    "frente": "Como o DSM-5 trata os diagnósticos antes separados de abuso e dependência?",
+    "verso": "Une os dois em um único transtorno por uso de substância, com gravidade leve, moderada ou grave.",
+    "trecho": "une-se né ambos diagnósticos né de abuso e Dependência em um único né intitulado transtorno relacionados ao uso de substância",
+    "onde": 2694
+   },
+   {
+    "frente": "Qual é a escala de pontuação do AUDIT-C?",
+    "verso": "De 0 a 12 pontos; cada pergunta tem cinco opções, valendo de 0 a 4 pontos.",
+    "trecho": "0 a 12 pontos né e cada pergunta do instrumento tem cinco opções de respostas né possibilitando uma pontuação de 0 a 4 pontos em cada item",
+    "onde": 3106
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a OMS citada na aula, quantas pessoas o tabaco mata por ano, e quantas dessas mortes resultam do uso direto?",
+    "alternativas": [
+     "Mais de 3 milhões, das quais 1 milhão por uso direto",
+     "Cerca de 12 milhões, todas por uso direto",
+     "Mais de 8 milhões, das quais mais de 7 milhões por uso direto",
+     "Mais de 8 milhões, todas por fumo passivo"
+    ],
+    "certa": 2,
+    "comentario": "A aula cita a OMS: mais de 8 milhões de mortes por ano, mais de 7 milhões pelo uso direto e cerca de 1,2 milhão por fumo passivo.",
+    "trecho": "a Organização Mundial de Saúde aponta que o tabaco mata mais de 8 milhões de pessoas por ano mais de 7 milhões dessas mortes resultam do uso direto desse produto",
+    "onde": 433
+   },
+   {
+    "enunciado": "Qual é a situação dos cigarros eletrônicos no Brasil, segundo a aula?",
+    "alternativas": [
+     "Produto proibido, sem comercialização legalizada no país",
+     "Produto liberado apenas para maiores de 18 anos",
+     "Produto liberado, mas com impostos mais altos",
+     "Produto vendido apenas em farmácias, com receita"
+    ],
+    "certa": 0,
+    "comentario": "A aula afirma que o cigarro eletrônico não é legalizado para comercialização no Brasil, apesar do uso disseminado, e que Ministério da Saúde e Anvisa tentam reprimir a venda.",
+    "trecho": "é um produto proibido né não é legalizado para comercialização no Brasil",
+    "onde": 806
+   },
+   {
+    "enunciado": "Para o paciente que fuma mais de 20 cigarros por dia, qual é o esquema de adesivos de nicotina descrito na aula?",
+    "alternativas": [
+     "14 mg da 1ª à 4ª semana, 21 mg da 5ª à 8ª e 7 mg da 9ª à 12ª",
+     "7 mg em todas as semanas, por 12 semanas",
+     "21 mg por 12 semanas, sem redução da dose",
+     "21 mg da 1ª à 4ª semana, 14 mg da 5ª à 8ª e 7 mg da 9ª à 12ª"
+    ],
+    "certa": 3,
+    "comentario": "O esquema reduz a dose progressivamente: 21 mg, depois 14 mg e por fim 7 mg, em 12 semanas.",
+    "trecho": "entre 8 e 10 ou fumante de mais de 20 cigarros por dia utilizar o seguinte esquema da primeira a quarta semana um adesivo de 21 MG a cada 24 horas",
+    "onde": 1592
+   },
+   {
+    "enunciado": "Na síndrome de abstinência alcoólica, o que surge a partir do terceiro dia, segundo a aula?",
+    "alternativas": [
+     "Apenas insônia e ansiedade leves",
+     "Desorientação, alucinação e febre",
+     "Melhora completa dos sintomas",
+     "Aumento do apetite e do sono"
+    ],
+    "certa": 1,
+    "comentario": "Nas primeiras horas e até o terceiro dia aparecem insônia, tremores e ansiedade; a partir do terceiro dia surgem desorientação, alucinação e febre.",
+    "trecho": "a partir do terceiro dia né começa desorientação Alucinação e febre",
+    "onde": 3736
+   },
+   {
+    "enunciado": "Segundo a aula, uma mulher e um homem com 3 pontos no AUDIT-C são classificados, respectivamente, como:",
+    "alternativas": [
+     "ambos de baixo risco",
+     "risco moderado para a mulher e baixo risco para o homem",
+     "baixo risco para a mulher e risco moderado para o homem",
+     "ambos de risco moderado"
+    ],
+    "certa": 1,
+    "comentario": "Para homens, 0 a 3 pontos é baixo risco; para mulheres, 0 a 2 é baixo risco e 3 a 5 é risco moderado, por causa da menor tolerância feminina ao álcool.",
+    "trecho": "considerado baixo risco de 3 a 5 pontos disco moderado de 6 a 7 pontos alto risco e entre 8 e 12 pontos riscos Severo",
+    "onde": 3138
+   }
+  ]
+ },
+ "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf": {
+  "resumo": "A Política do Ministério da Saúde (2003) trata álcool e outras drogas como grave problema de saúde pública e se apoia na Lei 10.216, marco da Reforma Psiquiátrica. Critica o modelo que tem a abstinência como único objetivo, baseado em redução da oferta e da demanda, e adota a redução de danos como método e uma rede comunitária extra-hospitalar, com os CAPSad. Aponta o álcool como o maior problema, com a maior parte dos gastos do SUS, e defende prevenção permanente e intersetorial, sem estigma nem testagem compulsória.",
+  "cartoes": [
+   {
+    "frente": "Qual lei é o marco legal da Reforma Psiquiátrica citado na Política?",
+    "verso": "A Lei 10.216, de 6 de abril de 2001.",
+    "trecho": "O texto da Lei 10.216, de 06 de abril de 2001, marco legal da Reforma Psiquiátrica, ratificou, de forma histórica, as diretrizes básicas que constituem o Sistema Único de Saúde",
+    "onde": 6
+   },
+   {
+    "frente": "Quais são as duas estratégias tradicionais para alcançar a abstinência?",
+    "verso": "Redução da oferta, pela justiça, segurança e defesa, e redução da demanda, por internação com afastamento do usuário.",
+    "trecho": "são traçadas estratégias de abordagem para sua consecução: redução da oferta e redução da demanda",
+    "onde": 10
+   },
+   {
+    "frente": "A redução de danos é um objetivo ou um método, segundo a Política?",
+    "verso": "É um método (caminho), não excludente de outros, voltado à defesa da vida e não à abstinência como meta.",
+    "trecho": "a redução de danos oferece-se como um método (no sentido de methodos, caminho) e, portanto, não excludente de outros",
+    "onde": 10
+   },
+   {
+    "frente": "Quantos CAPSad o Ministério da Saúde propôs criar na Portaria GM/816 de 2002?",
+    "verso": "250 Centros de Atenção Psicossocial para álcool e drogas, dentro do Programa de Atenção Comunitária Integrada.",
+    "trecho": "o Ministério da Saúde propõe a criação de 250 Centros de Atenção Psicossocial - CAPSad",
+    "onde": 23
+   },
+   {
+    "frente": "Que efeito tem a ilicitude do uso de drogas sobre os usuários?",
+    "verso": "Impede a participação social organizada dos usuários, reforçando sua exclusão.",
+    "trecho": "A ilicitude do uso impede a participação social de forma organizada desses usuários",
+    "onde": 25
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a OMS citada na Política, qual a proporção das populações dos centros urbanos que consome substâncias psicoativas de forma abusiva?",
+    "alternativas": [
+     "Cerca de 1%",
+     "Cerca de 10%",
+     "Cerca de 30%",
+     "Cerca de 50%"
+    ],
+    "certa": 1,
+    "comentario": "A Política cita a OMS (2001): cerca de 10% das populações urbanas consomem abusivamente substâncias psicoativas, independentemente de idade, sexo, instrução e renda.",
+    "trecho": "cerca de 10% das populações dos centros urbanos de todo o mundo, consomem abusivamente substâncias psicoativas independentemente da idade, sexo, nível de instrução e poder aquisitivo",
+    "onde": 13
+   },
+   {
+    "enunciado": "A Política observa que cerca de 20% dos pacientes da rede primária bebem em nível de alto risco. Qual problema ela aponta nesse contato com os serviços?",
+    "alternativas": [
+     "Os clínicos gerais costumam encaminhar todos esses casos ao CAPSad",
+     "Esses pacientes recusam qualquer atendimento primário",
+     "A dependência já é sempre diagnosticada na primeira consulta",
+     "Os clínicos gerais pouco detectam a presença do uso abusivo"
+    ],
+    "certa": 3,
+    "comentario": "O texto afirma que o primeiro contato ocorre com clínicos gerais, que pouco detectam o problema; o foco recai nas doenças clínicas tardias e não na dependência subjacente.",
+    "trecho": "Estas pessoas têm seu primeiro contato com os serviços de saúde por intermédio de clínicos gerais. Apesar disso, estes pouco detectam a presença de acometimento por tal uso",
+    "onde": 17
+   },
+   {
+    "enunciado": "Segundo dados do DATASUS citados na Política, qual substância responde pelo maior percentual de gastos com internações por transtornos mentais decorrentes de substâncias psicoativas?",
+    "alternativas": [
+     "O álcool, com 87,9%",
+     "A cocaína, com 87,9%",
+     "O tabaco, com 50%",
+     "O crack, com 13%"
+    ],
+    "certa": 0,
+    "comentario": "No período de 1998 a 2001, o álcool respondeu por 87,9% dos gastos, contra cerca de 13% das demais substâncias psicoativas.",
+    "trecho": "o maior percentual de gastos é decorrente do uso indevido de álcool 87,9%",
+    "onde": 18
+   },
+   {
+    "enunciado": "Qual é a posição da Política sobre a testagem de uso de drogas feita de forma compulsória em funcionários de empresas e estudantes de escolas públicas?",
+    "alternativas": [
+     "Defende a testagem anual obrigatória",
+     "Defende a testagem apenas em escolas privadas",
+     "Propõe a discussão e o impedimento dessa testagem compulsória",
+     "Considera a testagem a principal estratégia de prevenção"
+    ],
+    "certa": 2,
+    "comentario": "Entre as ações de atenção integral, a Política propõe discutir e impedir a testagem compulsória em empresas e escolas públicas.",
+    "trecho": "Discussão e impedimento de testagem de uso de drogas, realizados de forma compulsória em funcionários de empresas e estudantes de escolas públicas",
+    "onde": 26
+   },
+   {
+    "enunciado": "Como a Política orienta que sejam as ações de prevenção em escolas, locais de trabalho e sindicatos?",
+    "alternativas": [
+     "Pontuais e esporádicas, como campanhas anuais",
+     "De caráter permanente, em vez de iniciativas apenas pontuais",
+     "Restritas a ações de curta duração",
+     "Realizadas somente por profissionais de hospitais psiquiátricos"
+    ],
+    "certa": 1,
+    "comentario": "O texto pede ações de caráter permanente, sem abrir mão de ações de curta duração voltadas à multiplicação da atuação preventiva.",
+    "trecho": "As ações incentivadas devem ter caráter permanente, ao invés iniciativas pontuais e esporádicas como campanhas",
+    "onde": 20
+   }
+  ]
+ },
+ "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf": {
+  "resumo": "As Referências Técnicas do CFP (2019) situam a atuação do psicólogo em álcool e outras drogas. O Eixo 1 historiza o proibicionismo, criticado por servir ao racismo e à violência de Estado, e defende a redução de danos, sem abstinência obrigatória e sem tratamento compulsório. O Eixo 2 descreve a rede psicossocial, com CAPS-AD, Consultórios na/de Rua, Unidades de Acolhimento, NASF, CRAS e CREAS, orientada pela clínica ampliada, pelo matriciamento e pela defesa dos direitos humanos, e critica as Comunidades Terapêuticas.",
+  "cartoes": [
+   {
+    "frente": "Em que ano e onde ocorreu a Primeira Conferência Internacional do Ópio?",
+    "verso": "Em 1912, em Haia; editou as primeiras resoluções sobre a proibição internacional do comércio e consumo do ópio.",
+    "trecho": "Em 1912, acontece a Primeira Conferência Internacional do Ópio, realizada em Haia, que editou as primeiras resoluções sobre a proibição internacional do comércio e consumo dessa substância",
+    "onde": 28
+   },
+   {
+    "frente": "Onde e quando começaram as experimentações de redução de danos no Brasil?",
+    "verso": "Em Santos, em 1989, com a intervenção na Casa de Saúde Anchieta e estratégias de redução de danos para usuários de drogas injetáveis.",
+    "trecho": "A RD no país remonta às experimentações das políticas públicas realizadas na cidade de Santos, em 1989",
+    "onde": 35
+   },
+   {
+    "frente": "A abstinência pode ser pré-condição para garantir direitos aos usuários de drogas?",
+    "verso": "Não. Não é aceitável que seja ao mesmo tempo pré-condição e meta para que os direitos dos usuários sejam garantidos.",
+    "trecho": "não é aceitável que a abstinência seja, ao mesmo tempo, a pré-condição e a meta a ser atingida pelos usuários de drogas para que seus direitos sejam garantidos",
+    "onde": 37
+   },
+   {
+    "frente": "Como funciona o CAPS-AD III?",
+    "verso": "Atenção integral e contínua, 24 horas por dia, todos os dias da semana, inclusive finais de semana e feriados.",
+    "trecho": "com funcionamento nas 24 (vinte e quatro) horas do dia e em todos os dias da semana, inclusive finais de semana e feriados",
+    "onde": 44
+   },
+   {
+    "frente": "Que tipo de serviço são as Unidades de Acolhimento?",
+    "verso": "Atenção residencial transitória, com acolhimento voluntário e cuidados contínuos 24 horas por dia, em ambiente residencial.",
+    "trecho": "são serviços de atenção residencial de caráter transitório, que oferecem acolhimento voluntário e cuidados contínuos de saúde 24h/dia, em ambiente residencial",
+    "onde": 60
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo as Referências Técnicas, quais são as principais características das Comunidades Terapêuticas no Brasil?",
+    "alternativas": [
+     "Projeto terapêutico singular e foco na autonomia dos internos",
+     "Atendimento ambulatorial de curta duração, sem religião",
+     "Internação prolongada, isolamento e forte componente religioso",
+     "Funcionamento em território, integrado à atenção básica"
+    ],
+    "certa": 2,
+    "comentario": "O documento aponta internação prolongada, isolamento e forte componente religioso, além da inexistência de projeto terapêutico singular.",
+    "trecho": "As principais características dessas instituições são a prática de internação prolongada, o isolamento e o forte componente religioso que orienta as suas práticas",
+    "onde": 46
+   },
+   {
+    "enunciado": "O matriciamento ou apoio matricial, proposto por Campos (1999), organiza o cuidado em quais duas equipes?",
+    "alternativas": [
+     "Equipe de plantão e equipe administrativa",
+     "Equipe judicial e equipe de segurança",
+     "Equipe de internação e equipe de alta",
+     "Equipe de referência e equipe de apoio matricial"
+    ],
+    "certa": 3,
+    "comentario": "O matriciamento é estruturado de forma horizontal e integrada em duas equipes, a de referência e a de apoio matricial, fortalecendo a clínica ampliada.",
+    "trecho": "Estruturado de forma horizontal e integrada em duas equipes — de referência e de apoio matricial",
+    "onde": 52
+   },
+   {
+    "enunciado": "A quem se destina o Consultório na/de Rua, segundo o documento?",
+    "alternativas": [
+     "Usuários de substâncias lícitas e ilícitas em situação de rua, com dificuldade de acesso aos serviços de saúde",
+     "Apenas usuários de drogas injetáveis internados",
+     "Apenas crianças e adolescentes com sofrimento psíquico intenso",
+     "Famílias em situação de calamidade pública"
+    ],
+    "certa": 0,
+    "comentario": "O Consultório na/de Rua atende usuários de substâncias lícitas e ilícitas em situação de rua, que têm dificuldade de acesso e não são assistidos pelos serviços de saúde.",
+    "trecho": "O CR é uma proposta de atendimento de usuários de substâncias psicoativas lícitas e ilícitas, vivendo em situação de rua, que têm dificuldade de acesso e que não são assistidos pelos serviços de saúde",
+    "onde": 57
+   },
+   {
+    "enunciado": "A Lei 11.343/2006 revogou a lei de 1976 e instituiu qual sistema?",
+    "alternativas": [
+     "O Sistema Único de Assistência Social, o SUAS",
+     "O Sistema Nacional de Políticas Públicas sobre Drogas, o SISNAD",
+     "A Rede de Atenção Psicossocial, a RAPS",
+     "O Sistema Único de Saúde, o SUS"
+    ],
+    "certa": 1,
+    "comentario": "A nova lei de drogas instituiu o SISNAD e prescreveu medidas de prevenção, atenção e reinserção social, embora o documento afirme que manteve o sistema proibicionista.",
+    "trecho": "A nova lei de drogas institui o Sistema Nacional de Políticas Públicas sobre Drogas (SISNAD) e prescreve medidas para prevenção, atenção e reinserção social de usuários de drogas",
+    "onde": 40
+   },
+   {
+    "enunciado": "Qual serviço do CRAS é descrito como trabalho social de caráter preventivo, protetivo e proativo com famílias?",
+    "alternativas": [
+     "O PAEFI",
+     "O PAIF",
+     "O CAPS-AD III",
+     "O CAPSi"
+    ],
+    "certa": 1,
+    "comentario": "O PAIF fortalece a função protetiva das famílias e previne a ruptura de vínculos; o PAEFI atende famílias e indivíduos que vivenciam violações de direitos.",
+    "trecho": "O PAIF consiste no trabalho social de caráter preventivo, protetivo e proativo com famílias, visando fortalecer sua função protetiva, prevenir a ruptura de vínculos",
+    "onde": 64
+   }
+  ]
+ }
+}

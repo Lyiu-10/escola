@@ -1,0 +1,524 @@
+{
+ "c40ed5837cbd": [
+  "Teste revogado ou com parecer desfavorável não pode ser usado na prática; o psicólogo só usa testes com parecer favorável do SATEPSI.",
+  null,
+  "Anamnese psiquiátrica para diagnóstico psicopatológico é instrumento médico e não responde à demanda; a avaliação psicológica usa testes com parecer favorável do SATEPSI.",
+  "Inquirição é termo de investigação policial ou judicial, não de avaliação psicológica; a demanda pede instrumentos psicológicos aprovados pelo SATEPSI.",
+  "Dessensibilização sistemática e relaxamento são técnicas de intervenção, não de avaliação; para avaliar, usam-se testes com parecer favorável do SATEPSI."
+ ],
+ "dbd07042ee61": [
+  null,
+  "O CAT é teste infantil e o Rorschach clínico não se ajusta à seleção de adultos; o teste deve medir o construto exigido pelo cargo e ter parecer favorável no SATEPSI.",
+  "Prova de conhecimentos específicos avalia saber técnico, não é avaliação psicológica; o psicólogo escolhe testes com parecer favorável no SATEPSI.",
+  "A escolha dos testes é decisão técnica privativa do psicólogo, não do administrador de RH.",
+  "Adaptar a aplicação quebra a padronização e compromete a validade; o psicólogo deve aplicar o teste como o manual aprovado determina."
+ ],
+ "6b67be17a319": [
+  "Erra ao marcar I como certa: na Res. CFP 31/2022, documentos técnicos de equipes multiprofissionais são fontes complementares, não fundamentais. E deixa de fora III, que está correta.",
+  null,
+  "Erra em I e II: documentos técnicos são fontes complementares, não fundamentais; e a banca considerou II errada por não ressalvar pesquisa e ensino. Só III está correta.",
+  "Erra ao incluir II: a resolução excepciona pesquisa e ensino do uso de testes desfavoráveis ou não avaliados, e II fala em falta ética sem ressalva. Só III está correta.",
+  "Erra em I e II: documentos técnicos são fontes complementares, e II omite a exceção para pesquisa e ensino. Só III está correta."
+ ],
+ "44838c843cd7": [
+  null,
+  "Nenhum método é obrigatório; o psicólogo escolhe os instrumentos conforme a demanda, e os projetivos são apenas uma das opções.",
+  "O SATEPSI avalia e lista testes com parecer favorável, mas não indica qual usar; a escolha é do psicólogo.",
+  "Documentos e relatórios de equipe são fontes complementares de informação; somam-se aos testes, não os substituem.",
+  "Aplicação e correção devem seguir o padrão do manual; adaptá-las por conta própria compromete a validade do teste."
+ ],
+ "373afbf2dab1": [
+  "Avaliação compulsória normativa, como no trânsito ou no porte de arma, é contexto próprio, não um processo da psicologia organizacional e do trabalho.",
+  null,
+  "Investigar e responsabilizar trabalhadores por acidentes não é finalidade da avaliação psicológica; ela não serve para apurar culpa.",
+  "Avaliação de desempenho feita pelo gestor sobre hard skills é ferramenta de gestão, não avaliação psicológica, que é prerrogativa do psicólogo.",
+  "Psicodiagnóstico para detectar psicopatologia e indicar psicoterapia é do contexto clínico, não do organizacional."
+ ],
+ "1d1e324ae37e": [
+  "Erra nas três: a 1ª é verdadeira (pode haver fontes complementares), a 2ª é falsa (teste não avaliado pelo SATEPSI não vale nem como fonte complementar, salvo pesquisa) e a 3ª é verdadeira.",
+  "Erra a 1ª e a 2ª: recorrer a fontes complementares é permitido, então é V; e teste não avaliado pelo SATEPSI não vale nem como fonte complementar, então é F.",
+  "Erra a 3ª: a testagem é só uma etapa da avaliação psicológica, que é mais ampla, então a afirmativa é verdadeira.",
+  null,
+  "Erra a 1ª: a psicóloga pode, conforme o contexto, recorrer a fontes complementares de informação, então a afirmativa é verdadeira."
+ ],
+ "3fe298decec8": [
+  "O psicólogo não submete direto à CCAP: quem tem legitimidade são os CRPs, e o psicólogo pode requerer ao CRP essa submissão.",
+  null,
+  "A submissão vai à CCAP, não ao Plenário do CFP; é a CCAP que faz a apreciação preliminar do instrumento.",
+  "Classificado como teste psicológico, o instrumento vai para a lista de Testes Não Avaliados, não para a de parecer favorável, até a avaliação final.",
+  "Classificado como não privativo, o instrumento vai para a lista de Instrumentos Não Privativos, não para a de Testes Não Avaliados; a alternativa troca as listas."
+ ],
+ "d97dfaaa391c": [
+  "Erra ao incluir II: o prazo de 20 dias dos pareceristas pode ser prorrogado por igual período, não é improrrogável. E deixa de fora V, que é verdadeira.",
+  "Erra ao incluir III: os prazos são contados em dias úteis, não corridos. E exclui I e IV, que são verdadeiras.",
+  "Erra ao incluir II: o prazo dos pareceristas é prorrogável por igual período. E deixa de fora I, que é verdadeira.",
+  null,
+  "Erra ao incluir III: a resolução conta os prazos em dias úteis, não em dias corridos."
+ ],
+ "caea0599c0a8": [
+  "A exceção existe: a regra não se aplica à pesquisa amparada pela legislação nem ao ensino com objetivo formativo e histórico.",
+  "Inverte as alíneas: o certo é a alínea c do art. 1º e a alínea f do art. 2º do Código de Ética.",
+  null,
+  "Não há exceção para uso como fonte complementar; as únicas ressalvas são a pesquisa amparada pela legislação e o ensino com objetivo formativo e histórico.",
+  "A resolução qualifica o uso como falta ética pelo Código de Ética; a Lei 4.119/1962 aparece em outro ponto, sobre o uso privativo dos testes."
+ ],
+ "db86c2ee1788": [
+  "Está correta: versão equivalente é a que tem formato de aplicação diferente do descrito na versão aprovada. A questão pede a incorreta.",
+  "Está correta: formato de aplicação diferente do manual exige apreciação da CCAP. A questão pede a incorreta.",
+  "Está correta: nos estudos de equivalência se designa 1 parecerista ad hoc, não 2 como no teste novo. A questão pede a incorreta.",
+  "Está correta: cabe ao responsável técnico submeter ao SATEPSI os estudos de equivalência. A questão pede a incorreta.",
+  null
+ ],
+ "a47593c8240f": [
+  null,
+  "O prazo é de 180 dias úteis, não corridos, e as tabelas anteriores podem ser usadas até o vencimento dos estudos normativos, não ficam vedadas.",
+  "O prazo é de 180 dias úteis, não 60; 60 dias é o prazo da CCAP para apreciar o relatório.",
+  "O prazo de 180 dias úteis está certo, mas a forma de disponibilização cabe aos autores, laboratórios e responsáveis técnicos, não ao Plenário do CFP.",
+  "O prazo é de 180 dias úteis, não 30, e as tabelas anteriores valem até o vencimento dos estudos normativos, não por 15 anos."
+ ],
+ "d107e0678c1d": [
+  "Atribui à testagem a definição de processo técnico e científico, que a Cartilha usa para a avaliação; testagem é só a aplicação de testes, uma etapa da avaliação.",
+  "Erra na testagem: ela é a aplicação de testes psicológicos e não inclui instrumentos não psicológicos, que entram como fontes da avaliação, mais ampla.",
+  null,
+  "A avaliação não requer sempre testes, e documentos de equipes multiprofissionais não fazem parte da testagem; são fontes da avaliação.",
+  "Inclui instrumentos não psicológicos na testagem, que é só a aplicação de testes psicológicos, e omite os testes entre as fontes da avaliação."
+ ],
+ "e495b5eee749": [
+  null,
+  "Inverte: é a avaliação psicológica que é mais complexa e usa entrevistas, observações e várias dimensões; a testagem é mais simples.",
+  "Inverte: a testagem é mais objetiva, e a avaliação é que envolve julgamento clínico, mais subjetivo.",
+  "Inverte: a avaliação é que custa mais e exige maior qualificação; a testagem é mais barata, sobretudo aplicada em grupo.",
+  "Inverte: a testagem é breve, e a avaliação psicológica é que dura mais, podendo levar dias."
+ ],
+ "6e8e34f4832e": [
+  "A escolha dos instrumentos é decisão técnica do psicólogo, mesmo dentro de um órgão; não depende do superior administrativo.",
+  null,
+  "Documentos técnicos de equipes multiprofissionais são fontes complementares de informação, não fundamentais.",
+  "Protocolos de observação de comportamento são fontes fundamentais de informação, não complementares.",
+  "O teste identifica, descreve, qualifica e mensura características psicológicas, mas não serve para prever comportamento criminoso ou antissocial."
+ ],
+ "35068620a564": [
+  null,
+  "Está correta: a experiência clínica liga a depressão no idoso a fatores psicossociais como perda de status, analfabetismo, má avaliação da saúde e pouca interação. A questão pede a incorreta.",
+  "Está correta: a pseudodemência depressiva imita demência, e a história de depressão ajuda no diagnóstico diferencial. A questão pede a incorreta.",
+  "Está correta: condições psiquiátricas, neurológicas e endócrinas podem simular depressão, por isso exames médicos são indispensáveis. A questão pede a incorreta.",
+  "Está correta: no idoso, o TAG traz preocupações exageradas e se associa à menor ingerência sobre a vida dos familiares. A questão pede a incorreta."
+ ],
+ "1ddea5b7963e": [
+  "Inverte o efeito: a atualização profissional tende a reduzir, não ampliar, a prática dogmática e cartesiana no psicodiagnóstico.",
+  null,
+  "Para Bandeira et al., o cuidado com os aspectos pessoais do psicólogo faz parte, sim, da ética profissional.",
+  "Os autores apontam o contrário: o tratamento pessoal é pouco debatido na área de avaliação psicológica.",
+  "Leitura e debate clínico não bastam: a prática ética exige também um processo profundo de autoconhecimento do psicólogo."
+ ],
+ "c89e12a61b58": [
+  "A investigação diagnóstica busca explicar o que acontece além do que o avaliando sabe ou diz conscientemente, não só o consciente.",
+  "O reteste compara com a primeira avaliação, então pede instrumentos iguais ou equivalentes, não uma bateria totalmente diferente.",
+  null,
+  "Perícia forense é um contexto de avaliação, não uma das finalidades do psicodiagnóstico listadas por Arzeno.",
+  "A finalidade de investigação mira criar instrumentos de exploração da personalidade, não da inteligência."
+ ],
+ "0a89825e39ec": [
+  "Anamnese classifica a entrevista pela finalidade (levantar a história), não pelo grau de estruturação; a mais rara na clínica é a estruturada.",
+  "A de livre estruturação é flexível e o oposto da descrita; a mais rara na clínica, que pede informações complementares, é a estruturada.",
+  "A semiestruturada é a mais comum na clínica, por combinar roteiro e flexibilidade; a mais rara é a estruturada.",
+  null,
+  "Triagem é finalidade da entrevista, não modelo de estruturação; a mais rara na clínica é a estruturada."
+ ],
+ "f3dfc966eb3c": [
+  "Questões de insanidade e infrações à lei correspondem ao objetivo de perícia forense, não à avaliação compreensiva.",
+  "Investigar inconsistências para diferenciar diagnósticos e níveis de funcionamento é o objetivo de diagnóstico diferencial.",
+  null,
+  "Testar hipóteses a partir de critérios diagnósticos é o objetivo de classificação nosológica.",
+  "Comparar o examinado com normas da população ou de grupos é o objetivo de classificação simples."
+ ],
+ "72825eb68000": [
+  "Encaminhar para exames é conduta posterior, não parte da anamnese, que é a coleta da história pessoal, familiar e social do paciente.",
+  null,
+  "Relaxamento e dessensibilização são intervenções; anamnese é coleta do histórico pessoal, familiar e social.",
+  "Aplicar testes é outra etapa da avaliação; a anamnese é a coleta da história do paciente.",
+  "Parecer é documento produzido depois da avaliação; a anamnese é a coleta da história do paciente."
+ ],
+ "41d1aae281d6": [
+  "Na entrevista livre não há temas obrigatórios; Monique tinha temas fixos com ordem flexível, o que é semiestruturada.",
+  "Na entrevista aberta não há temas obrigatórios definidos; Monique tinha temas fixos com ordem flexível, o que é semiestruturada.",
+  "Na estruturada perguntas e ordem são fixas; Monique alterou a ordem e aprofundou temas, o que caracteriza a semiestruturada.",
+  null,
+  "Na não estruturada não há roteiro de temas obrigatórios; Monique tinha temas fixos com ordem flexível, o que é semiestruturada."
+ ],
+ "e04e063f2c46": [
+  "Deixa de fora II, que está correta: a devolução permite ao entrevistado expressar o que pensa e sente sobre as conclusões e recomendações.",
+  "Deixa de fora I, que está correta: em pesquisa ou para instituição, cabe ao entrevistador despertar o interesse do entrevistado, que não veio por demanda própria.",
+  "III está errada: é a entrevista fechada, padronizada, que favorece a comparação sistemática; e I e II, corretas, ficam de fora.",
+  null,
+  "Erra ao incluir III: a comparação sistemática é vantagem da entrevista fechada, não da aberta. E deixa de fora I, que está correta."
+ ],
+ "2a25e131f636": [
+  "Entrevista motivacional serve para promover mudança de comportamento, não para coletar a história de vida da criança.",
+  null,
+  "Método projetivo usa estímulos ambíguos para acessar a personalidade; não é entrevista de coleta de história com os responsáveis.",
+  "Devolutiva é o encontro final em que se comunicam os resultados, não a coleta inicial da história.",
+  "Registro de observação descreve comportamentos observados, não reconstrói a história de vida pelo relato dos responsáveis."
+ ],
+ "d6de422bedab": [
+  "O HTP é projetivo de personalidade; inteligência numérica e verbal se mede com testes de inteligência.",
+  null,
+  "Focar ora num estímulo, ora noutro é atenção alternada, medida por testes de atenção, não pelo HTP, que avalia personalidade.",
+  "Buscar dois estímulos ao mesmo tempo é atenção dividida, medida por testes de atenção; o HTP avalia personalidade.",
+  "Memória visual se mede com testes de memória; o HTP é projetivo e avalia personalidade e modo de se relacionar."
+ ],
+ "20119bddabe4": [
+  "Entrevista livre não parte de roteiro com pontos previstos; Josefa tem pontos fixos sem ordem fixa, o que é semiestruturada.",
+  null,
+  "Na estruturada perguntas e sequência são fixas; Josefa não fixa a sequência, o que caracteriza a semiestruturada.",
+  "Entrevista aberta não tem pontos previamente estabelecidos; Josefa tem pontos fixos sem ordem fixa, o que é semiestruturada.",
+  "Enquete é levantamento por questionário padronizado, não entrevista com roteiro flexível."
+ ],
+ "1719f9be2a46": [
+  "Põe o plano de avaliação como 1º passo e a devolução em 5º; o processo começa pelos motivos da consulta (1) e termina na devolução e no laudo (8).",
+  null,
+  "Põe a correção como 1º passo e a devolução em 7º; o processo começa pelos motivos da consulta (1) e termina na devolução e no laudo (8).",
+  "Troca duas duplas: hipóteses e contrato vêm em 2 e o plano em 3, e a correção (5) vem antes da integração dos dados (6).",
+  "Põe as hipóteses como 1º passo e a devolução em 3º; o processo começa pelos motivos da consulta (1) e termina na devolução e no laudo (8)."
+ ],
+ "2e35711708e3": [
+  null,
+  "Anamnese, triagem e diagnóstica classificam a entrevista pela finalidade; pelo aspecto formal, ela é estruturada, semiestruturada ou de livre estruturação.",
+  "Mistura finalidade (anamnese, diagnóstica) com forma (livre estruturação); pelo aspecto formal são estruturadas, semiestruturadas e de livre estruturação.",
+  "Esses termos não formam a classificação de Cunha; pelo aspecto formal as entrevistas são estruturadas, semiestruturadas e de livre estruturação.",
+  "Mistura forma (estruturada) com finalidade (diagnóstica, triagem); pelo aspecto formal são estruturadas, semiestruturadas e de livre estruturação."
+ ],
+ "9adbb533d8b6": [
+  null,
+  "Para Bleger a ansiedade deve ser mobilizada em grau tolerável, não evitada; é ela que move a entrevista.",
+  "O entrevistador não deve deixar as defesas intocadas para fugir do conflito; deve atuar para tornar o conflito compreensível.",
+  "Para Bleger a ansiedade é justamente o indicador central do andamento da entrevista.",
+  "O timing depende, sim, do tipo e do grau de organização da personalidade do entrevistado."
+ ],
+ "af019798e4e6": [
+  "Erra a 2ª e a 5ª: a avaliação compreende compilar, analisar, interpretar e integrar dados (V); e sinais de alerta não têm valor diagnóstico, são só avisos (F).",
+  null,
+  "Erra a 1ª, a 3ª e a 5ª: a avaliação compreende o momento evolutivo e a relação com o ambiente (V), liga-se à intervenção de modo recíproco (V), e sinais de alerta não têm valor diagnóstico (F).",
+  "Erra a 2ª e a 3ª: a avaliação envolve compilar, analisar, interpretar e integrar dados (V), e avaliação e intervenção se inter-relacionam por ações recíprocas (V).",
+  "Erra a 2ª: a avaliação compreende compilar, analisar, interpretar e integrar dados sobre o desenvolvimento da criança, então é verdadeira."
+ ],
+ "ab856ddd7752": [
+  "Potomania é a ingestão compulsiva de líquidos em geral, como água; para álcool o termo é dipsomania.",
+  null,
+  "Alcoofilia não é o termo técnico; o impulso de ingerir rapidamente grandes quantidades de álcool chama-se dipsomania.",
+  "Poriomania é o impulso de vagar ou fugir sem rumo; para álcool o termo é dipsomania.",
+  "Neuropatia alcoólica é dano neurológico causado pelo álcool, não um impulso; o impulso é a dipsomania."
+ ],
+ "17c499c4f0ba": [
+  "Só acerta o afeto plano: mudanças bruscas são afeto lábil (V), redução moderada é restrito (III), redução severa é embotado (II) e desarmonia com a ideia é inadequado (I).",
+  "Troca restrito e plano: a redução moderada é afeto restrito (III), e a ausência quase total de expressão, com face imóvel, é afeto plano (IV).",
+  "Erra a 2ª e a 3ª: a redução moderada é afeto restrito (III), e a severa é afeto embotado (II); além disso, usa o inadequado duas vezes.",
+  null,
+  "Erra todas: a ordem certa é lábil, restrito, embotado, plano e inadequado, com a gradação restrito menor que embotado, menor que plano."
+ ],
+ "11b6c484b3bb": [
+  "Está correta: segundo Osório, afeto, pensamento e conduta concentram os sintomas das psicoses, que também alteram percepção, atenção e orientação. A questão pede a incorreta.",
+  null,
+  "Está correta: agrupar sinais em síndrome é o diagnóstico sindrômico, passo anterior ao diagnóstico do transtorno. A questão pede a incorreta.",
+  "Está correta: cada função se avalia separadamente, para não supor alterações que combinariam com outra função. A questão pede a incorreta.",
+  "Está correta: na penetração empática o entrevistador busca compreender, sem explicar a origem dos sintomas. A questão pede a incorreta."
+ ],
+ "0cb543d99cbe": [
+  "Alucinose é a alucinação que o próprio paciente reconhece como estranha; percepção deformada de objeto real é ilusão.",
+  "Pseudoalucinação é percepção sem objeto, sem nitidez nem projeção no espaço externo; deformar objeto real é ilusão.",
+  "Alucinação é percepção sem objeto; quando há objeto real e presente deformado, é ilusão.",
+  null,
+  "Delírio é alteração do juízo, não da percepção; percepção deformada de objeto real é ilusão."
+ ],
+ "d039616af752": [
+  "Estupor é alteração da consciência e da psicomotricidade, não do conteúdo do pensamento; fobia é que é.",
+  "Confabulação é alteração da memória, que preenche lacunas com relatos falsos; conteúdo do pensamento inclui fobias, obsessões e delírios.",
+  "Alucinação é alteração da sensopercepção, não do conteúdo do pensamento; fobia é que é.",
+  null,
+  "Despersonalização é alteração da vivência do eu, não do conteúdo do pensamento; fobia é que é."
+ ],
+ "8dcb8f702259": [
+  "Humor é o estado afetivo de base; alucinação é percepção sem objeto, alteração da sensopercepção.",
+  "Impulso pertence à volição; alucinação é percepção sem objeto, alteração da sensopercepção.",
+  "Alteração do conteúdo do pensamento é o delírio; alucinação é percepção sem objeto, alteração da sensopercepção.",
+  "Consciência é o nível de lucidez e alerta; alucinação é percepção sem objeto, alteração da sensopercepção.",
+  null
+ ],
+ "1937a9960bc2": [
+  "Amnésia ligada a trauma emocional e fuga dissociativa é psicogênica, não orgânica; a orgânica decorre de lesão ou disfunção cerebral.",
+  "Labilidade e incontinência afetiva são alterações da modulação, com afeto que muda fácil ou escapa ao controle, não hipoestesia, que é redução da reatividade.",
+  "Reconhecer o ato como indesejável e tentar adiá-lo é próprio do ato compulsivo; o impulsivo é súbito, sem essa luta interna.",
+  "O delírio é irredutível: não se desfaz com provas da realidade nem com argumentos lógicos.",
+  null
+ ],
+ "6a9b2e05dd18": [
+  "Corpo pesado, lento, sem vida, com astenia e sensação de impotência, é a vivência corporal da depressão, não da hipocondria.",
+  "Sentir o corpo comprimido, com aperto no peito e na garganta, é vivência da ansiedade, não da mania.",
+  "Corpo vivido como ativo, poderoso e incapaz de parar é vivência da mania, não da ansiedade grave.",
+  null,
+  "Erotização do corpo todo com genitais vividos como insensíveis ou perigosos não é a descrição da esquizofrenia; a alternativa troca o quadro."
+ ],
+ "54d1c5d0c223": [
+  null,
+  "Falta de memória não está entre as causas de ilusão; os fatores são falta de atenção, catatimias e erros de julgamento.",
+  "Agnosia é falha de reconhecimento, não causa de ilusão; os fatores são falta de atenção, catatimias e erros de julgamento.",
+  "Apatia é alteração do afeto e não deforma a percepção; os fatores são falta de atenção, catatimias e erros de julgamento.",
+  "Oligofrenia é deficiência intelectual, não fator de ilusão; os fatores são falta de atenção, catatimias e erros de julgamento."
+ ],
+ "9b83dddbd240": [
+  null,
+  "Troca ecopraxia e dipsomania: imitação patológica de movimentos é ecopraxia (IV), e compulsão por álcool é dipsomania (V).",
+  "Erra a 1ª, a 4ª e a 5ª: descarga emocional ao recordar é abreação (III), pensamento pouco claro é obnubilação (I) e ânimo desagradável é humor disfórico (II).",
+  "Troca abreação e dipsomania: descarga emocional ao recordar experiência dolorosa é abreação (III), e compulsão por álcool é dipsomania (V).",
+  "Erra a 1ª, a 3ª e a 5ª: descarga emocional é abreação (III), compulsão por álcool é dipsomania (V) e ânimo desagradável é humor disfórico (II)."
+ ],
+ "4f310c71af2a": [
+  "Pensamento vago é impreciso e pobre; o trecho mostra saltos rápidos por associações de som e contiguidade, típicos da fuga de ideias.",
+  "Reificação é tratar o abstrato como concreto; o trecho mostra saltos por associações superficiais, o que é fuga de ideias.",
+  "Perseveração é repetir a mesma ideia ou palavra; o trecho muda de ideia a cada passo, o que é fuga de ideias.",
+  "Na incoerência os elos se perdem e o discurso fica ininteligível; no trecho cada salto ainda é compreensível (mel, açúcar, cana, corda), o que é fuga de ideias.",
+  null
+ ],
+ "fae10c4e0c58": [
+  "Dúvida injustificada sobre a lealdade dos amigos é critério do transtorno paranoide, e afeto inadequado é do esquizotípico; não são do esquizoide.",
+  "Só se envolver com certeza de aceitação e inibir-se por inadequação são critérios da personalidade evitativa, e tendência à falsidade não é critério esquizoide.",
+  "Comportamento ou aparência estranha, excêntrica ou peculiar é critério do esquizotípico, não do esquizoide.",
+  "Inibir-se em situações novas por sentimentos de inadequação é critério da personalidade evitativa, não do esquizoide.",
+  null
+ ],
+ "b8a862c83317": [
+  "Estabilidade de um padrão de resposta descreve traço de personalidade em geral; inibição comportamental é timidez, evitação e reserva diante do novo.",
+  null,
+  "Medo de ser avaliado em situações sociais descreve o transtorno de ansiedade social, não o fator de vulnerabilidade.",
+  "Preocupação excessiva, persistente e difícil de controlar é o TAG, não a inibição comportamental, que é timidez diante do novo.",
+  "Medo de se afastar de figuras de apego é o transtorno de ansiedade de separação, não a inibição comportamental."
+ ],
+ "963912fd912a": [
+  "Irritabilidade e humor deprimido não estão entre os sintomas do ataque de pânico; são de quadros depressivos.",
+  null,
+  "Irritabilidade, revivescência (TEPT) e falta de prazer (depressão) não estão na lista de sintomas do ataque de pânico.",
+  "Pensamentos obsessivos são do TOC e não estão na lista do ataque de pânico, embora medo de morrer, taquicardia e falta de ar estejam.",
+  "Dor de cabeça não está na lista de sintomas do ataque de pânico, embora vertigem, ondas de calor e sudorese estejam."
+ ],
+ "79959dc661c1": [
+  "TOC exige obsessões e compulsões, que o caso não traz; ansiedade difusa com inquietação, fadiga e irritabilidade é TAG.",
+  null,
+  "Pânico se marca por ataques súbitos e intensos; o caso é ansiedade constante há quase um ano, típica do TAG.",
+  "Depressão atípica exigiria humor deprimido reativo, hipersonia e aumento de apetite; o caso traz insônia e ansiedade difusa, quadro de TAG.",
+  "Alexitimia é dificuldade de nomear emoções, não diagnóstico; o quadro descrito é de TAG."
+ ],
+ "277928cb1074": [
+  "Na hipocondria o temor não é delirante: o paciente mantém alguma crítica; convicção delirante indica outro quadro.",
+  "A somatização também pode ocorrer junto de doença física real, que ela amplifica, e não só na ausência de patologia física.",
+  "Na somatização pode haver, sim, desejo de assumir o papel de doente para obter ganhos psicológicos ou sociais.",
+  null,
+  "A somatização pode ser estável e duradoura, um modo de conduzir a vida, e não apenas situacional e transitória."
+ ],
+ "131f96dfc883": [
+  null,
+  "No bipolar o núcleo é o humor, e Parkinson é doença neurológica motora; alteração de percepção e cognição não é critério essencial de nenhum dos dois.",
+  "Psicose maníaco-depressiva é nome antigo, não categoria do DSM-5, e na anorexia o núcleo é a restrição alimentar e o medo de engordar.",
+  "No TDAH o núcleo é desatenção e hiperatividade, e no borderline a instabilidade afetiva e relacional; percepção e cognição não são critério essencial.",
+  "No TEPT o núcleo é a resposta ao trauma, e na depressão o humor; percepção e cognição alteradas não são critério essencial."
+ ],
+ "78b70a299382": [
+  "Baby blues é tristeza transitória do pós-parto, que não se aplica a Larissa.",
+  "Boreout é esgotamento pelo tédio no trabalho, não preocupação excessiva com provas; o quadro sugere TAG.",
+  "Pânico exige ataques súbitos e recorrentes, que o caso não descreve; preocupação persistente com insônia e inquietação sugere TAG.",
+  "Depressão maior exige humor deprimido ou perda de prazer como núcleo; Larissa tem preocupação, inquietação e insônia, quadro de TAG.",
+  null
+ ],
+ "21b8f1b305e5": [
+  "Hipotireoidismo é doença endócrina, não transtorno alimentar do DSM-5.",
+  "Anorexia nervosa cursa com baixo peso, não com obesidade.",
+  "Na bulimia os comportamentos compensatórios, como vômito, contrabalançam a compulsão, e o peso tende a ficar normal.",
+  "O dismórfico corporal fica no grupo obsessivo-compulsivo, não entre os transtornos alimentares.",
+  null
+ ],
+ "c5f732a85c5a": [
+  null,
+  "O DSM-5 não separa psíquico e físico em transtornos orgânicos no campo das drogas; essa divisão não está nos critérios.",
+  "O período de referência dos critérios é de 12 meses, não de dois.",
+  "Tolerância é precisar de quantidades cada vez maiores, não menores, para obter o mesmo efeito.",
+  "Fissura é critério, mas é o desejo intenso de usar; consumir mais ou por mais tempo que o pretendido é outro critério."
+ ],
+ "2db053a436d6": [
+  "Erra ao incluir III e V: substância ou condição médica excluem o diagnóstico, e no turno de trabalho o ciclo endógeno é normal. E deixa de fora I e IV.",
+  null,
+  "Erra ao incluir III: efeito de substância ou condição médica é critério de exclusão. E deixa de fora II, que define o transtorno.",
+  "Erra ao incluir III e V: substância ou condição médica excluem o diagnóstico, e no turno de trabalho o ciclo endógeno é normal; o conflito vem do horário exigido.",
+  "Erra ao incluir V: no transtorno por turno de trabalho o ciclo endógeno é normal, não irregular. E deixa de fora I, que é verdadeira."
+ ],
+ "d9895b20b1df": [
+  "Esclerose múltipla é doença neurológica desmielinizante, não a categoria das demências; no DSM-5 elas são transtorno neurocognitivo maior.",
+  "Transtorno psicótico tem núcleo em delírios e alucinações; demência é transtorno neurocognitivo maior.",
+  null,
+  "Quadro somatoforme envolve sintomas físicos sem explicação orgânica; demência é transtorno neurocognitivo maior.",
+  "Transtornos do neurodesenvolvimento começam na infância; demência surge com o envelhecimento e é transtorno neurocognitivo maior."
+ ],
+ "d6d8c03391e3": [
+  "Na compulsão alimentar e na seletividade a imagem corporal não é o eixo; os transtornos alimentares ligados à imagem são anorexia e bulimia.",
+  "TOC não é transtorno alimentar, e vigorexia (dismorfia muscular) se liga ao dismórfico corporal; os ligados à imagem são anorexia e bulimia.",
+  null,
+  "Dismórfico corporal e hipocondria não são transtornos alimentares; os ligados à imagem corporal são anorexia e bulimia.",
+  "Personalidade narcisista e pânico não são transtornos alimentares; os ligados à imagem corporal são anorexia e bulimia."
+ ],
+ "17d57219cfeb": [
+  "Identificação com o agressor é mecanismo de defesa da psicanálise; Rosenhan testou a validade do diagnóstico psiquiátrico.",
+  null,
+  "Submissão à autoridade é tema dos experimentos de Milgram; Rosenhan testou a validade do diagnóstico psiquiátrico.",
+  "Coesão de grupo é tema da psicologia dos grupos; Rosenhan testou a validade do diagnóstico psiquiátrico.",
+  "Endogrupos e exogrupos são tema da psicologia social de grupos; Rosenhan testou a validade do diagnóstico psiquiátrico."
+ ],
+ "55e5e8b6401c": [
+  "Marca só I, que é falsa: no DSM-5 o Alzheimer é transtorno neurocognitivo, não psicótico. E deixa de fora II e III, verdadeiras.",
+  "Erra ao incluir I: o Alzheimer é transtorno neurocognitivo, não psicótico. E deixa de fora III, verdadeira: a demência é progressiva e incurável.",
+  null,
+  "Erra ao incluir I: o Alzheimer é transtorno neurocognitivo, não psicótico. E deixa de fora II, verdadeira: há declínio de memória e aprendizagem.",
+  "Erra ao incluir I: no DSM-5 o Alzheimer é transtorno neurocognitivo, não psicótico."
+ ],
+ "72aefe8050e4": [
+  "A seletividade do autismo não vem com medo de engordar nem distorção da imagem, que Jéssica tem; o quadro é de anorexia.",
+  "Bulimia envolve compulsão seguida de compensação, geralmente com peso normal; Jéssica restringe e está muito magra, quadro de anorexia.",
+  "Narcisismo é grandiosidade e necessidade de admiração; não explica restrição alimentar e distorção da imagem.",
+  "Compulsão alimentar é comer muito com perda de controle, o oposto da restrição de Jéssica.",
+  null
+ ],
+ "ef96ac840c50": [
+  null,
+  "Compulsão alimentar envolve episódios de comer grandes quantidades, que o caso não descreve; Luciana emagreceu e restringe.",
+  "Bulimia exige episódios de compulsão com compensação; o caso traz restrição, emagrecimento e distorção da imagem, quadro de anorexia.",
+  "Ansiedade alimentar não é diagnóstico; emagrecimento, distorção da imagem e medo de comer indicam anorexia.",
+  "Comer emocional não é diagnóstico e envolve comer mais, não restringir; o quadro é de anorexia."
+ ],
+ "3c4adfb70660": [
+  "Está correta: tolerância é a diminuição do efeito da substância com o uso repetido. A questão pede a incorreta.",
+  "Está correta: a síndrome de abstinência são os sinais que surgem horas ou dias após cessar ou reduzir um uso pesado e contínuo. A questão pede a incorreta.",
+  "Está correta: dependência física é a adaptação do corpo que gera distúrbios físicos quando o uso é interrompido. A questão pede a incorreta.",
+  "Está correta: dependência psíquica é a compulsão ao uso em busca de prazer ou alívio de desconforto. A questão pede a incorreta.",
+  null
+ ],
+ "02dee775d6df": [
+  "O histriônico busca atenção pela emotividade exagerada e sedução, sem a convicção de superioridade e de direito a privilégios que Jéssica tem.",
+  "Borderline se marca por instabilidade afetiva e medo de abandono, não por grandiosidade e necessidade de admiração.",
+  null,
+  "Exibicionista não é transtorno da personalidade; grandiosidade e necessidade de admiração indicam o narcisista.",
+  "Maníaca não é transtorno da personalidade; mania é episódio de humor, não padrão estável de personalidade."
+ ],
+ "1bb10ea63fa7": [
+  "É sintoma da dependência: o desejo forte e compulsivo de consumir está entre os critérios. A questão pede a exceção.",
+  null,
+  "É sintoma da dependência: a síndrome de abstinência na falta da substância está entre os critérios. A questão pede a exceção.",
+  "É sintoma da dependência: a dificuldade de controlar início, término e quantidade está entre os critérios. A questão pede a exceção.",
+  "É sintoma da dependência: o abandono progressivo de outros interesses e hábitos está entre os critérios. A questão pede a exceção."
+ ],
+ "8d40eedca44e": [
+  "Distimia é depressão crônica de intensidade leve, sem alucinações nem delírios.",
+  "TDAH envolve desatenção e hiperatividade, sem perda do contato com a realidade.",
+  "Agorafobia é medo de lugares de onde seria difícil sair, sem alucinações nem delírios.",
+  "Transtornos de ansiedade não cursam com alucinações, delírios e desorganização; isso é psicose, como na esquizofrenia.",
+  null
+ ],
+ "71daeb15f999": [
+  null,
+  "O DSM-5 exige a presença, não a ausência, de crenças negativas persistentes e exageradas sobre si, os outros e o mundo.",
+  "As reações fisiológicas aos lembretes do trauma são intensas, não diminuídas.",
+  "O critério é hipervigilância, não hipovigilância.",
+  "O critério é sentimento de distanciamento e alienação em relação aos outros, não de aproximação."
+ ],
+ "3f929fe1090c": [
+  "Conversão histérica não está entre os transtornos emocionais da infância citados por Papalia e Feldman; o resto da lista confere.",
+  "Delírio é sintoma, não transtorno emocional da infância; a lista certa traz depressão infantil no lugar.",
+  "Alucinação visual é sintoma, não transtorno emocional da infância; a lista certa traz o TOC no lugar.",
+  "Perversão não está entre os transtornos emocionais da infância citados; a lista certa traz o TOC no lugar.",
+  null
+ ],
+ "ddd4d189ee76": [
+  "Quem tem anorexia mantém o segredo, mas nega os sintomas e resiste ao tratamento, em vez de aceitá-los.",
+  "Na bulimia há grande preocupação com peso, alimentos e forma corporal.",
+  null,
+  "Na bulimia o peso costuma ficar na faixa normal.",
+  "Na bulimia os episódios de compulsão são recorrentes, não raros."
+ ],
+ "138cbafb34d7": [
+  "O delírio é persistente, muitas vezes para a vida toda; a CID-10 exige ao menos 3 meses, não um ano.",
+  "O transtorno delirante é contínuo, não recorrente em episódios separados por intervalos.",
+  "Descreve o oposto: os delírios são usualmente persistentes, muitas vezes por toda a vida, e não passageiros de alguns meses.",
+  "O quadro é contínuo, não recorrente, e o conteúdo muitas vezes se relaciona com a situação de vida do indivíduo.",
+  null
+ ],
+ "486c142f5943": [
+  "Fuga de ideias e distratibilidade são sintomas da mania, não do episódio depressivo.",
+  "Apetite diminuído está na lista da CID-10, mas ruminação não; por isso a alternativa não está inteiramente certa.",
+  "Alucinações não são sintoma comum do episódio típico, só da forma grave com sintomas psicóticos.",
+  null,
+  "Sono perturbado está na lista, mas catatonia não é sintoma comum do episódio depressivo típico."
+ ],
+ "09e5aea3dfd9": [
+  "Troca adaptação e reação aguda: o quadro transitório de horas ou dias (I) é a reação aguda, e o sofrimento na adaptação a uma mudança (III) é o transtorno de adaptação.",
+  null,
+  "Erra o TEPT e a adaptação: a resposta retardada a evento catastrófico (II) é o TEPT, e o sofrimento ligado a mudança de vida (III) é o transtorno de adaptação.",
+  "Erra o TEPT e a reação aguda: o TEPT é a resposta retardada ou protraída (II), e a reação aguda é o quadro transitório de horas ou dias (I).",
+  "Erra as três: TEPT é a resposta retardada (II), adaptação é o sofrimento ligado a mudança de vida (III) e reação aguda é o quadro de horas ou dias (I)."
+ ],
+ "f35e6ed4a655": [
+  "Inverte: instabilidade com períodos de depressão e leve elação é ciclotimia, e rebaixamento crônico do humor é distimia.",
+  null,
+  "A descrição I, com períodos de depressão e de leve elação, é ciclotimia, não transtorno misto ansioso e depressivo.",
+  "Alexitimia é dificuldade de nomear emoções, não diagnóstico da CID-10; a descrição II é distimia.",
+  "A descrição I é ciclotimia, não distimia, e esquizofrenia é psicose, sem relação com o rebaixamento crônico do humor da descrição II."
+ ],
+ "3c24ab6c402e": [
+  "O estressor pode, sim, ser experiência traumática esmagadora com séria ameaça à segurança ou à integridade física.",
+  "Exaustão física e fatores orgânicos aumentam o risco, não diminuem.",
+  null,
+  "Nem todos os expostos desenvolvem o transtorno; vulnerabilidade e capacidade de adaptação individuais influem.",
+  "Sinais autonômicos de ansiedade, como taquicardia, sudorese e rubor, costumam estar presentes."
+ ],
+ "62138e77659f": [
+  "Inverte os advérbios: o comprometimento cognitivo é comumente acompanhado, e às vezes precedido, por deterioração emocional, social ou motivacional.",
+  null,
+  "A demência interfere, sim, nas atividades pessoais do dia a dia, como higiene e alimentação.",
+  "O requisito principal é o declínio da memória e do pensamento, suficiente para comprometer a vida diária, não um requisito secundário de linguagem e pensamento.",
+  "O Alzheimer tem início insidioso e desenvolvimento lento, não abrupto e rápido."
+ ],
+ "3bb4e003d1f4": [
+  "Compulsão à repetição é conceito psicanalítico de Freud, não categoria da CID-11.",
+  "Tolerância é critério de dependência, não uma síndrome da CID-11; a categoria ligada a rolagem infinita e recompensas é o transtorno de jogo eletrônico.",
+  null,
+  "Personalidade dependente envolve submissão e necessidade de ser cuidado, sem relação com mecanismos de engajamento digital.",
+  "TDAH é transtorno do neurodesenvolvimento, não produzido por rolagem infinita ou recompensas; o alvo da medida é o transtorno de jogo eletrônico."
+ ],
+ "ec5895b1f3a7": [
+  "Empatia condicional contradiz Rogers, para quem a aceitação do cliente é incondicional, e assertividade não é condição do terapeuta.",
+  "Associação livre é técnica da psicanálise, e assertividade e comunicação indutiva não são condições rogerianas; as três são congruência, consideração positiva incondicional e empatia.",
+  null,
+  "Empatia condicional contradiz Rogers, e símbolos inconscientes são da psicanálise; as condições são congruência, consideração positiva incondicional e empatia."
+ ],
+ "aed678eccdb1": [
+  null,
+  "Erra a 1ª e a 2ª: catastrofização é prever o futuro negativamente (V), e a 2ª descreve supergeneralização, não filtro mental (F).",
+  "Erra a 2ª e a 4ª: a 2ª descreve supergeneralização, não filtro mental (F), e o pensamento dicotômico está bem definido (V).",
+  "Erra todas: catastrofização e pensamento dicotômico estão certos (V), e filtro mental e supergeneralização estão com as definições trocadas (F)."
+ ],
+ "a536b6b45a9d": [
+  "Treinamento cognitivo não é o componente descrito; o que estende a mudança por toda a semana são os exercícios de casa.",
+  "Sessões na residência do paciente não são parte integral da terapia cognitiva; o componente obrigatório são os exercícios de casa.",
+  null,
+  "Sessões de reforço servem à prevenção de recaída perto do fim do tratamento; o que estende a mudança pela semana são os exercícios de casa.",
+  "Atendimento online é formato de atendimento, não componente da terapia; o que estende a mudança pela semana são os exercícios de casa."
+ ],
+ "1966e092f8b9": [
+  "Está correta: Freud observa que jamais se pensa em tratar o luto como condição patológica. A questão pede a incorreta.",
+  "Está correta: na melancolia a perda é retirada da consciência, e no luto nada é inconsciente sobre ela. A questão pede a incorreta.",
+  "Está correta: espera-se que o luto seja superado com o tempo, e interferir seria inútil ou prejudicial. A questão pede a incorreta.",
+  "Está correta: para Freud, luto e melancolia têm os mesmos traços, exceto a perturbação da autoestima, só presente na melancolia. A questão pede a incorreta.",
+  null
+ ],
+ "535578e2b798": [
+  "Freud não propõe revelar resistências para habilitar o paciente a estar doente; o instrumento principal é o manejo da transferência, que converte a repetição em motivo para recordar.",
+  null,
+  "Freud não propõe consolar nem evitar conflitos; o instrumento principal é o manejo da transferência, que transforma a compulsão à repetição em motivo para recordar.",
+  "Freud não quer tornar a doença desprezível: o paciente deve vê-la como adversário digno; o instrumento principal é o manejo da transferência."
+ ]
+}

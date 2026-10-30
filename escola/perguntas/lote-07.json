@@ -1,0 +1,538 @@
+{
+ "https://periodicos.pucpr.br/psicologiaargumento/article/download/23749/pdf/50989": [
+  {
+   "enunciado": "Segundo o artigo, como se relacionam os termos \"dificuldades de aprendizagem\" e \"transtornos de aprendizagem\"?",
+   "alternativas": [
+    "Os dois termos são sinônimos exatos e têm a mesma definição consensual na literatura brasileira",
+    "Dificuldades de aprendizagem é um termo mais genérico, que pode abarcar outros termos e se liga ao contexto escolar do aluno",
+    "Dificuldades de aprendizagem designam só os quadros neurológicos específicos, e transtornos dependem apenas do método de ensino",
+    "Dificuldades de aprendizagem são sempre mais graves que os transtornos e têm causa exclusivamente genética"
+   ],
+   "certa": 1,
+   "comentario": "O artigo explica que dificuldades de aprendizagem são um termo mais genérico, ligado ao contexto escolar, enquanto transtorno é a alteração sistemática ligada a disfunções cognitivas e neurológicas.",
+   "trecho": "as ditas dificuldades de aprendizagem são sempre um termo mais genérico, que pode abarcar ou ter alguma relação com os outros termos citados acima",
+   "onde": 6
+  },
+  {
+   "enunciado": "Segundo Piaget, citado na introdução do artigo, o que caracteriza a fase operatória concreta, vivida na idade escolar?",
+   "alternativas": [
+    "Raciocínio hipotético-dedutivo e abstrato, que dispensa qualquer apoio em objetos concretos",
+    "Jogo simbólico e faz de conta, ainda sem noção de conservação ou de classificação",
+    "Início das operações de classificação, ordenamento e construção de noções de número, espaço e tempo, ligadas ao concreto",
+    "Coordenação apenas sensório-motora, baseada em reflexos e em esquemas de ação sobre os objetos"
+   ],
+   "certa": 2,
+   "comentario": "Para Piaget, na idade escolar começam as operações de classificação, ordenamento e noções de número, espaciais e temporais.",
+   "trecho": "o desenvolvimento do conhecimento passará por uma fase chamada operatória concreta quando se iniciam as operações de classificação, ordenamento e construção de ideias comuns sobre noções de número",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo o artigo, o principal déficit cognitivo encontrado em escolares com dislexia está ligado a qual componente?",
+   "alternativas": [
+    "Ao componente fonológico da linguagem",
+    "À memória visuoespacial de curto prazo",
+    "À atenção sustentada e ao controle da impulsividade",
+    "Ao senso numérico e ao cálculo mental"
+   ],
+   "certa": 0,
+   "comentario": "O artigo conclui que, na dislexia, o principal déficit está intimamente relacionado ao componente fonológico da linguagem.",
+   "trecho": "o principal déficit cognitivo encontrado em escolares disléxicos está intimamente relacionado ao componente fonológico da linguagem",
+   "onde": 15
+  },
+  {
+   "enunciado": "De acordo com o artigo, citando Genes, por quanto tempo e em quantos ambientes as consequências do TDAH devem aparecer?",
+   "alternativas": [
+    "Por no mínimo 3 meses, em um único ambiente, em geral a escola",
+    "Por no mínimo 12 meses, apenas no ambiente familiar",
+    "Por no mínimo 1 mês, em três ou mais locais frequentados",
+    "Por no mínimo 6 meses, em dois ou mais locais frequentados"
+   ],
+   "certa": 3,
+   "comentario": "O texto afirma que as consequências do TDAH persistem por no mínimo 6 meses e são observadas em dois ou mais locais.",
+   "trecho": "persistir por, no mínimo 06 meses, sendo observadas em dois ou mais locais frequentados pelo indivíduo",
+   "onde": 15
+  },
+  {
+   "enunciado": "Nas considerações finais, qual é o perfil geral das crianças com transtornos ou dificuldades de aprendizagem apontado pelo artigo?",
+   "alternativas": [
+    "Perfil cognitivo abaixo do esperado em várias habilidades, com forte ligação com linguagem e atenção",
+    "Perfil igual ao das crianças típicas, mudando apenas o desempenho em provas escolares",
+    "Prejuízo restrito à memória visual, com linguagem e atenção preservadas",
+    "Prejuízo apenas em habilidades motoras finas e na percepção visual"
+   ],
+   "certa": 0,
+   "comentario": "O artigo destaca perfil abaixo do esperado em diversas habilidades, sobretudo processamento da linguagem e atenção.",
+   "trecho": "perfil cognitivo abaixo do esperado em diversas habilidades cognitivas, destacando-se forte ligação com processamento da linguagem e atenção",
+   "onde": 18
+  }
+ ],
+ "https://www.feis.unesp.br/Home/DSAA/DSAA/ProjetoGQT-SCM/documentos/educacao/orineta%E7%E3opara%20otrabalho.pdf": [
+  {
+   "enunciado": "Segundo o artigo, qual é um dos primeiros registros de Orientação Profissional no Brasil?",
+   "alternativas": [
+    "A criação do ISOP em 1924, sob a direção de Mira y López",
+    "O primeiro serviço público estadual criado por Lourenço Filho em 1924",
+    "O Liceu de Artes e Ofícios de São Paulo, implementado em 1924 pelo engenheiro suíço Roberto Mange",
+    "A fundação da ABOP em 1924, filiada à associação internacional de orientação"
+   ],
+   "certa": 2,
+   "comentario": "O texto cita o Liceu de Artes e Ofícios de São Paulo, de 1924, com Roberto Mange, como um dos primeiros registros.",
+   "trecho": "criação do Liceu de Artes e Ofícios de São Paulo, cujo trabalho foi implementado em 1924 pelo engenheiro suíço Roberto Mange",
+   "onde": 4
+  },
+  {
+   "enunciado": "Quem esteve à frente do Instituto Nacional de Seleção e Orientação Profissional (ISOP) por 17 anos, segundo o artigo?",
+   "alternativas": [
+    "Mira y López, médico e psicólogo espanhol que viveu no Brasil de 1945 a 1964",
+    "Lourenço Filho, que criou o primeiro serviço público estadual de orientação",
+    "Roberto Mange, engenheiro suíço ligado ao Liceu de Artes e Ofícios",
+    "Rodolfo Bohoslavsky, psicólogo argentino da modalidade clínica"
+   ],
+   "certa": 0,
+   "comentario": "O artigo afirma que o ISOP esteve sob a direção de Mira y López por 17 anos.",
+   "trecho": "O ISOP esteve sob a direção de Mira y López, médico e psicólogo espanhol, por 17 anos",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo Bohoslavsky, como o adolescente é visto na modalidade estatística de orientação profissional?",
+   "alternativas": [
+    "Como elemento ativo, que escolhe os testes, cabendo ao psicólogo apenas aplicá-los",
+    "Como parceiro igual ao psicólogo, na construção coletiva do diagnóstico",
+    "Como elemento passivo, numa perspectiva inatista das aptidões, enquanto o psicólogo é o elemento ativo",
+    "Como elemento passivo, porque a modalidade rejeita qualquer uso de instrumentos psicométricos"
+   ],
+   "certa": 2,
+   "comentario": "Na modalidade estatística o adolescente é passivo e as aptidões são vistas como inatas, estáveis e permanentes; o psicólogo é o elemento ativo.",
+   "trecho": "o adolescente é visto como elemento passivo no processo de orientação, numa perspectiva inatista das aptidões, que pressupõe uma relação estável e permanente entre características pessoais em traços e fatores",
+   "onde": 10
+  },
+  {
+   "enunciado": "Segundo o estudo de Melo-Silva e Jacquemin citado no artigo, que duração basta se a meta é desenvolver a maturidade para a escolha da carreira?",
+   "alternativas": [
+    "Quinze sessões de duas horas, pois com menos não há resultado estatisticamente comprovado",
+    "Três sessões individuais de uma hora, voltadas só à informação sobre profissões",
+    "Mais de quinze sessões, porque só assim se desenvolve a maturidade profissional",
+    "Nove sessões de duas horas em grupo, totalizando 18 horas"
+   ],
+   "certa": 3,
+   "comentario": "O estudo mostrou que nove sessões em grupo operativo (18 horas) já trazem resultados comprovados na maturidade; mais sessões servem a metas como autoconceito.",
+   "trecho": "a meta é desenvolver a maturidade para a escolha da carreira, nove sessões de duas horas em grupo são suficientes",
+   "onde": 13
+  },
+  {
+   "enunciado": "Segundo o artigo, qual é a diferença entre o vestibular brasileiro e o Bacalauréat (BAC) francês?",
+   "alternativas": [
+    "Ambos são exames de saída do ensino médio que habilitam diretamente ao mercado de trabalho",
+    "O vestibular é exame de entrada para um curso específico numa universidade, e o BAC, feito na saída do ensino médio, habilita ao trabalho ou a cursos superiores",
+    "O vestibular habilita ao mundo do trabalho, e o BAC apenas seleciona candidatos para a universidade",
+    "O vestibular avalia atividades extracurriculares e cartas de recomendação, e o BAC só provas"
+   ],
+   "certa": 1,
+   "comentario": "O texto contrasta o BAC, que habilita ao trabalho ou a qualquer curso da área aprovada, com o vestibular, exame de entrada de um curso específico, sem valor para o trabalho.",
+   "trecho": "no Brasil o vestibular é um exame de entrada no ciclo superior, para um determinado curso em uma universidade para o qual o exame específico foi realizado",
+   "onde": 6
+  }
+ ],
+ "https://www.redalyc.org/pdf/2290/229017444003.pdf": [
+  {
+   "enunciado": "Como Bowlby caracterizou o apego, segundo o artigo?",
+   "alternativas": [
+    "Um comportamento aprendido apenas por reforço, quando o cuidador oferece alimento",
+    "Um comportamento biologicamente programado, como a alimentação e a sexualidade, e um sistema de controle homeostático",
+    "Um traço de temperamento herdado de forma fixa, que não muda com a experiência",
+    "Um mecanismo exclusivo da primeira infância, que desaparece na adolescência"
+   ],
+   "certa": 1,
+   "comentario": "Para Bowlby o apego é um mecanismo básico, biologicamente programado e homeostático.",
+   "trecho": "é um comportamento biologicamente programado, como o mecanismo de alimentação e da sexualidade, e é considerado como um sistema de controle homeostático",
+   "onde": 4
+  },
+  {
+   "enunciado": "O que são os modelos internos de funcionamento na teoria do apego?",
+   "alternativas": [
+    "Estratégias de defesa do ego usadas para evitar a separação do cuidador",
+    "Esquemas motores inatos que dispensam qualquer experiência com o cuidador",
+    "Testes padronizados usados para classificar o vínculo mãe-bebê",
+    "Representações das experiências da infância sobre o ambiente, si mesmo e as figuras de apego"
+   ],
+   "certa": 3,
+   "comentario": "O artigo define o modelo interno como habilidade de representação mental das experiências da infância sobre o ambiente, o self e as figuras de apego.",
+   "trecho": "modelo interno de funcionamento, que se refere a representações das experiências da infância relacionadas às percepções do ambiente, de si mesmo e das figuras de apego",
+   "onde": 5
+  },
+  {
+   "enunciado": "Qual padrão de apego foi acrescentado por Main e Hesse ao modelo de Ainsworth?",
+   "alternativas": [
+    "O padrão desorganizado ou desorientado, como quarto padrão",
+    "O padrão seguro, como primeiro padrão",
+    "O padrão evitativo, como terceiro padrão",
+    "O padrão ambivalente ou resistente, como segundo padrão"
+   ],
+   "certa": 0,
+   "comentario": "Main e Hesse expandiram o modelo de Ainsworth chegando ao quarto padrão, desorganizado ou desorientado.",
+   "trecho": "expandindo o modelo de Ainsworth, ainda chegaram a um quarto padrão de apego, denominado desorganizado ou desorientado",
+   "onde": 6
+  },
+  {
+   "enunciado": "Na Situação Estranha, como se comportam as crianças do padrão evitativo ao reencontrar os cuidadores?",
+   "alternativas": [
+    "Alternam procura por contato e raiva, sem se acalmarem",
+    "Mantêm distância e não os procuram para obter conforto",
+    "Buscam o colo imediatamente e logo voltam a explorar o ambiente",
+    "Mostram comportamento contraditório, com transe e confusão facial"
+   ],
+   "certa": 1,
+   "comentario": "No padrão evitativo as crianças brincam tranquilas e, no reencontro, mantêm distância e não buscam conforto.",
+   "trecho": "Quando são reunidas aos cuidadores, essas crianças mantêm distância e não os procuram para obter conforto",
+   "onde": 7
+  },
+  {
+   "enunciado": "O que o artigo relata sobre o apego dos 12 aos 15 anos, segundo Ammaniti e colaboradores?",
+   "alternativas": [
+    "Tendência a maior rejeição aos pais, sugerindo mais uso de estratégias evitativas ou desapegadas",
+    "Aumento do apego seguro, com busca constante de proximidade física dos pais",
+    "Desaparecimento do sistema de apego, que só retorna na vida adulta",
+    "Predomínio do padrão desorganizado em todos os adolescentes"
+   ],
+   "certa": 0,
+   "comentario": "Os adolescentes mostraram maior rejeição aos pais nos primeiros anos da adolescência, o que sugere estratégias evitativas ligadas à busca de identidade.",
+   "trecho": "tendência dos adolescentes para demonstrar maior rejeição aos pais, nos primeiros quatro anos iniciais da adolescência, dos 12 aos 15 anos, o que sugere um maior uso de estratégias de apego evitativo",
+   "onde": 8
+  }
+ ],
+ "https://www.redalyc.org/pdf/3953/395335845011.pdf": [
+  {
+   "enunciado": "Segundo Peres, como Zetzel concebe a aliança terapêutica?",
+   "alternativas": [
+    "Como a repetição de experiências infantis do paciente na relação com o psicoterapeuta",
+    "Como uma relação de trabalho entre paciente e psicoterapeuta em prol do processo psicoterapêutico",
+    "Como sinônimo de transferência positiva, ligada a pulsões libidinais",
+    "Como o oposto da transferência negativa, marcada por pulsões agressivas"
+   ],
+   "certa": 1,
+   "comentario": "Zetzel define a aliança como relação de trabalho entre paciente e psicoterapeuta, apoiada nas funções autônomas do ego do paciente.",
+   "trecho": "A autora em pauta o concebe basicamente como uma relação de trabalho que se estabelece entre paciente e psicoterapeuta em prol do processo psicoterapêutico",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo o artigo, o que é a dissociação terapêutica do ego, termo de Sterba?",
+   "alternativas": [
+    "A perda das funções autônomas do ego diante de resistências inconscientes",
+    "A cisão dos objetos internos típica dos pacientes borderline",
+    "A divisão do psicoterapeuta entre a empatia e a neutralidade",
+    "Uma parte do aparelho psíquico, voltada à realidade, opor-se à outra, resistente, e colaborar com o psicoterapeuta"
+   ],
+   "certa": 3,
+   "comentario": "Para Sterba, parte do aparelho psíquico do paciente se opõe à parte resistente e colabora com o psicoterapeuta, favorecendo a síntese egoica.",
+   "trecho": "um fenômeno que leva uma parte do aparelho psíquico do paciente, orientada à realidade externa, a se opor à outra parte, influenciada por resistências inconscientes, e colaborar com o psicoterapeuta",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo Eizirik, Liberman e Costa, a relação terapêutica real tem como ponto de partida a execução do contrato terapêutico. Que regras o texto lista nesse contrato?",
+   "alternativas": [
+    "Frequência, horário, duração, faltas, atrasos, sigilo, férias e honorários",
+    "Diagnóstico, prognóstico, interpretação transferencial e alta",
+    "Escolha da técnica, número de testes e tipo de relatório final",
+    "Idade, escolaridade, profissão e histórico familiar do paciente"
+   ],
+   "certa": 0,
+   "comentario": "O texto lista as regras acordadas: frequência, horário, duração, faltas, atrasos, sigilo, férias e honorários.",
+   "trecho": "definição de regras aceitáveis para ambas as partes sobre frequência, horário, duração, faltas, atrasos, sigilo, férias e honorários",
+   "onde": 6
+  },
+  {
+   "enunciado": "Sobre simetria e assimetria no vínculo psicoterapêutico, o que o artigo afirma, segundo Etchegoyen?",
+   "alternativas": [
+    "A aliança terapêutica se funda na assimetria, pois o psicoterapeuta detém a supremacia técnica",
+    "A assimetria deve ser usada na relação terapêutica real para reforçar a autoridade do psicoterapeuta",
+    "A aliança terapêutica funda-se na simetria inerente a qualquer relação entre duas pessoas reais igualmente adultas",
+    "A simetria deve ser evitada, porque confunde os papéis de paciente e psicoterapeuta"
+   ],
+   "certa": 2,
+   "comentario": "A assimetria só demarca os polos do vínculo; usá-la na relação real é autoritário, pois a aliança se funda na simetria entre adultos.",
+   "trecho": "a aliança terapêutica funda-se na simetria inerente a qualquer relação humana que se estabelece entre duas pessoas reais igualmente adultas",
+   "onde": 7
+  },
+  {
+   "enunciado": "Segundo o artigo, qual a importância do desenvolvimento da transferência negativa?",
+   "alternativas": [
+    "É sempre prejudicial e deve ser evitada pelo psicoterapeuta",
+    "Indica o fracasso da aliança terapêutica e a necessidade de encerrar o tratamento",
+    "Pode ser oportuna, pois seus desdobramentos permitem elaborar fantasias arcaicas, como destrutividade e inveja",
+    "É o oposto da aliança e substitui a neurose de transferência"
+   ],
+   "certa": 2,
+   "comentario": "O texto diz que, paradoxalmente, a transferência negativa pode ser oportuna ao subsidiar a elaboração de fantasias arcaicas.",
+   "trecho": "paradoxalmente, o desenvolvimento da transferência negativa pode ser oportuno",
+   "onde": 3
+  }
+ ],
+ "https://www.scielo.br/j/pcp/a/SkwBgq7Xm8GLKJpQxmMMpDh/": [
+  {
+   "enunciado": "Segundo Kovács, citando Ariès, o que ocorreu com o tema da morte no século XX?",
+   "alternativas": [
+    "Tornou-se objeto de ampla discussão pública nas escolas e nos hospitais",
+    "Passou a ser tratado apenas pelas religiões, que o monopolizaram",
+    "Tornou-se interdito, banido da comunicação entre as pessoas",
+    "Foi substituído por debates sobre bioética e eutanásia em todas as faixas etárias"
+   ],
+   "certa": 2,
+   "comentario": "A autora afirma que o tema da morte se tornou interdito no século XX, apesar de a morte estar cada vez mais próxima pela mídia.",
+   "trecho": "O tema da morte se tornou interdito no século XX (Ariés, 1977), sendo banido da comunicação entre as pessoas",
+   "onde": 3
+  },
+  {
+   "enunciado": "O que a autora chama de \"conspiração de silêncio\"?",
+   "alternativas": [
+    "O sigilo profissional dos psicólogos sobre a morte de pacientes",
+    "Um grave distúrbio de comunicação: a morte está próxima, mas pais, professores e profissionais não sabem se ou como falar dela",
+    "A proibição legal de divulgar imagens de morte nos meios de comunicação",
+    "O acordo entre médicos e familiares de ocultar o diagnóstico de doenças graves"
+   ],
+   "certa": 1,
+   "comentario": "A expressão designa o distúrbio de comunicação em que a morte está próxima, mas pais, professores e profissionais evitam falar dela.",
+   "trecho": "ocorre grave distúrbio na comunicação que denominamos conspiração de silêncio",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo a autora, quais mentalidades da morte convivem hoje?",
+   "alternativas": [
+    "A morte domada, a morte de si e a morte do outro",
+    "A morte sagrada, a morte profana e a morte medicalizada",
+    "A morte interdita, a busca da rehumanização da morte e a morte escancarada",
+    "A morte natural, a morte violenta e a morte assistida"
+   ],
+   "certa": 2,
+   "comentario": "O texto cita a morte interdita, a rehumanização da morte e a morte escancarada no cotidiano.",
+   "trecho": "numa sociedade na qual convivem a morte interdita, a busca da rehumanização da morte e a morte escancarada no cotidiano das pessoas",
+   "onde": 5
+  },
+  {
+   "enunciado": "Por que, segundo o artigo, o adolescente corre mais riscos diante da morte?",
+   "alternativas": [
+    "Porque tem pavor da morte e, por isso, evita qualquer experiência nova",
+    "Porque a escola trata o tema da morte em demasia e banaliza o assunto",
+    "Porque sofre mais perdas por doenças que os adultos",
+    "Porque, para ele, é como se a morte não existisse, com vivência de onipotência"
+   ],
+   "certa": 3,
+   "comentario": "A autora diz que o adolescente vive a onipotência, como se a morte não existisse, o que se liga a acidentes, drogas e suicídios.",
+   "trecho": "Para o adolescente, é como se a morte não existisse: há uma vivência de onipotência em sua força total",
+   "onde": 9
+  },
+  {
+   "enunciado": "Como o artigo descreve o paradigma do cuidar na saúde?",
+   "alternativas": [
+    "Investimento na vida a qualquer preço, com medicina de alta tecnologia em primeiro plano",
+    "Aceitação da morte como parte da condição humana, olhando a pessoa doente e não só a doença",
+    "Foco exclusivo na cura da doença, sem considerar a dor total",
+    "Substituição da equipe de saúde por familiares e voluntários"
+   ],
+   "certa": 1,
+   "comentario": "No paradigma do cuidar a morte é aceita como condição humana e se considera a pessoa doente e a dor total, segundo Saunders.",
+   "trecho": "No paradigma do cuidar, há uma aceitação da morte como parte da condição humana, leva-se em conta a pessoa doente, e não somente a doença",
+   "onde": 12
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2022/06/manual_arma_fogo-5-1.pdf": [
+  {
+   "enunciado": "Segundo o manual, qual é o objetivo da avaliação psicológica para manuseio de arma de fogo?",
+   "alternativas": [
+    "Subsidiar decisões sobre características psicológicas do indivíduo, em comparação a um perfil estabelecido",
+    "Diagnosticar transtornos mentais para tratamento clínico do candidato",
+    "Comprovar a capacidade técnica do candidato no manejo da arma",
+    "Classificar o candidato em ordem de aptidão, divulgando as notas obtidas"
+   ],
+   "certa": 0,
+   "comentario": "O manual diz que a avaliação serve para subsidiar decisões sobre características psicológicas em comparação a um perfil estabelecido.",
+   "trecho": "tem como objetivo subsidiar decisões acerca de características psicológicas do indivíduo, em comparação a um perfil estabelecido",
+   "onde": 3
+  },
+  {
+   "enunciado": "Além da bateria mínima da Instrução Normativa 78/2014 da Polícia Federal, o que a psicóloga ou psicólogo deve acrescentar, segundo o manual?",
+   "alternativas": [
+    "Um segundo teste projetivo, para ampliar a avaliação da personalidade",
+    "Um teste psicológico de inteligência, para avaliar o nível intelectual",
+    "Uma escala de depressão aprovada pelo Conselho Regional",
+    "Um teste de atenção alternada, além da difusa e concentrada"
+   ],
+   "certa": 1,
+   "comentario": "A Resolução CFP 01/2022 exige que se acrescente um teste de inteligência à bateria mínima da Polícia Federal.",
+   "trecho": "a(o) psicóloga(o) deverá atender à bateria mínima preconizada pela Instrução Normativa nº 78/2014, em vigência, da Polícia Federal e, necessariamente, acrescentar um teste psicológico de inteligência",
+   "onde": 9
+  },
+  {
+   "enunciado": "Como o manual define a função executiva?",
+   "alternativas": [
+    "A velocidade com que o indivíduo reage a estímulos visuais simples",
+    "Apenas a capacidade de manter a atenção concentrada por longos períodos",
+    "O conjunto de traços de personalidade estáveis ao longo da vida adulta",
+    "A capacidade de controle, gestão e organização de pensamentos, processos emocionais, memória de trabalho e ações"
+   ],
+   "certa": 3,
+   "comentario": "O manual descreve a função executiva como sistema que gerencia ações, incluindo controle dos impulsos, planejamento e memória de trabalho.",
+   "trecho": "Trata-se da capacidade de controle, gestão e organização de pensamentos, processos emocionais, memória de trabalho e ações",
+   "onde": 11
+  },
+  {
+   "enunciado": "Segundo a Resolução CFP 01/2022, citada no manual, quem está impedido de realizar a avaliação psicológica para registro e porte de arma?",
+   "alternativas": [
+    "O psicólogo que tenha mais de um vínculo empregatício em empresas de qualquer área",
+    "O psicólogo sem pós-graduação em avaliação psicológica",
+    "O psicólogo com vínculo com Centro de Formação de Vigilantes, Empresa de Segurança Privada, Escola de Formação ou Clube de tiro",
+    "O psicólogo credenciado pela Polícia Federal há menos de dois anos"
+   ],
+   "certa": 2,
+   "comentario": "O art. 6º, inciso V, impede quem tenha vínculo com centros de formação de vigilantes, empresas de segurança, escolas de formação ou clubes de tiro.",
+   "trecho": "tenham vínculo com Centro de Formação de Vigilantes, Empresas de Segurança Privada, Escolas de Formação, Clubes de tiro",
+   "onde": 16
+  },
+  {
+   "enunciado": "Qual é o prazo máximo de validade do conteúdo do documento psicológico resultante dessa avaliação, segundo o art. 7º da Resolução CFP 01/2022?",
+   "alternativas": [
+    "6 meses, contados da aplicação dos testes",
+    "1 ano, contado da data de recebimento pelo candidato",
+    "5 anos, igual ao do registro da arma",
+    "2 anos, contados da data de emissão do documento"
+   ],
+   "certa": 3,
+   "comentario": "O prazo segue normas específicas, sem ultrapassar 2 anos a contar da emissão do documento.",
+   "trecho": "deverá observar os prazos estabelecidos por normas específicas, desde que não ultrapasse o prazo máximo de 2 anos",
+   "onde": 18
+  }
+ ],
+ "https://www.scielo.br/j/pcp/a/6RBYrsv88tHdJVzgBN49k6r/": [
+  {
+   "enunciado": "Segundo o artigo, qual é uma das principais diferenças entre a revisão narrativa e as revisões sistemática e integrativa?",
+   "alternativas": [
+    "A revisão narrativa usa apenas estudos experimentais, e as outras, qualquer tipo de estudo",
+    "A revisão narrativa combina estatisticamente os dados dos estudos, e as outras apenas os descrevem",
+    "A narrativa exige replicação por outros pesquisadores, e as outras são opinativas",
+    "A narrativa não adota método de acesso às fontes de dados, e as outras assumem critérios de acesso e seleção"
+   ],
+   "certa": 3,
+   "comentario": "A revisão narrativa tem natureza opinativa e acessa as fontes sem critérios pré-definidos; as outras têm critérios que permitem replicação.",
+   "trecho": "A não adoção de um método de acesso às fontes de dados é apontada como uma das principais diferenças entre esse desenho e a revisão sistemática e integrativa de literatura",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo o artigo, qual é a forma mais segura de garantir grupos equivalentes em um estudo experimental?",
+   "alternativas": [
+    "Escolher os participantes por conveniência, entre pacientes já em atendimento",
+    "A designação aleatória ou randomização dos participantes",
+    "Usar um único grupo avaliado antes e depois da intervenção",
+    "Aplicar um pré-teste e descartar quem tiver escores muito diferentes"
+   ],
+   "certa": 1,
+   "comentario": "O texto afirma que a randomização é a forma mais segura de garantir grupos equivalentes, de modo imparcial e ético.",
+   "trecho": "A forma mais segura de garantir grupos equivalentes é a designação aleatória ou randomização dos participantes",
+   "onde": 5
+  },
+  {
+   "enunciado": "Por que um desenho de grupo único com pré e pós-teste é considerado pré-experimento?",
+   "alternativas": [
+    "Porque usa randomização, mas sem grupo de controle",
+    "Porque não possibilita comparações com um ou mais grupos",
+    "Porque só é aplicado em crianças pequenas ao longo de poucos meses",
+    "Porque manipula a variável dependente em vez da independente"
+   ],
+   "certa": 1,
+   "comentario": "Sem outro grupo para comparar, o desenho tem fragilidade metodológica e ameaças à validade interna.",
+   "trecho": "Caso o estudo adote um desenho de grupo único com pré e pós-teste, ele é considerado um pré-experimento por não possibilitar comparações com um ou mais grupos",
+   "onde": 7
+  },
+  {
+   "enunciado": "Como o artigo caracteriza os estudos transversais?",
+   "alternativas": [
+    "Acompanham sujeitos por um período, com avaliações sistemáticas, para ver a mudança no tempo",
+    "Partem do efeito já conhecido e buscam a causa em registros do passado",
+    "Coletam dados em um único ponto no tempo, como um corte ou fotografia da população",
+    "Comparam dois grupos randomizados para testar a eficácia de um tratamento"
+   ],
+   "certa": 2,
+   "comentario": "Os transversais descrevem a realidade em um único momento, com baixo custo, mas com dificuldade de determinar causalidade.",
+   "trecho": "Os dados são coletados em um exclusivo ponto no tempo e representam um corte ou fotografia das características de determinada população",
+   "onde": 9
+  },
+  {
+   "enunciado": "Qual a diferença entre os estudos longitudinais retrospectivos e os prospectivos?",
+   "alternativas": [
+    "Nos retrospectivos já se conhece o efeito e se busca a causa; nos prospectivos há um fator determinante cujo efeito é buscado",
+    "Os retrospectivos acompanham as pessoas para o futuro, e os prospectivos usam apenas registros antigos",
+    "Os retrospectivos são experimentais, e os prospectivos, apenas descritivos",
+    "Os retrospectivos coletam dados em um só momento, e os prospectivos, em vários momentos"
+   ],
+   "certa": 0,
+   "comentario": "O retrospectivo parte do efeito conhecido em busca da causa; o prospectivo parte de um fator e busca o efeito.",
+   "trecho": "nos desenhos retrospectivos se conhece o efeito e almeja-se a causa, enquanto nos prospectivos já há um fator determinante cujo efeito é buscado",
+   "onde": 10
+  }
+ ],
+ "https://www.redalyc.org/pdf/3093/309326391017.pdf": [
+  {
+   "enunciado": "Qual experiência de Sílvia Lane, em Osasco, lançou as bases da Psicologia Social Comunitária?",
+   "alternativas": [
+    "O trabalho em Psicologia com sindicatos e comunidades operárias, na disciplina \"A Psicologia Social na prática clínica\"",
+    "A criação da Faculdade de Psicologia da PUC-SP em 1971",
+    "A pesquisa de doutorado com o diferencial semântico de Osgood",
+    "A fundação da ABRAPSO, em 1980"
+   ],
+   "certa": 0,
+   "comentario": "O trabalho em sindicatos e comunidades operárias de Osasco lançou as bases do que Lane e Sawaia chamaram de Psicologia Social Comunitária.",
+   "trecho": "É esta experiência que lançou as bases daquilo que Sílvia Lane e Bader Sawaia (1995) iriam, mais adiante, chamar de Psicologia Social Comunitária",
+   "onde": 4
+  },
+  {
+   "enunciado": "Qual método Sílvia Lane adotou e desenvolveu na psicologia social, segundo o artigo?",
+   "alternativas": [
+    "O método experimental, de base positivista",
+    "O diferencial semântico de Osgood",
+    "A psicanálise freudiana como método clínico",
+    "O materialismo histórico e dialético"
+   ],
+   "certa": 3,
+   "comentario": "O artigo afirma que o materialismo histórico e dialético foi o método que ela adotou e desenvolveu.",
+   "trecho": "O materialismo histórico e dialético será o método que ela vai adotar e desenvolver na psicologia social",
+   "onde": 5
+  },
+  {
+   "enunciado": "Qual posição Aroldo Rodrigues defendia nos debates com Sílvia Lane?",
+   "alternativas": [
+    "A psicologia social deve se comprometer com a transformação da sociedade",
+    "A psicologia social é ciência básica e neutra, que descobre relações estáveis entre variáveis psicossociais",
+    "Não se pode dividir a psicologia social em ciência aplicada e pura",
+    "A psicologia social deve partir da pesquisa-ação participante"
+   ],
+   "certa": 1,
+   "comentario": "Rodrigues defendia uma psicologia social básica e neutra; Lane respondia que teoria e prática vêm juntas.",
+   "trecho": "a Psicologia Social é uma ciência básica e neutra, a ela cabe descobrir as relações estáveis entre variáveis psicossociais a fim de possibilitar ao tecnólogo social a solução dos problemas sociais",
+   "onde": 6
+  },
+  {
+   "enunciado": "Quais autores permitiram, segundo o artigo, o salto de qualidade na fundamentação das categorias básicas do psiquismo?",
+   "alternativas": [
+    "Skinner, Osgood e Moscovici",
+    "Freud, Piaget e Wallon",
+    "Freire, Merani e Martín-Baró",
+    "Vigotski, Luria e Leontiev"
+   ],
+   "certa": 3,
+   "comentario": "A (re)descoberta de Vigotski, Luria e Leontiev fundamentou as categorias consciência, atividade e identidade.",
+   "trecho": "Vigotski, Luria e Leontiev que se tornou possível o salto de qualidade que levou à fundamentação das categorias básicas do psiquismo",
+   "onde": 7
+  },
+  {
+   "enunciado": "O que é a afetividade na obra de Sílvia Lane?",
+   "alternativas": [
+    "Uma categoria fundamental do psiquismo, que indica a ligação do indivíduo com o contexto social para além do reconhecimento cognitivo",
+    "Um mecanismo psicológico universal e abstrato, comum a todas as culturas",
+    "Uma variável de pano de fundo, de pouca relevância para a consciência",
+    "Um conceito herdado da psicologia social norte-americana, sem relação com a linguagem"
+   ],
+   "certa": 0,
+   "comentario": "O artigo descreve a afetividade como categoria fundamental formulada por Lane para indicar a ligação do indivíduo com o contexto social.",
+   "trecho": "A afetividade é também categoria fundamental do psiquismo, formulação de Sílvia Lane para indicar a ligação do indivíduo com o contexto social para além de um reconhecimento cognitivo",
+   "onde": 9
+  }
+ ]
+}

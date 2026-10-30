@@ -1,0 +1,858 @@
+{
+ "prova": "CP-T 2022",
+ "cor": "AMARELA",
+ "url": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/provas/CP-T_2022_PSICOLOGIA_AMARELA.zip",
+ "gabarito": "https://www.marinha.mil.br/sspm/sites/www.marinha.mil.br.sspm/files/arquivo/gabaritos/CP-T-2022_FINAL.pdf",
+ "questoes": [
+  {
+   "numero": 1,
+   "texto": "",
+   "enunciado": "Segundo Baeta (2006), em seu livro “Psicologia e Educação”, as contribuições de Vygotsky para a prática educativa foram diversas. Sobre esse tema, coloque V (Verdadeiro) ou F (Falso) nas afirmativas abaixo e, em seguida, assinale a opção que apresenta a sequência correta.\n( ) Para Vygotsky, a criança quando chega à escola traz uma série de aprendizagens já realizadas, e os professores não podem ignorá-las. Porém há diferenças nítidas nas formas como as aprendizagens passam a ocorrer na escola.\n( ) Aprendizagem e desenvolvimento estão inter-relacionados a partir do 2º ano de vida da criança.\n( ) Para que o aprendizado ocorra com maior aproveitamento, é necessário determinar pelo menos dois níveis de desenvolvimento: nível de desenvolvimento real e potencial.\n( ) O Nível de Desenvolvimento Potencial reflete-se naquilo que as crianças são capazes de fazerem sozinhas. Esse nível pode ser detectado por testes, tarefas, desafios que a criança resolve sem a ajuda de ninguém.\n( ) A diferença entre o Nível de Desenvolvimento Real e o Potencial é chamada de Zona de Desenvolvimento Proximal.",
+   "alternativas": [
+    "(F) (F) (F) (V) (V)",
+    "(V) (F) (F) (F) (V)",
+    "(V) (F) (V) (F) (F)",
+    "(F) (V) (F) (V) (V)",
+    "(V) (F) (V) (F) (V)"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://idonline.emnuvens.com.br/id/article/download/2369/3654/9465",
+   "comentario": "Para Vygotsky, a criança chega à escola com aprendizagens prévias, e o ensino precisa considerar dois níveis: o de desenvolvimento real e o potencial, cuja distância é a Zona de Desenvolvimento Proximal; por isso a 1ª, a 3ª e a 5ª são verdadeiras. A 2ª é falsa porque aprendizagem e desenvolvimento estão inter-relacionados desde o primeiro dia de vida, não a partir do 2º ano. A 4ª é falsa porque descreve o nível real (o que a criança faz sozinha); o potencial é o que ela faz com a ajuda de um adulto ou de um colega mais capaz."
+  },
+  {
+   "numero": 2,
+   "texto": "",
+   "enunciado": "De acordo com Erthal (2009), a escala de avaliação é um instrumento simples e muito usado na mensuração psicológica. Considerando-se que na escala de avaliação o instrumento avaliador é passível de interferir com sua tendenciosidade, deve-se estar atento para que seus erros se reduzam na medida do possível. Dentre os vários tipos de erros citados pela autora, assinale a opção que apresenta o tipo de erro que é consequência do fato de o avaliador colocar-se como ponto de referência para avaliar outras pessoas, avaliando-as de modo exatamente oposto ao que faria com relação a si próprio.",
+   "alternativas": [
+    "Erro de proximidade.",
+    "Erro lógico.",
+    "Erro de contraste.",
+    "Erro de benevolência.",
+    "Erro de severidade."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.youtube.com/watch?v=XUrunX0QGGA",
+   "comentario": "(Cobra além deste material.) No erro de contraste, o avaliador usa a si mesmo como referência e julga o outro no sentido oposto ao que se atribuiria (quem se vê muito organizado tende a ver os outros como desorganizados). O erro lógico é presumir que traços aparentemente relacionados andam juntos, e o de proximidade é avaliar de forma parecida itens que estão perto no formulário. Benevolência e severidade são tendências gerais de avaliar todos para cima ou para baixo, sem relação com a autoimagem do avaliador."
+  },
+  {
+   "numero": 3,
+   "texto": "",
+   "enunciado": "Em sua obra “Cultura Organizacional e Liderança”, Schein (2009) aborda a cultura como uma ferramenta prática para a compreensão da dinâmica das organizações e da mudança. Sobre essa abordagem, é INCORRETO afirmar que:",
+   "alternativas": [
+    "o aspecto mais intrigante da cultura como conceito é que ela nos aponta os fenômenos que estão acima da superfície, que são poderosos em seu impacto quase visível e comportam um grau considerável de consciência.",
+    "a cultura como conceito é uma abstração, mas suas consequências comportamentais e atitudinais são, de fato, muito concretas.",
+    "se entendermos a dinâmica da cultura, menos provavelmente ficaremos perplexos, irritados e ansiosos quando encontrarmos pessoas na organização com comportamento não - familiar e aparentemente irracional.",
+    "a cultura é difícil de ser mudada, porque os membros do grupo valorizam a estabilidade no que ela fornece significado e previsibilidade.",
+    "a cultura pode ser pensada como a aprendizagem acumulada e compartilhada por determinado grupo, cobrindo os elementos comportamentais, emocionais e cognitivos do funcionamento psicológico de seus membros."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=Ki9Ez-xiy0E",
+   "comentario": "Para Schein, o que a cultura tem de mais intrigante é justamente apontar para fenômenos abaixo da superfície, poderosos no impacto mas em grande parte invisíveis e inconscientes; a alternativa troca isso por 'acima da superfície' e 'grau considerável de consciência', por isso é a incorreta. As demais reproduzem a visão do autor: a cultura é uma abstração com efeitos concretos, ajuda a entender comportamentos aparentemente irracionais, resiste à mudança porque dá estabilidade e significado e é a aprendizagem acumulada e compartilhada do grupo."
+  },
+  {
+   "numero": 4,
+   "texto": "",
+   "enunciado": "Freud, ao discorrer sobre os fenômenos de massa em “Psicologia de grupo e análise do ego” (1921), descreve um tipo de laço emocional como sendo “a forma mais primitiva e original de laço emocional”. Assinale a opção que apresenta esse laço.",
+   "alternativas": [
+    "A pulsão oral.",
+    "O complexo de Édipo.",
+    "A identificação.",
+    "O efeito-manada.",
+    "O instinto gregário."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273",
+   "comentario": "(Cobra além deste material.) Em 'Psicologia de grupo e análise do ego' (1921), Freud define a identificação como a forma mais primitiva e original de laço emocional com outra pessoa, e é por ela que explica a ligação dos membros da massa entre si e com o líder. O instinto gregário é a explicação de Trotter, que Freud discute e critica, e 'efeito-manada' não é termo freudiano. O complexo de Édipo e a pulsão oral aparecem no texto ligados à origem da identificação, mas não são o laço em si."
+  },
+  {
+   "numero": 5,
+   "texto": "",
+   "enunciado": "De acordo com as considerações de Lemgruber (2000) sobre o estabelecimento do ‘foco’ na psicoterapia breve, assinale a opção correta.",
+   "alternativas": [
+    "O foco a ser trabalhado na terapia breve será sempre a queixa do paciente.",
+    "Na montagem do foco terapêutico, os aspectos sociais e relacionais da vida do paciente não serão priorizados em razão de uma melhor visão do indivíduo em si.",
+    "O foco da terapia breve é estabelecido na relação terapeuta-paciente, após as entrevistas, nas quais são priorizadas informações sobre a vida pregressa do paciente.",
+    "O foco da terapia breve é estabelecido pelo terapeuta, após as entrevistas, nas quais são obtidas apenas as informações sobre a queixa do paciente.",
+    "O foco da terapia breve é a expressão atual de conflitos primários, que se manifestam sob a forma de sintomas."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "comentario": "Na psicoterapia breve psicodinâmica, o foco é a expressão atual de um conflito básico (primário), que aparece na forma de sintoma ou dificuldade presente, e é ele que orienta o trabalho. O foco não é sempre a queixa manifesta, que pode ser só a superfície do conflito. Também não se monta isolando o indivíduo: os aspectos sociais e relacionais da vida do paciente entram na compreensão do foco, que é formulado pelo terapeuta a partir de dados da queixa e da história, e não só de um deles."
+  },
+  {
+   "numero": 6,
+   "texto": "",
+   "enunciado": "Correlacione as seguintes descrições clínicas às suas classificações, com base na Classificação de Transtornos Mentais e de Comportamento da CID-10 (1993), e, em seguida, assinale a opção correta.\nDESCRIÇÃO\nI- Transtorno transitório que ocorre em indivíduo que não apresenta nenhum outro transtorno mental manifesto, em seguida a um “stress” físico e/ou psíquico excepcional, e que desaparece habitualmente em algumas horas ou em alguns dias.\nII- Este transtorno constitui uma resposta retardada ou protraída a uma situação ou evento estressante (de curta ou longa duração), de natureza excepcionalmente ameaçadora ou catastrófica, e que provocaria sintomas evidentes de perturbação na maioria dos indivíduos.\nIII- Estado de sofrimento e de perturbação emocional subjetivos, que entravam usualmente o funcionamento e o desempenho sociais, ocorrendo no curso de um período de adaptação a uma mudança existencial importante ou a um acontecimento estressante.\nCLASSIFICAÇÃO\n( ) Estado de “stress” pós-traumático.\n( ) Transtornos de adaptação.\n( ) Reação aguda ao “stress”.",
+   "alternativas": [
+    "(II) (I) (III)",
+    "(II) (III) (I)",
+    "(III) (II) (I)",
+    "(I) (III) (II)",
+    "(III) (I) (II)"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download",
+   "comentario": "Na CID-10 (F43), a reação aguda ao stress é transitória, surge logo após um estressor excepcional e some em horas ou dias (descrição I). O estado de stress pós-traumático é a resposta retardada ou protraída a um evento ameaçador ou catastrófico (descrição II). Os transtornos de adaptação são sofrimento e perturbação emocional ligados a um período de adaptação a mudança de vida ou evento estressante (descrição III), o que dá a sequência II, III, I."
+  },
+  {
+   "numero": 7,
+   "texto": "",
+   "enunciado": "Na obra “Psicossomática Hoje” (2010), Otelo Corrêa dos Santos Filho, um dos colaboradores do livro, cita o critério de seleção estabelecido para a admissão de pacientes em psicoterapia no “Ambulatório do Serviço de Medicina Psicossomática do Hospital Central do IASERJ”, e acrescenta que tal ambulatório não estava ligado nem a um serviço de psiquiatria, nem a um setor de psicoterapia. Assinale a opção correta que apresenta esse critério de seleção.",
+   "alternativas": [
+    "Institucional.",
+    "Sintomático.",
+    "Diagnóstico estrutural.",
+    "Diagnóstico nosológico.",
+    "De grau de complexidade."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.youtube.com/watch?v=XP0VGNLFpsg",
+   "comentario": "Como o ambulatório de medicina psicossomática não estava ligado a serviço de psiquiatria nem a setor de psicoterapia, o critério de admissão era o sintomático: o paciente chegava pelo sintoma que apresentava, e não por um diagnóstico psiquiátrico. Os critérios de diagnóstico nosológico ou estrutural pressupõem justamente a avaliação de um serviço psiquiátrico ou psicanalítico, que ali não existia. 'Institucional' e 'grau de complexidade' não são o critério que o autor cita."
+  },
+  {
+   "numero": 8,
+   "texto": "",
+   "enunciado": "Um adulto na faixa dos 40 anos procura atendimento psicológico em um Ambulatório Naval e, ao iniciar a consulta, relata ao psicólogo que, há quase um ano, sente inquietação e “nervos à flor da pele”, cansaço fácil, dificuldade de se concentrar e de pegar no sono, além de “pavio curto”, ou seja, constantemente irritável com qualquer pequeno aborrecimento. De acordo com Dalgalarrondo (2008), em “Psicopatologia e Semiologia dos Transtornos Mentais”, um quadro que reúne esses sintomas corresponde a qual hipótese diagnóstica?",
+   "alternativas": [
+    "Transtorno obsessivo-compulsivo (TOC).",
+    "Transtorno de ansiedade generalizada (TAG).",
+    "Transtorno de pânico.",
+    "Depressão atípica.",
+    "Alexitimia."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Inquietação, fadiga fácil, dificuldade de concentração, irritabilidade e insônia persistindo por muitos meses formam o quadro do transtorno de ansiedade generalizada, marcado por ansiedade difusa e constante, sem crises. O transtorno de pânico se caracteriza por ataques súbitos e intensos de ansiedade, e o TOC por obsessões e compulsões, nenhum dos quais aparece no caso. Alexitimia é a dificuldade de nomear emoções, não um diagnóstico, e a depressão atípica exigiria humor deprimido com reatividade, hipersonia e aumento de apetite."
+  },
+  {
+   "numero": 9,
+   "texto": "",
+   "enunciado": "A obra “Psicossomática Hoje” (2010) descreve uma ação que reúne, na mesma cena, profissionais de diferentes categorias, o paciente e, se necessário, a família deste. Tal ação, criada pelo professor Julio Mello Filho, é feita a partir da solicitação de um dos profissionais para complementar e/ou elucidar aspectos da situação de cuidado em andamento que fujam ao entendimento do solicitante ao traçar uma conduta terapêutica. Assinale a opção que apresenta a ação descrita acima.",
+   "alternativas": [
+    "A visita domiciliar.",
+    "A consulta-conjunta.",
+    "A discussão de caso.",
+    "O pedido de parecer.",
+    "A visita ao leito."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "https://www.youtube.com/watch?v=XP0VGNLFpsg",
+   "comentario": "A consulta conjunta, proposta por Julio de Mello Filho, reúne na mesma cena profissionais de áreas diferentes, o paciente e, se preciso, a família, a pedido de um profissional que quer elucidar aspectos do caso que fogem ao seu entendimento. O pedido de parecer é uma avaliação feita por outro especialista sem esse encontro conjunto, e a discussão de caso acontece entre profissionais, sem o paciente presente. Visita domiciliar e visita ao leito são modalidades de atendimento, não esse dispositivo interdisciplinar."
+  },
+  {
+   "numero": 10,
+   "texto": "",
+   "enunciado": "No livro “Manual de Psicometria”, Erthal (2009) apresenta uma classificação dos testes por meio de suas características. Para a autora, no que diz respeito ao método utilizado, os testes dividem-se em:",
+   "alternativas": [
+    "pessoais e impessoais.",
+    "verbais e impressos.",
+    "execução e gráficos.",
+    "psicométricos e projetivos.",
+    "velocidade e potência."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://www.revistas.usp.br/reeusp/article/download/40416/43399/47854",
+   "comentario": "Quanto ao método, os testes se dividem em psicométricos, que medem de forma objetiva e padronizada com base estatística, e projetivos, que usam estímulos pouco estruturados para que o examinando projete aspectos de sua personalidade. As outras duplas são classificações por outros critérios: velocidade e potência dizem respeito ao tempo, verbais e de execução (ou impressos) à forma das respostas, e pessoais e impessoais à relação com quem aplica."
+  },
+  {
+   "numero": 11,
+   "texto": "",
+   "enunciado": "De acordo com o Art. 8° do Código de Ética do Psicólogo em vigor, é correto afirmar que, para realizar atendimento não eventual de criança, adolescente ou interdito, o psicólogo deverá obter autorização:",
+   "alternativas": [
+    "dos dois responsáveis pela criança, adolescente ou interdito.",
+    "judicial e dos dois responsáveis pela criança, adolescente ou interdito.",
+    "judicial e de ao menos um dos responsáveis pela criança ou adolescente.",
+    "de ao menos um dos responsáveis pela criança, adolescente ou interdito.",
+    "apenas do paciente."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf",
+   "comentario": "O art. 8º do Código de Ética (Res. CFP 010/2005) exige, para atendimento não eventual de criança, adolescente ou interdito, a autorização de ao menos um de seus responsáveis, observada a legislação vigente. Não se exige a concordância dos dois responsáveis nem autorização judicial. A autorização apenas do paciente não basta, justamente porque se trata de pessoa sob responsabilidade de outrem."
+  },
+  {
+   "numero": 12,
+   "texto": "",
+   "enunciado": "Chiavenato (2014), no livro “Gestão de Pessoas: o novo papel dos recursos humanos nas organizações”, apresenta dois tipos de recrutamento: o interno e o externo. Ambos possuem vantagens e desvantagens. Segundo o autor, sobre uma das desvantagens do recrutamento interno, é correto afirmar que:",
+   "alternativas": [
+    "afeta negativamente a motivação dos atuais funcionários não atendidos.",
+    "não aproveita o potencial humano da organização.",
+    "é mais custoso, oneroso, demorado e inseguro que o recrutamento externo.",
+    "não motiva nem encoraja o desenvolvimento profissional dos atuais funcionários.",
+    "pode bloquear a entrada de novas ideias, experiências e expectativas."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.youtube.com/watch?v=r1xqMjl6bYg",
+   "comentario": "Uma desvantagem clássica do recrutamento interno, em Chiavenato, é bloquear a entrada de novas ideias, experiências e expectativas, já que a vaga é preenchida por quem já está na organização. As outras são desvantagens do recrutamento externo: ele afeta a motivação dos funcionários que não foram aproveitados, não usa o potencial humano interno, não estimula o desenvolvimento dos atuais funcionários e é mais caro, demorado e inseguro."
+  },
+  {
+   "numero": 13,
+   "texto": "",
+   "enunciado": "De acordo com o Código de Ética Profissional do Psicólogo em vigor, coloque F (falso) ou V (verdadeiro) nas afirmativas abaixo e, em seguida, assinale a opção correta.\n( ) O psicólogo poderá intervir na prestação de serviços psicológicos que estejam sendo efetuados por outro profissional, quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada.\n( ) No atendimento à criança, ao adolescente ou ao interdito, devem ser comunicadas aos responsáveis todas as informações produzidas durante os atendimentos.\n( ) O psicólogo, ao promover publicamente seus serviços, por quaisquer meios, individual ou coletivamente, não fará divulgação sensacionalista das atividades profissionais.\n( ) Caberá aos psicólogos docentes ou supervisores esclarecer, informar, orientar e exigir dos estudantes a observância dos princípios e normas contidas no Código de Ética do Psicólogo em vigor.\n( ) O psicólogo pode induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito, quando do exercício de suas funções profissionais.",
+   "alternativas": [
+    "(F) (V) (F) (F) (V)",
+    "(F) (F) (V) (V) (F)",
+    "(F) (V) (V) (F) (V)",
+    "(V) (V) (V) (V) (F)",
+    "(V) (F) (V) (V) (F)"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "https://www.youtube.com/watch?v=1MVmB5iFdms",
+   "comentario": "(Cobra além deste material.) São verdadeiras: a intervenção em serviço de outro profissional quando se trata de trabalho multiprofissional e ela faz parte da metodologia (art. 7º), a vedação da divulgação sensacionalista ao promover os serviços (art. 20) e o dever de docentes e supervisores de exigir dos estudantes a observância do Código (art. 17). É falsa a comunicação de 'todas as informações' aos responsáveis: o art. 13 manda comunicar só o estritamente essencial para promover medidas em benefício do atendido. Também é falsa a última, porque o art. 2º, b, veda induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer preconceito."
+  },
+  {
+   "numero": 14,
+   "texto": "",
+   "enunciado": "Em “Terapia cognitivo-comportamental: teoria e prática”, Beck (2014) diz que a terapia cognitiva tem como ponto importante a identificação, por parte do paciente, de seus ‘pensamentos automáticos’. Em relação a uma das características desses pensamentos, assinale a opção correta.",
+   "alternativas": [
+    "Esses pensamentos são peculiares a pessoas com angústia, eles não são uma experiência comum a todas as pessoas.",
+    "Os pensamentos automáticos dificilmente podem ser explicitados quando o terapeuta pergunta sobre o significado deles.",
+    "Os pensamentos automáticos ocorrem apenas em forma verbal.",
+    "O tipo mais comum de pensamento automático é uma distorção, e ocorre apesar de evidências objetivas em contrário.",
+    "Os pensamentos automáticos não costumam ser breves, e o paciente, com frequência, está mais ciente da emoção que sente em decorrência do pensamento do que do pensamento em si."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "Judith Beck descreve três tipos de pensamento automático, e o mais comum é o distorcido, que ocorre apesar de evidências objetivas em contrário. Os pensamentos automáticos são experiência de todas as pessoas, não só de quem sofre, e costumam ser breves, podendo aparecer também como imagens, não só em forma verbal. Eles são acessíveis: o paciente nota mais a emoção do que o pensamento, mas consegue identificá-lo quando o terapeuta pergunta o que passou pela sua cabeça."
+  },
+  {
+   "numero": 15,
+   "texto": "",
+   "enunciado": "No livro “Gestão de pessoas: o novo papel dos recursos humanos nas organizações”, Chiavenato (2014) aborda três métodos básicos para obtenção de dados a respeito dos cargos: entrevistas, questionários e observação. Para esse autor, sobre esses métodos, é correto afirmar que:",
+   "alternativas": [
+    "o método da entrevista é o menos utilizado para buscar dados a respeito dos cargos e para determinar deveres e responsabilidades.",
+    "a principal vantagem do questionário é proporcionar um meio eficiente e rápido de coletar informações de um grande número de funcionários.",
+    "o custo operacional do questionário é maior do que o da entrevista.",
+    "no método da observação, o ocupante do cargo tem participação ativa.",
+    "o método da observação é aplicável a cargos complexos, rotineiros e repetitivos."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-org-trabalho",
+   "item": "https://www.youtube.com/watch?v=NtEbyak5Uac",
+   "comentario": "(Cobra além deste material.) Para Chiavenato, a grande vantagem do questionário na análise de cargos é coletar informações de muitos ocupantes de forma rápida e eficiente, e ele é mais barato que a entrevista. A entrevista é o método mais utilizado, não o menos, pela interação direta com o ocupante. Na observação, o ocupante é passivo (quem age é o analista), e o método serve a cargos simples, rotineiros e repetitivos, não a cargos complexos."
+  },
+  {
+   "numero": 16,
+   "texto": "",
+   "enunciado": "Com base no texto “Recordar, repetir e elaborar” (1914), assinale a opção correta em relação às considerações de Freud sobre a prática clínica da psicanálise.",
+   "alternativas": [
+    "O analista deverá abreviar o tempo dado ao paciente para conhecer suas resistências, de modo a transformá-las em elaborações oníricas.",
+    "Quanto maior a resistência, menos extensivamente o “acting out” substituirá o recordar.",
+    "A elaboração das resistências no tratamento psicanalítico será favorecida pelo analista, ao longo das sessões, por meio da sugestão.",
+    "A interpretação é a parte do trabalho analítico que efetua as maiores mudanças no paciente.",
+    "O instrumento principal para reprimir a compulsão do paciente à repetição reside no manejo da transferência."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273",
+   "comentario": "Em 'Recordar, repetir e elaborar' (1914), Freud afirma que o principal instrumento para reprimir a compulsão à repetição e transformá-la em motivo para recordar está no manejo da transferência. As erradas invertem o texto: quanto maior a resistência, mais extensivamente o acting out substitui o recordar, e o analista deve dar tempo ao paciente para conhecer suas resistências, não abreviá-lo. A parte do trabalho que produz as maiores mudanças é a elaboração (perlaboração), não a interpretação, e é ela que distingue a análise do tratamento por sugestão."
+  },
+  {
+   "numero": 17,
+   "texto": "",
+   "enunciado": "De acordo com Gigliotti e Guimarães (2010), em “Diretrizes gerais para tratamento da dependência química”, assinale a opção que apresenta corretamente o sinal ou sintoma de abstinência das anfetaminas.",
+   "alternativas": [
+    "Redução do apetite.",
+    "Cefaleia.",
+    "Lentificação.",
+    "Euforia.",
+    "Midríase."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf",
+   "comentario": "(Cobra além deste material.) A abstinência de estimulantes como as anfetaminas produz o oposto da intoxicação: fadiga, sonolência, aumento do apetite, humor deprimido e lentificação psicomotora. Euforia, redução do apetite e midríase são efeitos do uso (intoxicação), não da falta da substância. A cefaleia é sintoma típico da abstinência de cafeína, e não o sinal característico citado para as anfetaminas."
+  },
+  {
+   "numero": 18,
+   "texto": "",
+   "enunciado": "No livro “Gestão de pessoas: o novo papel dos recursos humanos nas organizações”, Chiavenato (2014) trata do campo da segurança do trabalho discorrendo dentre outros aspectos, sobre dois conceitos que estão intimamente relacionados. Assinale a opção que apresenta esses conceitos.",
+   "alternativas": [
+    "Dano e insegurança.",
+    "Insegurança e perigo.",
+    "Risco e dano.",
+    "Perigo e dano.",
+    "Perigo e risco."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/SaudeDoTrabalhador_WEB_FINAL_1_outubro.pdf",
+   "comentario": "(Cobra além deste material.) Ao tratar de segurança do trabalho, Chiavenato relaciona perigo e risco: o perigo é a fonte ou situação com potencial de causar dano, e o risco é a probabilidade de esse dano acontecer. Dano é a consequência, não um dos dois conceitos-base, e insegurança é termo genérico que o autor não usa como par conceitual. Por isso as duplas com dano ou insegurança não respondem à questão."
+  },
+  {
+   "numero": 19,
+   "texto": "",
+   "enunciado": "De acordo com a Resolução CFP - n° 06/2019, que institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional, em qual modalidade de documento psicológico é vedado o registro de sintomas, situações ou estados psicológicos?",
+   "alternativas": [
+    "Declaração.",
+    "Atestado psicológico.",
+    "Relatório psicológico.",
+    "Laudo psicológico.",
+    "Parecer psicológico."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+   "comentario": "Pela Res. CFP 06/2019, a declaração só registra informações objetivas sobre a prestação do serviço (comparecimento, acompanhamento, horários), e nela é vedado registrar sintomas, situações ou estados psicológicos. O atestado, ao contrário, existe justamente para certificar uma condição psicológica, e relatório, laudo e parecer descrevem e analisam aspectos psicológicos. Por isso só a declaração tem essa vedação."
+  },
+  {
+   "numero": 20,
+   "texto": "",
+   "enunciado": "Partindo da clínica médica, Dejours (2014) afirma que quando o trabalhador é submetido às excitações provenientes do exterior (de origem psicossensorial) ou do interior (excitações instintivas ou pulsionais), ele dispõe de muitas vias de descarga de sua energia. De forma esquemática, o autor cita essas vias de descarga em número de três. Assinale a opção que apresenta a via que atua no processo de somatização.",
+   "alternativas": [
+    "Via psíquica.",
+    "Via motora.",
+    "Via visceral.",
+    "Via psicomotora.",
+    "Via perceptiva."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "comentario": "Dejours, partindo da clínica psicossomática, descreve três vias de descarga da energia: a psíquica (fantasia, elaboração mental), a motora (ação, movimento) e a visceral. Quando as duas primeiras ficam bloqueadas, como numa organização do trabalho rígida, a energia escoa pela via visceral, que é a do processo de somatização. 'Psicomotora' e 'perceptiva' não fazem parte do esquema do autor."
+  },
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "De acordo com Dalgalarrondo, em “Psicopatologia e Semiologia dos Transtornos Mentais” (2008), em relação às síndromes hipocondríacas e somatizações, assinale a opção correta.",
+   "alternativas": [
+    "Nos quadros hipocondríacos, predominam temores intensos com a ideia de se ter uma doença grave, possuindo tais preocupações caráter delirante, sem que o indivíduo possa fazer crítica ao absurdo de tais preocupações.",
+    "A somatização pode ocorrer apenas na ausência de qualquer patologia física demonstrável.",
+    "Nos quadros de somatização, não se pode falar em desejo, por parte do paciente, de adquirir o papel de doente físico para obter ganhos psicológicos ou sociais.",
+    "A somatização pode ocorrer na presença de doença física demonstrável, assim como na ausência de qualquer patologia física.",
+    "Quadros de somatização são sempre situacionais e transitórios, mas nunca estáveis e duradouros como um modo de conduzir a vida."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Segundo Dalgalarrondo, a somatização pode ocorrer tanto na ausência de patologia física demonstrável quanto junto de uma doença física real, que ela amplifica ou à qual se soma. Na hipocondria típica o temor de ter doença grave não é delirante: o paciente mantém alguma crítica, e a convicção delirante indica outro quadro. A somatização pode envolver o ganho com o papel de doente e pode ser um modo estável e duradouro de levar a vida, não só uma reação situacional."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "Gigliotti e Guimarães (2010), em “Diretrizes gerais para tratamento da dependência química”, citam uma teoria apresentada na década de 1970 pelo médico clínico e terapeuta de família, Salvador Minuchin. A teoria parte do pressuposto de que a família se organiza por meio de padrões que, uma vez conhecidos, decifram o entendimento de sua dinâmica, fornecendo diretrizes eficazes para diagnóstico e tratamento de diversas patologias. Como é denominada essa teoria?",
+   "alternativas": [
+    "Familiar estrutural.",
+    "Sistêmica familiar.",
+    "Dinâmica familiar.",
+    "Dos papéis familiares.",
+    "Dos padrões familiares."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "Salvador Minuchin criou a terapia familiar estrutural, que entende a família como organizada por padrões de interação, fronteiras, subsistemas e hierarquias, cuja leitura orienta diagnóstico e intervenção. 'Sistêmica familiar' é o campo mais amplo em que a teoria se insere, não o nome da proposta de Minuchin. 'Dinâmica', 'papéis' e 'padrões familiares' são expressões descritivas, não o nome da escola."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "Em “Terapia cognitivo-comportamental: teoria e prática”, Beck (2014) descreve uma ‘hierarquia da cognição’, cujo processo segue uma determinada sequência. Assinale a opção que apresenta, segundo a autora, a ordem correta dessa sequência.",
+   "alternativas": [
+    "Situação > Crenças nucleares > Pensamentos intermediários (regras, atitudes, pressupostos) > Pensamentos automáticos > Reação (emocional, comportamental, fisiológica).",
+    "Situação > Crenças nucleares > Pensamentos automáticos > Reação (emocional, comportamental, fisiológica) > Pensamentos intermediários (regras, atitudes, pressupostos).",
+    "Situação > Pensamentos automáticos > Crenças nucleares > Reação (emocional, comportamental, fisiológica) > Pensamentos intermediários (regras, atitudes, pressupostos).",
+    "Crenças nucleares > Pensamentos intermediários (regras, atitudes, pressupostos) > Situação > Pensamentos automáticos > Reação (emocional, comportamental, fisiológica).",
+    "Crenças nucleares > Pensamentos intermediários (regras, atitudes, pressupostos) > Pensamentos automáticos > Situação > Reação (emocional, comportamental, fisiológica)."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "Gigliotti e Guimarães (2010), em “Diretrizes gerais para tratamento da dependência química”, afirmam que a terapia de reposição da nicotina (TRN) pode ser aplicada por:",
+   "alternativas": [
+    "ex-fumantes, desde que treinados.",
+    "coaches treinados.",
+    "apenas psicólogos treinados.",
+    "qualquer profissional de saúde treinado.",
+    "qualquer profissional treinado."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://www.youtube.com/watch?v=rPpcPcQ0qec",
+   "comentario": "(Cobra além deste material.) A terapia de reposição de nicotina é um tratamento farmacológico de apoio à cessação do tabagismo e pode ser conduzida por qualquer profissional de saúde treinado, não sendo exclusiva de médicos nem de psicólogos. Por isso 'apenas psicólogos' restringe demais. Ex-fumantes, coaches ou 'qualquer profissional' não têm a formação em saúde exigida para manejar um medicamento."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Angerami-Camon, Chiattone e Meleti (2003), ao abordarem a idade da criança hospitalizada e as sequelas negativas causadas pela hospitalização, afirmam que a experiência clínica e os estudos na área determinam que há uma pior fase, ou seja, uma etapa que mais traz consequências negativas à criança. De acordo com os autores, uma criança inserida nessa faixa de idade já consegue perceber a situação de hospitalização, de doença, mas tem ainda poucos recursos para entender e elaborar os acontecimentos, as perdas, as agressões. A que faixa de idade os autores se referem?",
+   "alternativas": [
+    "Até os seis meses de idade.",
+    "Até o primeiro ano de idade.",
+    "Até os dois anos de idade.",
+    "Entre os dois e os cinco anos de idade.",
+    "Entre os cinco e os oito anos de idade."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-hospitalar",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/11/ServHosp_web1.pdf",
+   "comentario": "Os autores apontam a faixa dos dois aos cinco anos como a pior para a hospitalização: a criança já percebe a doença, a separação e as agressões dos procedimentos, mas ainda tem poucos recursos cognitivos e emocionais para entendê-los e elaborá-los. Bebês muito pequenos ainda não percebem a situação da mesma forma, e a criança acima dos cinco anos já dispõe de mais recursos para compreender o que acontece. Por isso as faixas anteriores aos dois anos e a de cinco a oito não correspondem à descrição."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "No livro “Saúde Mental e Atenção Psicossocial”, Paulo Amarante (2013) afirma que, além da psiquiatria, há uma complexa rede de saberes que se entrecruzam na temática da saúde mental. Segundo o autor, qual desses saberes forneceu o conceito de “território”, de fundamental importância para as políticas públicas?",
+   "alternativas": [
+    "Psicologia.",
+    "Antropologia.",
+    "História.",
+    "Geografia.",
+    "Sociologia."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://laps.ensp.fiocruz.br/arquivos/documentos/19",
+   "comentario": "Amarante atribui à Geografia, em especial à obra de Milton Santos, o conceito de território, entendido não só como área geográfica mas como espaço de relações, recursos e vida das pessoas. Esse conceito é a base da organização territorial dos CAPS e da rede de atenção psicossocial. Antropologia, Sociologia, História e Psicologia também compõem o campo da saúde mental, mas não são a origem desse conceito."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Segundo Robbins (2010), dentre todos os instrumentos que uma organização utiliza para diferenciar candidatos a empregos, a entrevista continua a ser o mais usado. Sobre esse tema, o autor cita um tipo de entrevista que exige que os candidatos descrevam como lidaram com problemas específicos e situações em seu antigo emprego, com base no pressuposto de que o comportamento anterior é o melhor indicador de comportamento futuro. Assinale a opção que apresenta corretamente esse tipo de entrevista.",
+   "alternativas": [
+    "Entrevista não estruturada comportamental.",
+    "Entrevista comportamental semidiretiva.",
+    "Entrevista comportamental não estruturada.",
+    "Entrevista semiestruturada não diretiva.",
+    "Entrevista comportamental estruturada."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-recrutamento",
+   "item": "https://www.redalyc.org/pdf/2820/282021760010.pdf",
+   "comentario": "Robbins descreve a entrevista comportamental estruturada, em que se pede ao candidato que conte como lidou com situações e problemas concretos em empregos anteriores, porque o comportamento passado é o melhor preditor do futuro. Ela é estruturada porque usa perguntas padronizadas para todos os candidatos, o que aumenta sua validade. As opções 'não estruturada', 'semidiretiva' e 'não diretiva' contrariam essa padronização."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "De acordo com “A Política do Ministério da Saúde para atenção integral a usuários de álcool e outras drogas” (2003), assinale a opção INCORRETA com relação aos Centros de Atenção Psicossocial - álcool e outras drogas (CAPSad).",
+   "alternativas": [
+    "Dispositivo assistencial de comprovada resolubilidade, podendo abrigar, em seus projetos terapêuticos, práticas de cuidados que contemplem a flexibilidade e a abrangência possíveis e necessárias a essa atenção específica.",
+    "A perspectiva estratégica adotada é de redução de danos sociais e à saúde.",
+    "Devem oferecer atendimento diário, sendo capazes de oferecer atendimento apenas nas modalidades semi-intensiva e não intensiva.",
+    "Permitem o planejamento terapêutico dentro de uma perspectiva individualizada de evolução contínua.",
+    "Possibilitam ainda intervenções precoces, limitando o estigma associado ao tratamento."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf",
+   "comentario": "A Política de 2003 prevê que os CAPSad ofereçam atendimento diário nas modalidades intensiva, semi-intensiva e não intensiva; a alternativa exclui a intensiva com o 'apenas', e por isso é a incorreta. As demais estão no documento: o CAPSad é dispositivo de comprovada resolubilidade, adota a redução de danos como estratégia, permite planejamento terapêutico individualizado e possibilita intervenções precoces que limitam o estigma."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "Moscovici (2015) aborda a relação entre Poder e Liderança apresentando as seis bases principais de poder de French e Raven (1959), que atuam nas relações interpessoais. Sobre esse tema, é correto afirmar que:",
+   "alternativas": [
+    "em um grupo, o líder formal tem menos poder legítimo que os outros membros e essa percepção e aceitação permitem menor influência social sobre os outros.",
+    "os membros do grupo não podem ter as outras formas de poder nem utilizá-las, não exercendo, assim, influência social no grupo e nenhuma forma de liderança.",
+    "geralmente, os líderes informais atuam no nível de manutenção do grupo (socioemocional), com poder de referência e de recompensa, satisfazendo as necessidades afetivas e afiliação dos membros.",
+    "o líder formal que usar mais o poder de recompensa tenderá a diminuir seu poder de referência.",
+    "a utilização do poder legítimo e coercitivo tende a ser mais eficiente na liderança do que a utilização de poder de perito e de referência."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://www.youtube.com/watch?v=hQgddGkQ2Ik",
+   "comentario": "Na leitura de Moscovici sobre as bases de poder de French e Raven, o líder informal costuma atuar na manutenção do grupo (dimensão socioemocional), apoiado em poder de referência e de recompensa e atendendo às necessidades afetivas e de afiliação. O líder formal tem mais poder legítimo que os demais, não menos, e os outros membros também podem ter e usar outras bases de poder. O uso de poder de perito e de referência tende a ser mais eficaz do que o legítimo e o coercitivo, e o que corrói o poder de referência é a coerção, não a recompensa."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "Na obra “Liderança e Motivação”, Cavalcanti et al (2009) abordam as principais teorias sobre liderança e motivação desenvolvidas por diversos autores. As teorias contingenciais enfatizam os aspectos que cercam o processo de liderança, sem deixar de enfocar os diferentes tipos de comportamento do líder. Nesses estudos, a atenção sobre o líder é deslocada para o fenômeno da liderança, no qual três aspectos são importantes: o líder, os liderados e o contexto da liderança. Dentre as teorias contingenciais citadas pela autora, qual delas estabelece uma forte relação entre os temas liderança e motivação?",
+   "alternativas": [
+    "Teoria dos traços.",
+    "Teoria dos estilos de liderança.",
+    "Teoria situacional de Hersey e Blanchard.",
+    "Teoria do caminho-objetivo.",
+    "Modelo de Participação do Líder (Vroom e Yetton)."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "comentario": "A teoria do caminho-objetivo (House) apoia-se na teoria da expectativa: o líder motiva ao esclarecer o caminho até as metas e tornar as recompensas atraentes e alcançáveis, o que liga diretamente liderança e motivação. Teoria dos traços e teoria dos estilos não são contingenciais, pois focam o líder e não a situação. A teoria situacional de Hersey e Blanchard e o modelo de Vroom e Yetton são contingenciais, mas tratam da maturidade dos liderados e do grau de participação nas decisões, não do processo motivacional."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Conforme Siqueira e Tamayo (2008), as equipes de trabalho constituem unidades de desempenho cada vez mais utilizadas no cenário organizacional. As características atribuídas a essas unidades de desempenho são diversas, mas uma aparece reiteradamente como indicadora da natureza das equipes. Assinale a opção que cita corretamente essa característica.",
+   "alternativas": [
+    "Há compartilhamento dos mesmos valores entre os membros.",
+    "A responsabilidade dos membros é apenas individual.",
+    "Há relação de dependência entre os membros.",
+    "As habilidades dos membros são aleatórias e variadas.",
+    "As contribuições dos membros são iguais em termos de natureza e intensidade."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-equipes",
+   "item": "https://rac.anpad.org.br/index.php/rac/article/download/393/391",
+   "comentario": "A característica que aparece repetidamente como indicadora da natureza das equipes é a interdependência entre os membros: o resultado depende da contribuição articulada de todos. A responsabilidade nas equipes é também coletiva, não apenas individual, e as habilidades dos membros são complementares, não aleatórias. As contribuições não precisam ser iguais em natureza e intensidade, e o compartilhamento de valores pode existir, mas não é o traço que define a equipe."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "Zimerman, em “Fundamentos básicos das grupoterapias” (2000), discorre sobre um importante tema presente nas terapias em grupo, a saber, o fenômeno de transferência no campo grupal. Com base nas considerações do autor sobre o assunto, assinale a opção correta.",
+   "alternativas": [
+    "Uma das razões de a transferência grupal assumir características diferentes das que se processam no tratamento individual relaciona-se à maior dificuldade de os integrantes do grupo regredirem a níveis distópicos de personalidade.",
+    "Um movimento transferencial no campo grupal está muito longe de representar que esteja havendo a instalação de uma neurose de transferência, embora seja legítimo afirmar, inclusive no grupo analítico, que toda manifestação de transferência deva ser trabalhada.",
+    "Quando um grupo funciona com coterapeuta, é comum acontecer de os próprios terapeutas vivenciarem emoções transferenciais recíprocas entre si.",
+    "É incomum que um grupo iniciante se dissocie em dois subgrupos, uma vez que todos os sentimentos transferenciais se relacionam à dependência.",
+    "Sentimentos transferenciais no campo grupal remetem sempre a experiências emocionais com pessoas do passado."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf",
+   "comentario": "Zimerman observa que, em grupos com coterapeuta, os próprios terapeutas costumam viver emoções transferenciais recíprocas entre si, o que precisa ser reconhecido para não contaminar o campo grupal. Ele também afirma que nem toda manifestação transferencial no grupo deve ser trabalhada, e que os sentimentos transferenciais não remetem sempre ao passado. Além disso, é comum, e não incomum, que um grupo iniciante se divida em subgrupos."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Schein (2009) analisa a cultura por meio de três níveis: artefatos, crenças e valores expostos e suposições básicas. Assinale a opção que apresenta corretamente um exemplo de suposições básicas.",
+   "alternativas": [
+    "Estratégias.",
+    "Sentimentos inconscientes.",
+    "Linguagem.",
+    "Mitos.",
+    "Rituais."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-cultura",
+   "item": "https://www.youtube.com/watch?v=Ki9Ez-xiy0E",
+   "comentario": "No modelo de Schein, as suposições básicas são o nível mais profundo da cultura: crenças, percepções, pensamentos e sentimentos inconscientes, tidos como certos, que são a fonte última de valores e ações. Linguagem, mitos e rituais são artefatos, o nível visível da cultura. Estratégias, metas e filosofias ficam no nível das crenças e valores expostos."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Quanto às síndromes relacionadas a substâncias psicoativas, de acordo com Dalgalarrondo em “Psicopatologia e Semiologia dos Transtornos Mentais” (2008), assinale a opção INCORRETA.",
+   "alternativas": [
+    "A ‘tolerância’ refere-se à diminuição do efeito de uma substância após repetidas administrações.",
+    "A ‘síndrome de abstinência’ é o conjunto de sinais e sintomas que ocorrem horas ou dias após o indivíduo cessar ou reduzir a ingestão da substância que vinha sendo consumida geralmente de forma pesada e contínua.",
+    "A ‘dependência física’ é um estado de adaptação do corpo manifestado por distúrbios físicos quando o uso da substância é interrompido.",
+    "A ‘dependência comportamental ou psíquica’ constitui uma compulsão ao uso da substância, buscando o indivíduo a obtenção de prazer ou a diminuição de desconforto.",
+    "O ‘uso nocivo’ de uma substância equivale ao de ‘abuso’ e refere-se a um padrão de uso que causa dano à saúde física ou mental."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Uso nocivo (termo da CID-10) e abuso (termo do DSM-IV) não são equivalentes: o uso nocivo se define pelo dano à saúde física ou mental, enquanto o abuso inclui também prejuízos sociais, legais e ocupacionais; por isso a alternativa é a incorreta. As demais trazem as definições corretas: tolerância é a perda de efeito com o uso repetido, síndrome de abstinência são os sinais após cessar ou reduzir o uso, dependência física é a adaptação do corpo e dependência psíquica é a compulsão ao uso em busca de prazer ou alívio."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Ao tratar dos procedimentos e do trabalho prescrito quando aborda a astúcia, Dejours (2005) recorre a um termo recentemente reintroduzido no mundo do trabalho para designar as infrações cometidas no exercício do trabalho cotidiano, para alcançar o máximo dos objetivos das tarefas fixadas pela organização do trabalho. Assinale a opção que apresenta o termo usado por esse autor.",
+   "alternativas": [
+    "Quebra-galho.",
+    "Safa-onça.",
+    "Trabalho real.",
+    "Savoir-faire.",
+    "“Cada um por si”."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "https://www.youtube.com/watch?v=AiOUBteGOn4",
+   "comentario": "Ao falar da astúcia e da distância entre o trabalho prescrito e o real, Dejours usa o termo 'quebra-galho' para as pequenas infrações que o trabalhador comete no dia a dia justamente para conseguir cumprir os objetivos fixados pela organização do trabalho. 'Trabalho real' é o conceito mais amplo do qual essas infrações fazem parte, não o nome delas. 'Savoir-faire' designa o saber prático em geral, e 'safa-onça' e 'cada um por si' não são os termos do autor."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "No livro “Saúde Mental e Atenção Psicossocial”, Paulo Amarante (2013) descreve um movimento para o qual a doença mental não existiria enquanto objeto natural, como considera a psiquiatria, e sim uma determinada experiência do sujeito em sua relação com o ambiente social. Na medida em que o conceito de doença mental era então rejeitado, não existiria exatamente uma proposta de tratamento da ‘doença mental’, no sentido clássico que damos à ideia terapêutica. O princípio seria de que a pessoa vivenciasse sua experiência; essa seria, por si só, terapêutica, na medida em que o sintoma expressaria uma possibilidade de reorganização interior. Que movimento é apresentado na descrição acima?",
+   "alternativas": [
+    "Psiquiatria de Setor.",
+    "Psiquiatria Preventiva.",
+    "Antipsiquiatria.",
+    "Psicoterapia Institucional.",
+    "Comunidade Terapêutica."
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "https://www.youtube.com/watch?v=HyXJy2ZIbwo",
+   "comentario": "(Cobra além deste material.) A antipsiquiatria, de Laing e Cooper, nega que a doença mental seja um objeto natural e a vê como experiência do sujeito em sua relação com o meio social; por isso não propõe tratamento no sentido clássico, e sim que a pessoa vivencie a experiência, vista como reorganização interior. Psiquiatria de Setor e Psiquiatria Preventiva reformam a assistência sem questionar o conceito de doença mental. Psicoterapia Institucional e Comunidade Terapêutica transformam a instituição para torná-la terapêutica, mas também mantêm a ideia de tratamento."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "Considere as seguintes descrições clínicas:\nI- Instabilidade persistente do humor que comporta numerosos períodos de depressão ou de leve elação, nenhum deles suficientemente grave ou prolongado para responder aos critérios de um transtorno afetivo bipolar ou de um transtorno depressivo recorrente.\nII- Rebaixamento crônico do humor, persistindo ao menos por vários anos, mas cuja gravidade não é suficiente ou na qual os episódios individuais são muito curtos para responder aos critérios de transtorno depressivo recorrente grave, moderado ou leve.\nAssinale a opção que apresenta correta e respectivamente as hipóteses diagnósticas das descrições clínicas acima, com base na Classificação de Transtornos Mentais e de Comportamento da CID-10 (1993).",
+   "alternativas": [
+    "Distimia e Ciclotimia.",
+    "Ciclotimia e Distimia.",
+    "Transtorno misto ansioso e depressivo e Distimia.",
+    "Ciclotimia e Alexitimia.",
+    "Distimia e Esquizofrenia."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download",
+   "comentario": "Na CID-10, a ciclotimia é a instabilidade persistente do humor com muitos períodos de depressão ou leve elação, sem gravidade para transtorno bipolar ou depressivo recorrente (descrição I). A distimia é o rebaixamento crônico do humor por vários anos, leve demais para depressão recorrente (descrição II). A opção A inverte as duas, e alexitimia não é diagnóstico da CID-10, assim como esquizofrenia e o transtorno misto ansioso e depressivo não correspondem às descrições."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Conforme Urbina (2007), em “Fundamentos da testagem psicológica”, as medidas de variabilidade medem quanta dispersão existe em um conjunto de dados. Quando somadas a informações a respeito das tendências centrais, as medidas de variabilidade nos ajudam a localizar qualquer valor dentro de uma distribuição e a melhorar a descrição de um conjunto de dados. São medidas de variabilidade usadas na testagem psicológica, EXCETO:",
+   "alternativas": [
+    "amplitude.",
+    "distância semi-interquartílica.",
+    "desvio-padrão.",
+    "distância intraquartílica.",
+    "variância."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicometria",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=243",
+   "comentario": "(Cobra além deste material.) Amplitude, distância (amplitude) semi-interquartílica, variância e desvio-padrão são medidas de variabilidade usadas na testagem. 'Distância intraquartílica' não existe: a medida correta é a distância interquartílica, entre o primeiro e o terceiro quartis, e a semi-interquartílica é a metade dela. A troca de 'inter' por 'intra' é a pegadinha da questão."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "De acordo com Beck, em “Terapia cognitivo-comportamental: teoria e prática” (2014), a terapia cognitiva baseia-se em um conjunto de princípios. Assinale a opção que apresenta um desses princípios.",
+   "alternativas": [
+    "A terapia cognitiva é educativa e visa ensinar o paciente a ser seu próprio terapeuta.",
+    "A terapia cognitiva inicialmente enfatiza o passado.",
+    "As sessões de terapia cognitiva são semiestruturadas.",
+    "A terapia cognitiva é orientada em meta e não focaliza os problemas.",
+    "A terapia cognitiva evita predeterminar um tempo limitado de sessões."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "https://www.youtube.com/watch?v=RndQ5G3TElI",
+   "comentario": "Entre os princípios descritos por Judith Beck está o de que a terapia cognitiva é educativa e visa ensinar o paciente a ser seu próprio terapeuta, com ênfase na prevenção de recaída. Os outros invertem princípios: a terapia enfatiza inicialmente o presente, as sessões são estruturadas, ela é orientada em metas e focada em problemas, e procura ser de tempo limitado."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Conforme Robbins (2010), o processo do conflito é composto por cinco estágios. Há um estágio no qual os conflitos tornam-se visíveis e, nele estão incluídas as declarações, as ações e as reações das partes envolvidas no conflito, geralmente tentativas explícitas, por cada uma das partes conflitantes, de implementar suas estratégias. Assim, de acordo com o autor, assinale a opção que apresenta esse estágio.",
+   "alternativas": [
+    "Consequências.",
+    "Comportamento.",
+    "Estratégia.",
+    "Cognição e personalização.",
+    "Oposição potencial ou incompatibilidade."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "No modelo de Robbins, o processo de conflito tem cinco estágios: oposição potencial ou incompatibilidade, cognição e personalização, intenções, comportamento e consequências. É no estágio do comportamento que o conflito se torna visível, nas declarações, ações e reações das partes que tentam pôr em prática suas intenções. 'Estratégia' não é um estágio do modelo, e cognição e personalização é o momento em que o conflito é percebido e sentido, ainda sem ação explícita."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "De acordo com Robbins (2010), existe um método de avaliação de desempenho que combina os principais elementos do método dos incidentes críticos e das escalas gráficas de mensuração. Assinale a opção que apresenta esse método.",
+   "alternativas": [
+    "Escala de comparação forçada.",
+    "Relatórios escritos de mensuração de desempenho.",
+    "Escala de traços individuais e gerais.",
+    "Escala de mensuração ancorada em comportamentos.",
+    "Classificação dos resultados gerais da tarefa."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "https://www.scielo.br/pdf/rae/v41n1/v41n1a02.pdf",
+   "comentario": "A escala de mensuração ancorada em comportamentos (BARS) combina os incidentes críticos com as escalas gráficas: cada ponto da escala é ancorado em exemplos de comportamentos concretos de bom ou mau desempenho. Relatórios escritos e incidentes críticos são métodos separados, e a comparação forçada e as escalas de traços não incorporam incidentes comportamentais na escala."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "Em “Fundamentos básicos das grupoterapias” (2000), Zimerman discorre sobre modalidades distintas de grupos em termos de suas finalidades. Dentre elas, há uma modalidade que é indicação prioritária em programas educacionais que visam aliar, ao propósito da ‘informação’, o da ‘formação’, especialmente quanto à aquisição de atitudes internas. Assinale a opção que apresenta essa modalidade de grupo.",
+   "alternativas": [
+    "Grupos de abordagem múltipla.",
+    "Grupos de reflexão.",
+    "Grupos socioeducativos.",
+    "Grupos institucionais.",
+    "Grupos de base analítica."
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://www.youtube.com/watch?v=h-fdQEGLRG8",
+   "comentario": "Zimerman indica os grupos de reflexão como prioritários em programas educacionais que querem unir a informação à formação, sobretudo à aquisição de atitudes internas, porque neles o grupo pensa sobre a própria experiência e as emoções envolvidas na tarefa. Os grupos institucionais e os de base analítica têm outras finalidades (a dinâmica da instituição e o tratamento, respectivamente). 'Abordagem múltipla' e 'socioeducativos' não são a modalidade que o autor descreve para esse fim."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "De acordo com Castro (apud LEMGRUBER, 2000), um determinado ponto na Psicoterapia de Regulação de Ansiedade é muito marcante. Ocorre bem no meio da segunda fase de reestruturações, quando, vencida a maior barreira imposta pelas defesas, faz-se a passagem da experimentação para a de expressão dos afetos, condição necessária para introduzir a terceira fase de reestruturações. Essa descrição trata de qual ponto?",
+   "alternativas": [
+    "Ponto Central (PC).",
+    "Primeiro Ponto de Virada (PV I).",
+    "Segundo Ponto de Virada (PV II).",
+    "Cena-pinça (P I).",
+    "Fim do Ato I."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-terapia-breve",
+   "item": "https://www.youtube.com/watch?v=nAqQYSzGPng",
+   "comentario": "(Cobra além deste material.) Na Psicoterapia de Regulação de Ansiedade descrita por Castro, que se organiza como uma estrutura dramática em atos, o Ponto Central fica no meio da segunda fase de reestruturações: vencida a maior barreira das defesas, passa-se da experimentação à expressão dos afetos, condição para a terceira fase. Os Pontos de Virada e o fim do Ato I marcam passagens entre fases, e não o meio da segunda. A pista do enunciado é 'bem no meio', que corresponde ao ponto central da estrutura."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Quanto às considerações de Freud apresentadas no texto “A dinâmica da transferência” (1912), assinale a opção INCORRETA.",
+   "alternativas": [
+    "Nas formas curáveis de psiconeurose, a transferência negativa é encontrada lado a lado com a transferência afetuosa, dirigidas simultaneamente para a mesma pessoa.",
+    "A ambivalência nas tendências emocionais dos neuróticos é a melhor explicação para sua habilidade de colocar as transferências a serviço da resistência.",
+    "Ao mesmo tempo que a transferência é o mais eficaz dos fatores de sucesso do tratamento, ela é o mais poderoso meio de resistência.",
+    "A transferência negativa é a transferência dos sentimentos hostis.",
+    "A transferência positiva reduz-se à transferência dos sentimentos amistosos ou afetuosos que são admissíveis à consciência."
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "https://www.youtube.com/watch?v=kESXXd111h4",
+   "comentario": "Em 'A dinâmica da transferência' (1912), Freud divide a transferência positiva em sentimentos amistosos ou afetuosos admissíveis à consciência e em seus prolongamentos inconscientes, de base erótica; dizer que ela 'se reduz' à parte consciente é o erro da alternativa. As demais estão no texto: a transferência negativa é a de sentimentos hostis, aparece lado a lado com a afetuosa nas formas curáveis de psiconeurose, a ambivalência explica o uso da transferência a serviço da resistência, e a transferência é ao mesmo tempo o fator mais eficaz de sucesso e o meio mais poderoso de resistência."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "O programa de Orientação Profissional baseado na abordagem sócio-histórica apresentado em Bock (2006) é desenvolvido em três módulos. Na 3ª sessão do módulo I, o gosto pelas disciplinas escolares é utilizado como mote para a discussão mais geral a respeito do significado, da importância e da forma da efetivação de escolhas. Desenvolve-se um procedimento que se constitui em uma metáfora para demonstrar a elaboração e o desenvolvimento de processos de escolha. Assim, como é denominado esse procedimento descrito pelo autor?",
+   "alternativas": [
+    "Da cebola.",
+    "Do chocolate.",
+    "Da salada de fruta.",
+    "Do sorvete.",
+    "Do marshmallow."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "https://www.youtube.com/watch?v=GZkzw6MSfxc",
+   "comentario": "No programa sócio-histórico apresentado por Bock, a 3ª sessão do módulo I usa a técnica do sorvete: a escolha de um sabor serve de metáfora para discutir como se elaboram e se desenvolvem as escolhas. O gosto pelas disciplinas escolares é o ponto de partida para essa discussão, coerente com a abordagem, que entende a escolha profissional como construída nas condições sociais e históricas do sujeito. As outras opções não são o nome do procedimento descrito pelo autor."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Segundo Angerami-Camon, Chiattone e Meleti (2003), em “A Psicologia no Hospital”, como se chama uma das atividades programadas pelo Serviço de Psicologia em que as crianças internadas têm a oportunidade de vivenciar ou mesmo assistir à situação real que vivenciam a cada dia no hospital, assim como a equipe de saúde tem a oportunidade de se espelhar e refletir sobre as próprias atitudes perante as crianças?",
+   "alternativas": [
+    "Artes.",
+    "“Boneco paciente”.",
+    "Teatrinho de Fantoches.",
+    "Dramatização.",
+    "Brinquedo dirigido."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Em “Perda da realidade na neurose e na psicose” (1924), Freud elenca fatores que caracterizam e diferenciam a neurose da psicose em relação à perda da realidade. Com base nesse texto, assinale a opção correta.",
+   "alternativas": [
+    "Na neurose não faltam tentativas de substituir uma realidade desagradável por outra que esteja mais de acordo com os desejos do indivíduo.",
+    "Na neurose o fragmento de realidade rejeitado se impõe constantemente à mente, tal como a catexia libidinal reprimida o faz na psicose.",
+    "A neurose repudia e tenta substituir a realidade; a psicose não a repudia, apenas a ignora.",
+    "A psicose é expressão de uma rebelião por parte do id contra o mundo externo, de sua incapacidade a adaptar-se às exigências da realidade.",
+    "Na psicose um fragmento da realidade é evitado por uma espécie de fuga, ao passo que na neurose ele é remodelado."
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "De acordo com a Resolução CFP - n° 06/2019, o prazo de validade do conteúdo do documento escrito, decorrente da prestação de serviços psicológicos, deverá ser indicado no último parágrafo do documento. A validade indicada deverá considerar a normatização vigente na área em que atua o(a) psicólogo(a), bem como a natureza dinâmica do trabalho realizado e a necessidade de atualização contínua das informações. Quando não houver definição normativa, o prazo de validade deve ser indicado pelo(a) psicólogo(a), levando em consideração todas as opções abaixo, EXCETO:",
+   "alternativas": [
+    "as expectativas das pessoas, grupos ou instituições atendidas.",
+    "os objetivos da prestação do serviço.",
+    "os procedimentos utilizados.",
+    "os aspectos subjetivos e dinâmicos analisados.",
+    "as conclusões obtidas."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+   "comentario": "Pela Res. CFP 06/2019, sem prazo definido em norma, a validade do documento é indicada pelo psicólogo considerando os objetivos do serviço, os procedimentos utilizados, os aspectos subjetivos e dinâmicos analisados e as conclusões obtidas. As expectativas das pessoas, grupos ou instituições atendidas não entram nesse critério, porque a validade depende de razões técnicas do trabalho, e não do que o solicitante deseja."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "De acordo com Cavalcanti et.al (2009), no livro “Liderança e Motivação”, dentre as teorias de processo, na Teoria das expectativas encontra-se um modelo mais complexo de explicitar os processos cognitivos presentes na decisão de concentrar os esforços em uma determinada direção. Nessa teoria, a motivação é vista como função de três componentes. Assinale a opção que apresenta esses três componentes.",
+   "alternativas": [
+    "Expectativa, instrumentalidade e valência.",
+    "Expectativa, realização e afiliação.",
+    "Expectativa, afiliação e poder.",
+    "Esforço, habilidade e salário.",
+    "Esforço, habilidade e promoção."
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-lideranca",
+   "item": "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457",
+   "comentario": "Na teoria das expectativas de Vroom, a motivação é função de três componentes: expectativa (crença de que o esforço leva ao desempenho), instrumentalidade (crença de que o desempenho leva à recompensa) e valência (valor atribuído à recompensa). Realização, afiliação e poder são as necessidades da teoria de McClelland, que é de conteúdo, não de processo. Esforço, habilidade, salário e promoção são variáveis do desempenho e das recompensas, não os componentes do modelo."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "No livro “Psicologia e Educação”, Baeta (2006) analisa as principais características de cada estágio no modelo de desenvolvimento cognitivo de Piaget. Assinale a opção correta que apresenta o período em que se iniciam comportamentos que visam repetir uma ação, que foi casual de início, mas que, ao produzir um “espetáculo interessante”, faz com que a criança repita intencionalmente, ligando sua ação ao efeito produzido.",
+   "alternativas": [
+    "Período Pré-Operacional.",
+    "Período Operacional Concreto.",
+    "Período Formal ou Proposicional.",
+    "Período Sensório-Motor.",
+    "Período Objetal."
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "https://www.youtube.com/watch?v=nN8Y2qn7ZZE",
+   "comentario": "Repetir intencionalmente uma ação que no início foi casual, para reproduzir um 'espetáculo interessante', é a reação circular secundária, típica do período sensório-motor de Piaget (por volta dos 4 aos 8 meses). Nos períodos pré-operacional, operacional concreto e formal, a criança já opera com representação, e não com esse esquema de ação e efeito. 'Período objetal' não é um estágio do modelo piagetiano."
+  }
+ ]
+}

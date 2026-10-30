@@ -1,0 +1,1203 @@
+{
+ "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia.pdf": [
+  {
+   "enunciado": "Segundo a apresentação do Código de Ética Profissional do Psicólogo (2005), qual é a missão primordial de um código de ética profissional?",
+   "alternativas": [
+    "Normatizar a natureza técnica do trabalho, detalhando como cada procedimento deve ser feito",
+    "Assegurar, dentro de valores relevantes para a sociedade, um padrão de conduta que fortaleça o reconhecimento social da categoria",
+    "Substituir a legislação profissional e a atuação fiscalizadora dos Conselhos Regionais",
+    "Definir os valores mínimos de honorários que os psicólogos podem cobrar"
+   ],
+   "certa": 1,
+   "comentario": "A apresentação afirma que o código não se destina a normatizar a técnica, mas a assegurar um padrão de conduta que fortaleça o reconhecimento social da categoria.",
+   "trecho": "A missão primordial de um código de ética profissional não é de normatizar a natureza técnica do trabalho",
+   "onde": 5
+  },
+  {
+   "enunciado": "Uma psicóloga vai atender, de forma continuada, um adolescente de 15 anos. Segundo o Código de Ética, o que ela deve fazer antes de iniciar o atendimento?",
+   "alternativas": [
+    "Obter autorização de ao menos um dos responsáveis, observada a legislação vigente",
+    "Obter autorização escrita de ambos os pais, sem exceção",
+    "Dispensar a autorização, pois o adolescente já tem discernimento para consentir sozinho",
+    "Pedir autorização somente ao juiz da Vara da Infância"
+   ],
+   "certa": 0,
+   "comentario": "O Art. 8º exige autorização de ao menos um responsável para o atendimento não eventual de criança, adolescente ou interdito.",
+   "trecho": "Para realizar atendimento não eventual de criança, adolescente ou interdito, o psicólogo deverá obter autorização de ao menos um de seus responsáveis",
+   "onde": 12
+  },
+  {
+   "enunciado": "Quando há conflito entre o dever de sigilo (Art. 9º) e os princípios fundamentais do Código, e não há previsão legal específica, o que o Código permite ao psicólogo?",
+   "alternativas": [
+    "Quebrar o sigilo livremente, desde que avise o usuário depois",
+    "Nunca quebrar o sigilo, em nenhuma hipótese",
+    "Decidir pela quebra de sigilo, baseando a decisão na busca do menor prejuízo",
+    "Quebrar o sigilo apenas mediante ordem do Conselho Regional"
+   ],
+   "certa": 2,
+   "comentario": "O Art. 10 admite a quebra de sigilo pautada na busca do menor prejuízo, restringindo-se às informações estritamente necessárias.",
+   "trecho": "o psicólogo poderá decidir pela quebra de sigilo, baseando sua decisão na busca do menor prejuízo",
+   "onde": 13
+  },
+  {
+   "enunciado": "Ao promover publicamente seus serviços, o psicólogo, de acordo com o Art. 20 do Código de Ética, deve evitar qual prática?",
+   "alternativas": [
+    "Informar o nome completo, o CRP e o número de registro",
+    "Divulgar apenas técnicas reconhecidas ou regulamentadas pela profissão",
+    "Fazer referência apenas a títulos que possua",
+    "Utilizar o preço do serviço como forma de propaganda"
+   ],
+   "certa": 3,
+   "comentario": "O Art. 20, alínea d, proíbe usar o preço do serviço como propaganda; as demais alternativas são deveres previstos no mesmo artigo.",
+   "trecho": "Não utilizará o preço do serviço como forma de propaganda",
+   "onde": 15
+  },
+  {
+   "enunciado": "Qual é a penalidade disciplinar prevista no Código de Ética para o psicólogo, com limite máximo de 30 dias?",
+   "alternativas": [
+    "Advertência",
+    "Multa",
+    "Censura pública",
+    "Suspensão do exercício profissional"
+   ],
+   "certa": 3,
+   "comentario": "O Art. 21 prevê suspensão do exercício profissional por até 30 dias, ad referendum do CFP; a cassação não tem esse prazo.",
+   "trecho": "Suspensão do exercício profissional, por até 30 (trinta) dias, ad referendum do Conselho Federal de Psicologia",
+   "onde": 16
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2019/12/Nota_0192444_SEI_CFP___0108451___Nota_Tecnica.pdf": [
+  {
+   "enunciado": "Segundo a Nota Técnica CFP nº 02/2019, até 2004 os cursos de graduação em Psicologia admitiam quantas terminalidades?",
+   "alternativas": [
+    "Duas: formação de psicólogo e formação de professor de Psicologia",
+    "Três: bacharelado de 4 anos, formação de psicólogo de 5 anos e licenciatura",
+    "Uma só: o bacharelado de 5 anos",
+    "Quatro: bacharelado, licenciatura, tecnólogo e formação de psicólogo"
+   ],
+   "certa": 1,
+   "comentario": "A nota explica que, até 2004, existiam o bacharelado (4 anos), a formação de psicólogo (5 anos) e a licenciatura.",
+   "trecho": "Até o ano de 2004, os cursos de graduação em Psicologia admi am três terminalidades",
+   "onde": 1
+  },
+  {
+   "enunciado": "Depois das Diretrizes Curriculares Nacionais de 2004 (Resolução CES/CNE nº 8), quais passaram a ser as terminalidades dos cursos de Psicologia?",
+   "alternativas": [
+    "Bacharelado e licenciatura",
+    "Bacharelado de quatro anos e Formação de Psicólogo",
+    "Formação de Psicólogo e Formação de Professor de Psicologia",
+    "Tecnólogo e Formação de Psicólogo"
+   ],
+   "certa": 2,
+   "comentario": "Com as DCNs de 2004, ficaram duas terminalidades: Formação de Psicólogo e Formação de Professor de Psicologia.",
+   "trecho": "Formação de Psicólogo e Formação de Professor de Psicologia, conforme a Resolução CES/CNE no. 8 de 7 de maio de 2004",
+   "onde": 1
+  },
+  {
+   "enunciado": "Por que a unificação de nomenclaturas feita pelo MEC em 2006 trouxe dificuldade para o registro profissional, segundo a Nota Técnica?",
+   "alternativas": [
+    "Porque extinguiu o curso de Formação de Psicólogo",
+    "Porque passou a exigir licenciatura para o registro",
+    "Porque obrigou todos os psicólogos a refazerem o curso",
+    "Porque o novo bacharelado poderia ser confundido com o antigo bacharelado de quatro anos"
+   ],
+   "certa": 3,
+   "comentario": "A nova denominação Bacharelado em Psicologia podia ser confundida com o antigo bacharelado de quatro anos, anterior às DCNs de 2004.",
+   "trecho": "esse novo bacharelado poderia ser confundido com o an go, de quatro anos de duração",
+   "onde": 1
+  },
+  {
+   "enunciado": "Para o registro profissional de egressos de cursos que não pertencem ao Sistema Federal de Ensino (como instituições estaduais e municipais), o que a Nota Técnica determina que seja exigido além do diploma?",
+   "alternativas": [
+    "Nova avaliação no SINAES",
+    "Certificado de licenciatura",
+    "Declaração de que o curso atende às exigências à formação de psicólogo",
+    "Portaria de renovação publicada pela SERES"
+   ],
+   "certa": 2,
+   "comentario": "Para cursos fora do Sistema Federal de Ensino é ainda necessária declaração de que o curso atende às exigências de formação de psicólogo.",
+   "trecho": "declaração de que o curso atende às exigências à formação de psicólogo",
+   "onde": 3
+  },
+  {
+   "enunciado": "Qual é o prazo dado às instituições do Sistema Federal de Ensino para se adequarem à Portaria MEC nº 1.095/2018, sobre expedição e registro de diplomas?",
+   "alternativas": [
+    "180 dias",
+    "120 dias",
+    "90 dias",
+    "360 dias"
+   ],
+   "certa": 0,
+   "comentario": "A nota cita o prazo de 180 dias a partir da publicação da portaria, em 26 de outubro de 2018.",
+   "trecho": "no prazo de 180 dias contados a par r da data de sua publicação",
+   "onde": 2
+  }
+ ],
+ "https://www.youtube.com/watch?v=zp6DEkDtCVQ": [
+  {
+   "enunciado": "Como a Resolução CFP nº 6/2019 define um documento psicológico, segundo a aula?",
+   "alternativas": [
+    "Um instrumento de comunicação escrita resultante da prestação de serviço psicológico à pessoa, grupo ou instituição",
+    "Um registro obrigatório de tudo o que foi dito em cada sessão de atendimento",
+    "Um instrumento que só pode ser produzido a partir de uma avaliação psicológica",
+    "Um relato interno do psicólogo, que não pode ser entregue ao usuário do serviço"
+   ],
+   "certa": 0,
+   "comentario": "A aula inicia a definição dizendo que o documento psicológico é um instrumento de comunicação escrita resultante do serviço prestado; nem todo documento decorre de avaliação.",
+   "trecho": "um documento psicológico é um instrumento de comunicação escrita",
+   "onde": 124
+  },
+  {
+   "enunciado": "O que é vedado registrar em uma declaração psicológica, segundo a aula sobre a Resolução CFP nº 6/2019?",
+   "alternativas": [
+    "O comparecimento da pessoa atendida e de seu acompanhante",
+    "Os dias e horários do acompanhamento",
+    "Sintomas, situações ou estados psicológicos",
+    "O tempo de acompanhamento psicológico"
+   ],
+   "certa": 2,
+   "comentario": "A declaração registra de forma objetiva e sucinta o comparecimento e o acompanhamento, sendo vedado registrar sintomas, situações ou estados psicológicos.",
+   "trecho": "é vedado então na declaração psicológica de que a gente registre sintomas, situações ou estados psicológicos",
+   "onde": 831
+  },
+  {
+   "enunciado": "Entre os documentos psicológicos, qual deles apresenta todos os elementos da estrutura (identificação, descrição da demanda, procedimento, análise, conclusão e referências) com exceção do procedimento?",
+   "alternativas": [
+    "Laudo psicológico",
+    "Relatório multiprofissional",
+    "Atestado psicológico",
+    "Parecer psicológico"
+   ],
+   "certa": 3,
+   "comentario": "O parecer não traz procedimento porque não resulta de uma intervenção do psicólogo, e sim da análise de uma questão ou de documentos de outros.",
+   "trecho": "O parecer psicológico, ele tem a ele apresenta todos os elementos com exceção do procedimento",
+   "onde": 1294
+  },
+  {
+   "enunciado": "Qual é o prazo mínimo de guarda dos documentos escritos e de todo o material que os fundamenta, segundo a resolução comentada na aula?",
+   "alternativas": [
+    "2 anos",
+    "5 anos",
+    "10 anos",
+    "20 anos"
+   ],
+   "certa": 1,
+   "comentario": "A resolução fixa o prazo mínimo de 5 anos, ampliável por lei, determinação judicial ou circunstâncias específicas.",
+   "trecho": "devem ser guardados pelo prazo mínimo de 5 anos",
+   "onde": 1909
+  },
+  {
+   "enunciado": "Em relação à entrevista devolutiva, o que a Resolução CFP nº 6/2019 estabelece para a entrega de relatório e laudo psicológico?",
+   "alternativas": [
+    "É apenas recomendada, nunca obrigatória",
+    "É dever realizar pelo menos uma entrevista devolutiva, explicitando as razões se não for possível",
+    "É obrigatória somente quando o solicitante for o Poder Judiciário",
+    "É vedada, pois o documento deve ser enviado diretamente ao solicitante"
+   ],
+   "certa": 1,
+   "comentario": "Para relatório e laudo, realizar ao menos uma devolutiva é um dever; para atestado e parecer, apenas recomendação.",
+   "trecho": "dever que nós psicólogos temos de realizar pelo menos uma entrevista devolutiva a essa pessoa, grupo ou instituição",
+   "onde": 2092
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf": [
+  {
+   "enunciado": "Segundo o texto comentado da Resolução CFP 06/2019, em que ela avança em relação à Resolução CFP 07/2003?",
+   "alternativas": [
+    "Ao proibir qualquer documento que não decorra de avaliação psicológica",
+    "Ao separar os documentos provenientes de avaliação psicológica dos relativos a outras formas de atuação, e ao estabelecer o Relatório Multiprofissional",
+    "Ao eliminar a entrevista devolutiva e o prazo de guarda dos documentos",
+    "Ao restringir a elaboração de documentos aos contextos clínico e jurídico"
+   ],
+   "certa": 1,
+   "comentario": "O texto de apresentação diz que a nova norma separa os documentos de avaliação psicológica dos demais, cria o Relatório Multiprofissional e regula destino, envio e devolutiva.",
+   "trecho": "a presente Resolução avança ao separar os documentos que são provenientes de avaliação psicológica de outros relativos às diversas formas de atuação",
+   "onde": 1
+  },
+  {
+   "enunciado": "Como devem ser registradas as informações do atestado psicológico, segundo o Art. 10 e seus parágrafos?",
+   "alternativas": [
+    "Em tópicos numerados, um para cada informação",
+    "Em texto corrido, separadas apenas pela pontuação, sem parágrafos, para evitar riscos de adulteração",
+    "Em parágrafos separados, com recuo e espaçamento duplo",
+    "Em formulário padronizado do Conselho Regional, sem texto livre"
+   ],
+   "certa": 1,
+   "comentario": "O atestado usa texto corrido, sem parágrafos; se parágrafos forem necessários, os espaços são preenchidos com traços.",
+   "trecho": "As informações deverão estar registradas em texto corrido, separadas apenas pela pontuação, sem parágrafos, evitando, com isso, riscos de adulteração",
+   "onde": 11
+  },
+  {
+   "enunciado": "No relatório multiprofissional, como devem ser descritos os procedimentos e técnicas privativos da Psicologia?",
+   "alternativas": [
+    "Em conjunto com os dos demais profissionais, em texto único",
+    "Omitidos, para preservar o sigilo da técnica",
+    "Separados dos descritos pelos demais profissionais",
+    "Apenas em anexo, assinado pelo coordenador da equipe"
+   ],
+   "certa": 2,
+   "comentario": "O Art. 12, § 5º determina que a descrição de procedimentos e técnicas privativas da Psicologia venha separada da dos demais profissionais.",
+   "trecho": "A descrição dos procedimentos e/ou técnicas privativas da Psicologia deve vir separada das descritas pelas(os) demais profissionais",
+   "onde": 20
+  },
+  {
+   "enunciado": "Uma psicóloga é chamada por um advogado para analisar criticamente um laudo feito por outra psicóloga, sem ter avaliado a pessoa. Que documento ela deve produzir, e por quê?",
+   "alternativas": [
+    "Laudo psicológico, pois houve análise de outro laudo",
+    "Atestado psicológico, pois certifica uma situação",
+    "Relatório psicológico, pois descreve a atuação profissional",
+    "Parecer psicológico, pois não é resultado de avaliação ou intervenção psicológica, e sim resposta técnica a uma consulta"
+   ],
+   "certa": 3,
+   "comentario": "O parecer responde a uma questão-problema ou a documentos questionados, sem resultar de avaliação ou intervenção realizada pela parecerista.",
+   "trecho": "O parecer psicológico não é um documento resultante do processo de avaliação psicológica ou de intervenção psicológica",
+   "onde": 28
+  },
+  {
+   "enunciado": "Onde deve ser indicado o prazo de validade do conteúdo do documento escrito, e como ele é definido quando não há definição normativa?",
+   "alternativas": [
+    "No primeiro parágrafo, fixado em um ano pelo CFP",
+    "No último parágrafo, indicado pela psicóloga conforme os objetivos do serviço, procedimentos, aspectos analisados e conclusões",
+    "Na identificação, sempre igual a cinco anos",
+    "Em nota de rodapé, definido pelo solicitante"
+   ],
+   "certa": 1,
+   "comentario": "O Art. 17 manda indicar a validade no último parágrafo; sem norma, a psicóloga a define pelos objetivos, procedimentos, aspectos subjetivos e dinâmicos e conclusões.",
+   "trecho": "o prazo de validade do conteúdo do documento escrito, decorrente da prestação de serviços psicológicos, deverá ser indicado no último parágrafo do documento",
+   "onde": 33
+  }
+ ],
+ "https://www.youtube.com/watch?v=rPpcPcQ0qec": [
+  {
+   "enunciado": "Segundo a aula, qual órgão do Ministério da Saúde é responsável pelo Programa Nacional de Controle do Tabagismo e principal idealizador das propostas de intervenção da rede de tratamento do SUS?",
+   "alternativas": [
+    "Agência Nacional de Vigilância Sanitária (Anvisa)",
+    "Instituto Nacional do Câncer José Alencar Gomes da Silva (INCA)",
+    "Conselho Nacional de Saúde",
+    "Instituto de Efetividade Clínica e Sanitária"
+   ],
+   "certa": 1,
+   "comentario": "A aula afirma que o INCA é o órgão do Ministério da Saúde responsável pelo programa; a Anvisa aparece apenas no combate à venda de cigarros eletrônicos.",
+   "trecho": "então o instituto nacional do Câncer né José Alencar Gomes da Silva tá é o órgão né do Ministério da Saúde",
+   "onde": 995
+  },
+  {
+   "enunciado": "Como é organizada a abordagem cognitivo-comportamental do tabagismo no protocolo do Ministério da Saúde apresentado na aula?",
+   "alternativas": [
+    "Sessões individuais ou em grupos de 10 a 15 participantes, coordenadas por um ou dois profissionais de saúde de nível superior",
+    "Sessões exclusivamente individuais, conduzidas por médico psiquiatra",
+    "Grupos de 30 a 40 participantes, coordenados por agentes comunitários",
+    "Atendimento único de uma hora, seguido de alta"
+   ],
+   "certa": 0,
+   "comentario": "A abordagem consiste em sessões individuais ou grupos de 10 a 15 pessoas, com quatro sessões semanais iniciais, duas quinzenais e reuniões mensais até um ano.",
+   "trecho": "consiste em sessões individuais ou em grupos de apoio entre 10 a 15 participantes coordenadas por um ou dois Profissionais de Saúde superior",
+   "onde": 1279
+  },
+  {
+   "enunciado": "Qual é a duração do tratamento da dependência de nicotina que o professor chama de padrão ouro, tanto na terapia cognitivo-comportamental quanto no tratamento farmacológico?",
+   "alternativas": [
+    "4 semanas",
+    "8 semanas",
+    "12 semanas",
+    "24 semanas"
+   ],
+   "certa": 2,
+   "comentario": "O professor afirma que 12 semanas é o padrão ouro, e quem as supera tende a ter poucas recaídas.",
+   "trecho": "a gente fala que 12 semanas é um padrão ouro de tratamento",
+   "onde": 1752
+  },
+  {
+   "enunciado": "Segundo a aula, pelo DSM-5, como se classifica a gravidade do transtorno por uso de álcool conforme o número de sintomas dos 11 critérios nos últimos 12 meses?",
+   "alternativas": [
+    "Leve: 1 sintoma; moderado: 2 a 3; grave: 4 ou mais",
+    "Leve: 2 a 3 sintomas; moderado: 4 a 5; grave: 6 ou mais",
+    "Leve: 2 a 4 sintomas; moderado: 5 a 6; grave: 7 ou mais",
+    "Leve: 3 sintomas; moderado: 4 a 6; grave: 7 ou mais"
+   ],
+   "certa": 1,
+   "comentario": "A aula indica 2 a 3 sintomas como leve, 4 a 5 como moderado e seis ou mais como grave.",
+   "trecho": "para uma condição moderada a presença de quatro a cinco sintomas e um paciente com características graves dos 11 sintomas listados",
+   "onde": 2634
+  },
+  {
+   "enunciado": "O que é a intervenção breve recomendada pelo Ministério da Saúde para o uso de álcool, segundo a aula?",
+   "alternativas": [
+    "Uma técnica psicanalítica de longa duração aplicada apenas em CAPS",
+    "Uma internação de curta duração para desintoxicação",
+    "Uma técnica adaptada da entrevista motivacional para contatos breves na atenção básica, que pode ser usada por profissionais não especialistas",
+    "Um protocolo farmacológico com duração de quatro semanas"
+   ],
+   "certa": 2,
+   "comentario": "A intervenção breve é motivacional, baseada nos estágios de mudança, de curta duração e aplicável por profissionais não especializados na atenção básica.",
+   "trecho": "a intervenção breve é motivacional e é uma técnica adaptada da entrevista motivacional para ser utilizada em contatos Breves nos serviços de atenção básica a saúde",
+   "onde": 3206
+  }
+ ],
+ "https://unodc.org/pdf/brazil/polit_ms_acool_e_drogas.pdf": [
+  {
+   "enunciado": "Qual é a posição da Política do Ministério da Saúde (2003) sobre a abstinência como objetivo do cuidado a usuários de álcool e outras drogas?",
+   "alternativas": [
+    "A abstinência deve ser o único objetivo, alcançado por internação com afastamento do agente",
+    "A abstinência é irrelevante e deve ser abandonada em qualquer caso",
+    "A abstinência não pode ser o único objetivo; a redução de danos reconhece cada usuário e traça estratégias voltadas para a defesa de sua vida",
+    "A abstinência só deve ser buscada em jovens e adolescentes"
+   ],
+   "certa": 2,
+   "comentario": "O texto critica a lógica da abstinência como objetivo único e propõe a redução de danos como método que defende a vida e respeita as singularidades.",
+   "trecho": "A abstinência não pode ser, então, o único objetivo a ser alcançado",
+   "onde": 10
+  },
+  {
+   "enunciado": "Segundo a Política, qual é o período médio entre o primeiro problema decorrente do uso de álcool e a primeira intervenção voltada para ele, e o que isso causa?",
+   "alternativas": [
+    "1 ano, o que não afeta o prognóstico",
+    "10 anos, o que impede qualquer recuperação",
+    "5 anos, e a demora para iniciar o tratamento e a sua inadequação pioram o prognóstico",
+    "2 anos, o que é considerado ideal pelo SUS"
+   ],
+   "certa": 2,
+   "comentario": "O documento aponta cerca de 5 anos de espera até a primeira intervenção e afirma que a demora e a inadequação do tratamento pioram o prognóstico.",
+   "trecho": "o período médio entre o primeiro problema decorrente do uso de álcool e a primeira intervenção voltada para este problema é de 05 anos",
+   "onde": 17
+  },
+  {
+   "enunciado": "Uma política de redução de danos relacionados ao álcool deve, segundo o documento, propor qual mudança em relação à mídia?",
+   "alternativas": [
+    "Liberar a propaganda de bebidas em horário nobre mediante campanhas educativas",
+    "Proibir a propaganda de bebidas alcoólicas em meios de comunicação de massa, restringindo-a aos locais de venda",
+    "Proibir toda menção ao álcool na imprensa",
+    "Transferir a fiscalização da propaganda para a indústria de bebidas"
+   ],
+   "certa": 1,
+   "comentario": "O texto propõe modificar a legislação para proibir a propaganda de bebidas em meios de massa, como já se faz com o tabaco.",
+   "trecho": "uma política para redução de danos relacionados ao consumo de álcool deve necessariamente propor modificação na legislação na direção da proibição da propaganda de bebidas alcoólicas em meios de comunicação de massa",
+   "onde": 20
+  },
+  {
+   "enunciado": "Como o documento descreve o funcionamento dos CAPSad?",
+   "alternativas": [
+    "Atendimento apenas ambulatorial semanal, com internação obrigatória nos casos graves",
+    "Atendimento diário, nas modalidades intensiva, semi-intensiva e não-intensiva",
+    "Atendimento exclusivamente noturno, em hospitais psiquiátricos",
+    "Atendimento restrito a usuários de drogas injetáveis"
+   ],
+   "certa": 1,
+   "comentario": "Os CAPSad oferecem atendimento diário em três modalidades, permitindo planejamento terapêutico individualizado e intervenções precoces.",
+   "trecho": "devem oferecer atendimento diário, sendo capazes de oferecer atendimento nas modalidades intensiva, semi-intensiva e não-intensiva",
+   "onde": 24
+  },
+  {
+   "enunciado": "Como o documento define os fatores de risco para o uso de álcool e outras drogas?",
+   "alternativas": [
+    "Substâncias presentes no ambiente que causam dependência química direta",
+    "Características ou atributos de um indivíduo, grupo ou ambiente de convívio social que aumentam a probabilidade desse uso",
+    "Apenas traços de personalidade herdados geneticamente",
+    "Leis penais que proíbem o consumo"
+   ],
+   "certa": 1,
+   "comentario": "Fatores de risco são atributos do indivíduo, do grupo ou do ambiente que aumentam a probabilidade do uso; podem estar em vários domínios da vida.",
+   "trecho": "Os fatores de risco para o uso de álcool e outras drogas são características ou atributos de um indivíduo, grupo ou ambiente de convívio social, que contribuem para aumentar a probabilidade da ocorrência deste uso",
+   "onde": 28
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2019/09/AlcooleOutrasDrogas_web-FINAL.pdf": [
+  {
+   "enunciado": "O que é o CREPOP, segundo a Referência Técnica do CFP sobre álcool e outras drogas?",
+   "alternativas": [
+    "Um comitê do Ministério da Saúde que fiscaliza os CAPS",
+    "Uma ferramenta do Sistema Conselhos de Psicologia que produz referenciais técnicos para a atuação da Psicologia nas políticas públicas",
+    "Um programa de residência multiprofissional em saúde mental",
+    "Um serviço do SUAS voltado ao atendimento de usuários de drogas"
+   ],
+   "certa": 1,
+   "comentario": "O CREPOP é o Centro de Referência Técnica em Psicologia e Políticas Públicas, do Sistema Conselhos, que produz referenciais técnicos e mapeia as práticas.",
+   "trecho": "O Centro de Referência Técnica em Psicologia e Políticas Públicas (CREPOP) é uma ferramenta do Sistema Conselhos de Psicologia que tem como objetivo produzir referenciais técnicos",
+   "onde": 12
+  },
+  {
+   "enunciado": "Segundo o Eixo 1 do documento, como se relaciona a proibição da cannabis no Brasil com a história social do país?",
+   "alternativas": [
+    "Seguiu exclusivamente dados epidemiológicos sobre riscos à saúde pública",
+    "Foi uma imposição de tratados internacionais sem qualquer motivação local",
+    "Fez parte da criminalização de hábitos culturais associados aos povos negros que foram escravizados",
+    "Surgiu como resposta à epidemia de crack nos anos 2000"
+   ],
+   "certa": 2,
+   "comentario": "O texto afirma que a proibição da cannabis, já em 1830, criminalizava o hábito do pito do pango associado à população negra escravizada.",
+   "trecho": "a proibição da cannabis fez parte da criminalização dos hábitos culturais associados aos povos negros que foram escravizados",
+   "onde": 29
+  },
+  {
+   "enunciado": "Como o documento diferencia o paradigma da redução de danos do paradigma proibicionista?",
+   "alternativas": [
+    "A redução de danos busca reduzir a oferta de drogas por meios repressivos",
+    "A redução de danos enfrenta, junto com os envolvidos e de modo pragmático, os problemas de saúde, sociais e econômicos do uso, sem avaliações morais",
+    "A redução de danos exige abstinência imediata como condição de acesso ao cuidado",
+    "A redução de danos limita-se à troca de seringas para usuários de drogas injetáveis"
+   ],
+   "certa": 1,
+   "comentario": "O proibicionismo mira reduzir oferta e demanda por ações repressivas; a redução de danos age de modo pragmático e sem prescrições morais.",
+   "trecho": "o paradigma da redução de danos, por sua vez, concentra-se em enfrentar, junto com os principais envolvidos e de modo pragmático, os problemas de saúde, sociais e econômicos",
+   "onde": 31
+  },
+  {
+   "enunciado": "Segundo o Eixo 2, o que caracteriza a lógica da clínica ampliada na atenção a usuários de álcool e outras drogas?",
+   "alternativas": [
+    "Concentrar o atendimento no diagnóstico patológico e no tratamento psiquiátrico",
+    "Deslocar a ênfase da doença para o sujeito concreto, inserido em um contexto histórico e social, ampliando o objeto de saber e de intervenção",
+    "Substituir o trabalho em equipe por atendimento individual do especialista",
+    "Priorizar a internação como primeiro recurso"
+   ],
+   "certa": 1,
+   "comentario": "A clínica ampliada rompe com a visão fragmentada e desloca a ênfase da doença para o sujeito em seu contexto.",
+   "trecho": "Deslocando a ênfase da doença para o sujeito concreto, inserido em um contexto histórico e social, essa clínica amplia o objeto de saber e de intervenção da clínica",
+   "onde": 51
+  },
+  {
+   "enunciado": "No programa De Braços Abertos, de São Paulo, qual é o lugar do tratamento de saúde, segundo o documento?",
+   "alternativas": [
+    "Condição prévia obrigatória para participar do programa",
+    "É oferecido apenas em comunidades terapêuticas conveniadas",
+    "É consequência das etapas anteriores, e não condição prévia para participar",
+    "É proibido, pois o programa trata apenas de moradia"
+   ],
+   "certa": 2,
+   "comentario": "O programa parte do resgate social, com trabalho, alimentação e moradia, e o tratamento de saúde vem depois, sem ser imposto como condição.",
+   "trecho": "O tratamento de saúde é uma consequência das etapas anteriores e não condição prévia imposta para participar do Programa",
+   "onde": 89
+  }
+ ],
+ "https://www.youtube.com/watch?v=jXxlMGRIR2Q": [
+  {
+   "enunciado": "Segundo o professor, qual é a regra de ouro da Lei 10.216/2001 sobre a internação psiquiátrica?",
+   "alternativas": [
+    "A internação deve ser a primeira medida diante de qualquer crise",
+    "A internação só deve ocorrer quando os recursos extra-hospitalares se mostrarem insuficientes",
+    "A internação é indicada sempre que a família solicitar",
+    "A internação deve durar até a cura definitiva, independentemente de laudo"
+   ],
+   "certa": 1,
+   "comentario": "A aula destaca que a Lei 10.216 faz da internação um recurso excepcional, indicado apenas quando o tratamento fora do hospital é insuficiente.",
+   "trecho": "a regra de ouro é que a internação só deve ocorrer quando os recursos extra-hospitalares",
+   "onde": 406
+  },
+  {
+   "enunciado": "Como a aula caracteriza a internação compulsória, diferenciando-a da voluntária e da involuntária?",
+   "alternativas": [
+    "É a que o paciente aceita por vontade própria",
+    "É a pedida pela família com autorização médica",
+    "É a determinada pela justiça, por meio de medida judicial",
+    "É a feita sem prescrição, em situação de emergência"
+   ],
+   "certa": 2,
+   "comentario": "Na compulsória a internação é determinada por um juiz; a voluntária tem consentimento do paciente e a involuntária é pedida por terceiro, com autorização médica.",
+   "trecho": "Na internação compulsória, a gente tem uma internação determinada pela justiça",
+   "onde": 560
+  },
+  {
+   "enunciado": "O que são as residências terapêuticas (SRTs), de acordo com a aula?",
+   "alternativas": [
+    "Enfermarias de hospital psiquiátrico destinadas a internações longas",
+    "Unidades de acolhimento de curta permanência para quem está ameaçado",
+    "Casas inseridas na comunidade para pessoas que ficaram anos internadas e perderam seus vínculos familiares e sociais",
+    "Serviços ambulatoriais que apenas administram medicação injetável"
+   ],
+   "certa": 2,
+   "comentario": "As SRTs são espaços de moradia na comunidade que ajudam na reintegração de pessoas longamente internadas; uma enfermaria não é SRT.",
+   "trecho": "são casas, tá, inseridas na comunidade para pessoas que ficaram anos, de uma forma geral, internadas e perderam ali os seus vínculos familiares e sociais",
+   "onde": 652
+  },
+  {
+   "enunciado": "Qual é o tempo de permanência em uma unidade de acolhimento, segundo a aula?",
+   "alternativas": [
+    "Até uma semana",
+    "Até três meses, cerca de 90 dias",
+    "Até um ano",
+    "Sem prazo determinado, como nos antigos manicômios"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que as unidades de acolhimento são serviços residenciais transitórios, em que a pessoa fica até cerca de 90 dias acompanhada pela equipe.",
+   "trecho": "nas unidades de acolhimento, os indivíduos poderão ficar até três meses",
+   "onde": 743
+  },
+  {
+   "enunciado": "Segundo a aula, quais pacientes devem ser encaminhados ao CAPS, em vez de acompanhados na atenção básica?",
+   "alternativas": [
+    "Todos os pacientes com qualquer transtorno mental",
+    "Somente os pacientes com transtornos leves",
+    "Apenas os pacientes com transtornos graves e persistentes",
+    "Apenas os pacientes em uso de álcool e outras drogas"
+   ],
+   "certa": 2,
+   "comentario": "Transtornos leves e moderados podem ser acompanhados por médico de família e enfermeiro da atenção básica; o CAPS atende os graves e persistentes.",
+   "trecho": "para o CAPS, né, para o Centro de Atenção Psicossocial, ou seja, centros especializados? Só aqueles pacientes com transtornos graves e persistentes",
+   "onde": 1090
+  }
+ ],
+ "https://www.planalto.gov.br/ccivil_03/leis/leis_2001/l10216.htm": [
+  {
+   "enunciado": "Segundo a ementa da Lei nº 10.216/2001, o que a lei dispõe?",
+   "alternativas": [
+    "Sobre a internação compulsória de usuários de drogas e a criação dos CAPS",
+    "Sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental",
+    "Sobre o exercício da profissão de psicólogo e o registro nos conselhos",
+    "Sobre a política nacional sobre drogas e o sistema de justiça criminal"
+   ],
+   "certa": 1,
+   "comentario": "A ementa da lei trata da proteção e dos direitos das pessoas com transtornos mentais e do redirecionamento do modelo assistencial.",
+   "trecho": "direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial"
+  },
+  {
+   "enunciado": "Qual é um dos direitos da pessoa portadora de transtorno mental previstos no parágrafo único do Art. 2º?",
+   "alternativas": [
+    "Ser tratada com humanidade e respeito e no interesse exclusivo de beneficiar sua saúde, visando a recuperação pela inserção na família, no trabalho e na comunidade",
+    "Ser internada obrigatoriamente em instituição asilar para garantir a segurança",
+    "Ser privada de acesso aos meios de comunicação durante o tratamento",
+    "Ter o tratamento definido unicamente pela família, sem informações sobre a doença"
+   ],
+   "certa": 0,
+   "comentario": "O Art. 2º, parágrafo único, II garante tratamento com humanidade e respeito, visando a recuperação pela inserção na família, no trabalho e na comunidade.",
+   "trecho": "II - ser tratada com humanidade e respeito e no interesse exclusivo de beneficiar sua"
+  },
+  {
+   "enunciado": "Conforme o Art. 4º da Lei 10.216/2001, em que situação a internação, em qualquer de suas modalidades, será indicada?",
+   "alternativas": [
+    "Sempre que houver diagnóstico de transtorno mental grave",
+    "Quando a família não puder arcar com o tratamento ambulatorial",
+    "Quando os recursos extra-hospitalares se mostrarem insuficientes",
+    "Quando o paciente se recusar ao tratamento em serviço comunitário"
+   ],
+   "certa": 2,
+   "comentario": "O Art. 4º estabelece que a internação é recurso excepcional, só indicada quando os recursos extra-hospitalares são insuficientes.",
+   "trecho": "indicada quando os recursos extra-hospitalares se mostrarem insuficientes."
+  },
+  {
+   "enunciado": "Entre os direitos da pessoa portadora de transtorno mental no Art. 2º, qual se refere à hospitalização involuntária?",
+   "alternativas": [
+    "Ter direito à presença médica, em qualquer tempo, para esclarecer a necessidade ou não de sua hospitalização involuntária",
+    "Ter direito a escolher o hospital psiquiátrico onde será internada",
+    "Ter direito a recusar qualquer avaliação médica durante a internação",
+    "Ter direito a que a internação dure no mínimo seis meses"
+   ],
+   "certa": 0,
+   "comentario": "O Art. 2º, parágrafo único, V assegura a presença médica a qualquer tempo para esclarecer se a hospitalização involuntária é necessária.",
+   "trecho": "em qualquer tempo, para esclarecer a necessidade ou"
+  },
+  {
+   "enunciado": "O que a Lei 10.216/2001 exige para a realização de pesquisas científicas com fins diagnósticos ou terapêuticos em pacientes?",
+   "alternativas": [
+    "Autorização do diretor do hospital, sem necessidade de consentimento do paciente",
+    "Consentimento expresso do paciente ou de seu representante legal, com comunicação aos conselhos profissionais competentes e ao Conselho Nacional de Saúde",
+    "Apenas o consentimento dos familiares, quando o paciente estiver internado",
+    "Apenas aprovação do Ministério Público Estadual"
+   ],
+   "certa": 1,
+   "comentario": "O Art. 11 veda pesquisas sem consentimento expresso do paciente ou do representante legal e sem comunicação aos conselhos competentes e ao CNS.",
+   "trecho": "realizadas sem o consentimento expresso do paciente, ou de seu representante legal, e sem"
+  }
+ ],
+ "https://www.unifateb.edu.br/wp-content/uploads/2023/03/07-Reforma-psiquiatrica-e-Politica-de-Saude-Mental-no-Brasil.pdf": [
+  {
+   "enunciado": "Segundo o texto, qual ano costuma ser identificado como o início efetivo do movimento social pelos direitos dos pacientes psiquiátricos no Brasil, ano em que surgiu o Movimento dos Trabalhadores em Saúde Mental (MTSM)?",
+   "alternativas": [
+    "1964",
+    "1978",
+    "1988",
+    "2001"
+   ],
+   "certa": 1,
+   "comentario": "O texto situa em 1978 o início efetivo do movimento, com o surgimento do MTSM, que denunciou a violência dos manicômios e o modelo hospitalocêntrico.",
+   "trecho": "O ano de 1978 costuma ser identificado como o de início efetivo do movimento social pelos direitos dos pacientes psiquiátricos em nosso país",
+   "onde": 8
+  },
+  {
+   "enunciado": "Qual limitação do texto final da Lei 10.216/2001 é apontada pelo documento, em relação ao projeto original de Paulo Delgado?",
+   "alternativas": [
+    "A lei não garantiu direitos às pessoas com transtornos mentais",
+    "A lei proibiu os serviços de base comunitária",
+    "A lei não instituiu mecanismos claros para a progressiva extinção dos manicômios",
+    "A lei criou os CAPS, mas sem previsão de financiamento"
+   ],
+   "certa": 2,
+   "comentario": "A lei sancionada, um substitutivo, privilegia serviços de base comunitária e dispõe sobre direitos, mas não institui mecanismos claros para extinguir os manicômios.",
+   "trecho": "dispõe sobre a proteção e os direitos das pessoas com transtornos mentais, mas não institui mecanismos claros para a progressiva extinção dos manicômios",
+   "onde": 9
+  },
+  {
+   "enunciado": "Ao final de 2004, qual era a proporção aproximada dos recursos do Ministério da Saúde para a saúde mental ainda gastos com hospitais psiquiátricos, segundo o texto?",
+   "alternativas": [
+    "Cerca de 93%",
+    "Cerca de 20%",
+    "Cerca de 36%",
+    "Cerca de 64%"
+   ],
+   "certa": 3,
+   "comentario": "O texto informa que, ao final de 2004, os hospitais psiquiátricos representavam cerca de 64% dos recursos, queda em relação aos 93% de 1997.",
+   "trecho": "ao final de 2004, os recursos gastos com os hospitais psiquiátricos passam a representar cerca de 64% do total dos recursos do Ministério da Saúde",
+   "onde": 10
+  },
+  {
+   "enunciado": "Qual dificuldade o Programa De Volta para Casa enfrenta na cadastração de seus potenciais beneficiários, egressos de longas internações?",
+   "alternativas": [
+    "Falta de interesse dos municípios em aderir",
+    "A exigência de comprovar renda superior a um salário mínimo",
+    "A maioria não possui a documentação pessoal mínima para o cadastramento",
+    "A recusa dos hospitais em liberar os pacientes"
+   ],
+   "certa": 2,
+   "comentario": "Muitos egressos sequer têm certidão de nascimento ou identidade, o que levou aos mutirões da cidadania para a identificação tardia.",
+   "trecho": "A grande maioria dos potenciais beneficiários, sendo egressos de longas internações em hospitais psiquiátricos, não possuem a documentação pessoal mínima para o cadastramento no Programa",
+   "onde": 19
+  },
+  {
+   "enunciado": "O que o texto aponta como problema na implantação dos serviços CAPS III?",
+   "alternativas": [
+    "A lenta implantação, pois funcionam 24 horas, realizam internações de curtíssima duração e ainda não existem em todos os municípios acima de 200.000 habitantes",
+    "São caros demais para os municípios com menos de 20 mil habitantes",
+    "Foram extintos pela III Conferência Nacional de Saúde Mental",
+    "Funcionam apenas durante o dia e não fazem acolhimento de crises"
+   ],
+   "certa": 0,
+   "comentario": "O CAPS III funciona 24 horas e faz internações de curtíssima duração, e sua implantação ainda é lenta nos municípios maiores.",
+   "trecho": "a lenta implantação dos serviços CAPS III, que funcionam 24 horas e realizam internações de curtíssima duração",
+   "onde": 25
+  }
+ ],
+ "https://seer.ufrgs.br/index.php/hcpa/article/view/125095": [
+  {
+   "enunciado": "Segundo o modelo de Beck para a psicoterapia cognitiva da depressão, como surgem as cognições negativas do paciente deprimido?",
+   "alternativas": [
+    "Da ativação de crenças disfuncionais subjacentes, aprendidas, construídas e mantidas de forma inconsciente desde a infância",
+    "De déficits nas habilidades sociais, que impedem o acesso a reforços positivos",
+    "De conflitos interpessoais atuais, especialmente ligados a luto e disputas de papéis",
+    "De fatores exclusivamente biológicos, sem relação com a aprendizagem"
+   ],
+   "certa": 0,
+   "comentario": "O artigo explica que as cognições negativas decorrem de crenças disfuncionais aprendidas desde a infância, alvo da terapia cognitiva.",
+   "trecho": "As cognições negativas surgiriam da ativação de crenças disfuncionais subjacentes, aprendidas, construídas e mantidas, de forma inconsciente, desde a infância",
+   "onde": 2
+  },
+  {
+   "enunciado": "Nas sessões iniciais da psicoterapia interpessoal (TIP), qual é a finalidade de atribuir ao paciente o papel de doente?",
+   "alternativas": [
+    "Confirmar que a depressão tem causa exclusivamente biológica",
+    "Aliviar o paciente de obrigações sociais usuais, percebidas como acima de suas capacidades, evitando que se sinta mais culpado",
+    "Justificar o abandono definitivo do trabalho e das relações",
+    "Dispensar a necessidade de qualquer tratamento medicamentoso"
+   ],
+   "certa": 1,
+   "comentario": "O papel de doente alivia obrigações sociais percebidas como excessivas durante o episódio e reduz a culpa do paciente.",
+   "trecho": "A atribuição do papel de doente visa a aliviar o paciente de obrigações sociais usuais, percebidas como acima de suas capacidades durante o episódio depressivo",
+   "onde": 3
+  },
+  {
+   "enunciado": "Na TIP, em caso de luto, qual é a função do terapeuta nas sessões intermediárias?",
+   "alternativas": [
+    "Interpretar a transferência e a raiva pelo término da terapia",
+    "Treinar habilidades sociais por meio de planejamento de atividades",
+    "Facilitar a expressão dos sentimentos associados e auxiliar o paciente a encontrar, gradualmente, novas atividades e relacionamentos",
+    "Desafiar crenças disfuncionais mais arraigadas sobre si e o futuro"
+   ],
+   "certa": 2,
+   "comentario": "No luto, o terapeuta facilita a expressão dos sentimentos e ajuda a elaborar a perda com novas atividades e relações.",
+   "trecho": "a função do terapeuta é facilitar a expressão dos sentimentos associados e auxiliar o paciente a encontrar, gradualmente, novas atividades e relacionamentos",
+   "onde": 4
+  },
+  {
+   "enunciado": "No estudo do NIMH, quando a análise considerou a amostra total de pacientes, sem levar em conta a gravidade inicial, qual foi o achado entre as psicoterapias?",
+   "alternativas": [
+    "A terapia interpessoal foi muito superior à cognitivo-comportamental",
+    "O placebo mais manejo clínico teve o melhor resultado",
+    "A terapia cognitivo-comportamental foi superior ao placebo mais manejo clínico",
+    "Não houve evidência de maior efetividade de uma psicoterapia sobre a outra"
+   ],
+   "certa": 3,
+   "comentario": "Na amostra total, não houve diferença entre as psicoterapias, nem do tratamento padrão sobre elas; as diferenças surgiram nos casos mais graves.",
+   "trecho": "Quando a análise foi realizada com a amostra total de pacientes, sem levar em consideração a gravidade inicial da doença, não houve evidência de maior efetividade de uma das psicoterapias sobre a outra",
+   "onde": 5
+  },
+  {
+   "enunciado": "Que aplicação clínica o artigo destaca para a TIP de manutenção (TIP-M) em mulheres grávidas com depressão recorrente?",
+   "alternativas": [
+    "Deve ser evitada, por risco ao feto",
+    "Só é indicada se combinada à imipramina",
+    "Pode ser usada como tratamento de manutenção durante toda a gravidez e o aleitamento, sem necessidade de medicação",
+    "Só deve ser iniciada após o parto"
+   ],
+   "certa": 2,
+   "comentario": "O estudo de Frank e colaboradores mostrou que sessões mensais de TIP aumentaram o tempo sem recorrência, o que permite evitar medicação na gestação.",
+   "trecho": "TIP-M pode ser utilizada como tratamento de manutenção durante toda a gravidez e período de aleitamento sem necessidade de uso de medicação",
+   "onde": 7
+  }
+ ],
+ "https://www.redalyc.org/pdf/261/26110303.pdf": [
+  {
+   "enunciado": "Qual foi a contribuição de Eysenck, em 1952, para a discussão sobre eficácia psicoterapêutica, segundo o artigo?",
+   "alternativas": [
+    "Demonstrou, por meta-análise, que todas as escolas de psicoterapia são igualmente eficazes",
+    "Deu início às discussões sobre a validade dos métodos terapêuticos, propondo um método comparativo experimental para testar a eficácia",
+    "Criou a lista de terapias empiricamente validadas da APA",
+    "Propôs que a psicoterapia deveria ser avaliada apenas por estudos de caso"
+   ],
+   "certa": 1,
+   "comentario": "Eysenck iniciou o debate com um método comparativo; apesar das críticas, seu estudo pioneiro impulsionou o desenvolvimento de metodologias de pesquisa de eficácia.",
+   "trecho": "Eysenck, em 1952, deu início às discussões sobre a validade dos métodos terapêuticos, propondo o uso de um método comparativo experimental para um teste de eficácia",
+   "onde": 3
+  },
+  {
+   "enunciado": "O que o estudo de Luborsky, Singer e Luborsky (1975) evidenciou, resultado que ficou conhecido como veredicto Dodô?",
+   "alternativas": [
+    "Que a psicanálise era superior a todas as outras abordagens",
+    "Que a terapia de longa duração sempre superava a terapia breve",
+    "Que várias formas de terapia eram efetivas, mas não muito diferentes entre si",
+    "Que nenhuma forma de psicoterapia era mais eficaz que a ausência de tratamento"
+   ],
+   "certa": 2,
+   "comentario": "O veredicto Dodô, referência a Alice no país das maravilhas, expressa que todas ganharam: as terapias eram efetivas e semelhantes entre si.",
+   "trecho": "Através desta técnica, evidenciou-se que várias formas de terapia eram efetivas, mas não muito diferentes entre si",
+   "onde": 4
+  },
+  {
+   "enunciado": "Na meta-análise de Smith, Glass e Miller (1980), o que se concluiu ao comparar terapias de diferentes orientações teóricas?",
+   "alternativas": [
+    "A psicanálise teve melhora superior às demais",
+    "A terapia comportamental superou todas as outras em qualquer tipo de cliente",
+    "Não houve grau diferenciado de melhora entre as terapias de distintas orientações teóricas",
+    "A terapia centrada no cliente foi a única com resultados positivos"
+   ],
+   "certa": 2,
+   "comentario": "A meta-análise encontrou resultado positivo geral e nenhuma diferença de melhora entre psicanálise, comportamental, cognitivista e centrada no cliente.",
+   "trecho": "Não houve grau diferenciado de melhora quando se compararam terapias de distintas orientações teóricas, como psicanálise, comportamental, cognitivista, centrada no cliente",
+   "onde": 5
+  },
+  {
+   "enunciado": "Sobre os possíveis efeitos adversos da terapia de família e de casal, o que concluíram Pinsof e Wynne ao revisar os estudos?",
+   "alternativas": [
+    "Os efeitos adversos eram frequentes em casos de depressão",
+    "Não se encontrou nenhum estudo que demonstrasse efeitos adversos da terapia de família e de casal",
+    "Os efeitos adversos eram maiores que os da terapia individual",
+    "Os estudos não permitiram nenhuma conclusão sobre eficácia"
+   ],
+   "certa": 1,
+   "comentario": "Entre as conclusões de Pinsof e Wynne está a ausência de estudos que demonstrassem efeitos adversos, além de resultados melhores que o tratamento individual para várias condições.",
+   "trecho": "Não se encontrou nenhum estudo que demonstrasse efeitos adversos da terapia de família e de casal",
+   "onde": 6
+  },
+  {
+   "enunciado": "O que propõe a teoria dos fatores comuns na explicação da eficácia das psicoterapias?",
+   "alternativas": [
+    "Que apenas as técnicas específicas de cada escola explicam a mudança",
+    "Que fatores inespecíficos, comuns às diversas formas de terapia, emprestam de fato sua eficácia a elas",
+    "Que a eficácia depende exclusivamente do uso de manuais",
+    "Que a eficácia só pode ser medida por métodos quantitativos"
+   ],
+   "certa": 1,
+   "comentario": "A homogeneidade de resultados levou à teoria dos fatores comuns, como a boa relação terapeuta-cliente, aceitação e apoio e oportunidade de expressar emoções.",
+   "trecho": "levaram à elaboração da chamada teoria dos fatores comuns que emprestariam de fato sua eficácia às diversas formas de terapia",
+   "onde": 7
+  }
+ ],
+ "https://www.youtube.com/watch?v=kESXXd111h4": [
+  {
+   "enunciado": "Segundo a aula sobre A dinâmica da transferência (Freud, 1912), como Freud explica a origem da transferência?",
+   "alternativas": [
+    "Resulta exclusivamente de experiências vividas na vida adulta",
+    "É criada pelo analista por meio da técnica de sugestão",
+    "Ocorre pela ação combinada de uma disposição inata e de influências vivenciadas na infância",
+    "É um fenômeno que só aparece em pacientes neuróticos em análise"
+   ],
+   "certa": 2,
+   "comentario": "A aula explica que a combinação entre a disposição inata (constitutiva) e as influências da infância determina o modo característico de conduzir a vida amorosa.",
+   "trecho": "Isso ocorre por meio da ação combinada de uma disposição inata, ou seja, é uma questão constitutiva do sujeito",
+   "onde": 247
+  },
+  {
+   "enunciado": "O que Freud chama de clichê (estereótipo) na dinâmica da transferência, segundo a aula?",
+   "alternativas": [
+    "Um modelo repetido regularmente ao longo da vida do sujeito, enquanto fatores externos e a natureza dos objetos de amor o permitem",
+    "Uma técnica do analista para provocar a transferência",
+    "Uma frase repetida pelo paciente durante a associação livre",
+    "Uma defesa que desaparece quando o paciente é informado do que fez"
+   ],
+   "certa": 0,
+   "comentario": "O clichê é o estereótipo, formado por disposição inata e infância, que se repete na vida amorosa; por isso a pessoa repete padrões, como sempre ser traída.",
+   "trecho": "E isto resulta em um clichê, isto é, em um estereótipo que é repetido regularmente ao longo da vida do sujeito",
+   "onde": 525
+  },
+  {
+   "enunciado": "Para onde se volta o investimento libidinal parcialmente insatisfeito, segundo a aula?",
+   "alternativas": [
+    "Para o próprio paciente, em forma de narcisismo",
+    "Para a figura do analista, que ocupa um dos modelos (imagos) formados pelo paciente",
+    "Exclusivamente para os familiares do paciente",
+    "Para o consultório, como espaço de segurança"
+   ],
+   "certa": 1,
+   "comentario": "Como o investimento libidinal é sempre parcialmente insatisfeito, ele se dirige ao analista, incluído num dos modelos formados na infância (imago paterna, materna, fraterna etc.).",
+   "trecho": "Este investimento libidinal, misturado com o consciente com o inconsciente, como está parcialmente insatisfeito e sempre Será, vira-se em direção à figura",
+   "onde": 1023
+  },
+  {
+   "enunciado": "Qual é o segundo ponto de difícil explicação que Freud apresenta sobre a transferência na análise?",
+   "alternativas": [
+    "Que a transferência na análise surge como a forma mais forte de resistência",
+    "Que a transferência só aparece em indivíduos psicóticos",
+    "Que a transferência desaparece quando o paciente se cala",
+    "Que a transferência é sempre positiva e erótica"
+   ],
+   "certa": 0,
+   "comentario": "Os dois pontos são: a transferência seria mais intensa em neuróticos em análise; e ela se apresenta como a forma mais forte de resistência ao tratamento.",
+   "trecho": "que na análise a transferência é Apresenta-se como uma forma mais forte de resistência",
+   "onde": 1360
+  },
+  {
+   "enunciado": "Durante a associação livre, o paciente interrompe a fala e passa a pensar no analista (por exemplo, achar que ele desaprova o que é dito). Como a aula interpreta isso?",
+   "alternativas": [
+    "Como sinal de que a associação livre foi concluída com sucesso",
+    "Como um problema de transferência e uma resistência, que o analista deve esclarecer ao analisando",
+    "Como falta de preparo do paciente para a análise",
+    "Como evidência de que o analista errou na técnica"
+   ],
+   "certa": 1,
+   "comentario": "Para Freud, a interrupção substituída por um pensamento sobre o analista é resistência de transferência; esclarecê-la permite retomar a associação livre.",
+   "trecho": "é um pensamento a respeito de analista. Isso, na realidade, é um problema de transferência e é um resistência",
+   "onde": 1481
+  }
+ ],
+ "https://omnia.fai.com.br/omniasaude/article/download/381/pdf/1273": [
+  {
+   "enunciado": "Segundo o artigo, o que Freud denominou repetição ao observar o comportamento dos pacientes no início da análise?",
+   "alternativas": [
+    "A recordação voluntária de lembranças infantis durante a associação livre",
+    "Reproduções, como ações e sem que o paciente perceba, de sentimentos e experiências vividos no passado, em vez de recordá-los",
+    "A insistência do analista em reinterpretar o mesmo sonho",
+    "A decisão do paciente de repetir o tratamento com outro analista"
+   ],
+   "certa": 1,
+   "comentario": "Em vez de recordar o reprimido, o paciente o atua, reproduzindo sentimentos e experiências passadas; Freud chamou isso de repetição.",
+   "trecho": "Denominou-os repetições, por consistirem em reproduções de sentimentos e experiências vivenciados pelo paciente em sua vida psíquica no passado",
+   "onde": 4
+  },
+  {
+   "enunciado": "Como o artigo define a transferência positiva, segundo Freud?",
+   "alternativas": [
+    "A transferência marcada por sentimentos amistosos, que auxilia o paciente a se empenhar no tratamento",
+    "A transferência erotizada, que serve à resistência",
+    "A transferência hostil dirigida ao analista",
+    "A transferência que ocorre apenas fora do setting analítico"
+   ],
+   "certa": 0,
+   "comentario": "A transferência positiva é amistosa e favorece o progresso terapêutico; a hostil ou erotizada, quando intensa, tende a servir à resistência.",
+   "trecho": "Freud denominou por transferência positiva aquela marcada por sentimentos amistosos, que auxiliaria o paciente a empenhar-se no tratamento",
+   "onde": 5
+  },
+  {
+   "enunciado": "Segundo Racker, citado no artigo, qual pode ser a vantagem da transferência negativa identificável?",
+   "alternativas": [
+    "Ela dispensa a necessidade de interpretação do analista",
+    "Ela garante que o paciente abandone a análise rapidamente",
+    "Ela torna a transferência positiva desnecessária",
+    "Ela possibilita que sentimentos hostis sejam trazidos à consciência e trabalhados em análise"
+   ],
+   "certa": 3,
+   "comentario": "Racker se opõe em parte a Freud ao afirmar que a transferência negativa, quando identificável, é vantajosa por permitir trabalhar a hostilidade.",
+   "trecho": "a transferência negativa, quando identificável, pode ser vantajosa ao tratamento ao passo em que possibilita que sentimentos hostis sejam trazidos à consciência e trabalhados em análise",
+   "onde": 5
+  },
+  {
+   "enunciado": "Segundo Bocca e Perez, citados no artigo, como pode ser entendido o surgimento da repetição na análise por meio da transferência?",
+   "alternativas": [
+    "Como um fracasso da técnica, que deve ser eliminado",
+    "Como um fator imanente ao tratamento, que dá ao paciente uma segunda oportunidade de vivenciar o conflito que originou o sintoma",
+    "Como prova de que o paciente não deseja se curar",
+    "Como um fenômeno que só ocorre na transferência negativa"
+   ],
+   "certa": 1,
+   "comentario": "Para os autores, a repetição é mais que um complicador: permite viver de novo o conflito de origem do sintoma, transformando-o em lembrança.",
+   "trecho": "o surgimento da repetição na análise por meio da transferência pode ser tomada, para além de um elemento complicador, como um fator imanente ao tratamento",
+   "onde": 6
+  },
+  {
+   "enunciado": "Que relação entre transferência e resistência o artigo destaca ao final, a partir de Freud?",
+   "alternativas": [
+    "A transferência nunca tem relação com a resistência",
+    "A transferência é sempre posterior à resistência e independente dela",
+    "Além de servir à resistência, a própria transferência muitas vezes deriva primeiramente da resistência",
+    "A resistência só aparece quando a transferência é positiva"
+   ],
+   "certa": 2,
+   "comentario": "Conteúdos inconscientes são transferidos ao analista justamente para proteger-se do trabalho analítico, de modo que a transferência pode derivar da resistência.",
+   "trecho": "além de servir à resistência, pode-se considerar que a própria ocorrência da transferência muitas vezes deriva primeiramente da resistência",
+   "onde": 7
+  }
+ ],
+ "https://www.redalyc.org/pdf/2820/282021763014.pdf": [
+  {
+   "enunciado": "Segundo Pisetta, em que consistem os dois momentos da teoria da angústia em Freud?",
+   "alternativas": [
+    "Primeiro, a angústia é causa do recalque; depois, passa a ser vista como produto dele",
+    "Em 1926 Freud abandona o conceito de angústia em favor do de pulsão de morte",
+    "Em ambos os momentos a angústia é produto do recalque, mudando apenas o tipo de afeto envolvido",
+    "Em 1916-1917, a angústia é um afeto posterior e produto do recalque; a partir de 1926, é um afeto anterior e causador do recalque"
+   ],
+   "certa": 3,
+   "comentario": "O artigo situa a primeira teoria em 1916-1917 (angústia como produto do recalque) e a segunda a partir de 1926 (angústia como anterior e causadora do recalque).",
+   "trecho": "e, num segundo momento, a partir de 1926, quando ela é considerada um afeto anterior e causador do recalque",
+   "onde": 3
+  },
+  {
+   "enunciado": "Qual situação Freud toma como protótipo das sensações físicas da angústia, segundo o artigo?",
+   "alternativas": [
+    "A castração",
+    "A cena primária",
+    "O trauma do nascimento",
+    "A perda do objeto de amor na idade adulta"
+   ],
+   "certa": 2,
+   "comentario": "Os estados de angústia seriam reprodução do trauma do nascimento, protótipo da descarga motora associada à angústia.",
+   "trecho": "O protótipo de situação onde isso ocorreria seria o trauma do nascimento, como veremos adiante",
+   "onde": 5
+  },
+  {
+   "enunciado": "Na primeira teoria, como a angústia se relaciona com o recalque?",
+   "alternativas": [
+    "É vista como produto do recalque, amostra de que houve uma luta concluída pelo recalque para evitar uma moção inaceitável",
+    "É a causa que põe o recalque em movimento",
+    "É um afeto inconsciente que independe do eu",
+    "É a substituta da pulsão que nunca é recalcada"
+   ],
+   "certa": 0,
+   "comentario": "Na primeira tópica, a angústia é posterior: é o afeto trocado, sinal de que o recalque ocorreu.",
+   "trecho": "Em um primeiro momento, a angústia é vista como produto deste, como uma amostra de que ali houve uma luta incessante, concluída pelo recalque",
+   "onde": 6
+  },
+  {
+   "enunciado": "Em Inibições, Sintomas e Ansiedade (1926), qual reformulação Freud faz sobre a relação entre ansiedade e repressão?",
+   "alternativas": [
+    "A repressão produz a ansiedade, como ele sempre afirmou",
+    "Foi a ansiedade que produziu a repressão, e não a repressão que produziu a ansiedade",
+    "Ansiedade e repressão são fenômenos independentes",
+    "A ansiedade só aparece depois da formação do sintoma fóbico"
+   ],
+   "certa": 1,
+   "comentario": "Com a análise da fobia, Freud inverte sua posição: a atitude de ansiedade do ego é primária e põe em movimento a repressão.",
+   "trecho": "Foi a ansiedade que produziu a repressão e não, como eu anteriormente acreditava, a repressão que produziu a ansiedade",
+   "onde": 8
+  },
+  {
+   "enunciado": "Segundo o artigo, o que é evitado na formação dos sintomas, de acordo com a segunda teoria freudiana?",
+   "alternativas": [
+    "A própria angústia",
+    "A lembrança do trauma do nascimento",
+    "A situação de perigo (a castração) a que a angústia remete",
+    "O desejo de satisfação pulsional em si"
+   ],
+   "certa": 2,
+   "comentario": "Os sintomas se criam para evitar a situação de perigo sinalizada pela angústia (a castração), e não a angústia em si.",
+   "trecho": "Esse trecho destaca que não é a angústia o que é evitado na formação dos sintomas, mas o perigo ao qual ela remete",
+   "onde": 9
+  }
+ ],
+ "https://www.youtube.com/watch?v=oHsInJ9BpXM": [
+  {
+   "enunciado": "Segundo a aula, como a pessoa responde ao evento traumático (perda) no luto, em comparação com a melancolia?",
+   "alternativas": [
+    "O luto e a melancolia têm sempre a mesma resposta, mudando só a intensidade",
+    "No luto, responde de forma mais grave, com risco de suicídio; na melancolia, de forma natural",
+    "No luto, responde de forma mais saudável e natural, algo cotidiano para Freud; na melancolia, o quadro é mais complexo e enigmático",
+    "O luto só ocorre quando a perda é uma morte, e a melancolia quando é outro tipo de perda"
+   ],
+   "certa": 2,
+   "comentario": "A aula diz que ambos partem de um evento traumático, mas o luto é resposta mais saudável e cotidiana, enquanto a melancolia é mais complexa e enigmática.",
+   "trecho": "no luto a pessoa responde de uma forma mais saudável né um aspecto mais natural que Freud entendia que era algo mais cotidiano",
+   "onde": 135
+  },
+  {
+   "enunciado": "Como a aula descreve a estrutura do melancólico em relação ao objeto perdido?",
+   "alternativas": [
+    "O melancólico consegue redirecionar rapidamente a libido para outro objeto",
+    "O melancólico atribui a perda a fatores externos e não sofre",
+    "O melancólico nega que tenha havido qualquer perda",
+    "O melancólico se identifica com o objeto, como se ela e o objeto fossem a mesma coisa, e por isso se perde junto com ele"
+   ],
+   "certa": 3,
+   "comentario": "Na melancolia há identificação com o objeto: ao perdê-lo, a pessoa se perde junto, com forte queda da autoestima.",
+   "trecho": "porque ou a estrutura do melancólico é aquela pessoa que ela se identifica com o objeto como ela e objeto fosse a mesma coisa",
+   "onde": 381
+  },
+  {
+   "enunciado": "Qual é a diferença central entre luto e melancolia apontada na aula quanto ao que se perde?",
+   "alternativas": [
+    "No luto, a pessoa perde a si mesma; na melancolia, o mundo externo fica sem graça",
+    "No luto, perde-se apenas a autoestima; na melancolia, apenas o interesse pelo trabalho",
+    "No luto, é o mundo externo que fica difícil e sem graça; na melancolia, é a própria pessoa que se perde",
+    "Não há diferença quanto ao que se perde, apenas quanto à duração"
+   ],
+   "certa": 2,
+   "comentario": "No luto o mundo fica pobre e vazio; na melancolia o mundo interno se perde, pois a pessoa sofre a perda dela mesma.",
+   "trecho": "no luto é o mundo que fica difícil de viver o mundo perde a graça o ao redor na melancolia é a própria pessoa",
+   "onde": 506
+  },
+  {
+   "enunciado": "Como Freud denominava as estruturas melancólicas em 1915, segundo a aula?",
+   "alternativas": [
+    "Neuroses narcísicas, em oposição às neuroses de transferência",
+    "Neuroses de transferência",
+    "Psicoses maníacas",
+    "Perversões"
+   ],
+   "certa": 0,
+   "comentario": "A aula explica que, em 1915, Freud falava em neurose narcísica para a melancolia, e em neuroses de transferência para as demais; depois a melancolia passou à estrutura psicótica.",
+   "trecho": "ele chamava as estruturas melancólicas de neurótico de neurose narcísica e as outras neuroses e neuroses de transferência",
+   "onde": 538
+  },
+  {
+   "enunciado": "Segundo a aula, em que estrutura clínica ocorrem o luto e a melancolia, respectivamente?",
+   "alternativas": [
+    "O luto ocorre na psicose e a melancolia na neurose",
+    "O luto ocorre na neurose e a melancolia na psicose",
+    "Ambos ocorrem apenas na neurose",
+    "Ambos ocorrem apenas na psicose"
+   ],
+   "certa": 1,
+   "comentario": "O luto ocorre na neurose, em que a fantasia freia o Real; a melancolia na psicose, o que explica o alto risco de suicídio.",
+   "trecho": "então são duas diferença soluto ocorre ocorre na neurose EA melancolia ocorre na Psicose",
+   "onde": 598
+  }
+ ],
+ "https://www.youtube.com/watch?v=nAqQYSzGPng": [
+  {
+   "enunciado": "Por que Freud acabou abandonando a psicoterapia breve, segundo a aula?",
+   "alternativas": [
+    "Porque os pacientes não aceitavam sessões de curta duração",
+    "Porque, ao demorar um pouco mais com o paciente, surgiam outros traumas e neuroses, às vezes piores que a demanda manifesta",
+    "Porque a técnica rápida era considerada antiética",
+    "Porque Ferenczi provou que a técnica era ineficaz"
+   ],
+   "certa": 1,
+   "comentario": "Freud resolvia a demanda e liberava o paciente, mas notou que ficavam ocultos outros transtornos; por isso preferiu tratar a psique como um todo.",
+   "trecho": "Quando ele demorava um pouco mais com este paciente, outros traumas, outras neuroses surgiam e em alguns casos estavam ocultos traumas piores",
+   "onde": 160
+  },
+  {
+   "enunciado": "Qual é, segundo a aula, a principal diferença das ferramentas da psicoterapia breve em relação à psicanálise tradicional quanto ao foco temporal?",
+   "alternativas": [
+    "Dão maior importância aos fatos da vida atual do paciente do que às experiências infantis",
+    "Dão maior importância à infância, investigando-a em todas as sessões",
+    "Ignoram completamente o inconsciente e o trauma",
+    "Trabalham apenas com o passado recente de até um ano"
+   ],
+   "certa": 0,
+   "comentario": "Já nos precursores da psicoterapia breve, enfatizou-se a vida atual em comparação com a infância, antecipando a abordagem cognitiva.",
+   "trecho": "talvez a principal diferença destas ferramentas para a psicanálise tradicional deram maior importância aos fatos da",
+   "onde": 442
+  },
+  {
+   "enunciado": "Quais dois fatores a aula destaca como fundamentais quando se usam ferramentas da psicoterapia breve?",
+   "alternativas": [
+    "Estabelecimento de uma data para o término e motivação do paciente",
+    "Duração indeterminada e escuta silenciosa",
+    "Análise de sonhos e livre associação durante anos",
+    "Hipnose e sugestão sem participação do paciente"
+   ],
+   "certa": 0,
+   "comentario": "A aula cita a data de término (meta) e o nível de motivação do paciente como relevantes para o sucesso do tratamento.",
+   "trecho": "Propuseram ainda o estabelecimento de uma data para o término do tratamento e se referiram à importância do nível de motivação do paciente como fator de fundamental relevância",
+   "onde": 718
+  },
+  {
+   "enunciado": "Qual conceito, introduzido por Alexander e French em 1946, é apontado como fundamental para a técnica atual de psicoterapia breve?",
+   "alternativas": [
+    "Experiência emocional corretiva",
+    "Associação livre",
+    "Complexo de Édipo",
+    "Resistência de transferência"
+   ],
+   "certa": 0,
+   "comentario": "Alexander e French propuseram a experiência emocional corretiva, um trabalho corretivo em relação às emoções, base da psicoterapia breve atual.",
+   "trecho": "Em 1946, Franz Alexander e French introduziram ainda no campo da psicanálise um conceito de experiência emocional",
+   "onde": 841
+  },
+  {
+   "enunciado": "Como a aula compara o papel do terapeuta na psicoterapia breve e na psicanálise tradicional?",
+   "alternativas": [
+    "Na psicoterapia breve o terapeuta só escuta; na psicanálise, fala e instrui",
+    "Em ambas o terapeuta apenas escuta e conduz",
+    "Na psicoterapia breve o terapeuta fala mais, interage mais e instrui mais, como um mentor; na psicanálise a principal ferramenta é a escuta",
+    "Em ambas o terapeuta atua como mentor, instruindo o paciente"
+   ],
+   "certa": 2,
+   "comentario": "Na psicanálise a escuta investiga o inconsciente; na psicoterapia breve o terapeuta é mais proativo.",
+   "trecho": "Dentro da psicoterapia breve, o terapeuta fala mais, interage mais, instrui mais",
+   "onde": 1122
+  }
+ ],
+ "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484": [
+  {
+   "enunciado": "Segundo o artigo, o que orienta toda a teoria da psicoterapia breve e é condição essencial de sua eficácia?",
+   "alternativas": [
+    "A regressão do paciente à infância",
+    "O foco, por isso a técnica é muitas vezes chamada de psicoterapia focal",
+    "A neurose de transferência plenamente desenvolvida",
+    "A duração indeterminada e a livre associação"
+   ],
+   "certa": 1,
+   "comentario": "O foco, ligado ao conflito ou situação atual do paciente, é o orientador de toda a teoria da psicoterapia breve.",
+   "trecho": "O foco aparece, então, como orientador de toda teoria e condição essencial de eficácia em psicoterapia breve, muitas vezes chamada de psicoterapia focal",
+   "onde": 4
+  },
+  {
+   "enunciado": "Quais princípios, segundo o artigo, norteiam todas as formas de psicoterapia breve?",
+   "alternativas": [
+    "Regressão e neurose transferencial",
+    "Foco e temporalidade",
+    "Insight e catarse",
+    "Flexibilidade e abstinência"
+   ],
+   "certa": 1,
+   "comentario": "Foco e temporalidade (prazo previamente fixado) são os princípios comuns a todas as formas; os demais variam conforme a abordagem teórica.",
+   "trecho": "Esses princípios, a dizer foco e temporalidade, norteiam todas as formas de psicoterapia breve",
+   "onde": 5
+  },
+  {
+   "enunciado": "Como Braier define insight na psicoterapia dinâmica breve?",
+   "alternativas": [
+    "A aquisição do conhecimento da própria realidade psíquica",
+    "A regressão controlada a um momento da infância",
+    "A eliminação rápida do sintoma sem compreensão",
+    "O vínculo de confiança com o terapeuta"
+   ],
+   "certa": 0,
+   "comentario": "Para Braier, o principal propósito da terapia dinâmica breve é propiciar insight, voltado às relações atuais do sujeito, de modo limitado e não regressivo.",
+   "trecho": "O autor define insight como a aquisição do conhecimento da própria realidade psíquica",
+   "onde": 7
+  },
+  {
+   "enunciado": "Qual dos itens abaixo consta entre os principais critérios de indicação para uma psicoterapia breve, segundo o artigo?",
+   "alternativas": [
+    "Psicopatologia grave e de longa duração",
+    "Inteligência acima do normal e estar vivendo uma crise emocional",
+    "Ausência de qualquer relação significativa na vida",
+    "Resistência a participar ativamente do tratamento"
+   ],
+   "certa": 1,
+   "comentario": "Entre os critérios estão inteligência acima do normal, ter tido ao menos uma relação significativa, estar em crise emocional e motivação para trabalho duro.",
+   "trecho": "Os principais critérios de indicação para uma psicoterapia breve são: inteligência acima do normal; ter tido pelo menos uma relação significativa com outra pessoa durante sua vida; estar vivendo uma crise emocional",
+   "onde": 9
+  },
+  {
+   "enunciado": "Entre as unidades de um hospital geral, qual o artigo considera o ambiente mais adequado à prática da psicoterapia breve?",
+   "alternativas": [
+    "A enfermaria",
+    "A emergência",
+    "O ambulatório",
+    "A unidade de terapia intensiva"
+   ],
+   "certa": 2,
+   "comentario": "No ambulatório há setting adequado, face a face, tempo de consulta sem interrupções e limitação da duração da terapia por razões sociais.",
+   "trecho": "o ambulatório é o ambiente que mais se adequada a uma prática de psicoterapia breve",
+   "onde": 10
+  }
+ ]
+}

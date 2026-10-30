@@ -1,0 +1,136 @@
+{
+ "https://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-885/topico-767/BEN_S%C3%ADntese_2025_PT.pdf": [
+  {
+   "enunciado": "Segundo o Relatório Síntese do BEN 2025, por que o consumo de biodiesel nos transportes cresceu 19,3% em 2024?",
+   "alternativas": [
+    "Pela queda do preço do óleo de soja, que passou a ser usado diretamente como combustível nos veículos leves.",
+    "Pelo aumento do consumo de óleo diesel e pela elevação da mistura obrigatória do biodiesel ao diesel mineral para 14% (B14), a partir de março de 2024.",
+    "Pela substituição do diesel por biodiesel puro nos caminhões, a partir da mistura de 30% (B30) definida em 2024.",
+    "Pela proibição de venda de diesel mineral puro nas rodovias federais a partir de março de 2024."
+   ],
+   "certa": 1,
+   "comentario": "O relatório atribui o movimento do biodiesel ao maior consumo de diesel e ao aumento do teor de mistura para B14 desde março de 2024.",
+   "trecho": "O movimento do biodiesel se deveu ao aumento do consumo de óleo diesel e ao aumento do seu teor de mistura ao diesel mineral para 14% (B14) a partir de março de 2024.",
+   "onde": 8
+  },
+  {
+   "enunciado": "Qual foi a participação de fontes renováveis na matriz energética brasileira (Oferta Interna de Energia) em 2024, segundo o relatório?",
+   "alternativas": [
+    "88,2%, o mesmo valor da matriz elétrica.",
+    "64,4%, o valor registrado pela indústria.",
+    "50%, patamar histórico desde 1990 e muito acima da média mundial.",
+    "14,3%, próximo ao da média mundial."
+   ],
+   "certa": 2,
+   "comentario": "A renovabilidade da OIE chegou a 50%, marco histórico desde 1990; 88,2% é a matriz elétrica e 64,4% é a indústria.",
+   "trecho": "proporcionando o patamar de 50% de renovabilidade, marco histórico desde o ano de 1990",
+   "onde": 13
+  },
+  {
+   "enunciado": "Por que a eficiência das centrais elétricas brasileiras se mantém alta (77,8% em 2024), conforme o relatório?",
+   "alternativas": [
+    "Porque as usinas térmicas a gás natural passaram a converter quase toda a energia do combustível em eletricidade.",
+    "Porque as perdas de transmissão e distribuição foram zeradas pela expansão da geração distribuída.",
+    "Porque o sistema elétrico brasileiro deixou de usar a biomassa, que é a fonte de menor rendimento.",
+    "Porque hidráulica, eólica e solar são convencionalmente contadas como integralmente convertidas em eletricidade, sem perdas na geração."
+   ],
+   "certa": 3,
+   "comentario": "O relatório explica que, por convenção, as fontes hidráulica, eólica e solar não apresentam perdas na geração, o que eleva a eficiência das centrais.",
+   "trecho": "As fontes primárias como hidráulica, eólica e solar, por convenção, são integralmente convertidas em eletricidade nas centrais elétricas e, portanto, não apresentam perdas na geração.",
+   "onde": 40
+  },
+  {
+   "enunciado": "Sobre os Sistemas Isolados de energia elétrica, o relatório destaca que:",
+   "alternativas": [
+    "Boa Vista, em Roraima, é a única capital brasileira ainda não interligada ao sistema nacional.",
+    "Manaus é a única capital ainda não interligada, e sua geração vem principalmente de usinas hidrelétricas.",
+    "Eles respondem por cerca de metade da geração elétrica do país, concentrada no Norte e no Nordeste.",
+    "Eles se localizam apenas na região Norte e usam exclusivamente energia solar."
+   ],
+   "certa": 0,
+   "comentario": "O texto afirma que os sistemas isolados vão de pequenas comunidades a cidades maiores, como Boa Vista (RR), a única capital ainda não interligada.",
+   "trecho": "cidades maiores, como Boa Vista, em Roraima, que é a única capital brasileira ainda não interligada",
+   "onde": 47
+  },
+  {
+   "enunciado": "Segundo o relatório, qual é a diferença entre o perfil de emissões de gases de efeito estufa do Brasil e o do mundo?",
+   "alternativas": [
+    "No Brasil o setor de energia é o maior emissor, enquanto no mundo predominam agropecuária e uso da terra.",
+    "No mundo o setor de energia responde por 75,8% das emissões líquidas; no Brasil o perfil é distinto por causa da alta renovabilidade da matriz energética.",
+    "O Brasil emite mais por habitante que os países europeus da OCDE, mas menos que a China, por causa do uso de carvão.",
+    "As emissões brasileiras são semelhantes às mundiais, pois ambas dependem de petróleo e gás natural."
+   ],
+   "certa": 1,
+   "comentario": "O setor de energia pesa 75,8% das emissões líquidas mundiais, mas no Brasil a alta renovabilidade da matriz muda esse perfil.",
+   "trecho": "Enquanto o setor de energia no mundo responde por 75,8% das emissões líquidas de GEE, no Brasil o perfil de emissões se coloca em posição distinta em função da alta renovabilidade da sua matriz energética.",
+   "onde": 55
+  }
+ ],
+ "https://biblioteca.ibge.gov.br/visualizacao/livros/liv101676.pdf": [
+  {
+   "enunciado": "Segundo o relatório do IBGE, como foram tratadas as disjunções de vegetação e as áreas de contato entre biomas na elaboração do novo mapa?",
+   "alternativas": [
+    "As disjunções formaram biomas próprios e os contatos foram divididos ao meio entre os biomas vizinhos.",
+    "As disjunções foram incorporadas ao bioma dominante e as áreas de contato foram anexadas a um dos biomas confrontantes, conforme a tipologia dominante.",
+    "Tanto disjunções quanto contatos foram classificados como Sistema Costeiro-Marinho.",
+    "As disjunções foram descartadas do mapa e os contatos ficaram sem classificação, por falta de escala."
+   ],
+   "certa": 1,
+   "comentario": "As diretrizes do Workshop de 2017 mandaram incorporar as disjunções ao bioma dominante e anexar os contatos a um dos biomas vizinhos pela tipologia dominante.",
+   "trecho": "que as disjunções vegetacionais seriam incorporadas ao bioma dominante; que as áreas de contato seriam anexadas a um dos biomas confrontantes, tendo como critério a tipologia dominante de cada um deles",
+   "onde": 10
+  },
+  {
+   "enunciado": "No limite entre os biomas Amazônia e Cerrado, qual critério de vegetação o relatório adotou?",
+   "alternativas": [
+    "Florestas Estacionais Deciduais e Savanas florestadas pertencem à Amazônia; só as savanas abertas são do Cerrado.",
+    "Todas as formações florestais, de qualquer tipo, pertencem à Amazônia, e todas as campestres ao Cerrado.",
+    "Florestas Ombrófilas e Estacionais Sempre-Verdes são da Amazônia; Florestas Secas (Estacionais Deciduais ou Semideciduais) e Savanas, mesmo florestadas, são do Cerrado.",
+    "Florestas Ombrófilas são da Amazônia apenas se não tiverem sofrido pastagem; as demais ficam no Cerrado."
+   ],
+   "certa": 2,
+   "comentario": "O critério foi fitofisionômico: Ombrófila e Estacional Sempre-Verde são Amazônia; Estacionais Deciduais/Semideciduais e Savana (até florestada) são Cerrado.",
+   "trecho": "As tipologias Estacionais Deciduais ou Semideciduais (Florestas Secas), bem como as formações campestres do tipo Savana, mesmo as florestadas, são características do Bioma Cerrado",
+   "onde": 20
+  },
+  {
+   "enunciado": "Na separação entre Mata Atlântica e Cerrado, o relatório estabelece que:",
+   "alternativas": [
+    "O Cerrado é caracterizado por tipologias de Savana, e a Mata Atlântica por tipologias florestais.",
+    "A Mata Atlântica é definida por Savanas arborizadas, e o Cerrado por florestas ombrófilas.",
+    "Ambos têm vegetação florestal, e a separação é feita só pela altitude do terreno.",
+    "O Cerrado inclui as Florestas Ombrófilas Mistas, e a Mata Atlântica inclui as Savanas Parque."
+   ],
+   "certa": 0,
+   "comentario": "O critério é a tipologia: Savana para o Cerrado e formações florestais (Ombrófila Densa e Mista, Estacionais) para a Mata Atlântica.",
+   "trecho": "o Cerrado é caracterizado por vegetação de tipologias de Savana, enquanto a Mata Atlântica possui vegetação de tipologias florestais",
+   "onde": 42
+  },
+  {
+   "enunciado": "Por que o relatório manteve a Serra do Sudeste (RS) no Bioma Pampa?",
+   "alternativas": [
+    "Porque ali predominam florestas ombrófilas iguais às da Mata Atlântica, mas a região já era considerada Pampa desde 2004.",
+    "Porque a região é uma planície alagável como o Pantanal e, por isso, foi anexada ao Pampa.",
+    "Porque suas características a definem como região de transição entre campos e florestas, com campos predominando no topo e a oeste.",
+    "Porque é uma área de Estepe sem nenhuma floresta, nem mesmo de galeria, ao longo dos rios."
+   ],
+   "certa": 2,
+   "comentario": "A Serra do Sudeste é uma transição campos-florestas; as florestas só prevalecem no leste, e no topo e a oeste predominam campos.",
+   "trecho": "a Serra do Sudeste permanece no Bioma Pampa, pois suas características a definem como uma região de transição entre campos e florestas",
+   "onde": 71
+  },
+  {
+   "enunciado": "Segundo o relatório, como o limite do Bioma Pantanal se relaciona com a planície de inundação?",
+   "alternativas": [
+    "Coincide exatamente com a planície de inundação, sem nenhuma área fora do alcance das águas.",
+    "Não considera a inundação, e sim apenas o tipo de vegetação, diferente do entorno.",
+    "Segue a vegetação própria do Pantanal, que é distinta da do Cerrado e da Amazônia.",
+    "Não coincide exatamente com a planície de inundação: representa o bioma, com seu sistema hidrológico peculiar, e engloba áreas localmente a salvo das águas."
+   ],
+   "certa": 3,
+   "comentario": "O limite representa o bioma e seu sistema hidrológico, incluindo áreas elevadas livres de inundação pelo critério de contiguidade.",
+   "trecho": "Vale destacar que o limite aqui apresentado não coincide exatamente com a planície de inundação do Pantanal",
+   "onde": 75
+  }
+ ]
+}

@@ -1,0 +1,688 @@
+{
+ "prova": "FGV MP-ES 2026",
+ "cor": "Tipo 1",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/agente-tecnico-psicologo-cns129-tipo-1.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-mpes-servidor-31082026.pdf",
+ "questoes": [
+  {
+   "numero": 21,
+   "texto": "",
+   "enunciado": "Gabriel, 16 anos, está apresentando um quadro de intensa agitação psicomotora e comportamentos auto e heteroagressivos em decorrência da intoxicação aguda por uso de crack.\nConsiderando a organização da Rede de Atenção Psicossocial (RAPS), a assistência a Gabriel nesse momento deverá ser prestada",
+   "alternativas": [
+    "pelo Conselho Tutelar, considerando se tratar de menor de idade",
+    "pelo SAMU – Serviço de Atendimento Móvel de Urgência e/ou pela UPA 24 horas",
+    "pelo CAPS do território, para acolhimento e elaboração do plano terapêutico singular",
+    "por uma comunidade terapêutica especializada no atendimento a dependentes químicos",
+    "por meio de reabilitação psicossocial em Centro de Convivência vinculado ao CRAS do território"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "Agitação intensa com auto e heteroagressividade por intoxicação aguda é situação de urgência, e na RAPS quem responde a ela é o componente de atenção de urgência e emergência: SAMU 192 e UPA 24 horas. O CAPS do território entra depois, para acolher e construir o projeto terapêutico singular, não para conter a crise aguda clínica. Conselho Tutelar não presta assistência à saúde, comunidade terapêutica não atende urgência, e Centro de Convivência não é vinculado ao CRAS nem serve para a crise."
+  },
+  {
+   "numero": 22,
+   "texto": "",
+   "enunciado": "Amplamente divulgado na mídia, o Estatuto Digital da Criança e do Adolescente, conhecido como ECA Digital, é a nova norma brasileira de proteção de crianças e adolescentes em ambientes digitais.\nEntre outras medidas, a lei estabeleceu a restrição de estratégias comumente utilizadas nessas plataformas, como a rolagem infinita e as recompensas pelo tempo de uso.\nConsiderando as categorias existentes no CID 11, essa providência pode prevenir o risco de desenvolvimento da(o)",
+   "alternativas": [
+    "compulsão à repetição",
+    "síndrome de tolerância",
+    "transtorno de jogo eletrônico",
+    "transtorno de personalidade dependente",
+    "transtorno de déficit de atenção e hiperatividade"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=yKCpRDlItMc",
+   "comentario": "A CID-11 incluiu o transtorno de jogo (gaming disorder), que abrange o jogo digital ou eletrônico, e mecanismos como rolagem infinita e recompensas por tempo de uso são justamente os que favorecem o padrão de uso descontrolado. Compulsão à repetição é conceito psicanalítico, não categoria da CID. Tolerância é um critério de dependência, não uma síndrome da classificação, e TDAH e personalidade dependente não são o alvo desse tipo de medida."
+  },
+  {
+   "numero": 23,
+   "texto": "",
+   "enunciado": "O debate sobre o direito das mulheres se ampliou com discussões em torno da tipificação da misoginia como crime.\nAssinale a opção que exemplifica um comportamento misógino no contexto laboral.",
+   "alternativas": [
+    "Alessandra é uma chefe autoritária e temida por suas colegas e subordinadas",
+    "Andréa pediu transferência de setor por causa da perseguição de seu ex-marido",
+    "Frederico sempre interrompe Suzana e Cláudia durante as reuniões de equipe",
+    "O gerente mandou Luana manter seus cabelos cacheados presos em um rabo de cavalo",
+    "Beatriz foi demitida por Rui, por não atingir as metas de produtividade da sociedade empresária"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Misoginia é aversão ou desvalorização da mulher por ser mulher, e interromper sistematicamente as colegas nas reuniões (o chamado manterrupting) é forma cotidiana de silenciar a voz feminina no trabalho. Uma chefe autoritária, uma perseguição de ex-marido fora do contexto laboral e uma demissão por meta não mostram desvalorização por gênero. A ordem sobre os cabelos cacheados tenta o candidato, mas aponta mais para discriminação racial e estética do que para misoginia."
+  },
+  {
+   "numero": 24,
+   "texto": "",
+   "enunciado": "A psicopatologia estuda as alterações dos processos psicológicos básicos, que incluem percepção, atenção, motivação, cognição, memória, entre outros. As disfunções dessas funções mentais são critérios diagnósticos para os diferentes transtornos mentais.\nConsiderando as categorias do DSM-5, assinale a opção que indica os transtornos para os quais as alterações da percepção e da cognição são parte dos critérios diagnósticos essenciais.",
+   "alternativas": [
+    "Esquizofrenia e Doença de Alzheimer",
+    "Transtorno Bipolar e Doença de Parkinson",
+    "Psicose Maníaco Depressiva e Anorexia Nervosa",
+    "TDAH e Transtorno de Personalidade Borderline",
+    "Transtorno de Estresse pós-traumático e Depressão"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Na esquizofrenia, alucinações (percepção) e delírios e desorganização do pensamento (cognição) estão entre os critérios centrais; na doença de Alzheimer, que o DSM-5 trata como transtorno neurocognitivo, o declínio cognitivo é o núcleo do diagnóstico. Bipolar, Parkinson, anorexia, TDAH, borderline, TEPT e depressão podem ter alterações perceptivas ou cognitivas, mas elas não são o critério essencial do quadro. Note também que \"psicose maníaco-depressiva\" é nome antigo, não categoria do DSM-5."
+  },
+  {
+   "numero": 25,
+   "texto": "",
+   "enunciado": "Uma gincana escolar promovida para integrar os alunos no início do ano letivo se transformou em motivo de conflito entre os alunos. O grupo perdedor atribuiu a derrota em uma das tarefas à colega Débora, que tem baixa visão e necessita de adaptações para a realização das atividades. Em razão disso, Débora passou a se isolar e a manifestar desejo de mudar de escola.\nNo contexto descrito acima, assinale a opção que indica o objetivo que se afasta das propostas da mediação escolar.",
+   "alternativas": [
+    "Trabalhar o respeito e a tolerância às diferenças pessoais e o apoio às necessidades da aluna",
+    "Facilitar a comunicação entre Débora e os colegas visando à restauração das relações no ambiente escolar",
+    "Envolver Débora, os colegas, a comunidade escolar e as famílias na busca de uma pacificação do conflito",
+    "Proporcionar um atendimento para Débora e responsabilizar os alunos envolvidos na violência emocional contra ela",
+    "Promover a educação em valores e na cultura de paz, prevenindo novos conflitos e capacitando os alunos para o diálogo"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-escolar",
+   "item": "",
+   "comentario": "A mediação escolar é restaurativa: busca diálogo, reparação das relações, respeito às diferenças e cultura de paz, envolvendo toda a comunidade escolar. Responsabilizar (punir) os alunos é lógica disciplinar ou retributiva, que se afasta da proposta, por isso D é a resposta. As demais alternativas descrevem objetivos típicos da mediação."
+  },
+  {
+   "numero": 26,
+   "texto": "",
+   "enunciado": "B.F. Skinner é um psicólogo americano conhecido pelos estudos em torno do comportamento humano e criador do Behaviorismo Radical.\nConsidere a situação a seguir:\nRodrigo dirige dentro dos limites de velocidade para evitar multas e a perda de pontos na carteira de habilitação.\nDe acordo com a teoria de Skinner, o comportamento de Rodrigo é um exemplo de",
+   "alternativas": [
+    "reforço positivo",
+    "reforço negativo",
+    "punição positiva",
+    "punição negativa",
+    "condicionamento clássico"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "",
+   "comentario": "Reforço negativo é a retirada ou evitação de um estímulo aversivo que aumenta a frequência do comportamento: Rodrigo mantém a velocidade para evitar multa e perda de pontos, um comportamento de esquiva. Não é punição, porque a punição diminui o comportamento; e não é reforço positivo, porque nada agradável é acrescentado. Condicionamento clássico trata de respostas reflexas eliciadas, não de comportamento operante mantido por consequências."
+  },
+  {
+   "numero": 27,
+   "texto": "",
+   "enunciado": "Fernando, 74 anos, servidor público, será aposentado compulsoriamente quando completar 75 anos de idade.\nCom relação a essa situação, assinale a afirmativa correta.",
+   "alternativas": [
+    "Fernando fará jus ao Benefício de Prestação Continuada – BPC, pago a todos os cidadãos a partir dos 65 anos de idade",
+    "A aposentadoria compulsória aos 75 anos tem como fundamento o natural declínio mental de pessoas dessa faixa etária",
+    "Fernando poderá exercer outras atividades de forma remunerada ou voluntária, de forma a aproveitar seus potenciais e expertise",
+    "Os planos de incentivo à aposentadoria preveem a oferta de assistência em saúde mental como prevenção terciária contra o surgimento de depressão",
+    "Com o aumento da expectativa de vida, é recomendável que sejam realizadas campanhas educativas promovendo o capacitismo da terceira idade"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-orientacao",
+   "item": "",
+   "comentario": "A aposentadoria não encerra a vida produtiva: a pessoa pode seguir em atividades remuneradas ou voluntárias, e é isso que os programas de preparação para a aposentadoria estimulam. O BPC não é pago a todos aos 65 anos, só a quem comprova baixa renda; a compulsória é regra legal, não prova de declínio mental natural. Prevenir depressão antes que ela surja é prevenção primária, não terciária, e capacitismo é preconceito, nada a promover."
+  },
+  {
+   "numero": 28,
+   "texto": "",
+   "enunciado": "O Brasil dispõe de uma legislação voltada para a garantia da dignidade das pessoas com deficiência.\nSílvio, deficiente físico, candidato a um cargo público, obteve o direito de realizar o teste de aptidão física adaptado às suas condições.\nA situação descrita é um exemplo de",
+   "alternativas": [
+    "meritocracia, pois o candidato obteve a aprovação no certame apesar de sua deficiência física",
+    "privilégio, por introduzir tratamento diferenciado não extensível aos demais candidatos",
+    "equidade, pois garante adaptações razoáveis que consideram as necessidades especiais de Sílvio",
+    "igualdade, uma vez que assegura a aplicação uniforme das regras editalícias a todos os candidatos",
+    "impessoalidade, pois proporciona um tratamento materialmente isonômico na aplicação das regras do certame"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Equidade é tratar de forma diferente quem está em condição diferente para garantir oportunidade real, e a adaptação razoável do teste físico faz exatamente isso. Igualdade formal seria aplicar a mesma regra a todos, o que excluiria Sílvio; privilégio seria vantagem sem justificativa na condição dele. Meritocracia e impessoalidade não descrevem a adaptação."
+  },
+  {
+   "numero": 29,
+   "texto": "",
+   "enunciado": "A obesidade é reconhecida como uma doença multifatorial, em que fatores genéticos, metabólicos, sociais, psicológicos e ambientais estão envolvidos.\nO profissional de Psicologia pode integrar as equipes de Atenção Básica à Saúde em programas de tratamento da obesidade.\nSobre a atuação do Psicólogo nesses programas, assinale a afirmativa correta.",
+   "alternativas": [
+    "A universalização das cirurgias bariátricas e das canetas emagrecedoras é uma estratégia de prevenção primária à obesidade, cabendo ao Psicólogo a avaliação dos pacientes elegíveis para as intervenções",
+    "A culpabilização e a discriminação de pessoas com sobrepeso e com obesidade são estímulos aversivos que podem ser usados como fatores de proteção e de incentivo à adesão aos tratamentos visando à perda de peso",
+    "A prevalência da obesidade nas camadas socioeconômicas mais privilegiadas é comprovada por numerosos estudos, em função do acesso facilitado a alimentos ultraprocessados e de maiores níveis de ansiedade e depressão",
+    "O atendimento grupal de adolescentes com distúrbios alimentares como anorexia nervosa e bulimia nervosa tem se mostrado estratégia eficaz no tratamento de transtornos da imagem corporal que levam à obesidade",
+    "A entrevista motivacional é uma abordagem colaborativa centrada no paciente, que incorpora escuta ativa, habilidades interpessoais e apoio para conduzir o paciente da ambivalência à mudança de hábitos obesogênicos"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude",
+   "item": "",
+   "comentario": "A entrevista motivacional é uma abordagem colaborativa e centrada no paciente, que trabalha a ambivalência para favorecer a mudança de comportamento, e cabe bem no tratamento da obesidade na atenção básica. Culpabilizar e discriminar piora a adesão e o sofrimento, e não é fator de proteção. Cirurgia e medicamento não são prevenção primária, a obesidade não é mais prevalente só nas camadas privilegiadas, e anorexia e bulimia não são transtornos que levam à obesidade."
+  },
+  {
+   "numero": 30,
+   "texto": "",
+   "enunciado": "Mariana, 17 anos, deixou de frequentar o tratamento contra a obesidade na Unidade Básica de Saúde (UBS). Durante busca ativa, verificou-se que Mariana havia abandonado a escola, passava o dia em seu quarto no escuro e estava se automutilando.\nSobre o caso apresentado, assinale a opção que indica a estratégia que pode ser adotada pela equipe da UBS em consonância com as diretrizes do Sistema Único de Saúde (SUS).",
+   "alternativas": [
+    "Providenciar a internação psiquiátrica involuntária de Mariana, considerando o quadro de depressão",
+    "Aguardar Mariana retornar espontaneamente ao tratamento, considerando a importância da adesão voluntária",
+    "Solicitar à equipe do Centro de Atenção Psicossocial Infanto-Juvenil (CAPSi) o apoio matricial para o caso de Mariana",
+    "Desligar Mariana do programa de tratamento na UBS e encaminhá-la para atendimento em unidade especializada",
+    "Comunicar ao Conselho Tutelar e à Vara da Infância e da Juventude o abandono do tratamento para medidas com relação aos pais"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "Diante de sinais de sofrimento psíquico grave numa adolescente acompanhada pela UBS, a saída da RAPS é o apoio matricial: a equipe do CAPSi compartilha o caso com a atenção básica, que mantém o vínculo e a coordenação do cuidado. Internação involuntária é recurso de exceção, indicada só quando os recursos extra-hospitalares forem insuficientes (Lei 10.216/2001, art. 4º). Esperar o retorno espontâneo ignora a busca ativa, desligar do programa rompe a longitudinalidade, e acionar o Judiciário pelo abandono não responde ao risco clínico."
+  },
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "O Ministério Público propôs ação de Perda do Poder Familiar de uma mulher de 28 anos com relação aos filhos, com fundamento em reiteradas denúncias de negligência.\nA mulher foi denunciada por abandono por deixar a filha de 8 anos cuidando do irmão de 5 anos, quando saía para trabalhar como diarista.\nUm estudo psicológico dessa situação que leve em consideração a interseccionalidade e o SUAS envolverá analisar as categorias listadas a seguir, **_à exceção de uma_**. Assinale-a.",
+   "alternativas": [
+    "Gênero e raça",
+    "Territorialidade e saúde mental",
+    "Contexto socioeconômico e escolaridade",
+    "Configuração da rede familiar e comunitária",
+    "Religião e acesso às políticas públicas de assistencialismo"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Um estudo interseccional e alinhado ao SUAS olha gênero, raça, território, saúde mental, contexto socioeconômico, escolaridade e rede familiar e comunitária. A alternativa E é a exceção porque fala em \"políticas públicas de assistencialismo\": no SUAS a assistência social é direito, e o assistencialismo é justamente a lógica que a política quer superar."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "O psicólogo Marcos foi intimado a depor em Juízo, em uma audiência criminal de um processo de abuso sexual de uma criança por ele atendida.\nSobre o caso, de acordo com o Código de Ética Profissional do Psicólogo, assinale a afirmativa correta.",
+   "alternativas": [
+    "Marcos poderá quebrar o sigilo a fim de garantir a proteção da criança",
+    "É vedada a participação de psicólogos como depoentes em audiências",
+    "Marcos poderá participar, mas não poderá quebrar o sigilo em nenhuma hipótese",
+    "Marcos poderá ser o entrevistador da criança em tela, durante o depoimento especial",
+    "Marcos poderá quebrar o sigilo mediante autorização expressa de um ou ambos os responsáveis"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-etica",
+   "item": "",
+   "comentario": "O Código de Ética (Res. CFP 010/2005) prevê, no art. 10, que em situações de conflito o psicólogo pode decidir pela quebra do sigilo buscando o menor prejuízo, prestando só as informações estritamente necessárias; e o art. 11 diz que, quando requisitado a depor em juízo, ele pode prestar informações considerando o que o Código prevê. Por isso Marcos pode quebrar o sigilo para proteger a criança. Não há vedação absoluta a depor, o sigilo não é absoluto, e a autorização dos responsáveis não é o critério, ainda mais num caso de abuso. Ser o entrevistador do depoimento especial mistura o papel de psicoterapeuta com o de quem colhe a prova."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Miguel, 10 anos, tem o diagnóstico de TEA com nível 3 de suporte.\nSão direitos de Miguel no tocante à educação:\nI. Educação exclusiva em escolas especializadas da rede pública ou privada.\nII. Integração em atividades extraclasse recreativas, esportivas e de lazer.\nIII. Plano educacional individualizado, com adaptação curricular e de avaliação.\nIV. Matrícula facultativa nas unidades de ensino públicas ou privadas.\nV. Profissional de apoio escolar para acompanhamento em sala de aula.\nEstá correto o que se apresenta em",
+   "alternativas": [
+    "I, II e III, apenas",
+    "I, II e IV, apenas",
+    "I, IV e V, apenas",
+    "II, III e V, apenas",
+    "III, IV e V, apenas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pela Lei 12.764/2012 e pela Lei Brasileira de Inclusão, a pessoa com TEA tem direito à educação inclusiva no ensino regular, com adaptações (plano educacional individualizado), participação nas atividades extraclasse e, comprovada a necessidade, acompanhante ou profissional de apoio em sala. A afirmativa I erra ao falar em educação exclusiva em escola especializada, e a IV erra porque a matrícula não é facultativa para a escola: recusá-la é infração."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "A fase da adolescência é objeto da atenção de diferentes teóricos do desenvolvimento e da personalidade. A teoria do desenvolvimento humano do psicólogo Erik Erikson organiza a vida em etapas psicossociais, cada uma marcada por um conflito central que precisa ser resolvido.\nSegundo Erik Erikson, o conflito central na fase da adolescência se dá entre",
+   "alternativas": [
+    "persona X sombra",
+    "verdadeiro self X falso self",
+    "identidade X confusão de papéis",
+    "fase genital X controle superegoico",
+    "operações concretas X operações formais"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Na teoria psicossocial de Erikson, a crise da adolescência é identidade versus confusão de papéis. As outras opções trocam de autor: persona e sombra são de Jung, verdadeiro e falso self de Winnicott, fase genital de Freud, e operações concretas e formais de Piaget."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "A anamnese é uma das fontes fundamentais de informação no processo de avaliação psicológica.\nJoão, 30 anos, procurou a psicóloga Ana Paula com uma queixa de ansiedade e insônia.\nAssinale a opção que indica o que a anamnese, nesse contexto, deve envolver.",
+   "alternativas": [
+    "O encaminhamento para realizar exames complementares de saúde",
+    "A coleta de informações sobre o histórico pessoal, familiar e social de João",
+    "A aplicação de técnicas de relaxamento e de dessensibilização da ansiedade",
+    "A aplicação de testes aprovados pelo Sistema de Avaliação de Testes Psicológicos do CFP",
+    "A elaboração de parecer psicológico para os responsáveis pela demanda de tratamento"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "",
+   "comentario": "A anamnese é a coleta da história do paciente: histórico pessoal, familiar e social, desenvolvimento e evolução da queixa. Encaminhar para exames, aplicar técnicas de relaxamento, aplicar testes do SATEPSI ou redigir parecer são outros momentos ou outras ações, não a anamnese em si."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "Sobre a Psicologia Institucional de Bleger, assinale a afirmativa correta.",
+   "alternativas": [
+    "Cada grupo é constituído por um conjunto de instituições que têm a tendência de se estabelecer como uma organização",
+    "O instituído é uma dimensão do processo de institucionalização em que os sentidos e as ações ainda estão em movimento e constituição",
+    "O instituinte representa a cristalização do processo de institucionalização em uma estrutura que já está estabelecida e estática",
+    "O psicólogo institucional deve pensar em termos rizomáticos, nos quais as intervenções sejam horizontais, múltiplas e não hierárquicas",
+    "O pensamento arbóreo tem um fundamento que funciona como a raiz, do qual pode resultar um pensamento inflexível e um modo sedentário de viver"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para Bleger, grupos, instituições e organizações se atravessam: cada grupo carrega um conjunto de instituições e tende a se estabelecer como organização, que é o que diz a alternativa A. B e C invertem os conceitos da análise institucional: instituinte é o que está em movimento e o instituído é o que está cristalizado. D e E usam rizoma e pensamento arbóreo, conceitos de Deleuze e Guattari, não de Bleger."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "O Brasil vem buscando desenvolver estratégias que sejam mais inclusivas e respeitosas para todos, independentemente de gênero e etnia.\nSobre os estudos que apontam para o pacto de branquitude, analise as afirmativas a seguir.\nI. Está relacionado ao lugar de prestígio da brancura como “salário público e psicológico”, que resulta em acesso a bens materiais e simbólicos que os negros não podem usufruir.\nII. Indica uma “naturalização” e uma “normalização” da identidade “branca”, estabelecendo a ideia de que aqueles que têm raça e etnia são os “outros” racializados, ou seja, indígenas e negros.\nIII. Dilui a negritude a partir do processo de assimilação da população mestiça por padrões brancos, com os mestiços passando a incorporar os mesmos privilégios de classe, raça e status dos brancos.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "II e III, apenas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "",
+   "comentario": "Nos estudos sobre branquitude e pacto narcísico da branquitude (Cida Bento), a brancura funciona como um \"salário público e psicológico\" que dá acesso a bens materiais e simbólicos (I), e o branco é tomado como norma neutra, enquanto só negros e indígenas seriam \"racializados\" (II). A III erra: o branqueamento pressiona os mestiços a assimilar padrões brancos, mas não lhes garante os mesmos privilégios de raça, classe e status dos brancos."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Lucas tem 17 anos e foi adotado legalmente com 1 mês de nascido.\nDesde a chegada à adolescência, ele pensa em ter acesso às suas origens, desejando conhecer sua família biológica, contando com amplo apoio de seus pais, Murilo e Jaime.\nDiante do caso apresentado, assinale a afirmativa correta.",
+   "alternativas": [
+    "Lucas só poderá acessar o processo de adoção depois dos 18 anos",
+    "Aos 18 anos, Lucas terá o direito de conhecer o processo de adoção e suas origens biológicas",
+    "Em caso da morte de Murilo e Jaime o poder familiar dos pais naturais será restabelecido automaticamente",
+    "Na adoção por família homoafetiva, apenas o nome de um dos pais constará da Certidão de Nascimento",
+    "A qualquer tempo, Lucas deverá solicitar autorização por escrito dos adotantes para buscar a família biológica"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O ECA (art. 48) garante ao adotado o direito de conhecer sua origem biológica e de ter acesso irrestrito ao processo de adoção depois dos 18 anos; antes disso o acesso também é possível, a pedido, com orientação e assistência jurídica e psicológica. Por isso A erra no \"só\". A morte dos adotantes não restabelece o poder familiar dos pais biológicos, a adoção homoafetiva registra os dois pais, e não se exige autorização escrita dos adotantes."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "Um bebê foi encontrado sozinho em uma rua de madrugada e a polícia acionou o plantão do Conselho Tutelar, que acolheu a criança imediatamente.\nSobre a dinâmica descrita, assinale a afirmativa correta.",
+   "alternativas": [
+    "O abrigo pode se recusar a acolher sem saber quem são os responsáveis pelo bebê",
+    "A direção do abrigo deve informar que o bebê foi acolhido, em até 24 horas, à Vara de Infância",
+    "O Conselho Tutelar deveria ter demandado autorização judicial para acolher o bebê primeiro",
+    "Em caso de possível arrependimento da mãe biológica, o bebê lhe será entregue assim que ela pedir",
+    "Apenas o Ministério Público pode mandar acolher uma criança sem ter que pedir antes ao Juiz da Infância"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O ECA (art. 93) permite que a entidade de acolhimento, em caráter excepcional e de urgência, acolha a criança sem determinação prévia da autoridade, comunicando o fato ao Juiz da Infância e da Juventude em até 24 horas. Por isso o abrigo não pode recusar o bebê, o Conselho Tutelar não precisava de autorização judicial prévia, e não é só o MP que pode determinar acolhimento. A entrega à mãe biológica não é automática: depende da avaliação da situação."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "Jamile tem 11 anos e cursa o 5° ano do ensino fundamental. Irritada por ter tirado nota baixa, jogou uma pedra no carro da professora.\nDiante desse comportamento, assinale a afirmativa correta.",
+   "alternativas": [
+    "O Juiz pode determinar medida socioeducativa de internação psiquiátrica",
+    "O Promotor pode sugerir pena de prestação de serviços à comunidade",
+    "O Conselheiro Tutelar poderá avaliar a medida protetiva mais adequada diante do caso",
+    "A Diretora da escola será ouvida sobre a medida socioeducativa mais adequada a ser tomada pelo Juiz",
+    "O comportamento de Jamile não pode ser considerado infracional, pois só adolescentes cometem atos infracionais"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Criança (até 12 anos incompletos) também pratica ato infracional, mas a ela se aplicam medidas de proteção, não socioeducativas (ECA, art. 105), e o Conselho Tutelar é quem atende e aplica essas medidas. Por isso E erra ao dizer que só adolescente comete ato infracional, e A, B e D erram ao falar em internação, pena ou medida socioeducativa para uma criança de 11 anos."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "O Estatuto da Pessoa Idosa fala que os idosos têm prioridade na restituição do Imposto sobre a Renda. Maurício tem 60 anos e realizou, recentemente, sua declaração fiscal.\nEm relação à situação de Maurício quanto ao direito à prioridade na restituição do Imposto sobre a Renda, assinale a afirmativa correta.",
+   "alternativas": [
+    "Sim, a prioridade na restituição é cabível para pessoas acima de 55 anos",
+    "Sim, a prioridade na restituição é cabível para pessoas acima de 60 anos",
+    "Não, a prioridade na restituição só é cabível para pessoas acima de 65 anos",
+    "Não, a prioridade na restituição só é cabível para pessoas acima de 70 anos",
+    "Depende, Maurício só pode ter prioridade na restituição se for guardião de criança abaixo de 7 anos"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O Estatuto da Pessoa Idosa considera idosa a pessoa com idade igual ou superior a 60 anos e lista, entre as prioridades, o recebimento da restituição do Imposto de Renda. Maurício, com 60 anos, já tem direito à prioridade. As idades de 55, 65 e 70 anos e a condição de guardião de criança não são o critério da lei."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "João, viúvo, 75 anos de idade, tem dois filhos de dois casamentos diferentes. Da primeira união com Estela teve Alberto e, da segunda relação com Beatriz, Helena.\nAlberto é um homem muito rico, enquanto Helena é funcionária pública municipal.\nJoão está passando por grandes dificuldades e ingressou com pedido de pensão alimentícia apenas diante do filho.\nSobre a solicitação de João, segundo o Estatuto do Idoso, assinale a afirmativa correta.",
+   "alternativas": [
+    "Helena deve pagar a pensão alimentícia, ainda que não seja exigido dela",
+    "Alberto deve exigir que sua irmã pague metade da pensão alimentícia para o pai",
+    "João pode escolher quem será o responsável por assumir a pensão alimentícia",
+    "O idoso não tem o direito de decidir qual o prestador da pensão alimentícia",
+    "O advogado detém o poder de decidir quem deve pagar os alimentos ao idoso"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O Estatuto da Pessoa Idosa (art. 12) diz que a obrigação alimentar é solidária, podendo o idoso optar entre os prestadores. Por isso João pode pedir alimentos só a Alberto, e Alberto não pode exigir que a irmã pague metade. Nem a outra filha é obrigada sem ser demandada, nem o advogado decide quem paga."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Maurílio tem 10 anos e foi adotado pela família de Antônio e Maristela.\nDesde a sua chegada na família, o menino vem tomando as ações de Antônio como exemplo, pois ele se vinculou bastante à figura paterna.\nEm função disso, desde a sua adoção, as atitudes de Maurílio estão sendo transformadas porque ele imita e reproduz os comportamentos de seu pai.\nO comportamento de Maurílio é um exemplo de",
+   "alternativas": [
+    "modelo panóptico",
+    "incentivo especular",
+    "reforço testemunhal",
+    "aprendizado cinestésico",
+    "aprendizagem vicariante"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "",
+   "comentario": "Aprendizagem vicariante (ou observacional), da teoria social cognitiva de Bandura, é aprender observando e imitando um modelo, como Maurílio faz com o pai adotivo a quem se vinculou. As demais opções não são conceitos da teoria da aprendizagem: \"modelo panóptico\" remete a Foucault e à vigilância, e \"incentivo especular\", \"reforço testemunhal\" e \"aprendizado cinestésico\" são distratores sem relação com a modelação."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "A teoria psicológica reconhecida como terceira força, que postula que as pessoas têm um desejo inato de crescimento pessoal e autorrealização, cuja abordagem é centrada na pessoa, é conhecida como",
+   "alternativas": [
+    "positiva",
+    "humanista",
+    "behaviorista",
+    "psicanalítica",
+    "psicodramática"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-personalidade",
+   "item": "https://www.youtube.com/watch?v=zUkW0IYxTYI",
+   "comentario": "A psicologia humanista (Maslow, Rogers) se apresentou como a terceira força, depois da psicanálise e do behaviorismo, e postula uma tendência inata ao crescimento e à autorrealização; a abordagem centrada na pessoa é de Rogers. Psicanálise e behaviorismo são justamente a primeira e a segunda forças. A psicologia positiva é posterior e o psicodrama é de Moreno."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Sobre a Teoria do Apego de Bowlby, analise as afirmativas a seguir.\nI. As crianças não se apegam a figuras abusivas, rejeitando inconscientemente esses vínculos.\nII. As primeiras relações de apego, estabelecidas na infância, afetam o estilo de apego do indivíduo ao longo de sua vida.\nIII. O modelo representacional interno criado pela criança sobre si mesma permite, quando o sentimento é de segurança em relação aos cuidadores, acreditar em si própria, tornar-se independente e explorar sua liberdade.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "II e III, apenas"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Para Bowlby, os primeiros vínculos de apego moldam o estilo de apego ao longo da vida (II), e os modelos internos de funcionamento construídos numa relação segura sustentam a confiança em si, a autonomia e a exploração (III). A afirmativa I é falsa: crianças se apegam também a cuidadores abusivos, e esse vínculo tende a gerar padrões inseguros ou desorganizados, não a rejeição do vínculo."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Ruan foi acolhido aos 8 anos de idade, após ser abandonado pela família. Ele tem severo déficit cognitivo.\nFoi realizado longo acompanhamento pela rede de proteção e pelo sistema de garantias de direitos, mas ele chegou à maioridade absolutamente dependente de cuidados, sem condições de se autogerir e sem quaisquer vínculos familiares.\nNa hipótese descrita, segundo o que preconiza o Estatuto da Pessoa com Deficiência, Ruan deveria ser inserido em um(a)",
+   "alternativas": [
+    "CAPS",
+    "hospital geral",
+    "residência inclusiva",
+    "unidade manicomial",
+    "moradia para a vida independente"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei Brasileira de Inclusão (Lei 13.146/2015) define a residência inclusiva como unidade do SUAS para jovens e adultos com deficiência em situação de dependência, sem condições de autossustentabilidade e com vínculos familiares fragilizados ou rompidos, que é o caso de Ruan. A moradia para a vida independente se destina a quem tem autonomia. CAPS e hospital geral não são moradia, e unidade manicomial contraria a reforma psiquiátrica."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Larissa está fazendo um curso preparatório para o ENEM e está bastante preocupada com as provas, estudando muito, diariamente. Ao longo do último ano, ela está tendo dificuldades para dormir, irritabilidade diária, fadiga e extrema inquietação.\nApesar de sabermos da complexidade envolvendo a avaliação psicodiagnóstica, os comportamentos de Larissa parecem ser sugestivos de",
+   "alternativas": [
+    "Baby blues",
+    "Síndrome de boreout",
+    "Transtorno de pânico",
+    "Transtorno depressivo maior",
+    "Transtorno de ansiedade generalizada"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Preocupação excessiva e persistente há meses, com insônia, irritabilidade, fadiga e inquietação, corresponde aos critérios do transtorno de ansiedade generalizada no DSM-5 (ao menos três desses sintomas, por pelo menos seis meses). Pânico exige ataques súbitos e recorrentes, depressão maior exige humor deprimido ou anedonia como núcleo, baby blues é do pós-parto e boreout é o esgotamento pelo tédio no trabalho."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "De acordo com Winnicott, a criança nasce indefesa e com potencial a se desenvolver. No entanto, para que esse potencial se concretize, é necessário que o ambiente seja propício para que ela passe da fase da dependência à fase da independência.\nO conceito desenvolvido pelo autor, que define o ponto de apoio mediador do bebê no processo de separação entre o eu e o não eu, transmitindo-lhe um sentimento de segurança e conforto, e que o ajuda na passagem da dependência absoluta da mãe, para uma dependência relativa à figura materna, é denominado",
+   "alternativas": [
+    "Holding",
+    "Handling",
+    "Falso self",
+    "Objeto transicional",
+    "Onipotência do bebê"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-desenvolvimento",
+   "item": "",
+   "comentario": "Para Winnicott, o objeto transicional (o paninho, o ursinho) é a primeira posse \"não eu\" do bebê: dá segurança e conforto e media a passagem da dependência absoluta para a relativa. Holding é a sustentação que o ambiente oferece, handling é o manejo físico do bebê, falso self é a defesa que se forma diante de um ambiente que falha, e a onipotência é a ilusão inicial que a mãe suficientemente boa permite e depois desfaz aos poucos."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Olívia e Marcos namoram há 5 meses e, em meio à crise de ciúmes por ver a namorada conversando com um colega de trabalho, Marcos a esganou e esbofeteou no carro após ela ter saído da empresa.\nDiante da situação descrita, assinale a afirmativa correta.",
+   "alternativas": [
+    "Marcos agiu de forma fisicamente violenta contra a namorada",
+    "Não há que se falar em violência, pois o namorado agiu motivado por amor",
+    "Marcos praticou violência moral contra a namorada de acordo com os direitos vigentes",
+    "Olívia foi vítima de violência psicológica praticada por Marcos, segundo as regras vigentes",
+    "O caso poderia ser entendido como um exemplo de violência doméstica e familiar apenas se eles já morassem juntos"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Esganar e esbofetear é violência física, uma das formas previstas na Lei Maria da Penha (Lei 11.340/2006). A lei protege a mulher em relação íntima de afeto independentemente de coabitação, então o namoro basta e E erra. Violência moral é calúnia, difamação ou injúria, e a agressão relatada é física, não apenas psicológica; ciúme ou \"amor\" não excluem a violência."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Monique é psicóloga do Ministério Público e realizou uma entrevista com o núcleo familiar do menino Afonso.\nNessa entrevista, a psicóloga necessariamente precisou abordar alguns temas e assuntos relacionados ao procedimento ministerial, mas também teve liberdade em alterar a ordem das questões, aprofundando-as conforme avaliou ser necessário.\nAssinale a opção que indica como a entrevista de Monique se classifica.",
+   "alternativas": [
+    "Livre",
+    "Aberta",
+    "Estruturada",
+    "Semiestruturada",
+    "Não estruturada"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "",
+   "comentario": "Na entrevista semiestruturada há um roteiro com temas obrigatórios, mas o entrevistador tem liberdade para mudar a ordem e aprofundar o que julgar necessário, exatamente o que Monique fez. Na estruturada as perguntas e a ordem são fixas; na livre, aberta ou não estruturada não há temas obrigatórios definidos de antemão."
+  },
+  {
+   "numero": 51,
+   "texto": "",
+   "enunciado": "De acordo com a resolução nº 6/2019, que instituiu regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional, assinale a afirmativa correta.",
+   "alternativas": [
+    "A descrição da demanda no laudo psicológico é um requisito dispensável quando feita por determinação judicial",
+    "Na elaboração de laudos, é facultativa a informação das fontes científicas ou das referências bibliográficas utilizadas",
+    "No relatório multiprofissional, a análise deve ser feita conjuntamente, devendo ser a conclusão em separado",
+    "O parecer é o resultado de avaliação psicológica com finalidade de subsidiar decisões relacionadas ao contexto em que surgiu a demanda",
+    "O documento é o resultado de uma avaliação e/ou uma intervenção psicológica, observados os condicionantes históricos e sociais e seus efeitos"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 52,
+   "texto": "",
+   "enunciado": "Sobre a entrevista psicológica, analise as afirmativas a seguir.\nI. A entrevista com objetivo de pesquisa científica ou a entrevista que se realiza para um terceiro (uma instituição) requer que o entrevistador desperte interesse e participação do entrevistado, ao contrário do que se espera de uma consulta clínica psicológica.\nII. Uma das finalidades da entrevista de devolução é consentir ao entrevistado exprimir seus pensamentos e seus sentimentos em relação às conclusões e recomendações do entrevistador.\nIII. A entrevista aberta permite uma melhor comparação sistemática de dados, além de outras vantagens próprias de todo método padronizado.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "II e III, apenas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "",
+   "comentario": "A afirmativa I segue Bleger: na entrevista de pesquisa ou feita para uma instituição, o entrevistado não procurou o serviço, e cabe ao entrevistador despertar seu interesse, ao contrário da consulta, em que a pessoa vem por demanda própria. A II está certa: a devolução permite ao entrevistado expressar o que pensa e sente sobre as conclusões e recomendações. A III erra: é a entrevista fechada (padronizada) que favorece a comparação sistemática de dados, e não a aberta."
+  },
+  {
+   "numero": 53,
+   "texto": "",
+   "enunciado": "Em sua teoria da sexualidade infantil, Freud apontou para o desenvolvimento de etapas da libido na criança lactente até a fase adulta. Na segunda fase da evolução psicossexual, a relação de objeto possui os valores simbólicos de dom e recusa, delineando traços de caráter que persistirão na vida adulta (ordem, parcimônia, teimosia).\nAssinale a opção que indica a denominação dessa fase.",
+   "alternativas": [
+    "Oral",
+    "Anal",
+    "Fálica",
+    "Latente",
+    "Narcísica"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Na fase anal, a segunda da evolução psicossexual em Freud, o controle das fezes ganha o valor simbólico de dar ou reter (dom e recusa), e sua fixação se liga aos traços de ordem, parcimônia e teimosia que Freud descreveu no caráter anal. A oral vem antes e se organiza em torno da boca, a fálica vem depois, a latência não é uma fase de organização da libido e o narcisismo não é uma das fases da sequência."
+  },
+  {
+   "numero": 54,
+   "texto": "",
+   "enunciado": "A entrevista psicológica de crianças e adolescentes vítimas de abuso sexual é algo complexo, podendo se tornar revitimizadora se for malconduzida.\nNesse contexto de discussão, assinale a opção que indica uma conduta / ação que torna a entrevista revitimizadora.",
+   "alternativas": [
+    "Fazer perguntas repetidas para averiguar a veracidade dos fatos relatados pela vítima",
+    "Assumir uma postura sugestiva e indutiva para demonstrar à vítima que a está escutando e entendendo",
+    "Dizer que sabe exatamente o que aconteceu, de modo a estimular o rompimento do pacto de silêncio",
+    "Descrever os sentimentos da criança para ajudá-la a identificar o que sente e, também, para sentir-se compreendida",
+    "Evitar o uso de palavras do vocabulário infantil e sim de termos técnicos ou formais para fazer referência às zonas anatômicas ou às práticas abusivas"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 55,
+   "texto": "",
+   "enunciado": "Susane é psicóloga e atuará como perita numa ação judicial, na qual foi designado André, também psicólogo, para atuar como assistente técnico de uma das partes.\nSobre o caso apresentado, de acordo com a Resolução CFP 008/2010, assinale a afirmativa correta.",
+   "alternativas": [
+    "André deverá estar presente em todos os procedimentos metodológicos conduzidos por Susane na avaliação",
+    "Susane deverá aplicar testes psicológicos em seu trabalho pericial, sob risco de infração ética caso não o faça",
+    "Susane poderá, na conclusão de sua avaliação pericial, sugerir decisões judiciais que favoreçam o bem-estar psicológico",
+    "André poderá ouvir pessoas envolvidas, solicitar documentos em poder das partes, entre outros meios previstos no Código de Processo Civil",
+    "Susane não pode ser psicoterapeuta das partes envolvidas, mas essa proibição não se aplica a André na qualidade de assistente técnico"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pela Res. CFP 008/2010 e pelo Código de Processo Civil, o assistente técnico pode usar os meios necessários para seu parecer, como ouvir pessoas, pedir documentos às partes e consultar outras fontes. A resolução diz que perito e assistente técnico não devem acompanhar os procedimentos um do outro (A erra), que o perito não deve sugerir decisões, que são do juiz (C erra), e que quem é psicoterapeuta das partes não pode atuar nem como perito nem como assistente técnico (E erra). Aplicar testes não é obrigatório: a escolha dos métodos é do perito (B erra)."
+  },
+  {
+   "numero": 56,
+   "texto": "",
+   "enunciado": "Com a influência do movimento institucionalista, as práticas grupais superam a sua dimensão técnica para alcançar uma dimensão política.\nDe acordo com essa perspectiva, assinale a opção que indica as potencialidades dessas práticas em serviços de saúde.",
+   "alternativas": [
+    "Possuem dimensão sócio-histórica e podem ampliar as relações de tutela nos serviços de saúde",
+    "São o tratamento indicado pelos serviços públicos de saúde para aumentar a capacidade da demanda atendida",
+    "Configuram-se como tratamento de melhor custo-efetividade e são acessíveis à população com poucos recursos financeiros",
+    "Possibilitam a reabilitação psicossocial, embora sejam menos efetivas quando comparadas às técnicas clínicas individuais",
+    "Caminham na direção contrária aos movimentos individualizantes e podem produzir a autonomia e a cidadania ativa"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "Sob a influência do institucionalismo, o grupo deixa de ser só técnica e passa a ser espaço político: vai contra a individualização do sofrimento e pode produzir autonomia e cidadania ativa, valores centrais da atenção psicossocial. A alternativa A erra ao dizer que o grupo amplia a tutela, quando a proposta é reduzi-la. B e C reduzem o grupo a ganho de capacidade ou de custo, e D o trata como menos efetivo que a clínica individual, sem relação com a perspectiva institucionalista."
+  },
+  {
+   "numero": 57,
+   "texto": "",
+   "enunciado": "Goffman (1963) conceitua o estigma como uma construção social que representa uma marca cujo portador possui um status desvalorizado em relação aos outros membros da sociedade.\nCom relação ao estigma social vivenciado por pessoas que sofrem com a dependência de drogas, assinale a afirmativa correta.",
+   "alternativas": [
+    "As mulheres são tão estigmatizadas quanto os homens quando se tornam dependentes de drogas",
+    "A família é a esfera de maior proteção dos dependentes de drogas, contribuindo para a superação do estigma social",
+    "As pessoas que sofrem com dependência de drogas evitam buscar ajuda para o tratamento de suas condições, em razão do estigma",
+    "O enfrentamento do estigma vivenciado por usuários de drogas somente será efetivo com o acesso à psicoterapia individualizada",
+    "Os trabalhadores da saúde tendem a ter consciência da estigmatização vivenciada por usuários de drogas, estando preparados para abordá-la"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "Na linha de Goffman, o estigma desvaloriza quem usa drogas, e uma de suas consequências mais estudadas é a pessoa evitar buscar ajuda, por medo de ser rotulada. As mulheres usuárias sofrem estigma maior (soma-se o julgamento moral de gênero), a família pode ser também fonte de estigma, e os próprios trabalhadores da saúde muitas vezes reproduzem o estigma sem perceber. Enfrentá-lo exige ações coletivas e institucionais, não só psicoterapia individual."
+  },
+  {
+   "numero": 58,
+   "texto": "",
+   "enunciado": "Considerando uma perspectiva crítica para a construção das políticas públicas para a população em situação de rua, assinale a afirmativa correta.",
+   "alternativas": [
+    "As políticas públicas voltadas à população em situação de rua têm superado práticas higienistas e disciplinares",
+    "A identificação dos aspectos homogêneos dessa população poderá beneficiá-la com a inserção em um mesmo tipo de dispositivo socioassistencial",
+    "A compreensão das trajetórias de vida dessa população evidencia a predominância de problemas de personalidade que justificam sua institucionalização",
+    "A tendência à institucionalização disciplinar da população em situação de rua, posição contrária aos princípios da luta antimanicomial, hospitalar e de abrigos",
+    "A priorização da assistência desses sujeitos em comunidades terapêuticas, em razão da forte correlação entre dependência de drogas e a população em situação de rua"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 59,
+   "texto": "",
+   "enunciado": "Instituída pela Portaria nº 3088/2011, a Rede de Atenção Psicossocial (RAPS) representou um marco para a garantia do cuidado em saúde mental no Brasil.\nTendo em vista a perspectiva da Reforma Psiquiátrica Brasileira, assinale a opção que apresenta desafios contemporâneos para o fortalecimento da RAPS.",
+   "alternativas": [
+    "Ampliar a medicalização da população e o acesso a consultas especializadas com médicos e psicólogos",
+    "Priorizar as tecnologias duras de cuidado no campo da saúde, em detrimento de sua articulação intersetorial",
+    "Estimular o financiamento da rede hospitalar, possibilitando o incremento de leitos para dar suporte às crises psiquiátricas",
+    "Superar a precarização no trabalho, haja vista as equipes incompletas e a sobrecarga de trabalho dos profissionais que atuam na saúde mental",
+    "Promover uma transformação assistencial nos Centros de Atenção Psicossocial, pois estes utilizam grupos em detrimento de técnicas clínicas consagradas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "Entre os desafios atuais da RAPS na perspectiva da Reforma Psiquiátrica está a precarização do trabalho: equipes incompletas, vínculos frágeis e sobrecarga dos profissionais. As outras alternativas vão contra a reforma: ampliar a medicalização, priorizar tecnologias duras sobre a articulação intersetorial, financiar leitos hospitalares em vez da rede substitutiva e desvalorizar os grupos dos CAPS."
+  },
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "Em História da Loucura (1961), Foucault criou o paradigma asilar que abriu caminho para a radicalização de um processo de dominação, no qual o louco passou a ser objetivado medicamente como alienado.\nConsiderando as contribuições do autor, assinale a opção que indica as consequências do paradigma asilar para o campo “psi”.",
+   "alternativas": [
+    "Instaurou a cura da doença mental, libertando-a de sua relação com a moralidade e do controle social do louco",
+    "Possibilitou que a loucura fosse objetivamente conhecida em seus atributos psicológicos, tendo a sua essência definida",
+    "Produziu a patologização do louco, que emergiu do interior das instituições asilares e tornou-se indissociável da cientificidade do campo “psi”",
+    "Constituiu um gesto humanista, em que os loucos passaram a ser reconhecidos como doentes mentais e puderam ter acesso aos cuidados “psi”",
+    "Promoveu a superação das lógicas sociais de exclusão pelo campo “psi”, haja vista o imbricamento entre as causas econômicas e sociais que sustentam tal paradigma"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "Em História da Loucura, Foucault mostra que a doença mental como objeto médico nasce dentro do asilo: a patologização do louco se constrói nas instituições asilares e se torna inseparável da cientificidade do saber \"psi\". As erradas repetem a leitura que Foucault critica: o asilo como gesto humanista de libertação, como cura livre da moral ou como descoberta objetiva da essência da loucura, quando ele mostra o asilo como controle e exclusão."
+  }
+ ]
+}

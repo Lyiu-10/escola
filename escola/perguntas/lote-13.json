@@ -1,0 +1,672 @@
+{
+ "https://www.youtube.com/watch?v=qJ8VqqunnEw": [
+  {
+   "enunciado": "Segundo a aula, qual é a definição de grupo considerada adequada?",
+   "alternativas": [
+    "Soma de indivíduos que atuam isoladamente, cada um com suas metas, sem necessidade de comunicação",
+    "Conjunto de pessoas que trabalham no mesmo setor e respondem ao mesmo chefe, independentemente de interagirem",
+    "Conjunto de duas ou mais pessoas que interagem durante um intervalo de tempo relativamente longo, buscando atingir determinados objetivos",
+    "Conjunto de no mínimo cinco pessoas com responsabilidade compartilhada por resultados globais"
+   ],
+   "certa": 2,
+   "comentario": "A aula define grupo por duas ou mais pessoas em interação durante tempo relativamente longo, com objetivos a atingir; sem interação seria difícil alcançar a meta.",
+   "trecho": "um grupo é um conjunto formado por duas ou mais pessoas né duas ou mais pessoas que interagem durante o intervalo de tempo",
+   "onde": 184
+  },
+  {
+   "enunciado": "No experimento da luz numa sala escura (Sherif), que conclusão a aula apresenta sobre o modo como as pessoas percebem o mundo?",
+   "alternativas": [
+    "É resultado exclusivo da individualidade de cada pessoa",
+    "É mais resultado do processo de interação e construção coletiva do que da individualidade",
+    "É determinado só pela norma do grupo, sem participação do indivíduo",
+    "É um erro de percepção que desaparece quando a luz fica fixa"
+   ],
+   "certa": 1,
+   "comentario": "Ao serem colocadas juntas, as pessoas chegaram a um acordo sobre o movimento da luz; a percepção resultou de construção coletiva.",
+   "trecho": "a maneira como as pessoas percebem o mundo é mais resultado do processo de interação e construção coletiva do que isso individualidade",
+   "onde": 648
+  },
+  {
+   "enunciado": "De acordo com a aula, o que diferencia um grupo de uma equipe de trabalho?",
+   "alternativas": [
+    "A intensidade com que os atributos se manifestam, e não a presença ou ausência deles",
+    "A presença ou ausência de um atributo que só a equipe possui",
+    "Apenas a equipe tem metas coletivas; o grupo nunca tem",
+    "O número de integrantes, pois equipe tem sempre mais pessoas"
+   ],
+   "certa": 0,
+   "comentario": "Grupos e equipes compartilham interação, interdependência e metas coletivas; o que muda é a intensidade desses atributos.",
+   "trecho": "não é presença ou ausência de um atributo que caracteriza um grupo ou diferencia de uma equipe",
+   "onde": 1084
+  },
+  {
+   "enunciado": "Um gestor decide formar uma equipe para toda tarefa, porque acredita que equipes sempre são mais eficazes. Segundo a aula, quando a equipe se justifica?",
+   "alternativas": [
+    "Sempre, pois trabalhar junto aumenta a satisfação de todos",
+    "Quando a interdependência entre os membros é a maior possível",
+    "Somente quando todos os membros preferem trabalhar em equipe",
+    "Quando a meta de trabalho é complexa o bastante para ultrapassar as competências de qualquer funcionário"
+   ],
+   "certa": 3,
+   "comentario": "A aula chama de mito a ideia de que equipes são sempre mais eficazes; só vale implantar equipe diante de meta complexa demais para um funcionário.",
+   "trecho": "a implementação da unidade desempenho deve ser realizada após a constatação da existência de uma meta de trabalho complexo o suficiente",
+   "onde": 1204
+  },
+  {
+   "enunciado": "Na aula, o que acontece na fase de desintegração de uma equipe de trabalho?",
+   "alternativas": [
+    "A equipe atinge o nível ótimo de desempenho",
+    "Os membros negociam e definem a missão da equipe",
+    "Se a tarefa não tiver continuidade, a equipe se desfaz e os membros voltam aos departamentos de origem",
+    "A troca de informações fica mais aberta e espontânea"
+   ],
+   "certa": 2,
+   "comentario": "A desintegração é o último momento: sem continuidade da tarefa, a equipe se desfaz e os membros retornam às origens.",
+   "trecho": "se a tarefa atribuída não tiver continuidade a equipe irá se de entregar de se integrar e os mesmos voltaram seus departamentos ou seções de origem",
+   "onde": 1423
+  }
+ ],
+ "https://www.youtube.com/watch?v=Ki9Ez-xiy0E": [
+  {
+   "enunciado": "Nos níveis da cultura organizacional (Schein), o que são os artefatos, segundo a aula?",
+   "alternativas": [
+    "As verdades inquestionáveis tão arraigadas que ninguém mais discute",
+    "Tudo o que se consegue visualizar e perceber, como vestuário, espaço físico, símbolos e linguagem",
+    "Os conceitos conscientes do que é certo e errado na organização",
+    "As fontes originais dos valores, difíceis de mudar"
+   ],
+   "certa": 1,
+   "comentario": "Artefatos são o nível mais superficial, aquilo que se consegue ver ou perceber; valores ficam num nível mais fundo e os pressupostos básicos são o núcleo.",
+   "trecho": "tudo que você consegue visualizar pegar perceber visualmente ou diz de alguma outra maneira são os artefatos",
+   "onde": 588
+  },
+  {
+   "enunciado": "Em uma grande empresa, os funcionários de finanças desenvolvem um modo próprio de agir, diferente do pessoal de marketing. Como a aula chama isso?",
+   "alternativas": [
+    "Subcultura",
+    "Cultura dominante",
+    "Cultura fraca",
+    "Rito de integração"
+   ],
+   "certa": 0,
+   "comentario": "Subcultura é um conjunto de valores não compartilhados por todos, só pelo pessoal de um setor, e aparece sobretudo em organizações grandes.",
+   "trecho": "valores que não são compartilhados por todos os membros apenas por aquele pessoal ali daquele setor",
+   "onde": 1091
+  },
+  {
+   "enunciado": "Uma multinacional chega ao Brasil e tenta aplicar aqui exatamente o modo como opera no país de origem, por considerá-lo superior. Que postura é essa, segundo a aula?",
+   "alternativas": [
+    "Policêntrica",
+    "Geocêntrica",
+    "Adaptativa",
+    "Etnocêntrica"
+   ],
+   "certa": 3,
+   "comentario": "A postura etnocêntrica acredita que o modo do país de origem é superior aos demais; a policêntrica adapta-se à cultura local e a geocêntrica mistura os dois.",
+   "trecho": "acredita que o modo com você faz no seu país de origem é superior aos demais",
+   "onde": 1182
+  },
+  {
+   "enunciado": "Segundo a aula, quais são vantagens de uma cultura organizacional forte?",
+   "alternativas": [
+    "Facilita mudanças rápidas e exige mais controle por regras detalhadas",
+    "Elimina qualquer dificuldade de aceitar diversidade e fusões",
+    "Retém melhor os funcionários, dá mais lealdade e engajamento e reduz a necessidade de controle rígido",
+    "Torna a cultura impossível de mudar, o que é desejável"
+   ],
+   "certa": 2,
+   "comentario": "Com cultura forte as pessoas sabem o que é esperado, o que gera retenção, lealdade, engajamento e menos necessidade de regras rígidas.",
+   "trecho": "forte você com consegue reter melhor os funcionários você tem maior lealdade daqueles funcionários mais engajamento reduz a necessidade de um controle mais rígido",
+   "onde": 1426
+  },
+  {
+   "enunciado": "Qual a relação entre cultura e clima organizacional, conforme a aula?",
+   "alternativas": [
+    "A cultura é a percepção individual e afetiva, e o clima é o conjunto de valores compartilhados",
+    "O clima é o reflexo da cultura: se as pessoas gostam da cultura, o clima fica positivo",
+    "Cultura e clima são o mesmo conceito com nomes diferentes",
+    "O clima define a cultura, e uma cultura pode ser classificada como boa ou ruim"
+   ],
+   "certa": 1,
+   "comentario": "A banca costuma cobrar que o clima reflete a cultura; ele é qualificável como positivo ou negativo, enquanto a cultura não é boa ou ruim em si.",
+   "trecho": "a banca cobrar que o clima é o reflexo da cultura ou seja se as pessoas gostam da cultura se adaptou com aquela cultura o clima fica positivo",
+   "onde": 2602
+  }
+ ],
+ "https://www.youtube.com/watch?v=AjgMgRMpKc0": [
+  {
+   "enunciado": "Segundo a aula, como se caracteriza a transferência vertical da aprendizagem?",
+   "alternativas": [
+    "Ocorre em situações de graus diferentes de complexidade, geralmente da mais simples para a mais complexa",
+    "Ocorre em situações de mesmo grau de complexidade",
+    "É o tempo durante o qual os novos comportamentos continuam sendo praticados",
+    "É a aplicação do aprendido apenas dentro da mesma tarefa, sem mudar de contexto"
+   ],
+   "certa": 0,
+   "comentario": "A transferência lateral se dá entre situações de mesma complexidade; a vertical envolve mudança de grau de dificuldade, em geral do simples para o complexo.",
+   "trecho": "a generalização transferência da aprendizagem que ocorrem situações em graus diferentes complexidades geralmente ocorre da situação mais simples para mais complexa",
+   "onde": 429
+  },
+  {
+   "enunciado": "Qual a diferença fundamental, apontada na aula, entre aprendizagem organizacional e organizações que aprendem?",
+   "alternativas": [
+    "A aprendizagem organizacional trata de estruturas de educação corporativa; a organização que aprende, de universidade corporativa",
+    "As duas são sinônimos e têm o mesmo foco",
+    "A aprendizagem organizacional é mais ampla e de longo prazo; a organização que aprende foca no indivíduo",
+    "Na aprendizagem organizacional a mudança ocorre no nível do indivíduo e da equipe; na organização que aprende, na própria organização"
+   ],
+   "certa": 3,
+   "comentario": "A aula diz que o nível onde ocorre a mudança é o que separa os conceitos: indivíduo/equipe na aprendizagem organizacional, a própria organização na organização que aprende.",
+   "trecho": "a diferença fundamental é um nível onde ocorre a mudança na aprendizagem organizacional é um indivíduo inclusive o foco é mais um indivíduo",
+   "onde": 831
+  },
+  {
+   "enunciado": "Uma empresa corrige um erro pontual, resolve o problema e segue normalmente, sem rever as causas nem as políticas. Que tipo de aprendizagem é esse, segundo a aula?",
+   "alternativas": [
+    "Aprendizagem de laço duplo, porque o problema foi resolvido",
+    "Aprendizagem transformacional, pois houve mudança na organização",
+    "Aprendizagem de laço simples, que atua só no problema, e as causas continuam podendo ocorrer",
+    "Aprendizagem cultural, pois mudou os valores"
+   ],
+   "certa": 2,
+   "comentario": "O laço simples corrige o problema em si; o laço duplo atua também nas causas e pode levar à revisão de políticas e objetivos.",
+   "trecho": "o laço grupo atua sob duas vertentes um problema em si e nas causas do problema lá simples atua em uma vertente só no problema",
+   "onde": 1019
+  },
+  {
+   "enunciado": "Na andragogia, o princípio do autoconceito do aprendiz afirma que:",
+   "alternativas": [
+    "Adultos precisam saber por que precisam aprender algo",
+    "Adultos são responsáveis por suas decisões e por sua vida, e não querem ser tratados como incapazes",
+    "Adultos aprendem melhor quando a experiência é a base do aprendizado",
+    "Adultos são motivados sobretudo por recompensas externas"
+   ],
+   "certa": 1,
+   "comentario": "O autoconceito é o princípio em que o adulto se vê como responsável por suas decisões e rejeita ser tratado como incapaz.",
+   "trecho": "o auto conceito aprendiz adultos são responsáveis por suas decisões e por sua vida",
+   "onde": 1264
+  },
+  {
+   "enunciado": "Quais são as quatro etapas do ciclo de aprendizagem pela experiência (Kolb) apresentadas na aula?",
+   "alternativas": [
+    "Experiência concreta, observação reflexiva, conceitualização abstrata e experimentação ativa",
+    "Observação, repetição, reforço e punição",
+    "Percepção, atenção, memória e esquecimento",
+    "Diagnóstico, planejamento, execução e avaliação"
+   ],
+   "certa": 0,
+   "comentario": "A aula descreve a aprendizagem experiencial como um ciclo de quatro etapas, dessas quatro formas de aprender com a experiência.",
+   "trecho": "aprender com a experiência concreta observação e please reflexiva conceitualização abstrata e experimentação ativa",
+   "onde": 1482
+  }
+ ],
+ "https://www.youtube.com/watch?v=AiOUBteGOn4": [
+  {
+   "enunciado": "Segundo a aula, com base em Dejours, de onde provêm o sofrimento e o prazer no trabalho?",
+   "alternativas": [
+    "Apenas de traços patológicos de personalidade do trabalhador",
+    "Exclusivamente da remuneração e das condições físicas do posto",
+    "Somente da história familiar, sem relação com o trabalho",
+    "Da dinâmica interna das situações e da organização do trabalho, e o trabalho não é lugar só de sofrimento ou só de prazer"
+   ],
+   "certa": 3,
+   "comentario": "A aula diz que o trabalho não é só sofrimento nem só prazer: ambos vêm da dinâmica das situações e da organização do trabalho.",
+   "trecho": "não é lugar só do sofrimento ou só do prazer mas é proveniente da da dinâmica interna das situações e da organização do trabalho",
+   "onde": 176
+  },
+  {
+   "enunciado": "De que ponto de vista, segundo a aula, a relação homem-trabalho deve ser estudada na dinâmica do trabalho de Dejours?",
+   "alternativas": [
+    "Apenas do ponto de vista do patológico",
+    "Somente do ponto de vista da produtividade",
+    "Do ponto de vista do normal e não apenas do patológico",
+    "Somente do ponto de vista jurídico"
+   ],
+   "certa": 2,
+   "comentario": "A aula afirma que a relação homem-trabalho deve ser estudada do ponto de vista do normal, e não só do patológico.",
+   "trecho": "a relação homem trabalho deve ser estudada do ponto de vista do normal e não apenas do patológico",
+   "onde": 592
+  },
+  {
+   "enunciado": "Quando, segundo a aula, o sofrimento no trabalho é considerado criativo?",
+   "alternativas": [
+    "Quando o trabalhador usa apenas estratégias defensivas para não sentir",
+    "Quando o sofrimento adquire sentido positivo e o sujeito, pela criatividade, se experimenta e se transforma",
+    "Quando o sofrimento é sinônimo de prazer imediato",
+    "Quando o trabalhador troca de emprego sempre que sofre"
+   ],
+   "certa": 1,
+   "comentario": "O sofrimento criativo é o que ganha sentido positivo e é transformado pela expressão da criatividade; a aula diz que não é sinônimo de prazer.",
+   "trecho": "o sofrimento adquire um sentido positivo para o sujeito em que ele pela expressão de sua criatividade se experimenta e se transforma",
+   "onde": 978
+  },
+  {
+   "enunciado": "Como a aula define a mobilização subjetiva em Dejours?",
+   "alternativas": [
+    "Um processo caracterizado pelo uso da inteligência operária e pelo espaço público de discussões sobre o trabalho",
+    "Um processo prescrito pela organização, igual para todos os trabalhadores",
+    "Um mecanismo mental para negar a realidade que faz sofrer",
+    "A troca de emprego para fugir da organização do trabalho"
+   ],
+   "certa": 0,
+   "comentario": "A mobilização subjetiva usa a inteligência e a personalidade do trabalhador e o espaço público de discussão; não é prescrita, cada um a vive de modo particular.",
+   "trecho": "um processo que se caracteriza pelo uso da inteligência operária e pelo espaço público de discussões sobre o trabalho",
+   "onde": 1232
+  },
+  {
+   "enunciado": "O que são estratégias defensivas, segundo a aula?",
+   "alternativas": [
+    "Regras prescritas pela empresa para evitar acidentes",
+    "Mudanças concretas na organização do trabalho feitas pelo trabalhador",
+    "Formas de sublimação que geram prazer e saúde",
+    "Mecanismos pelos quais o trabalhador busca modificar, transformar e minimizar sua percepção da realidade que o faz sofrer"
+   ],
+   "certa": 3,
+   "comentario": "As estratégias defensivas agem na percepção da realidade, de modo mental; não modificam a realidade patogênica imposta pela organização do trabalho.",
+   "trecho": "as estratégias defensivas para de juros são definidas como um mecanismo pelo qual o trabalhador busca modificar transformar e minimizar sua percepção da realidade",
+   "onde": 1329
+  }
+ ],
+ "https://www.youtube.com/watch?v=ELL-78HzODg": [
+  {
+   "enunciado": "Segundo a aula, como se entende hoje a antiga divisão entre psicologia escolar (prática nas escolas) e psicologia educacional (pesquisa e políticas públicas)?",
+   "alternativas": [
+    "Como duas áreas totalmente separadas, sem relação entre si",
+    "Como uma divisão que deve ser reforçada, com o psicólogo escolar focado só no atendimento clínico",
+    "Como uma divisão pouco delimitada: a atuação acontece nos dois formatos e não se separa da pesquisa nem das políticas públicas",
+    "Como uma divisão superada porque a psicologia educacional deixou de existir"
+   ],
+   "certa": 2,
+   "comentario": "A aula diz que a divisão não é tão delimitada hoje: a atuação do psicólogo na escola não pode ser descolada da pesquisa e das políticas públicas.",
+   "trecho": "hoje essa divisão não é tão eh delimitada assim na real nós entendemos essa atuação acontecendo nos dois formatos",
+   "onde": 61
+  },
+  {
+   "enunciado": "Segundo a aula, o que passou a fazer parte do fracasso escolar no Brasil depois da ampliação do acesso à educação básica?",
+   "alternativas": [
+    "Somente a dificuldade de acesso à escola",
+    "A qualidade do ensino, pois as crianças estão matriculadas mas é preciso perguntar que escola é essa",
+    "A falta de interesse das famílias, como causa principal",
+    "A seriação, que deixou de existir"
+   ],
+   "certa": 1,
+   "comentario": "Com o acesso facilitado, parte do fracasso passa a envolver qualidade de ensino; a evasão também segue sendo indicador.",
+   "trecho": "hoje nós entendemos que parte do nosso fracasso envolve qualidade de ensino as crianças estão matriculadas na escola",
+   "onde": 340
+  },
+  {
+   "enunciado": "Qual deve ser o olhar do psicólogo escolar, mesmo partindo da história singular do estudante, segundo a aula?",
+   "alternativas": [
+    "Social, coletivo e institucional, compreendendo a criança dentro dos sistemas familiar, escolar e social",
+    "Estritamente individual, como no atendimento clínico no consultório",
+    "Focado apenas no professor, responsável pelo fracasso",
+    "Focado apenas na família do aluno"
+   ],
+   "certa": 0,
+   "comentario": "Apesar de o olhar psicológico ser singular, a atuação e a reflexão na escola devem ser sociais, coletivas e institucionais.",
+   "trecho": "por mais que o nosso olhar seja singular a gente olha pra história de vida da criança do Adolescente do professor do Estudante a nossa atuação a nossa reflexão deve ser social deve ser coletiva",
+   "onde": 495
+  },
+  {
+   "enunciado": "Um psicólogo escolar explica a dificuldade de um aluno dizendo que a família é culturalmente carente e a culpa é dela. O que a aula diz sobre essa perspectiva?",
+   "alternativas": [
+    "É a perspectiva recomendada, pois a responsabilidade é sempre da família",
+    "É a perspectiva da medicalização da educação",
+    "É a perspectiva atual da psicologia escolar",
+    "É uma perspectiva da década de 70 que deve ser criticada e não reproduzida"
+   ],
+   "certa": 3,
+   "comentario": "A carência cultural, que responsabiliza o aluno ou a família, vem dos anos 1970 e a aula diz para criticá-la e não reproduzir esse discurso.",
+   "trecho": "Perspectiva da carência cultural e responsabilizando a família era uma perspectiva da década de 70 do século passado",
+   "onde": 559
+  },
+  {
+   "enunciado": "O que é a medicalização da educação, segundo a aula?",
+   "alternativas": [
+    "Oferecer atendimento médico dentro da escola",
+    "Reduzir diagnósticos de transtornos nas escolas",
+    "Transformar questões sociais, políticas e pedagógicas em questões orgânicas e biológicas, passíveis de serem medicalizadas",
+    "Encaminhar estudantes para avaliação psicológica coletiva"
+   ],
+   "certa": 2,
+   "comentario": "Medicalizar é tratar como biológico o que é social, político ou pedagógico; o psicólogo escolar deve romper com a patologização.",
+   "trecho": "transforma questões que são sociais políticas pedagógicas em questões orgânicas em questões biológicas",
+   "onde": 774
+  }
+ ],
+ "https://www.youtube.com/watch?v=nN8Y2qn7ZZE": [
+  {
+   "enunciado": "No exemplo da aula, a criança que só conhece o cachorro vê um cavalo e diz \"au\", e depois aprende que é um cavalo. O que ocorre em cada momento, segundo Piaget?",
+   "alternativas": [
+    "Primeiro acomodação (chama de cachorro), depois assimilação (aprende cavalo)",
+    "Primeiro assimilação (encaixa no que já conhece), depois acomodação (rompe e constrói um novo conhecimento)",
+    "As duas são o mesmo processo e ocorrem juntas",
+    "Primeiro equilíbrio e depois estágio pré-operatório"
+   ],
+   "certa": 1,
+   "comentario": "Assimilação é a entrada do novo misturada ao conhecimento prévio; a acomodação é a ruptura que constrói um conhecimento novo.",
+   "trecho": "A assimilação né que é a entrada aqui desses conhecimentos né e aí mistura justamente com esse conhecimento prévio que o aluno já tem",
+   "onde": 500
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a faixa etária do estágio operatório concreto em Piaget?",
+   "alternativas": [
+    "De 7 a 11 anos",
+    "De 2 a 7 anos",
+    "De 0 a 2 anos",
+    "De 12 anos em diante"
+   ],
+   "certa": 0,
+   "comentario": "A aula lista: sensório-motor (0 a 2), pré-operatório (2 a 7), operatório concreto (7 a 11) e operatório formal (12 ou mais).",
+   "trecho": "o pré-operatório que vai de 2 anos a 7 anos o operatório concreto que vai de 7 a 11 anos e o operatório formal né 12 anos ou mais",
+   "onde": 813
+  },
+  {
+   "enunciado": "Na teoria de Vigotski, o que é a zona de desenvolvimento proximal (ZDP), segundo a aula?",
+   "alternativas": [
+    "O que a criança consegue fazer sozinha, sem ajuda",
+    "A maturação biológica necessária para aprender",
+    "Um estágio de desenvolvimento que vai dos 2 aos 7 anos",
+    "A distância entre o desenvolvimento real e o potencial, onde o professor faz as mediações necessárias"
+   ],
+   "certa": 3,
+   "comentario": "A ZDP fica entre o que se faz sozinho (real) e o que se faz com ajuda (potencial), e é onde o professor atua com mediação.",
+   "trecho": "A ZDP zona de desenvolvimento prar a distância entre o real e o potencial e o professor deve atuar aqui fazendo mediações necessárias",
+   "onde": 1308
+  },
+  {
+   "enunciado": "Como a aula explica o conceito de afetividade na teoria de Wallon?",
+   "alternativas": [
+    "Carinho e demonstração de afeto positivo",
+    "Um estágio do desenvolvimento entre 3 e 6 anos",
+    "A capacidade de ser afetado, tanto positiva quanto negativamente",
+    "Um mecanismo de adaptação por assimilação"
+   ],
+   "certa": 2,
+   "comentario": "Para Wallon a afetividade não é só carinho: é a capacidade de ser afetado, e isso pode ocorrer de modo positivo ou negativo.",
+   "trecho": "afetividade e a capacidade de ser afetado Eu posso ser afetado tanto positivamente quanto negativamente",
+   "onde": 1558
+  },
+  {
+   "enunciado": "Uma questão afirma que, para Piaget, o desenvolvimento cognitivo infantil ocorre de forma linear e previsível. O que a aula diz?",
+   "alternativas": [
+    "O item está correto, pois os estágios são inflexíveis",
+    "O item está errado, pois Piaget não coloca o desenvolvimento como algo inflexível, linear, previsível e padronizado",
+    "O item está certo para Vigotski, mas errado para Piaget",
+    "O item está correto porque a maturação biológica fixa a idade de cada conhecimento"
+   ],
+   "certa": 1,
+   "comentario": "Apesar de falar em estágios ligados à maturação, Piaget não os trata como algo linear e padronizado; esse é um peguinha comum de bancas.",
+   "trecho": "ele não coloca como algo inflexível algo linear algo previsível padronizado",
+   "onde": 1930
+  }
+ ],
+ "https://www.youtube.com/watch?v=GZkzw6MSfxc": [
+  {
+   "enunciado": "Segundo a aula, o que caracteriza a abordagem psicométrica (traço-fator) em orientação profissional?",
+   "alternativas": [
+    "Vê o ser humano como vocacionado e busca colocar o homem certo no lugar certo",
+    "Entende a escolha como processo inconsciente de satisfação de necessidades infantis",
+    "Defende que a escolha profissional é determinada apenas pela classe social",
+    "Baseia-se em seis tipos de personalidade e seis ambientes profissionais"
+   ],
+   "certa": 0,
+   "comentario": "A abordagem psicométrica compreende o ser humano como vocacionado e tem o objetivo de colocar o homem certo no lugar certo, com determinismo vocacional.",
+   "trecho": "é uma escolha que tem por interesse por objeto e para objetivo colocar o homem certo no lugar certo",
+   "onde": 401
+  },
+  {
+   "enunciado": "Para a abordagem psicodinâmica, como as pessoas escolhem suas profissões, segundo a aula?",
+   "alternativas": [
+    "De forma consciente, com base em testes de aptidão",
+    "Por estágios de desenvolvimento vocacional ao longo da vida",
+    "Apenas pela influência da mídia e de pessoas de referência",
+    "De forma inconsciente, buscando a satisfação de necessidades básicas da personalidade"
+   ],
+   "certa": 3,
+   "comentario": "A aula diz que a base da escolha é inconsciente e visa à satisfação das necessidades básicas, muitas vezes sem a pessoa saber por que escolheu.",
+   "trecho": "As pessoas escolhem De forma inconsciente Ou seja é uma escolha que é uma escolha com base nos determinantes",
+   "onde": 461
+  },
+  {
+   "enunciado": "Quais são os seis tipos da teoria tipológica (RIASEC), de Holland, apresentados na aula?",
+   "alternativas": [
+    "Racional, intuitivo, afetivo, sensorial, extrovertido e introvertido",
+    "Responsável, íntegro, ativo, seguro, estável e criativo",
+    "Realista, investigativo, artístico, social, empreendedor e convencional",
+    "Real, imaginativo, analítico, sensível, estratégico e cooperativo"
+   ],
+   "certa": 2,
+   "comentario": "RIASEC é a sigla dos seis tipos: realista, investigativo, artístico, social, empreendedor e convencional; os dois principais predizem a profissão escolhida.",
+   "trecho": "tipo são realista investigativo artístico social empreendedor e convencional cada um",
+   "onde": 681
+  },
+  {
+   "enunciado": "Quais são os estágios do desenvolvimento de carreira citados na aula, na teoria desenvolvimentista?",
+   "alternativas": [
+    "Infância, adolescência, juventude, maturidade e velhice",
+    "Crescimento, exploração, estabelecimento, manutenção e desengajamento",
+    "Realista, investigativo, artístico, social e convencional",
+    "Anomia, heteronomia e autonomia"
+   ],
+   "certa": 1,
+   "comentario": "A aula cita crescimento, exploração, estabelecimento, manutenção e desengate, sem idade exata para cada um.",
+   "trecho": "o primeiro estágio o estágio de crescimento depois exploração estabelecimento manutenção e desengate a Vida você passa por cada um desses estágios",
+   "onde": 1019
+  },
+  {
+   "enunciado": "Que crítica a abordagem sócio-histórica faz à ideia de livre escolha profissional, segundo a aula?",
+   "alternativas": [
+    "A escolha profissional não é tão livre quanto se pensa: é uma escolha de classe",
+    "A escolha é totalmente livre, pois depende só dos interesses individuais",
+    "A escolha é determinada apenas por testes psicológicos",
+    "A escolha é feita sempre de forma inconsciente na infância"
+   ],
+   "certa": 0,
+   "comentario": "A abordagem sócio-histórica é crítica e destaca as questões socioeconômicas: a liberdade de escolha é uma liberdade de classe.",
+   "trecho": "tão Livres quanto a gente pensa é uma escolha de classe é uma liberdade de classe",
+   "onde": 1234
+  }
+ ],
+ "https://www.youtube.com/watch?v=-hvdqpVhAN4": [
+  {
+   "enunciado": "Como a aula propõe entender o momento da aposentadoria na trajetória de trabalho?",
+   "alternativas": [
+    "Como o fim definitivo da vida produtiva",
+    "Como um benefício financeiro, e nada além disso",
+    "Como uma etapa que não precisa de planejamento",
+    "Como mais um momento de transição, em que é importante valorizar o que foi aprendido e desenvolvido ao longo do tempo"
+   ],
+   "certa": 3,
+   "comentario": "A aula trata a aposentadoria como mais uma transição na história de trabalho, em que se valorizam os aprendizados e o modo de lidar com mudanças anteriores.",
+   "trecho": "processo de transição para aposentadoria é importante valorizar tudo aquilo que foi aprendido e desenvolvido ao longo do tempo",
+   "onde": 96
+  },
+  {
+   "enunciado": "O que a aula afirma sobre a melhor forma de se aposentar?",
+   "alternativas": [
+    "Existe uma única forma ideal, igual para todos",
+    "A melhor forma é sempre parar de trabalhar completamente",
+    "Não existe uma única forma melhor: deve-se considerar valores, necessidades e gostos de cada um",
+    "A melhor forma é deixar o planejamento para depois da aposentadoria"
+   ],
+   "certa": 2,
+   "comentario": "A aposentadoria é planejada sob medida, considerando valores, necessidades e gostos de cada pessoa.",
+   "trecho": "não existe uma única forma melhor de se aposentar cada um de nós e levar em consideração os valores das necessidades os gostos",
+   "onde": 188
+  },
+  {
+   "enunciado": "A partir de que idade a pessoa é considerada idosa, segundo a aula?",
+   "alternativas": [
+    "A partir de 50 anos",
+    "A partir de 60 anos",
+    "A partir de 55 anos",
+    "A partir de 70 anos"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que hoje se considera idosa a pessoa a partir de 60 anos, e que há várias formas de envelhecer.",
+   "trecho": "hoje considera-se que a pessoa idosa a partir de 60 anos",
+   "onde": 282
+  },
+  {
+   "enunciado": "Como a aula define autoeficácia?",
+   "alternativas": [
+    "A crença que a pessoa tem sobre a sua capacidade de realizar determinada coisa",
+    "O valor da remuneração recebida na aposentadoria",
+    "A opinião que os outros têm sobre o desempenho da pessoa",
+    "A saúde física necessária para continuar trabalhando"
+   ],
+   "certa": 0,
+   "comentario": "Autoeficácia é a crença na própria capacidade; pode ser desenvolvida pela experiência pessoal, pela observação de outros e por críticas e elogios.",
+   "trecho": "autoeficácia que nada mais é do que a crença que você tem sobre a sua capacidade",
+   "onde": 312
+  },
+  {
+   "enunciado": "Ao refletir sobre o planejamento da aposentadoria, o que a aula diz sobre as dimensões da vida (física, psicológica, social, financeira, emocional)?",
+   "alternativas": [
+    "A dimensão financeira é a única que importa",
+    "Só devem ser consideradas as dimensões do futuro, não as do presente",
+    "A dimensão familiar deve ser descartada para dar espaço ao lazer",
+    "Elas se conectam e nenhuma é mais importante do que a outra"
+   ],
+   "certa": 3,
+   "comentario": "A aula afirma que as dimensões se conectam e nenhuma é mais importante, e que olhar para elas ajuda numa transição mais tranquila e segura.",
+   "trecho": "todas essas dimensões elas acabam se conectando de uma forma ou outra e nenhuma delas é mais importante do que a outra",
+   "onde": 625
+  }
+ ],
+ "https://www.youtube.com/watch?v=sCxZx6xnLH4": [
+  {
+   "enunciado": "Segundo a revisão, em quais quatro aspectos o desenvolvimento humano é sempre pensado?",
+   "alternativas": [
+    "Oral, anal, fálico e genital",
+    "Biológico, cultural, político e econômico",
+    "Físico-motor, intelectual, afetivo e social",
+    "Sensório-motor, pré-operatório, operatório concreto e operatório formal"
+   ],
+   "certa": 2,
+   "comentario": "A professora diz que o desenvolvimento humano é pensado nos aspectos físico-motor, intelectual, afetivo e social, ao longo de todo o ciclo da vida.",
+   "trecho": "nesses quatro aspectos tá bom O aspecto físico-motor o aspecto intelectual o aspecto afetivo e o aspecto social",
+   "onde": 1352
+  },
+  {
+   "enunciado": "Em qual direção ocorre o desenvolvimento do sujeito na teoria de Vygotsky, segundo a aula?",
+   "alternativas": [
+    "Do individual para o social",
+    "De fora para dentro, do social para o individual",
+    "Do centro para a periferia",
+    "Do proximal para o real"
+   ],
+   "certa": 1,
+   "comentario": "Para Vygotsky o sujeito se desenvolve pela inserção no meio social e pela linguagem; por isso o desenvolvimento vai de fora para dentro.",
+   "trecho": "dessa forma o desenvolvimento do sujeito ele acontece de fora para dentro",
+   "onde": 1788
+  },
+  {
+   "enunciado": "Segundo Philippe Ariès, como as crianças eram compreendidas antes da descoberta da infância?",
+   "alternativas": [
+    "Como mini adultos, que usavam roupas de adultos e compartilhavam espaços",
+    "Como seres com necessidades específicas de cuidado e espaço próprio",
+    "Como seres sagrados, mantidos afastados do trabalho",
+    "Como indivíduos em fases de desenvolvimento cognitivo"
+   ],
+   "certa": 0,
+   "comentario": "Ariès descreve que antes crianças eram vistas como mini adultos; só depois, com roupas, espaços e atividades próprios, surge a descoberta da infância.",
+   "trecho": "em um determinado momento as crianças elas eram compreendidas como mini adultos",
+   "onde": 2403
+  },
+  {
+   "enunciado": "Na teoria ecológica de Bronfenbrenner, que sistema corresponde ao \"mais amplo contexto ambiental que envolve todos os outros ambientes\", que varia de uma cultura para outra?",
+   "alternativas": [
+    "Microssistema",
+    "Mesossistema",
+    "Exossistema",
+    "Macrossistema"
+   ],
+   "certa": 3,
+   "comentario": "O macrossistema reúne valores e aspectos culturais amplos, e é o que torna diferente se desenvolver, por exemplo, no Brasil ou na China.",
+   "trecho": "O mais amplo contexto ambiental que envolve todos os outros ambientes formando uma rede de interconexões que se diferenciam de uma cultura para outra",
+   "onde": 2929
+  },
+  {
+   "enunciado": "Segundo a revisão, qual é a principal característica do estágio pré-operatório de Piaget?",
+   "alternativas": [
+    "A relação profunda com a concretude",
+    "O pensamento abstrato refinado",
+    "A construção de símbolos, com a brincadeira e a fantasia",
+    "As alterações corporais e sonoras do estágio anterior"
+   ],
+   "certa": 2,
+   "comentario": "A professora conclui que a principal característica do pré-operatório (2 a 7 anos) é a construção de símbolos; a concretude é do estágio seguinte.",
+   "trecho": "característica que a gente pode observar desse estágio é essa essa construção de símbolos",
+   "onde": 4843
+  }
+ ],
+ "https://www.youtube.com/watch?v=uMXThEi_vl4": [
+  {
+   "enunciado": "Segundo o vídeo, a que se refere a relação (ou aliança) terapêutica?",
+   "alternativas": [
+    "Apenas ao vínculo de amizade entre terapeuta e paciente fora do consultório",
+    "À relação entre o psicoterapeuta e o paciente, dentro e fora do consultório",
+    "À técnica específica da terapia cognitivo-comportamental",
+    "Ao contrato financeiro firmado entre terapeuta e paciente"
+   ],
+   "certa": 1,
+   "comentario": "Aliança e relação terapêutica são tratadas como sinônimos e dizem respeito à relação entre psicoterapeuta e paciente, dentro e fora do consultório.",
+   "trecho": "ela diz respeito à relação entre o profissional entre psicoterapeuta e o paciente",
+   "onde": 63
+  },
+  {
+   "enunciado": "O que se forma a partir de uma boa aliança terapêutica, segundo o vídeo, e que leva ao sucesso do tratamento?",
+   "alternativas": [
+    "A confiança entre terapeuta e paciente",
+    "A dependência do paciente em relação ao terapeuta",
+    "A neutralidade total do terapeuta",
+    "A redução do número de sessões"
+   ],
+   "certa": 0,
+   "comentario": "O vídeo diz que é com uma boa relação terapêutica que se forma a confiança entre terapeuta e paciente, base para o sucesso do tratamento.",
+   "trecho": "é com uma boa relação terapêutica uma boa aliança terapêutica que se forma a confiança entre terapeuta e paciente",
+   "onde": 93
+  },
+  {
+   "enunciado": "Como a boa aliança terapêutica ajuda na aderência ao tratamento?",
+   "alternativas": [
+    "Ela reduz a necessidade de o terapeuta explicar o funcionamento do paciente",
+    "Ela obriga o paciente a comparecer a todas as sessões",
+    "Ela dispensa o paciente de seguir as orientações do terapeuta",
+    "Quando o paciente confia no terapeuta, ele quer ir à terapia, colaborar e seguir as orientações"
+   ],
+   "certa": 3,
+   "comentario": "A confiança ajuda o paciente a querer fazer parte da terapia, a escutar o terapeuta e a seguir as orientações, melhorando a aderência.",
+   "trecho": "ajuda principalmente na aderência do tratamento quando o paciente confia no seu terapeuta",
+   "onde": 216
+  },
+  {
+   "enunciado": "Quando começa a ser formada a relação terapêutica, de acordo com o vídeo?",
+   "alternativas": [
+    "Somente depois de várias sessões",
+    "Apenas quando o paciente conta toda a sua história",
+    "Logo no primeiro encontro, influenciada pelas crenças do paciente e do terapeuta",
+    "Só quando o tratamento termina com sucesso"
+   ],
+   "certa": 2,
+   "comentario": "A relação já começa a se formar no primeiro encontro, ativando crenças do paciente e do terapeuta sobre pessoas parecidas com o outro.",
+   "trecho": "essa relação terapêutica já começa a ser formada logo no primeiro",
+   "onde": 372
+  },
+  {
+   "enunciado": "Um paciente não simpatizou com o terapeuta no primeiro encontro. O que o vídeo diz sobre isso?",
+   "alternativas": [
+    "A relação terapêutica está perdida e deve ser encerrada",
+    "Isso não significa que está tudo perdido: no próprio processo de terapia a relação pode ser montada e fortalecida",
+    "Só o terapeuta é capaz de ser influenciado pelas crenças sobre o outro",
+    "Isso é irrelevante, pois a relação terapêutica independe da primeira impressão"
+   ],
+   "certa": 1,
+   "comentario": "O vídeo afirma que, mesmo sem simpatia inicial, é possível fortalecer a relação, de modo direto ou indireto, ao longo do tratamento.",
+   "trecho": "significa que está tudo perdido Como eu disse no próprio processo do tratamento da terapia você ainda consegue fazer montar e fortalecer essa relação terapêutica",
+   "onde": 493
+  }
+ ]
+}

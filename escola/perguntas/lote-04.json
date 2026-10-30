@@ -1,0 +1,940 @@
+{
+ "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf": [
+  {
+   "enunciado": "Segundo Zimerman, o que ele continua fazendo antes de incluir um paciente em um grupo analítico?",
+   "alternativas": [
+    "Aplica uma bateria de testes psicológicos padronizados",
+    "Realiza uma entrevista individual prévia, avaliando motivação, grau de psicopatologia e capacidades positivas",
+    "Exige que o paciente já tenha concluído uma análise individual",
+    "Inclui o paciente direto na primeira sessão para observar como ele reage ao grupo"
+   ],
+   "certa": 1,
+   "comentario": "Zimerman diz que não mudou neste ponto: continua optando por uma entrevista individual prévia, na qual avalia a motivação para o grupo, a psicopatologia e as capacidades positivas latentes.",
+   "trecho": "continuo valorizando a necessidade de, antes de incluir determinado paciente em um grupo analítico, optar por proceder a uma prévia entrevista individual",
+   "onde": 3
+  },
+  {
+   "enunciado": "Como Zimerman passou a entender a presença de resistências (silêncios, atrasos, faltas) no grupo?",
+   "alternativas": [
+    "Como obstáculos que devem ser vencidos o quanto antes pela firmeza do terapeuta",
+    "Como sinal de que o paciente não é indicado para o grupo",
+    "Como uma forma de comunicação não verbal, instrumento útil para entender o que o paciente oculta",
+    "Como reação que só aparece em pacientes psicóticos"
+   ],
+   "certa": 2,
+   "comentario": "Para o autor, a resistência deixou de ser vista só como nefasta: ela indica comunicação não verbal e ajuda o terapeuta a entender o que o paciente oculta.",
+   "trecho": "entendo que a presença de alguma forma de resistência esteja indicando alguma forma de comunicação não-verbal",
+   "onde": 4
+  },
+  {
+   "enunciado": "Sobre a clássica divisão entre transferência positiva e negativa, o que Zimerman defende?",
+   "alternativas": [
+    "A positiva é sempre boa e a negativa deve ser interrompida logo",
+    "A positiva pode ser mera idealização ou conluio resistencial, e a negativa bem manejada pode ser um passo para a melhora",
+    "As duas são equivalentes e não têm importância na grupoterapia",
+    "A negativa só ocorre quando há contratransferência patológica do terapeuta"
+   ],
+   "certa": 1,
+   "comentario": "O autor critica a ideia de que positiva seria boa e negativa má: a positiva pode esconder idealização, e a negativa pode levar a mais confiança, espontaneidade e liberdade.",
+   "trecho": "pode não passar de uma extrema idealização ou de um conluio resistencial, sem abrir um necessário espaço analítico para sentimentos agressivos",
+   "onde": 5
+  },
+  {
+   "enunciado": "Ao falar da atividade interpretativa, Zimerman afirma que uma interpretação deve ser avaliada principalmente por quê?",
+   "alternativas": [
+    "Pela fidelidade à teoria clássica de Freud",
+    "Pela rapidez com que o terapeuta a formula",
+    "Pela concordância imediata do paciente",
+    "Pela eficácia: se mobilizou novas reflexões e associações e levou a um insight verdadeiro"
+   ],
+   "certa": 3,
+   "comentario": "Segundo o texto, não basta a interpretação ser correta e exata; o que importa é sua eficácia em mobilizar reflexões, associações e um insight não intelectual.",
+   "trecho": "uma determinada interpretação não basta ser correta, exata, mas, sim, ser avaliada por sua eficácia",
+   "onde": 7
+  },
+  {
+   "enunciado": "Seguindo Bion, que termo Zimerman prefere no lugar de cura e como ele se alcança?",
+   "alternativas": [
+    "Crescimento mental, promovido por um conjunto de insights adequadamente elaborados",
+    "Adaptação social, obtida pela obediência às regras do setting",
+    "Alta terapêutica, obtida quando cessam todas as resistências",
+    "Remissão dos sintomas, obtida pela interpretação da transferência"
+   ],
+   "certa": 0,
+   "comentario": "O autor diz que a atividade interpretativa leva aos insights e que, com elaboração, eles promovem crescimento mental, termo que ele prefere a cura.",
+   "trecho": "a atividade interpretativa leva aos insights, e que um conjunto destes, mercê de uma adequada e progressiva elaboração, promove um crescimento mental",
+   "onde": 7
+  }
+ ],
+ "https://www.youtube.com/watch?v=HcGH53ychi4": [
+  {
+   "enunciado": "Segundo a aula, qual é a relação entre a Resolução CFP 31/2022 e a Resolução 09/2018?",
+   "alternativas": [
+    "As duas estão em vigor ao mesmo tempo, cada uma para um contexto",
+    "A 31/2022 complementa a 09/2018, que continua valendo para testes",
+    "A 09/2018 é posterior e revogou a 31/2022",
+    "A 31/2022 revogou expressamente a 09/2018, e hoje só a 31 é válida"
+   ],
+   "certa": 3,
+   "comentario": "A professora explica que a 09/2018 foi revogada expressamente pela 31/2022, embora haja poucas mudanças entre elas.",
+   "trecho": "ela revogou inclusive que é a norma 9 de 2018",
+   "onde": 39
+  },
+  {
+   "enunciado": "Qual é a diferença entre avaliação psicológica e psicodiagnóstico, segundo a aula?",
+   "alternativas": [
+    "O psicodiagnóstico é mais amplo e inclui a avaliação psicológica como etapa",
+    "São sinônimos na resolução",
+    "A avaliação psicológica visa um diagnóstico, enquanto o psicodiagnóstico visa só a seleção de pessoal",
+    "A avaliação psicológica não tem objetivo de chegar a diagnóstico; o psicodiagnóstico, modalidade clínica dela, tem"
+   ],
+   "certa": 3,
+   "comentario": "A avaliação psicológica é mais ampla e busca prover informações para a tomada de decisão de um solicitante; o psicodiagnóstico é uma modalidade usada no contexto clínico.",
+   "trecho": "a avaliação psicológica ela não tem objetivo de chegar a um diagnóstico quem tem objetivo de chegar a um diagnóstico é o psicodiagnóstico",
+   "onde": 132
+  },
+  {
+   "enunciado": "Quais são as fontes fundamentais de informação na avaliação psicológica, conforme a Resolução 31/2022?",
+   "alternativas": [
+    "Testes psicológicos, entrevistas ou anamnese, e protocolos e registros de observação de comportamento",
+    "Testes psicológicos, relatórios de equipes multiprofissionais e documentos escolares",
+    "Entrevistas, técnicas não psicológicas e cartas de tarot",
+    "Testes projetivos, testes de inteligência e inventários de personalidade"
+   ],
+   "certa": 0,
+   "comentario": "São três as fontes fundamentais: testes aprovados pelo CFP, entrevistas/anamnese e protocolos de observação. Relatórios multiprofissionais são fontes complementares.",
+   "trecho": "testes psicológicos aprovados pelo Conselho Federal para uso ional entrevistas psicológicas ou anamnese né e protocolos e registros de observação e comportamento",
+   "onde": 316
+  },
+  {
+   "enunciado": "Um psicólogo quer usar um teste que está com parecer desfavorável no Satepsi. O que a aula diz sobre isso?",
+   "alternativas": [
+    "Pode usar como fonte complementar, nunca como fundamental",
+    "Pode usar se justificar cientificamente no laudo",
+    "Pode usar desde que o avaliado autorize por escrito",
+    "Não pode usar, nem como fonte complementar; só se usa teste com parecer favorável"
+   ],
+   "certa": 3,
+   "comentario": "A aula ressalta que somente testes reconhecidos pelo CFP e com parecer favorável no Satepsi podem ser usados, nem como fonte complementar.",
+   "trecho": "somente testes psicológicos reconhecidos pelo cfp e com parecer favorável no sistema satepsi",
+   "onde": 471
+  },
+  {
+   "enunciado": "Qual é o prazo máximo de validade dos estudos de validade, precisão e normatização de um teste psicológico pela Resolução 31/2022?",
+   "alternativas": [
+    "10 anos",
+    "20 anos para validade e 15 para normatização",
+    "15 anos, único para as três subcategorias",
+    "5 anos, renováveis automaticamente"
+   ],
+   "certa": 2,
+   "comentario": "Uma mudança em relação à 09/2018: o prazo passou a ser único, de 15 anos (máximo, contado da aprovação pelo plenário do CFP).",
+   "trecho": "porque o prazo é único 15 anos quanto tempo vale um teste psicológico 15 anos",
+   "onde": 1369
+  }
+ ],
+ "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf": [
+  {
+   "enunciado": "Como o art. 1º, § 1º, da Resolução CFP 31/2022 define a Avaliação Psicológica?",
+   "alternativas": [
+    "Processo estruturado de investigação de fenômenos psicológicos, com o objetivo de prover informações à tomada de decisão",
+    "Aplicação de testes psicológicos aprovados para chegar a um diagnóstico clínico",
+    "Procedimento exclusivo do contexto clínico, voltado à classificação de transtornos",
+    "Conjunto de entrevistas livres, sem métodos ou instrumentos definidos previamente"
+   ],
+   "certa": 0,
+   "comentario": "A norma define a avaliação psicológica como processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, para prover informações à decisão.",
+   "trecho": "A Avaliação Psicológica é um processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos, com o objetivo de prover informações à tomada de decisão",
+   "onde": 1
+  },
+  {
+   "enunciado": "O que a Resolução 31/2022 diz sobre a utilização de teste psicológico com parecer desfavorável no SATEPSI?",
+   "alternativas": [
+    "É permitida desde que o psicólogo registre a justificativa no laudo",
+    "É permitida quando o avaliado consentir por escrito",
+    "Será considerada falta ética, com exceção de pesquisa e de ensino com objetivo formativo e histórico",
+    "É permitida como fonte complementar de informação"
+   ],
+   "certa": 2,
+   "comentario": "O art. 12 trata o uso de teste desfavorável ou não avaliado como falta ética; o parágrafo único ressalva pesquisa e ensino com objetivo formativo e histórico.",
+   "trecho": "A utilização de testes psicológicos com parecer desfavorável, ou que constem na lista de Testes Psicológicos Não Avaliados no site do SATEPSI, será considerada falta ética",
+   "onde": 2
+  },
+  {
+   "enunciado": "Entre os requisitos mínimos obrigatórios para um teste ser reconhecido pelo SATEPSI, há a apresentação de evidências empíricas sobre as características técnicas dos itens. Para quais testes isso NÃO se exige?",
+   "alternativas": [
+    "Testes informatizados",
+    "Testes estrangeiros adaptados ao Brasil",
+    "Testes de inteligência",
+    "Métodos projetivos ou expressivos"
+   ],
+   "certa": 3,
+   "comentario": "O art. 15, inciso VII, dispensa essa exigência para os métodos projetivos ou expressivos.",
+   "trecho": "apresentar evidências empíricas sobre as características técnicas dos itens do teste psicológico, exceto para os métodos projetivos ou expressivos",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo o art. 22, § 3º, o que acontece se a revisão dos estudos de validade, precisão e normas não for apresentada no prazo máximo de 15 anos?",
+   "alternativas": [
+    "O teste passa automaticamente para a lista de Testes Não Avaliados",
+    "O teste perde a condição de uso e é excluído da relação de testes com parecer favorável",
+    "O teste continua válido, mas só para uso em pesquisa",
+    "O teste é mantido por mais 5 anos com parecer provisório"
+   ],
+   "certa": 1,
+   "comentario": "A norma prevê que, sem a revisão no prazo, o teste perde a condição de uso e sai da lista de pareceres favoráveis.",
+   "trecho": "Não sendo apresentada a revisão no prazo estabelecido no caput deste artigo, o teste psicológico perderá a condição de uso e será excluído da relação de testes com parecer favorável no SATEPSI",
+   "onde": 4
+  },
+  {
+   "enunciado": "Um teste aprovado no SATEPSI passa a ser aplicado em formato diferente do descrito no manual técnico aprovado. O que a Resolução 31/2022 exige?",
+   "alternativas": [
+    "Nada, pois o formato de aplicação é livre ao psicólogo",
+    "Apenas a atualização das normas pelo responsável técnico",
+    "Que seja submetido à apreciação da CCAP, com estudo de equivalência",
+    "Que o psicólogo registre a mudança no laudo"
+   ],
+   "certa": 2,
+   "comentario": "O art. 24, § 1º, determina que testes com formato de aplicação diferente do aprovado sejam submetidos à CCAP; já a diferença só no formato de correção não exige nova avaliação (§ 2º).",
+   "trecho": "Os testes psicológicos que apresentem formato de aplicação diferente daquele descrito no manual técnico da versão que consta aprovada no SATEPSI deverão ser submetidos para apreciação da CCAP",
+   "onde": 5
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf": [
+  {
+   "enunciado": "Segundo a Cartilha de Avaliação Psicológica do CFP, qual é a relação entre avaliação psicológica e testagem psicológica?",
+   "alternativas": [
+    "São sinônimos: toda avaliação se resume à aplicação de testes",
+    "A avaliação é uma etapa da testagem, que é o processo mais amplo",
+    "A testagem psicológica é uma etapa da avaliação psicológica, que integra várias fontes de informação",
+    "A testagem só existe no contexto clínico, e a avaliação, no organizacional"
+   ],
+   "certa": 2,
+   "comentario": "A cartilha explica que a avaliação é um processo amplo que integra testes, entrevistas, observações e documentos; a testagem é apenas a aplicação dos testes, uma etapa dela.",
+   "trecho": "diz respeito à aplicação dos testes psicológicos e obtenção de informações a partir dessa testagem. Assim, a testagem psicológica é uma etapa da avaliação psicológica",
+   "onde": 11
+  },
+  {
+   "enunciado": "Na coleta de informações do processo de avaliação psicológica, o que a cartilha recomenda sobre o número de técnicas e instrumentos?",
+   "alternativas": [
+    "Usar um único instrumento padronizado, para garantir uniformidade",
+    "Não utilizar uma só técnica ou um só instrumento, integrando informações de forma ampla",
+    "Usar sempre exatamente três instrumentos, um de cada tipo de fonte",
+    "Escolher o número de instrumentos conforme o preço dos testes"
+   ],
+   "certa": 1,
+   "comentario": "Nos passos mínimos, a cartilha diz que a integração das informações deve ser ampla e que não se recomenda usar uma só técnica ou instrumento.",
+   "trecho": "Não é recomendada a utilização de uma só técnica ou um só instrumento para a avaliação",
+   "onde": 17
+  },
+  {
+   "enunciado": "Uma psicóloga aplica um teste psicológico de forma diferente da descrita no manual (por exemplo, alterando a forma de apresentação dos estímulos). Qual é a consequência apontada pela cartilha?",
+   "alternativas": [
+    "Nenhuma, pois o psicólogo tem autonomia total sobre os instrumentos",
+    "Não se garantem as qualidades psicométricas do teste, e isso configura falta ética",
+    "Basta registrar a alteração no laudo para que o uso seja válido",
+    "O resultado só pode ser usado como fonte complementar"
+   ],
+   "certa": 1,
+   "comentario": "A cartilha afirma que a qualidade técnica só é garantida com a aplicação conforme o manual; fugir dele compromete as propriedades psicométricas e é falta ética (art. 2º, h, do Código de Ética).",
+   "trecho": "se o teste for aplicado diferentemente do que orienta o seu manual, não é possível garantir as qualidades psicométricas",
+   "onde": 30
+  },
+  {
+   "enunciado": "O que a cartilha diz sobre concluir o estado psicológico de uma pessoa usando apenas instrumentos não privativos do psicólogo?",
+   "alternativas": [
+    "É permitido, desde que o instrumento tenha base científica",
+    "É permitido quando o avaliado é adulto e consente",
+    "É considerado falta ética, pois a avaliação deve se basear em fontes fundamentais de informação",
+    "É permitido apenas em contexto organizacional"
+   ],
+   "certa": 2,
+   "comentario": "Instrumentos não privativos são fontes complementares; concluir só com base neles é falta ética, porque a avaliação exige fontes fundamentais.",
+   "trecho": "se a(o) psicóloga(o) realizar o processo de avaliação psicológica e concluir sobre o estado psicológico do avaliado com base apenas em instrumentos não privativos, é considerado falta ética",
+   "onde": 34
+  },
+  {
+   "enunciado": "Na avaliação psicológica de concursos públicos, como a cartilha diz que os requisitos psicológicos a serem avaliados devem ser definidos?",
+   "alternativas": [
+    "Livremente pela banca, a partir da experiência dos examinadores",
+    "Previamente, por estudo científico do cargo (perfil profissiográfico ou profissiografia)",
+    "Pelos próprios candidatos aprovados na fase anterior",
+    "Após a aplicação dos testes, conforme os resultados obtidos"
+   ],
+   "certa": 1,
+   "comentario": "A cartilha informa que o perfil é definido antes, por estudo científico do cargo, e só então se escolhem as técnicas, que devem constar na lista de testes aprovados no Satepsi.",
+   "trecho": "os requisitos psicológicos a serem avaliados precisam ser definidos previamente, por meio de um estudo científico do cargo, também chamado de perfil profissiográfico ou profissiografia",
+   "onde": 48
+  }
+ ],
+ "https://www.youtube.com/watch?v=CtabP9zF6Qs": [
+  {
+   "enunciado": "Segundo a aula, o que distingue a avaliação psicológica da psicoterapia quanto à exclusividade profissional?",
+   "alternativas": [
+    "Ambas são atividades exclusivas do psicólogo, por lei",
+    "Nenhuma das duas é exclusiva, pois outros profissionais também avaliam",
+    "A psicoterapia é exclusiva do psicólogo, e a avaliação psicológica pode ser feita por qualquer profissional de saúde",
+    "A avaliação psicológica é atividade exclusiva do psicólogo; a psicoterapia, apesar do nome, não é"
+   ],
+   "certa": 3,
+   "comentario": "O professor explica que a psicoterapia não é atividade exclusiva dos psicólogos, embora o CFP busque isso, e a avaliação psicológica é exclusiva do psicólogo.",
+   "trecho": "avaliação psicológica É sim uma atividade exclusiva psicóloga e do psicólogo",
+   "onde": 44
+  },
+  {
+   "enunciado": "Como se chama a avaliação psicológica quando realizada no contexto clínico?",
+   "alternativas": [
+    "Psicodiagnóstico",
+    "Perícia psicológica",
+    "Laudo clínico",
+    "Testagem psicológica"
+   ],
+   "certa": 0,
+   "comentario": "Na clínica, a avaliação psicológica recebe um nome específico: psicodiagnóstico.",
+   "trecho": "quando a gente utiliza avaliação na clínica vai ter um nome específico né vai se chamar psicodiagnóstico",
+   "onde": 105
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é o documento que resulta necessariamente de uma avaliação psicológica, desde a Resolução CFP 06/2019?",
+   "alternativas": [
+    "Parecer ou relatório, à escolha do psicólogo",
+    "Declaração ou relatório multiprofissional",
+    "Laudo ou atestado",
+    "Apenas o laudo, nunca o atestado"
+   ],
+   "certa": 2,
+   "comentario": "A Resolução 06/2019 acabou com a liberdade de escolher entre vários documentos: o resultado de uma avaliação é um laudo ou um atestado.",
+   "trecho": "o documento resultante desse processo avaliativo será necessariamente um laudo ou um atestado",
+   "onde": 290
+  },
+  {
+   "enunciado": "É possível fazer uma avaliação psicológica exclusivamente com fontes complementares de informação?",
+   "alternativas": [
+    "Sim, desde que as fontes tenham respaldo científico",
+    "Sim, quando houver relatório de equipe multiprofissional",
+    "Sim, quando o avaliado for criança",
+    "Não, é preciso ter um ou mais dos três elementos que são fontes fundamentais"
+   ],
+   "certa": 3,
+   "comentario": "As fontes complementares existem para complementar; a avaliação precisa se basear em ao menos uma das três fontes fundamentais (testes, entrevista/anamnese, protocolos de observação).",
+   "trecho": "poderíamos nós fazer uma avaliação psicológica exclusivamente com fontes complementares de informação não poderíamos né porque nós precisamos estar embasados naquilo que é fundamental",
+   "onde": 1002
+  },
+  {
+   "enunciado": "A avaliação psicológica é a mesma coisa que aplicar um teste psicológico? O que a aula responde?",
+   "alternativas": [
+    "Sim, pois o teste é a fonte principal e obrigatória",
+    "Não: é um processo muito mais amplo, e a testagem é só uma de suas partes",
+    "Sim, desde que o teste seja projetivo",
+    "Não: a avaliação dispensa qualquer instrumento padronizado"
+   ],
+   "certa": 1,
+   "comentario": "O professor mostra que os testes são só uma das fontes fundamentais e nem precisam estar presentes; a avaliação envolve entrevistas, documentos e outras análises.",
+   "trecho": "um processo de avaliação psicológica é muito mais amplo do que a mera aplicação de testes psicológicos",
+   "onde": 1186
+  }
+ ],
+ "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en": [
+  {
+   "enunciado": "Segundo Schneider et al., qual é o ponto de partida para realizar uma avaliação psicológica em qualquer área de atuação?",
+   "alternativas": [
+    "Escolher o teste psicológico mais conhecido para o construto",
+    "Consultar a lista de testes favoráveis do Satepsi",
+    "Ter claro o objetivo da avaliação, ou seja, o motivo que levou a pessoa a solicitá-la",
+    "Aplicar uma entrevista inicial padronizada com o avaliando"
+   ],
+   "certa": 2,
+   "comentario": "O fluxograma do artigo começa por definir o objetivo, formulando a pergunta que motivou a avaliação; ela norteia a escolha dos instrumentos.",
+   "trecho": "O ponto de partida para a realização de uma AP, em qualquer área de atuação, é ter claro seu objetivo, o motivo que levou a pessoa a solicitar uma AP",
+   "onde": 4
+  },
+  {
+   "enunciado": "Ao organizar uma avaliação, que cuidado o artigo recomenda quanto à quantidade de instrumentos?",
+   "alternativas": [
+    "Usar o maior número possível de testes, para garantir mais evidências",
+    "Usar os instrumentos necessários, mas não mais do que os estritamente necessários, pois o excesso cansa o avaliado",
+    "Usar sempre um único teste, para manter a padronização",
+    "Usar tantos testes quantos houver na lista do Satepsi para o construto"
+   ],
+   "certa": 1,
+   "comentario": "O texto alerta que o uso excessivo de testes gera cansaço e pode levar o avaliado a responder de forma aleatória.",
+   "trecho": "devem-se usar os instrumentos necessários, mas não mais do que os instrumentos estritamente necessários",
+   "onde": 7
+  },
+  {
+   "enunciado": "Para que servem os dados normativos de um teste, segundo o artigo?",
+   "alternativas": [
+    "Para demonstrar que o teste mede o construto que se propõe a medir",
+    "Para indicar a consistência dos escores em repetições do teste",
+    "Para definir as condições físicas do local de aplicação",
+    "Para fornecer um padrão, a partir de amostra representativa, com o qual os resultados do avaliado são comparados"
+   ],
+   "certa": 3,
+   "comentario": "As normas permitem ver quão diferente o avaliado é de outras pessoas de idade, gênero ou escolaridade semelhantes; por isso é preciso conferir se o grupo normativo se parece com o avaliando.",
+   "trecho": "Os dados normativos de um teste fornecem um padrão, a partir de uma amostra representativa da população, com o qual os resultados de um avaliado podem ser comparados",
+   "onde": 8
+  },
+  {
+   "enunciado": "De acordo com os Standards citados no artigo, o que significa dizer que existem evidências de validade?",
+   "alternativas": [
+    "Que o teste em si é válido para qualquer contexto",
+    "Que há evidências de que as interpretações dos escores avaliam aquilo que o teste se propõe a avaliar",
+    "Que o teste apresenta resultados consistentes em aplicações repetidas",
+    "Que quanto mais evidências houver, necessariamente melhor é o teste"
+   ],
+   "certa": 1,
+   "comentario": "O artigo ressalta que não é o teste que é válido: a validade diz respeito às interpretações dos escores no contexto de uso. A consistência em repetições é a precisão.",
+   "trecho": "não é o teste que é válido, mas trata-se de evidências de que as interpretações do teste de fato avaliam aquilo que o teste se propõe a avaliar",
+   "onde": 9
+  },
+  {
+   "enunciado": "Se o psicólogo hesita sobre ter preparo e experiência com os instrumentos adequados a uma avaliação, o que o artigo recomenda?",
+   "alternativas": [
+    "Aceitar o trabalho e aprender com o próprio caso",
+    "Buscar cursos, supervisão ou até recusar e encaminhar a um profissional mais habilitado",
+    "Substituir os testes por entrevistas livres",
+    "Pedir ao solicitante que escolha os instrumentos"
+   ],
+   "certa": 1,
+   "comentario": "Na última etapa do planejamento, o psicólogo deve avaliar se tem conhecimento para o processo e, se hesitar, buscar formação ou encaminhar.",
+   "trecho": "Caso a resposta a qualquer uma dessas perguntas for hesitante, recomenda-se a busca de cursos, supervisão ou até mesmo a recusa da execução do trabalho, encaminhando-o a um profissional mais habilitado",
+   "onde": 10
+  }
+ ],
+ "https://www.youtube.com/watch?v=1fCmjabKTd8": [
+  {
+   "enunciado": "Como a aula define o exame do estado mental?",
+   "alternativas": [
+    "Aplicação do Mini Exame do Estado Mental para rastrear demência",
+    "Pesquisa sistemática de sinais e sintomas de alterações do funcionamento mental, parte do exame clínico de qualquer paciente",
+    "Exame exclusivo da psiquiatria, feito só quando há suspeita de transtorno",
+    "Exame físico neurológico, com testes de reflexos e coordenação"
+   ],
+   "certa": 1,
+   "comentario": "O palestrante explica que é uma pesquisa sistemática de sinais e sintomas de alterações do funcionamento mental, feita por observação direta e integrada ao exame clínico de qualquer especialidade.",
+   "trecho": "exame estado Mental é uma pesquisa sistemática de sinais e sintomas de alterações do funcionamento mental",
+   "onde": 127
+  },
+  {
+   "enunciado": "Na avaliação da atenção, segundo a aula, o que é a vigilância e o que a diferencia da tenacidade?",
+   "alternativas": [
+    "Vigilância é manter a atenção por tempo prolongado; tenacidade é direcioná-la a um estímulo",
+    "Vigilância é a atenção em atividade mental, como calcular; tenacidade é a atenção a estímulos externos",
+    "Vigilância é a capacidade de direcionar a atenção a um estímulo; tenacidade é a de mantê-la",
+    "Vigilância e tenacidade são sinônimos de concentração"
+   ],
+   "certa": 2,
+   "comentario": "A aula separa as duas dimensões: direcionar a atenção é vigilância (hipo ou hipervigilância) e mantê-la é tenacidade; a concentração é manter a atenção em atividade mental.",
+   "trecho": "gente chama de vigilância então a pessoa pode est hipovigil pessoa hipovigil ela tem dificuldade para direcionar a atenção a um estímulo",
+   "onde": 1183
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a diferença entre ilusão e alucinação na senso-percepção?",
+   "alternativas": [
+    "Na ilusão há um estímulo real mal interpretado; na alucinação não existe estímulo, mas há percepção sensorial dele",
+    "Na ilusão não existe estímulo; na alucinação o estímulo é real, mas mal interpretado",
+    "A ilusão é sempre auditiva, e a alucinação é sempre visual",
+    "As duas são sinônimos e só aparecem na esquizofrenia"
+   ],
+   "certa": 0,
+   "comentario": "Na ilusão o estímulo existe e é interpretado de forma errada; na alucinação a pessoa tem uma percepção sensorial de um estímulo que não existe.",
+   "trecho": "ilusões é quando a gente tem um estímulo mas a gente tem uma má interpretação do estímulo",
+   "onde": 1338
+  },
+  {
+   "enunciado": "Como o palestrante diferencia afeto de humor no exame do estado mental?",
+   "alternativas": [
+    "O afeto é a tonalidade constante e predominante ao longo do tempo; o humor é a reação momentânea",
+    "São sinônimos, usados de forma intercambiável",
+    "O afeto é a experiência imediata que se observa, como uma foto; o humor é a tonalidade constante e predominante em um período mais longo",
+    "O afeto é próprio dos transtornos bipolares, e o humor, dos depressivos"
+   ],
+   "certa": 2,
+   "comentario": "A aula usa a imagem da foto (afeto, imediato) e do filme (humor, tonalidade predominante num período mais longo).",
+   "trecho": "o afeto ele já é ele é mais como se fosse uma foto né Ela é a experiência imediata que se observa",
+   "onde": 2050
+  },
+  {
+   "enunciado": "Sobre a forma de realizar o exame do estado mental, o que o palestrante afirma no final da aula?",
+   "alternativas": [
+    "Deve ser feito em sessão separada, seguindo a ordem do mnemônico",
+    "Resume-se ao Mini Exame do Estado Mental",
+    "É feito durante a anamnese, integrado ao exame clínico, sem precisar seguir a ordem do mnemônico",
+    "Deve ser feito só após o exame físico completo"
+   ],
+   "certa": 2,
+   "comentario": "O exame não se resume ao minimental, que é só um instrumento (mais usado como rastreio de demência); ele é integrado à anamnese e ao exame físico e não exige ordem fixa.",
+   "trecho": "o exame de estado mental não é feito só pelo minimental ele é feito durante a annese e não precisa seguiu a cumia peuc na ordem",
+   "onde": 2855
+  }
+ ],
+ "https://journals.usp.br/rmrp/article/download/711/723/1387": [
+  {
+   "enunciado": "Segundo Zuardi e Loureiro, qual é a principal vantagem das entrevistas estruturadas na psiquiatria?",
+   "alternativas": [
+    "Permitem acesso mais fácil ao material inconsciente do paciente",
+    "Aumentam a confiabilidade do diagnóstico, facilitando a concordância entre diferentes profissionais",
+    "Garantem maior flexibilidade na sequência das perguntas",
+    "Dispensam o preparo técnico do entrevistador"
+   ],
+   "certa": 1,
+   "comentario": "As entrevistas estruturadas têm sequência de perguntas e registros pré-determinados, o que aumenta a confiabilidade diagnóstica; a limitação é a pequena flexibilidade.",
+   "trecho": "A principal vantagem desse tipo de entrevista é aumentar a confiabilidade do diagnóstico psiquiátrico, facilitando a concordância entre diferentes profissionais",
+   "onde": 2
+  },
+  {
+   "enunciado": "De acordo com o artigo, como se caracteriza o exame do estado mental?",
+   "alternativas": [
+    "É a história de vida do paciente, do nascimento à idade adulta",
+    "É a avaliação do funcionamento mental no momento do exame, com base na entrevista, e por isso pode variar de um momento para outro",
+    "É um conjunto fixo de testes que dá um resultado estável do paciente",
+    "É o diagnóstico definitivo do transtorno, formulado ao final da entrevista"
+   ],
+   "certa": 1,
+   "comentario": "Os autores comparam com o exame físico: o paciente medicado pode não mostrar alucinações no momento do exame, pois o estado mental varia com a psicopatologia.",
+   "trecho": "O exame do estado mental é uma avaliação do funcionamento mental do paciente, no momento do exame, com base nas observações que foram feitas durante a entrevista",
+   "onde": 4
+  },
+  {
+   "enunciado": "Um paciente adia longamente o objetivo de sua fala, incorporando detalhes irrelevantes e tediosos, mas acaba chegando ao ponto. Qual alteração da forma do pensamento descreve isso?",
+   "alternativas": [
+    "Tangencialidade",
+    "Circunstancialidade",
+    "Perseveração",
+    "Bloqueio de pensamento"
+   ],
+   "certa": 1,
+   "comentario": "Na circunstancialidade o objetivo da fala é longamente adiado por detalhes irrelevantes; na tangencialidade o objetivo não chega a ser atingido.",
+   "trecho": "Circunstancialidade - o objetivo final de uma determinada fala é longamente adiado, pela incorporação de detalhes irrelevantes e tediosos",
+   "onde": 5
+  },
+  {
+   "enunciado": "Como o artigo define os delírios?",
+   "alternativas": [
+    "Percepções sensoriais na ausência de estimulação externa",
+    "Ideias centradas num tema, com tom afetivo, sustentadas com menos intensidade que uma crença delirante",
+    "Crenças que refletem uma avaliação falsa da realidade, não compartilhadas pelo grupo sociocultural e das quais o paciente não pode ser dissuadido",
+    "Interpretações alteradas de um estímulo externo real"
+   ],
+   "certa": 2,
+   "comentario": "As alternativas incorretas descrevem alucinação, ideia supervalorizada e ilusão. O delírio é uma crença falsa e irredutível à argumentação lógica.",
+   "trecho": "crenças que refletem uma avaliação falsa da realidade, não são compartilhadas por outros membros do grupo sócio-cultural do paciente e das quais não pode ser dissuadido",
+   "onde": 6
+  },
+  {
+   "enunciado": "Como o artigo sugere testar a memória imediata do paciente?",
+   "alternativas": [
+    "Perguntando o que ele comeu em uma das refeições anteriores",
+    "Pedindo que relate onde estudou e qual foi seu primeiro emprego",
+    "Pedindo que memorize três objetos não relacionados e os repita depois de 5 minutos",
+    "Pedindo que diga os dias da semana na ordem inversa"
+   ],
+   "certa": 2,
+   "comentario": "A memória imediata é testada com o nome de três objetos repetidos após 5 minutos; a remota aparece no relato da história de vida e a recente em eventos dos últimos dias.",
+   "trecho": "Pode ser testada, pedindo-se ao paciente que memorize os nomes de três objetos não relacionados e depois de 5 minutos",
+   "onde": 8
+  }
+ ],
+ "https://www.youtube.com/watch?v=UV9cu7TxLKc": [
+  {
+   "enunciado": "Segundo a aula, qual combinação NÃO permite diagnosticar TDAH?",
+   "alternativas": [
+    "Desatenção, hiperatividade e impulsividade juntas",
+    "Hiperatividade e impulsividade, sem desatenção",
+    "Somente desatenção",
+    "Somente impulsividade, ou somente hiperatividade"
+   ],
+   "certa": 3,
+   "comentario": "A professora explica que hiperatividade e impulsividade caminham juntas como critério: o diagnóstico pode ser só de desatenção ou só de hiperatividade-impulsividade, mas não só de impulsividade ou só de hiperatividade.",
+   "trecho": "você pode ter TDH com desatenção hiperatividade impulsividade Você pode ter TDH com hiperatividade impulsividade somente e você pode ter TDH com somente desatenção o que você não pode é ter TDH só com impulsividade",
+   "onde": 815
+  },
+  {
+   "enunciado": "Um paciente teve um episódio depressivo maior e, em outro momento, um episódio maníaco. Segundo a aula, como fica o diagnóstico de transtorno bipolar?",
+   "alternativas": [
+    "Tipo II, pois houve episódio depressivo maior",
+    "Tipo II, desde que a mania tenha sido breve",
+    "Pode ser tipo I ou tipo II, conforme a ordem dos episódios",
+    "Não pode ser tipo II: qualquer episódio maníaco exclui esse tipo, e o caso é tipo I"
+   ],
+   "certa": 3,
+   "comentario": "Mania só existe no tipo I; o tipo II não comporta episódio maníaco, que é critério de exclusão para ele.",
+   "trecho": "o tipo dois não comporta Episódio maníaco se o indivíduo tiver um episódio maníaco sequer ele já não pode ser enquadrado no transtorno bipolar",
+   "onde": 1122
+  },
+  {
+   "enunciado": "Segundo a aula, o que diferencia principalmente o transtorno depressivo maior da distimia (transtorno depressivo persistente)?",
+   "alternativas": [
+    "O tipo de sintoma, pois só a distimia envolve alteração de sono",
+    "A presença de ideação suicida, exclusiva do transtorno depressivo maior",
+    "A duração dos sintomas: pelo menos 2 semanas no depressivo maior e pelo menos 2 anos na distimia",
+    "A idade de início, sempre na infância na distimia"
+   ],
+   "certa": 2,
+   "comentario": "Os sintomas são parecidos; a diferença é a temporalidade: duas semanas no transtorno depressivo maior e dois anos (um ano em crianças e adolescentes) na distimia.",
+   "trecho": "você tem para a a o transtorno depressivo maior pelo menos duas semanas sintom e na distimia você tem pelo menos 2 anos",
+   "onde": 1805
+  },
+  {
+   "enunciado": "Quanto ao transtorno do luto prolongado (DSM-5-TR), qual critério a aula destaca como o primeiro a lembrar?",
+   "alternativas": [
+    "Só se fala em transtorno a partir de um ano após a morte, em adultos",
+    "O diagnóstico vale desde o primeiro mês de luto, se houver sofrimento intenso",
+    "O luto é sempre patológico quando há saudade intensa da pessoa falecida",
+    "O diagnóstico exige que a morte tenha sido súbita ou violenta"
+   ],
+   "certa": 0,
+   "comentario": "Os sintomas existem desde a morte, mas o diagnóstico só se fecha a partir de 12 meses; antes disso é luto considerado normal.",
+   "trecho": "o primeiro critério diagnóstico que você tem que lembrar é que só vai haver um transtorno quando se fala em luto a partir de um ano após a morte",
+   "onde": 3045
+  },
+  {
+   "enunciado": "O que, segundo a aula, diferencia a bulimia nervosa do transtorno de compulsão alimentar?",
+   "alternativas": [
+    "Na bulimia não há episódios de compulsão alimentar",
+    "Na bulimia há comportamento compensatório inapropriado após a compulsão, o que não ocorre na compulsão alimentar isolada",
+    "A bulimia exige peso visivelmente abaixo do esperado, e a compulsão alimentar não",
+    "A compulsão alimentar exige dieta restritiva marcante"
+   ],
+   "certa": 1,
+   "comentario": "A bulimia inclui compulsão alimentar mais comportamento compensatório (vômito, laxantes, exercício excessivo); a compulsão alimentar isolada não tem compensação.",
+   "trecho": "isso aqui é chave para você diferenciar a bulimia da compulsão alimentar então a bulimia tem compulsão alimentar só que além da compulsão alimentar na bulimia você vai ter um compenso um comportamento compensatório",
+   "onde": 3852
+  }
+ ],
+ "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download": [
+  {
+   "enunciado": "Segundo a monografia, qual é a finalidade da padronização diagnóstica trazida por uma classificação como a CID-10?",
+   "alternativas": [
+    "Minimizar discrepâncias entre diagnósticos de diferentes examinadores, que dependeriam de preferências ou experiência particulares",
+    "Substituir o julgamento clínico do psiquiatra por critérios automáticos",
+    "Tornar a psiquiatria uma ciência exata",
+    "Eliminar a necessidade de diagnóstico provisório"
+   ],
+   "certa": 0,
+   "comentario": "O texto diz que a padronização busca reduzir discrepâncias entre examinadores, mas ressalva que a classificação não pretende tornar a psiquiatria uma ciência exata.",
+   "trecho": "Esta padronização tem como finalidade minimizar discrepâncias que podem ocorrer na ausência de uma classificação de transtornos",
+   "onde": 4
+  },
+  {
+   "enunciado": "No código F60.31 da CID-10, o que representa o primeiro dígito após a letra F (o 6)?",
+   "alternativas": [
+    "O subtipo diagnóstico, como o borderline",
+    "O transtorno de personalidade emocionalmente instável",
+    "O grupo principal dos transtornos de personalidade e de comportamento em adultos",
+    "Os transtornos específicos de personalidade"
+   ],
+   "certa": 2,
+   "comentario": "O primeiro dígito indica o grupo principal (6 = personalidade e comportamento em adultos); o segundo (0) os transtornos específicos de personalidade; o terceiro (3) o emocionalmente instável; o quarto (1) o tipo borderline.",
+   "trecho": "Neste caso o primeiro dígito especificador (6) corresponde ao grupo principal dos Transtornos de personalidade e de comportamento em adultos",
+   "onde": 13
+  },
+  {
+   "enunciado": "O que a CID-10 fez com a tradicional divisão entre neurose e psicose, segundo a monografia?",
+   "alternativas": [
+    "Adotou a divisão como princípio organizador principal dos blocos",
+    "Aboliu o termo neurótico, que não aparece em nenhum título",
+    "Deixou de seguir a dicotomia, organizando os transtornos por temas comuns ou semelhanças descritivas, mas manteve o termo neurótico em F40-F48",
+    "Passou a defini-las com base em Freud e Jung"
+   ],
+   "certa": 2,
+   "comentario": "A CID-10 não usa a dicotomia neurótico-psicótico, mas mantém o termo para uso ocasional (bloco F40-F48); a monografia nota que a separação permanece implícita na divisão dos blocos.",
+   "trecho": "Ao invés de seguir a dicotomia neurótico-psicótico, os transtornos são agora arranjados em grupos de acordo com os principais temas comuns ou semelhanças descritivas",
+   "onde": 22
+  },
+  {
+   "enunciado": "Segundo a monografia, o que distingue o transtorno psicótico agudo e transitório (F23) da esquizofrenia (F20) nos critérios da CID-10?",
+   "alternativas": [
+    "O tipo de sintoma, pois só a esquizofrenia tem delírios",
+    "A idade de início do quadro",
+    "A presença de sintomas negativos",
+    "A duração dos sintomas: a esquizofrenia exige período igual ou maior que um mês"
+   ],
+   "certa": 3,
+   "comentario": "A CID-10 adota um critério quantitativo simples, de duração igual ou superior a um mês, para separar esquizofrenia de transtorno psicótico agudo.",
+   "trecho": "a classificação convenciona um período maior ou igual a um mês para a ocorrência dos sintomas e realização do diagnóstico",
+   "onde": 28
+  },
+  {
+   "enunciado": "Na conclusão, como a monografia descreve os critérios predominantes da CID-10?",
+   "alternativas": [
+    "Predominantemente etiológicos, baseados nas causas dos transtornos",
+    "Predominantemente descritivos, como duração e frequência de sintomas, de acordo com um modelo epidemiológico",
+    "Predominantemente psicodinâmicos, baseados em Freud e Jung",
+    "Predominantemente biológicos, baseados em exames laboratoriais"
+   ],
+   "certa": 1,
+   "comentario": "O autor conclui que a classificação se apoia em critérios descritivos e quantitativos, o que dá praticidade, mas apresenta falhas em casos em que o quadro exige descrição mais detalhada.",
+   "trecho": "o empenho dos autores em realizar uma padronização de inúmeros transtornos psiquiátricos a partir de critérios predominantemente descritivos, como por exemplo duração de sintomas, freqüência de determinados sintomas",
+   "onde": 39
+  }
+ ],
+ "https://www.youtube.com/watch?v=jN1PzHGxom0": [
+  {
+   "enunciado": "Segundo o professor, o que significa dissertar?",
+   "alternativas": [
+    "Resumir o que todo mundo já sabe sobre o tema",
+    "Aprofundar o tema, indo além do que o senso comum diz",
+    "Narrar fatos em ordem cronológica",
+    "Listar propostas de solução para um problema"
+   ],
+   "certa": 1,
+   "comentario": "O professor define dissertar como aprofundar um tema, indo além do senso comum, mostrando o que se pensa e por quê.",
+   "trecho": "Dissertar significa o quê? Aprofundar, ou seja, ir além do que o senso comum diz.",
+   "onde": 98
+  },
+  {
+   "enunciado": "Na dissertação argumentativa, qual é o foco central segundo a aula?",
+   "alternativas": [
+    "A beleza e o rebuscamento do vocabulário",
+    "O número de citações de autores famosos",
+    "A proposta de intervenção, em qualquer prova",
+    "Os argumentos, descritos como o coração da redação"
+   ],
+   "certa": 3,
+   "comentario": "O professor afirma que o foco central são os argumentos, que sustentam o ponto de vista e convencem o leitor.",
+   "trecho": "Lembrando que dissertação argumentativa, o foco central são os argumentos. Os argumentos são o coração da tua redação.",
+   "onde": 251
+  },
+  {
+   "enunciado": "O que o professor diz que deve conter a primeira etapa da estrutura, o primeiro parágrafo?",
+   "alternativas": [
+    "Descrever o tema, apontar e contextualizar a problemática e apresentar o seu posicionamento",
+    "Apresentar dois argumentos detalhados com dados e exemplos",
+    "Retomar o ponto de vista e apresentar a proposta de intervenção",
+    "Citar a opinião de especialistas sem se posicionar"
+   ],
+   "certa": 0,
+   "comentario": "A introdução apresenta e contextualiza o tema e já traz o posicionamento do autor.",
+   "trecho": "descrever o tema que vai ser tratado, apontar a problemática, contextualizar esse problema, apresentar o seu posicionamento",
+   "onde": 314
+  },
+  {
+   "enunciado": "Em um texto de 30 linhas do Enem, como o professor organiza o corpo do texto após a introdução?",
+   "alternativas": [
+    "Um parágrafo único de desenvolvimento com a proposta de intervenção",
+    "Quatro parágrafos de desenvolvimento, cada um com um argumento",
+    "Dois parágrafos de desenvolvimento, para argumentar e defender o ponto de vista",
+    "Dois parágrafos descrevendo o tema e um de conclusão"
+   ],
+   "certa": 2,
+   "comentario": "Segundo a aula, depois da introdução de cinco a sete linhas vêm dois parágrafos de desenvolvimento com argumentos detalhados que explicam o porquê do posicionamento.",
+   "trecho": "Depois você vai fazer mais dois parágrafos de desenvolvimento, certo? E nesses dois parágrafos você vai trazer o quê? argumentar e defender o seu ponto de vista.",
+   "onde": 345
+  },
+  {
+   "enunciado": "Como deve ser a conclusão de uma dissertação argumentativa para o Enem, segundo a aula?",
+   "alternativas": [
+    "Introduzir um novo argumento que não apareceu antes",
+    "Retomar o ponto de vista apresentado e trazer uma proposta de intervenção",
+    "Apenas repetir o tema, sem posicionamento",
+    "Trazer só a proposta de intervenção, sem retomar o ponto de vista"
+   ],
+   "certa": 1,
+   "comentario": "A conclusão retoma o ponto de vista e, no Enem, tem de trazer a proposta de intervenção, que não é obrigatória em outras provas.",
+   "trecho": "E na conclusão, você vai concluir o texto retomando o teu ponto de vista apresentado. E no caso do Enem, obviamente tem que trazer uma proposta de intervenção.",
+   "onde": 406
+  }
+ ],
+ "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf#page=7": [
+  {
+   "enunciado": "Segundo a Cartilha do Participante do Enem 2025, quem avalia a redação e de que modo?",
+   "alternativas": [
+    "Um único avaliador formado em qualquer área, que atribui a nota final",
+    "Dois avaliadores que discutem entre si e chegam a uma nota única",
+    "Um avaliador de Letras e um de Direito, que somam as notas",
+    "No mínimo duas pessoas graduadas em Letras ou Linguística, de forma independente, sem conhecer a nota uma da outra"
+   ],
+   "certa": 3,
+   "comentario": "A cartilha informa que a redação é corrigida por no mínimo dois avaliadores graduados em Letras ou Linguística, que trabalham de forma independente.",
+   "trecho": "O texto produzido por você será avaliado por, no mínimo, duas pessoas graduadas em Letras ou Linguística, de forma independente, sem que uma conheça a nota atribuída pela outra",
+   "onde": 7
+  },
+  {
+   "enunciado": "Como a cartilha explica a atribuição de pontos a cada competência da redação?",
+   "alternativas": [
+    "Cada avaliador atribui uma nota entre 0 e 200 pontos a cada uma das cinco competências",
+    "Cada competência vale 100 pontos, e só o terceiro avaliador atribui notas",
+    "Cada avaliador atribui uma nota única de 0 a 1000, sem separar competências",
+    "As competências II e III valem mais que as demais"
+   ],
+   "certa": 0,
+   "comentario": "São cinco competências, cada uma de 0 a 200 pontos; a nota de cada avaliador é a soma delas.",
+   "trecho": "Cada avaliador(a) atribuirá uma nota entre 0 (zero) e 200 (duzentos) pontos para cada uma das cinco competências",
+   "onde": 8
+  },
+  {
+   "enunciado": "O que a Competência I avalia na redação do Enem?",
+   "alternativas": [
+    "A compreensão da proposta e o uso de repertório sociocultural",
+    "A elaboração de proposta de intervenção que respeite os direitos humanos",
+    "O domínio da modalidade escrita formal da língua portuguesa",
+    "O uso dos mecanismos linguísticos de coesão para a argumentação"
+   ],
+   "certa": 2,
+   "comentario": "A Competência I avalia o domínio da modalidade escrita formal: convenções da escrita, gramática, escolha de registro e de vocabulário, além da estrutura sintática.",
+   "trecho": "A Competência I avalia se o(a) participante domina a modalidade escrita formal da língua portuguesa",
+   "onde": 14
+  },
+  {
+   "enunciado": "Segundo a cartilha, como o participante deve usar informações de áreas do conhecimento para atender à Competência II?",
+   "alternativas": [
+    "Citando o maior número possível de autores, mesmo sem relação com a tese",
+    "Usando apenas as ideias dos textos motivadores",
+    "Selecionando informações pertinentes ao tema a partir de seus conhecimentos próprios e articulando-as de modo produtivo no texto",
+    "Copiando trechos dos textos motivadores para dar credibilidade"
+   ],
+   "certa": 2,
+   "comentario": "A cartilha recomenda ir além dos textos motivadores e articular o repertório de modo produtivo à defesa do ponto de vista; citações soltas perdem relevância.",
+   "trecho": "Selecione, a partir de seus conhecimentos próprios, e não apenas dos textos motivadores, informações de áreas do conhecimento pertinentes ao tema e articule-as de modo produtivo no seu texto",
+   "onde": 17
+  },
+  {
+   "enunciado": "O que a cartilha chama de repertório de bolso e qual o risco de usá-lo?",
+   "alternativas": [
+    "Referência pronta e memorizada, usada com qualquer tema; se inserida de forma decorada ou forçada, pode ser avaliada como não produtiva e prejudicar a Competência II",
+    "Citação de textos motivadores, que é proibida e leva à nota zero",
+    "Repertório oriundo da vivência pessoal do participante, que não conta como argumento",
+    "Citação de autor estrangeiro, que reduz a nota na Competência I"
+   ],
+   "certa": 0,
+   "comentario": "O repertório de bolso é a referência pronta e reutilizável com qualquer tema; se aparecer decorada, automática ou forçada, pode ser vista como não produtiva.",
+   "trecho": "Se o(a) avaliador(a) perceber que o repertório foi inserido de forma decorada, automática ou forçada, ele(a) pode avaliá-lo como não produtivo, o que poderá prejudicar a nota da competência II",
+   "onde": 18
+  }
+ ],
+ "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf#page=28": [
+  {
+   "enunciado": "Segundo a Cartilha do Participante, o que o candidato deve evitar para não ser penalizado por trazer outro tipo textual para a redação dissertativo-argumentativa?",
+   "alternativas": [
+    "Usar dados e exemplos para sustentar os argumentos",
+    "Elaborar um poema ou reduzir o texto à narração de uma história ou a um depoimento de experiência pessoal, ainda que aborde o tema",
+    "Apresentar o ponto de vista logo na introdução",
+    "Citar fatos de áreas do conhecimento relacionadas ao tema"
+   ],
+   "certa": 1,
+   "comentario": "A cartilha alerta que a predominância de características de outro tipo textual leva à nota zero, e muitas características de outro tipo em meio a um texto dissertativo penalizam a Competência II.",
+   "trecho": "Portanto, você não deve, por exemplo, elaborar um poema ou reduzir o seu texto à narração de uma história ou a um depoimento de experiência pessoal, ainda que aborde o tema",
+   "onde": 28
+  },
+  {
+   "enunciado": "Segundo o quadro de desempenho da Competência II, o que caracteriza a nota de 200 pontos?",
+   "alternativas": [
+    "Desenvolver o tema recorrendo à cópia de trechos dos textos motivadores",
+    "Argumentação previsível e domínio mediano do texto dissertativo-argumentativo",
+    "Desenvolver o tema por meio de argumentação consistente, a partir de repertório sociocultural produtivo, com excelente domínio do texto dissertativo-argumentativo",
+    "Tangenciar o tema, com traços constantes de outros tipos textuais"
+   ],
+   "certa": 2,
+   "comentario": "O nível de 200 pontos exige argumentação consistente, repertório sociocultural produtivo e excelente domínio do tipo dissertativo-argumentativo.",
+   "trecho": "Desenvolve o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo",
+   "onde": 28
+  },
+  {
+   "enunciado": "Do que trata a Competência III da redação do Enem?",
+   "alternativas": [
+    "Da inteligibilidade do texto, isto é, da coerência e da plausibilidade entre as ideias apresentadas",
+    "Do uso de conectivos e de elementos de coesão entre os parágrafos",
+    "Da proposta de intervenção que respeite os direitos humanos",
+    "Do domínio da modalidade escrita formal da língua portuguesa"
+   ],
+   "certa": 0,
+   "comentario": "A Competência III avalia a inteligibilidade, alicerçada no planejamento prévio do texto (projeto de texto); a coesão é tratada na Competência IV.",
+   "trecho": "A Competência III trata da inteligibilidade do seu texto, ou seja, de sua coerência e da plausibilidade entre as ideias apresentadas",
+   "onde": 29
+  },
+  {
+   "enunciado": "Por que, segundo a cartilha, a seleção das informações do projeto de texto deve ser feita com cuidado?",
+   "alternativas": [
+    "Porque o avaliador só lê o primeiro parágrafo",
+    "Porque há um número limite de linhas, e é preciso escolher os melhores argumentos",
+    "Porque a banca penaliza textos com mais de um argumento",
+    "Porque é proibido usar informações dos textos motivadores"
+   ],
+   "certa": 1,
+   "comentario": "A cartilha explica que, como o número de linhas é limitado, convém escolher os melhores argumentos e desdobrá-los, evitando informações irrelevantes, repetidas ou excessivas.",
+   "trecho": "Por haver um número limite de linhas, a seleção de informações a serem utilizadas em seu projeto de texto deve ser feita com cuidado",
+   "onde": 30
+  },
+  {
+   "enunciado": "O que os aspectos avaliados na Competência IV dizem respeito, segundo a cartilha?",
+   "alternativas": [
+    "À argumentação em defesa de um ponto de vista",
+    "À estruturação lógica e formal entre as partes da redação, isto é, à coesão",
+    "À escolha do vocabulário e das convenções da escrita",
+    "À elaboração de proposta de intervenção detalhada"
+   ],
+   "certa": 1,
+   "comentario": "A Competência IV avalia os mecanismos linguísticos (conectivos, pronomes, referenciação etc.) que dão encadeamento ao texto.",
+   "trecho": "Os aspectos a serem avaliados na Competência IV dizem respeito à estruturação lógica e formal entre as partes da redação",
+   "onde": 32
+  }
+ ],
+ "https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/a_redacao_no_enem_2025_cartilha_do_participante.pdf#page=33": [
+  {
+   "enunciado": "Segundo a cartilha, como o participante deve produzir sua redação para atender à Competência IV?",
+   "alternativas": [
+    "Usar o menor número possível de conectivos, para evitar repetições",
+    "Reproduzir o mesmo conectivo em todos os parágrafos, para manter a padronização",
+    "Utilizar variados recursos linguísticos que garantam as relações de continuidade essenciais à elaboração de um texto coeso",
+    "Concentrar os recursos coesivos apenas na introdução e na conclusão"
+   ],
+   "certa": 2,
+   "comentario": "A cartilha pede variedade de recursos coesivos, que garantam a continuidade tanto entre os parágrafos quanto dentro deles.",
+   "trecho": "Assim, na produção da sua redação, você deve utilizar variados recursos linguísticos que garantam as relações de continuidade essenciais à elaboração de um texto coeso",
+   "onde": 33
+  },
+  {
+   "enunciado": "O que a cartilha afirma sobre a relação entre boa coesão e conectivos?",
+   "alternativas": [
+    "Quanto mais conectivos, maior a nota",
+    "Basta usar conectivos de adição e de conclusão",
+    "Conectivos são dispensáveis no texto dissertativo",
+    "A boa coesão não depende da mera presença de conectivos nem de serem usados em grande quantidade"
+   ],
+   "certa": 3,
+   "comentario": "A cartilha alerta contra o uso artificial ou excessivo de elementos coesivos: o que importa é que eles estabeleçam relações lógicas adequadas entre as ideias.",
+   "trecho": "boa coesão não depende da mera presença de conectivos no texto, muito menos de serem",
+   "onde": 35
+  },
+  {
+   "enunciado": "Segundo a cartilha, como deve ser a proposta de intervenção em relação ao restante da redação?",
+   "alternativas": [
+    "Independente do restante, pois é avaliada à parte",
+    "Relacionada ao tema e integrada ao projeto de texto",
+    "Genérica, para servir a qualquer tema",
+    "Baseada apenas nos textos motivadores"
+   ],
+   "certa": 1,
+   "comentario": "A proposta deve ser coerente com o ponto de vista e os argumentos desenvolvidos, respondendo aos problemas abordados no texto.",
+   "trecho": "A proposta de intervenção precisa estar relacionada ao tema e integrada ao seu projeto de texto",
+   "onde": 36
+  },
+  {
+   "enunciado": "Sobre a clareza da proposta de intervenção, o que a cartilha orienta?",
+   "alternativas": [
+    "Basta constatar que falta um projeto ou investimento para resolver o problema",
+    "Pode-se usar estruturas condicionais, como se x for feito, o resultado poderá ser y",
+    "Deve-se expor com clareza o desejo de intervir na realidade, contemplando a situação problematizada no texto",
+    "Deve-se evitar mencionar o problema discutido nos parágrafos anteriores"
+   ],
+   "certa": 2,
+   "comentario": "A cartilha desaconselha propostas vagas ou condicionais e pede que a intervenção esteja explícita e responda ao problema discutido.",
+   "trecho": "Em suma, você deve expor com clareza o seu desejo de intervir na realidade e a sua proposta deve contemplar a situação problematizada em seu texto",
+   "onde": 37
+  },
+  {
+   "enunciado": "O que acontece, segundo a cartilha, com propostas de intervenção que desrespeitem os direitos humanos?",
+   "alternativas": [
+    "Perdem 40 pontos na Competência V",
+    "Anulam toda a redação",
+    "Recebem nota 0 (zero) na Competência V",
+    "Recebem nota 0 (zero) na Competência I"
+   ],
+   "certa": 2,
+   "comentario": "A cartilha destaca que propostas que desrespeitem os direitos humanos recebem nota zero na Competência V.",
+   "trecho": "Propostas que desrespeitem os direitos humanos receberão nota 0 (zero) na Competência V",
+   "onde": 39
+  }
+ ]
+}

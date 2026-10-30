@@ -1,0 +1,806 @@
+{
+ "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=243": [
+  {
+   "enunciado": "Segundo o texto, qual foi a contribuição de Louis Terman ao teste de inteligência criado por Binet?",
+   "alternativas": [
+    "Padronizou a aplicação do teste e o aplicou a milhares de crianças de várias idades para estabelecer uma pontuação média por idade",
+    "Substituiu as tarefas verbais por tarefas apenas não verbais, aplicáveis a adultos",
+    "Criou o conceito de quociente intelectual a partir da medida do crânio das crianças",
+    "Reuniu subtestes de outros instrumentos usados antes da Primeira Guerra Mundial em uma escala para adultos"
+   ],
+   "certa": 0,
+   "comentario": "O texto diz que Terman modificou o trabalho de Binet padronizando a aplicação e testando milhares de crianças para obter a média de cada idade, originando o Stanford-Binet.",
+   "trecho": "Louis Terman, a Stanford professor, modified Binet’s work by standardizing the administration of the test and tested thousands of different-aged children to establish an average score for each age",
+   "onde": 243
+  },
+  {
+   "enunciado": "De acordo com o texto, o que são normas (norms) em um teste de inteligência?",
+   "alternativas": [
+    "Expectativas do que cada grupo etário deveria saber em cada idade",
+    "Pontuações de referência obtidas ao aplicar o teste a uma grande população, usadas para interpretar escores futuros",
+    "Regras éticas que definem quem pode comprar e aplicar o teste",
+    "Instruções que tornam a forma de aplicação idêntica para todos os examinandos"
+   ],
+   "certa": 1,
+   "comentario": "Normas são dados de referência da aplicação a uma grande população; não são expectativas, e sim demonstração do que o grupo de fato sabe. A padronização é que trata da consistência da aplicação.",
+   "trecho": "Norms are not expectations of what a given group should know but a demonstration of what that group does know",
+   "onde": 244
+  },
+  {
+   "enunciado": "Sobre o WISC-V, descrito no texto, qual afirmação está correta?",
+   "alternativas": [
+    "Tem 14 subtestes que formam cinco índices e resultam em um QI de Escala Completa",
+    "É composto apenas por tarefas verbais, como o teste original de Binet",
+    "Gera um único escore, sem separar as habilidades cognitivas",
+    "Foi criado em 1939 e destina-se exclusivamente a adultos"
+   ],
+   "certa": 0,
+   "comentario": "O WISC-V tem 14 subtestes, que compõem cinco índices, e o resultado traz um escore por índice mais o QI de Escala Completa.",
+   "trecho": "The WISC-V is composed of 14 subtests, which comprise five indices, which then render an IQ score",
+   "onde": 244
+  },
+  {
+   "enunciado": "Em um teste de QI moderno com média 100 e desvio padrão de 15 pontos, como se descreve e quanto da população está na faixa média (entre 85 e 115)?",
+   "alternativas": [
+    "Cerca de 95% da população, entre 70 e 130",
+    "Cerca de 50% da população, entre 90 e 110",
+    "Cerca de 68% da população, a menos de um desvio padrão da média",
+    "Cerca de 85% da população, entre 80 e 120"
+   ],
+   "certa": 2,
+   "comentario": "O texto define a faixa média como a de um desvio padrão acima e abaixo da média (85 a 115), onde estão 68% da população.",
+   "trecho": "Any IQ score that falls within one standard deviation above and below the mean (between 85 and 115) is considered average, and 68% of the population has IQ scores in this range",
+   "onde": 246
+  },
+  {
+   "enunciado": "Segundo o texto, qual conjunto de condições permite diagnosticar uma deficiência intelectual?",
+   "alternativas": [
+    "Escore de QI acima de 130 e dificuldades escolares",
+    "Escore em torno de dois desvios padrão abaixo da média, déficits importantes no funcionamento adaptativo, presentes antes dos 18 anos",
+    "Qualquer escore abaixo de 85 identificado na vida adulta",
+    "Escore abaixo de 100 em dois testes aplicados por psiquiatra"
+   ],
+   "certa": 1,
+   "comentario": "O diagnóstico exige QI por volta de 70, déficits adaptativos importantes e início antes dos 18 anos.",
+   "trecho": "has major deficits in adaptive functioning, and these cognitive and adaptive deficits were present before the age of 18, they could be diagnosed as having an intellectual disability",
+   "onde": 247
+  }
+ ],
+ "https://www.redalyc.org/pdf/261/26170905.pdf": [
+  {
+   "enunciado": "Segundo Borges-Andrade, como a literatura clássica distingue o conceito de Desenvolvimento do de Treinamento?",
+   "alternativas": [
+    "Desenvolvimento é mais abrangente e inclui ações que estimulam o crescimento pessoal, sem visar necessariamente à melhoria do desempenho atual ou futuro",
+    "Desenvolvimento é mais restrito e se limita a corrigir deficiências de desempenho já identificadas",
+    "Desenvolvimento é sempre sistemático e usa tecnologia instrucional, enquanto Treinamento depende só da autogestão",
+    "Desenvolvimento e Treinamento têm o mesmo sentido e a literatura clássica não os diferencia"
+   ],
+   "certa": 0,
+   "comentario": "O texto afirma que Desenvolvimento é compreendido como mais abrangente, incluindo o livre crescimento pessoal dos membros, sem visar necessariamente a melhoria de desempenho.",
+   "trecho": "é compreendido como mais abrangente, incluindo ações organizacionais que estimulam o livre crescimento pessoal de seus membros, que não visam necessariamente a melhoria de desempenhos atuais ou futuros",
+   "onde": 3
+  },
+  {
+   "enunciado": "No modelo de cinco níveis de avaliação de treinamento de Hamblin, qual nível tem como foco a produção ou o serviço da organização, comparando custos do treinamento com seus benefícios?",
+   "alternativas": [
+    "Reação",
+    "Comportamento no cargo",
+    "Organização",
+    "Valor final"
+   ],
+   "certa": 3,
+   "comentario": "O nível V, valor final, olha a produção ou o serviço prestado e geralmente compara custos e benefícios. O nível IV (organização) trata do funcionamento e das mudanças na organização.",
+   "trecho": "valor final, que tem como foco a produção ou o serviço prestado pela organização, o que geralmente implica em comparar custos do treinamento com os seus benefícios",
+   "onde": 3
+  },
+  {
+   "enunciado": "No Modelo de Avaliação Integrado e Somativo (MAIS), o que são os insumos?",
+   "alternativas": [
+    "As operações realizadas pelo instrutor para produzir os resultados instrucionais",
+    "O que foi aprendido pelos treinandos ao final do treinamento",
+    "Os fatores físicos e sociais e estados comportamentais do treinando, anteriores ao treinamento, que podem afetar sua realização",
+    "As consequências ambientais do treinamento medidas depois de algum tempo"
+   ],
+   "certa": 2,
+   "comentario": "Insumos são fatores anteriores ao treinamento ligados ao treinando (como experiências prévias e motivação). Procedimentos são as operações do instrutor, e resultados são o que foi aprendido.",
+   "trecho": "Insumos, no referido modelo, são definidos como os fatores físicos e sociais e estados comportamentais, geralmente associados ao treinando, anteriores ao treinamento e que podem afetar sua realização",
+   "onde": 4
+  },
+  {
+   "enunciado": "Por que, segundo o texto, é difícil medir a aprendizagem comparando o desempenho antes e depois do treinamento?",
+   "alternativas": [
+    "Porque os treinandos se recusam a responder a questionários de reação",
+    "Porque quase sempre não existem baterias de itens efetivamente similares para os dois momentos",
+    "Porque o instrutor nunca aplica pós-testes ao final do treinamento",
+    "Porque a aprendizagem só pode ser observada pelos clientes da organização"
+   ],
+   "certa": 1,
+   "comentario": "O autor aponta que a comparação antes e depois é dificilmente viável porque faltam baterias de itens similares para os dois momentos, além do constrangimento de iniciar com uma avaliação.",
+   "trecho": "uma boa medida de aprendizagem deveria comparar desempenhos antes e depois do treinamento. Isto é dificilmente viável, pois quase sempre não existem baterias de itens efetivamente similares",
+   "onde": 6
+  },
+  {
+   "enunciado": "Ao medir o comportamento no cargo, o que caracteriza a mensuração em \"profundidade\" (Hamblin)?",
+   "alternativas": [
+    "O foco é estritamente no que está previsto no programa do treinamento, mesmo que não esteja escrito",
+    "O foco são os fatores corporativos de desempenho esperados de todos os empregados da organização",
+    "A medida é feita sempre por observação direta do treinando no posto de trabalho",
+    "A medida avalia apenas as reações dos treinandos ao instrutor"
+   ],
+   "certa": 0,
+   "comentario": "Em profundidade o foco fica no previsto no programa; em largura, avalia-se o impacto em dimensões do desempenho que vão além do programa, como os fatores corporativos do Banco do Brasil.",
+   "trecho": "No primeiro caso, o foco da avaliação é estritamente no que está previsto no programa do treinamento, mesmo que isso não esteja escrito e que seja necessário fazer um levantamento exploratório",
+   "onde": 8
+  }
+ ],
+ "https://www.scielo.br/pdf/rae/v41n1/v41n1a02.pdf": [
+  {
+   "enunciado": "Segundo Durand, citado no artigo, em que consiste a competência?",
+   "alternativas": [
+    "No conjunto de conhecimentos, habilidades e atitudes necessários à consecução de determinado propósito",
+    "Apenas no conjunto de qualificações técnicas exigidas pela descrição do cargo",
+    "Somente no resultado quantitativo alcançado pelo empregado em um período",
+    "Na capacidade de cumprir tarefas predefinidas e estáticas com o mínimo de reflexão"
+   ],
+   "certa": 0,
+   "comentario": "Durand, seguindo Pestalozzi, define competência em três dimensões interdependentes: conhecimentos, habilidades e atitudes, indo além das questões técnicas.",
+   "trecho": "competência diz respeito ao conjunto de conhecimentos, habilidades e atitudes necessários à consecução de determinado propósito",
+   "onde": 3
+  },
+  {
+   "enunciado": "De acordo com Prahalad e Hamel, o que caracteriza as competências essenciais organizacionais?",
+   "alternativas": [
+    "São as que conferem vantagem competitiva, geram valor distintivo percebido pelos clientes e são difíceis de imitar",
+    "São as competências individuais de todos os empregados somadas",
+    "São as exigidas em qualquer organização do mesmo setor para operar",
+    "São as definidas pela chefia no modelo de avaliação de mão única"
+   ],
+   "certa": 0,
+   "comentario": "As competências essenciais da organização geram vantagem competitiva e valor percebido pelos clientes, e a concorrência tem dificuldade em copiá-las (exemplos: motores leves da Honda, miniaturização da Sony).",
+   "trecho": "competências essenciais organizacionais são aquelas que conferem vantagem competitiva, geram valor distintivo percebido pelos clientes e são difíceis de serem imitadas pela concorrência",
+   "onde": 3
+  },
+  {
+   "enunciado": "No modelo de gestão de competências sugerido por Ienaga, qual é o passo inicial?",
+   "alternativas": [
+    "Avaliar o desempenho individual de cada empregado",
+    "Identificar a lacuna (gap) entre as competências necessárias e as disponíveis na organização",
+    "Selecionar e contratar novos profissionais",
+    "Formalizar alianças estratégicas com outras empresas"
+   ],
+   "certa": 1,
+   "comentario": "O processo começa com a identificação do gap de competências; só depois vêm planejamento, seleção, desenvolvimento e avaliação das competências.",
+   "trecho": "Um modelo sugerido por Ienaga (1998) tem como passo inicial a identificação do gap (lacuna) de competências da organização",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo o artigo, o que o termo \"gestão\" acrescenta ao mecanismo tradicional de avaliação de desempenho?",
+   "alternativas": [
+    "Passa a ser um processo com atividades de planejamento, acompanhamento e avaliação propriamente dita",
+    "Substitui o acompanhamento por uma única avaliação anual feita pelo chefe",
+    "Elimina a comparação entre resultados esperados e alcançados",
+    "Restringe a avaliação ao nível corporativo"
+   ],
+   "certa": 0,
+   "comentario": "A gestão de desempenho é uma alternativa à avaliação tradicional: o termo gestão dá a conotação de um processo de planejamento, acompanhamento e avaliação.",
+   "trecho": "O termo gestão dá ao mecanismo de avaliação a conotação de um processo que envolve atividades de planejamento, de acompanhamento e de avaliação propriamente dita",
+   "onde": 5
+  },
+  {
+   "enunciado": "Qual é a conclusão dos autores sobre a relação entre gestão de competências e gestão de desempenho?",
+   "alternativas": [
+    "São tecnologias independentes e incompatíveis, que não devem ser aplicadas juntas",
+    "A gestão de competências substitui por completo a de desempenho",
+    "São complementares e interdependentes, o que justifica falar em gestão de desempenho baseada nas competências",
+    "A gestão de desempenho é só um modismo e a de competências é a única tecnologia válida"
+   ],
+   "certa": 2,
+   "comentario": "Os autores concluem que as duas parecem complementar-se em um contexto mais amplo de gestão organizacional e propõem o termo gestão de desempenho baseada nas competências.",
+   "trecho": "Como instrumentos de um mesmo construto, melhor seria cunhar o termo gestão de desempenho baseada nas competências, uma vez que este considera o caráter de complementaridade e interdependência entre competência e desempenho",
+   "onde": 7
+  }
+ ],
+ "https://fafire.emnuvens.com.br/lumen/article/download/504/446/457": [
+  {
+   "enunciado": "Segundo o texto, com base em Chiavenato, como age o líder autocrático?",
+   "alternativas": [
+    "Centraliza a decisão, dita as ordens e estabelece os caminhos sem a opinião dos participantes",
+    "Cede a decisão ao grupo e assume o papel de conselheiro e mediador",
+    "Deixa o grupo totalmente livre, sem orientação nenhuma do líder",
+    "Inspira a equipe e acompanha o desenvolvimento individual de cada um"
+   ],
+   "certa": 0,
+   "comentario": "A liderança autocrática centraliza as decisões e as ordens. O papel de conselheiro é do líder democrático, e acompanhar cada um individualmente é traço do transformacional.",
+   "trecho": "o líder centraliza a tomada de decisão, dita as ordens, determina as ideias e o que será executado pelo grupo, estabelece caminhos sem a opinião dos participantes",
+   "onde": 3
+  },
+  {
+   "enunciado": "Como Robbins, citado no artigo, define a motivação?",
+   "alternativas": [
+    "Um traço fixo de personalidade que o trabalhador já traz ao ser contratado",
+    "Um processo responsável pela intensidade, direção e persistência dos esforços de uma pessoa para alcançar uma meta",
+    "A remuneração oferecida em troca da força de trabalho do empregado",
+    "O prestígio pessoal do líder e a aceitação dos subordinados"
+   ],
+   "certa": 1,
+   "comentario": "Para Robbins, motivação é um processo ligado à intensidade, direção e persistência do esforço rumo a uma meta ou resultado.",
+   "trecho": "a motivação é um processo responsável pela intensidade, direção e persistência dos esforços de uma pessoa para o alcance de uma determinada meta ou resultado",
+   "onde": 4
+  },
+  {
+   "enunciado": "Na teoria dos dois fatores de Herzberg, apresentada no texto, o que são os fatores de higiene?",
+   "alternativas": [
+    "Fontes de satisfação, como realização, reconhecimento e responsabilidade",
+    "Necessidades fisiológicas ligadas à sobrevivência do indivíduo",
+    "Fontes de insatisfação ligadas ao contexto do trabalho, e reduzir a insatisfação se faz alterando o ambiente",
+    "Necessidades de poder, afiliação e realização"
+   ],
+   "certa": 2,
+   "comentario": "Os fatores de higiene são fontes de insatisfação no ambiente de trabalho; já os fatores de motivação (realização, reconhecimento, responsabilidade) geram satisfação.",
+   "trecho": "os fatores de higiene são as fontes de insatisfação no ambiente de trabalho ou contexto. Já os fatores de motivação incluem senso de realização, reconhecimento e responsabilidade e são os de satisfação",
+   "onde": 5
+  },
+  {
+   "enunciado": "Na teoria atribuída a McClelland no texto, a que se refere a necessidade de poder?",
+   "alternativas": [
+    "Ao desejo de estabelecer relações pessoais e fortalecer amizades pela confiança mútua",
+    "Ao desejo de sentir-se distante dos riscos",
+    "À busca de sucesso segundo padrões culturais internalizados",
+    "Ao desejo de estar no controle e de influenciar o comportamento das pessoas"
+   ],
+   "certa": 3,
+   "comentario": "A necessidade de poder é o desejo de controlar e influenciar o comportamento dos outros. A afiliação trata de relacionamentos e a realização, do sucesso.",
+   "trecho": "Necessidade do poder: relaciona-se com o desejo de estar no controle, de influenciar o comportamento das pessoas fazendo com que os outros revelem comportamentos que não adotariam normalmente",
+   "onde": 5
+  },
+  {
+   "enunciado": "O que o estudo constatou sobre a existência de um estilo de liderança ideal?",
+   "alternativas": [
+    "O estilo autocrático é o ideal em qualquer organização",
+    "O estilo liberal é sempre superior, por dar autonomia total ao grupo",
+    "Há dificuldade em definir um estilo ideal, e a mistura de estilos permite ao líder se adequar às pessoas e às situações",
+    "O estilo ideal é o carismático, por depender só das características pessoais do líder"
+   ],
+   "certa": 2,
+   "comentario": "A revisão concluiu que é difícil definir um estilo ideal, e que a combinação de estilos ajuda o líder a lidar com a individualidade e a diversidade de situações.",
+   "trecho": "há dificuldades em definir um estilo ideal de líder, o que permite compreender os variados estilos de liderança e adquirir subsídios para uma melhor atuação do gestor",
+   "onde": 7
+  }
+ ],
+ "https://www.redalyc.org/pdf/1005/100517107007.pdf": [
+  {
+   "enunciado": "Como Locke (1969) define a satisfação no trabalho, segundo o artigo?",
+   "alternativas": [
+    "Como a atitude geral de uma pessoa em relação ao trabalho que realiza",
+    "Como o resultado da avaliação que o trabalhador faz do trabalho ou da realização de seus valores por meio dele, uma emoção positiva de bem-estar",
+    "Como o conjunto de fatores de higiene presentes no ambiente de trabalho",
+    "Como a ausência de estresse e de absenteísmo na organização"
+   ],
+   "certa": 1,
+   "comentario": "Locke vê a satisfação como estado emocional resultante da avaliação dos valores do trabalhador. A definição como atitude geral é de Robbins.",
+   "trecho": "define satisfação no trabalho como o resultado da avaliação que o trabalhador tem sobre o seu trabalho ou a realização de seus valores por meio dessa atividade, sendo uma emoção positiva de bem-estar",
+   "onde": 3
+  },
+  {
+   "enunciado": "Qual é a posição de Locke e outros autores sobre a relação entre satisfação e insatisfação, em contraste com a concepção baseada em Herzberg?",
+   "alternativas": [
+    "São dois fenômenos distintos e independentes, com causas diferentes",
+    "São partes de um mesmo fenômeno, em um contínuo com a satisfação em um extremo e a insatisfação em outro",
+    "A insatisfação existe sem relação com o ambiente, as recompensas e a chefia",
+    "A satisfação só existe quando o trabalhador não tem valores pessoais"
+   ],
+   "certa": 1,
+   "comentario": "Locke, Henne e outros tratam satisfação e insatisfação como um único fenômeno, em um contínuo. A concepção de Robbins, baseada em Herzberg, os trata como fenômenos distintos.",
+   "trecho": "concordam que satisfação e insatisfação no trabalho fazem parte de um mesmo fenômeno, não sendo desassociados",
+   "onde": 4
+  },
+  {
+   "enunciado": "O que o estudo de Elovainio et al. (2000), citado no artigo, constatou sobre o controle sobre o trabalho?",
+   "alternativas": [
+    "Que ele é irrelevante para a satisfação, que depende só do salário",
+    "Que ele é responsável pela maioria das variações na satisfação no trabalho, na organização e no plano individual",
+    "Que ele aumenta a tensão ocupacional e reduz a saúde mental",
+    "Que ele só importa para trabalhadores de nível hierárquico mais alto"
+   ],
+   "certa": 1,
+   "comentario": "Segundo o estudo, o controle sobre o trabalho responde pela maior parte da variação na satisfação, e ter esse controle é um fator de proteção para problemas de saúde.",
+   "trecho": "o controle sobre o trabalho é responsável pela maioria das variações na satisfação no trabalho tanto dentro da organização como no plano individual",
+   "onde": 7
+  },
+  {
+   "enunciado": "Qual a ressalva de Robbins (2002) à ideia de que trabalhadores satisfeitos faltam menos?",
+   "alternativas": [
+    "Funcionários satisfeitos, se não sofrem penalidades, podem faltar na mesma proporção que os insatisfeitos; cobrança e penalidades pesam mais",
+    "Funcionários insatisfeitos nunca faltam, por medo de perder o emprego",
+    "A satisfação aumenta o absenteísmo, porque o trabalhador se sente seguro",
+    "O absenteísmo depende apenas do estado de saúde física do trabalhador"
+   ],
+   "certa": 0,
+   "comentario": "Robbins aponta que o absenteísmo é determinado por fatores como cobrança e penalidades, e não necessariamente pela satisfação.",
+   "trecho": "funcionários satisfeitos, desde que não sofram penalidades, também podem faltar na mesma proporção que os funcionários insatisfeitos",
+   "onde": 9
+  },
+  {
+   "enunciado": "Segundo os comentários finais, quais concepções de satisfação no trabalho são as mais amplamente aceitas no meio científico?",
+   "alternativas": [
+    "As que consideram apenas o salário e os benefícios",
+    "As que consideram só a personalidade do trabalhador, sem o contexto",
+    "As que contemplam a importância dos aspectos psicossociais do trabalho, em linha com a teoria de Locke",
+    "As que separam completamente a satisfação da saúde do trabalhador"
+   ],
+   "certa": 2,
+   "comentario": "As autoras concluem que predominam as concepções que valorizam os aspectos psicossociais, nas quais a combinação de circunstâncias determina a satisfação, o que corrobora a teoria de Locke.",
+   "trecho": "as concepções de satisfação no trabalho mais amplamente aceitas e divulgadas no meio científico são as que contemplam a importância dos aspectos psicossociais no trabalho",
+   "onde": 10
+  }
+ ],
+ "https://rac.anpad.org.br/index.php/rac/article/download/393/391": [
+  {
+   "enunciado": "Segundo Guzzo e Shea (1992), citados na introdução, o que caracteriza a natureza das equipes de trabalho?",
+   "alternativas": [
+    "A independência entre os membros, que atuam em tarefas isoladas",
+    "Uma dependência entre os membros, em maior ou menor grau",
+    "A ausência de objetivos comuns, pois cada um responde só pelo próprio desempenho",
+    "A dependência entre os membros apenas quando há líder formal nomeado"
+   ],
+   "certa": 1,
+   "comentario": "Para Guzzo e Shea, a natureza das equipes invariavelmente envolve dependência entre os membros; por isso a interdependência entra como variável preditora do desempenho.",
+   "trecho": "a natureza das equipes de trabalho invariavelmente envolve dependência entre os seus membros, em maior ou menor grau",
+   "onde": 2
+  },
+  {
+   "enunciado": "Como o artigo define a interdependência de resultados, segundo Guzzo e Shea?",
+   "alternativas": [
+    "A extensão em que os membros devem interagir para completar o trabalho",
+    "A medida em que os ganhos e perdas do trabalho dependem do desempenho de outros membros da equipe",
+    "A troca de informação e recursos entre os membros",
+    "A crença de que a equipe será efetiva"
+   ],
+   "certa": 1,
+   "comentario": "A interdependência de resultados diz respeito aos ganhos e perdas que dependem do desempenho dos outros; ela é determinada pela intensidade com que o sistema de recompensas premia o grupo e não o indivíduo.",
+   "trecho": "a interdependência de resultados pode ser compreendida como a medida em que os ganhos e perdas decorrentes do trabalho dependem dos desempenhos de outros membros da equipe",
+   "onde": 4
+  },
+  {
+   "enunciado": "Como Guzzo e Shea definem a interdependência de tarefas?",
+   "alternativas": [
+    "A extensão em que os membros do grupo devem interagir e dependem mutuamente para completar o trabalho de maneira satisfatória",
+    "O grau em que o sistema de pagamento recompensa o grupo antes do indivíduo",
+    "A confiança que cada membro tem nas expectativas sobre o comportamento dos outros",
+    "A diferença de desempenho entre as equipes de uma mesma organização"
+   ],
+   "certa": 0,
+   "comentario": "A interdependência de tarefas é o quanto os membros precisam interagir e depender uns dos outros para cumprir o trabalho; é diferente da de resultados, ligada às recompensas.",
+   "trecho": "definem a interdependência de tarefas como a extensão em que os membros do grupo devem interagir e dependem mutuamente para completar o trabalho de maneira satisfatória",
+   "onde": 5
+  },
+  {
+   "enunciado": "No modelo de Guzzo e Shea, qual a relação entre os dois tipos de interdependência e a efetividade da equipe?",
+   "alternativas": [
+    "A interdependência de tarefas tem relação direta com a efetividade, e a de resultados a modera",
+    "A relação entre interdependência de resultados e efetividade é direta, e a interdependência de tarefas atua moderando essa relação",
+    "Nenhuma das duas afeta a efetividade, que depende só do líder",
+    "As duas atuam sempre de forma separada e nunca em conjunto"
+   ],
+   "certa": 1,
+   "comentario": "Segundo o modelo, a interdependência de resultados se relaciona diretamente com a efetividade, e a de tarefas modifica essa relação; o efeito mais forte vem dos resultados, sobretudo associados às tarefas.",
+   "trecho": "a relação entre interdependência de resultados e efetividade das equipes é direta, enquanto a interdependência de tarefas atua moderando ou modificando esta relação",
+   "onde": 6
+  },
+  {
+   "enunciado": "Quais são os três critérios de avaliação da efetividade de uma equipe sugeridos por Hackman, segundo o artigo?",
+   "alternativas": [
+    "Produto (quantidade e qualidade), qualidade das relações interpessoais e saldo afetivo positivo para os membros",
+    "Pontualidade, número de membros e recursos materiais disponíveis",
+    "Tamanho da equipe, nível hierárquico do líder e tempo de empresa",
+    "Interdependência de tarefas, interdependência de resultados e crenças dos membros"
+   ],
+   "certa": 0,
+   "comentario": "Hackman sugere avaliar o produto, a qualidade das relações interpessoais e o saldo afetivo positivo; a satisfação foi adotada como indicador afetivo da efetividade.",
+   "trecho": "o referido autor sugere a adoção de três critérios de avaliação da efetividade da equipe: a) o produto, avaliado em termos de quantidade e qualidade; b) a qualidade das relações interpessoais; e, c) o saldo afetivo positivo para os membros da equipe",
+   "onde": 8
+  }
+ ],
+ "https://www.redalyc.org/pdf/2410/241016430005.pdf": [
+  {
+   "enunciado": "Na classificação de Frost apresentada no artigo, o que caracteriza a perspectiva integrativa da cultura organizacional?",
+   "alternativas": [
+    "Vê a cultura em termos de consistência, com clareza e valores constantes, e trata o conflito e a ambiguidade como ausência de cultura organizacional",
+    "Vê a cultura como inconsistente, com consenso apenas dentro de subculturas",
+    "Vê a ambiguidade como aspecto inevitável, com consenso e dissenso coexistindo em flutuação constante",
+    "Vê a cultura como uma variável que a direção pode manipular a seu gosto"
+   ],
+   "certa": 0,
+   "comentario": "A perspectiva integrativa define cultura por consistência e valores constantes. A diferenciação enfatiza subculturas e a fragmentação, a ambiguidade.",
+   "trecho": "A perspectiva integrativa retrata a cultura predominantemente em termos de consistência",
+   "onde": 10
+  },
+  {
+   "enunciado": "Segundo Schein, no artigo, o que se analisa no terceiro nível da cultura, o das suposições básicas subjacentes?",
+   "alternativas": [
+    "Os rituais, os símbolos e as estruturas visíveis",
+    "As estratégias, as metas e as filosofias da organização",
+    "As crenças, as percepções e os sentimentos inconscientes e enraizados",
+    "Os mitos e as lendas contados aos novos membros"
+   ],
+   "certa": 2,
+   "comentario": "Os três níveis de Schein são artefatos (visíveis), valores compartilhados (estratégias, metas, filosofias) e suposições básicas (crenças, percepções e sentimentos inconscientes).",
+   "trecho": "o nível das suposições básicas subjacentes, em que as crenças, as percepções e os sentimentos inconscientes e enraizados representariam os dados a serem analisados",
+   "onde": 12
+  },
+  {
+   "enunciado": "Quais traços Hofstede levantou para as organizações brasileiras?",
+   "alternativas": [
+    "Individualista, pequena distância do poder e tolerância à incerteza",
+    "Coletivista, grande distância do poder e evitação da incerteza",
+    "Individualista, grande distância do poder e orientação a longo prazo",
+    "Coletivista, pequena distância do poder e orientação para resultados"
+   ],
+   "certa": 1,
+   "comentario": "O artigo diz que Hofstede encontrou nas organizações brasileiras os traços coletivista, grande distância do poder e evitação da incerteza.",
+   "trecho": "Considerando as organizações brasileiras, Hofstede levantou como traços três aspectos: coletivista, grande distância do poder e a evitação da incerteza",
+   "onde": 13
+  },
+  {
+   "enunciado": "Que especificidades o artigo atribui às organizações públicas, além das características básicas das demais organizações?",
+   "alternativas": [
+    "Foco em resultados de curto prazo e comportamento empreendedor",
+    "Apego às regras e rotinas, supervalorização da hierarquia, paternalismo nas relações e apego ao poder",
+    "Estruturas horizontais com decisões descentralizadas e ampla autonomia dos servidores",
+    "Valorização do desempenho individual acima das regras e abertura a mudanças"
+   ],
+   "certa": 1,
+   "comentario": "As organizações públicas mantêm as características básicas das outras, acrescidas de apego às regras e rotinas, supervalorização da hierarquia, paternalismo e apego ao poder, o que afeta inovação, mudança e políticas de RH.",
+   "trecho": "As organizações públicas mantêm as mesmas características básicas das demais organizações, acrescidas, entretanto, de algumas especificidades como: apego às regras e rotinas, supervalorização da hierarquia, paternalismo nas relações, apego ao poder",
+   "onde": 17
+  },
+  {
+   "enunciado": "Segundo Martelane, citado no artigo, que ponto fundamental para o planejamento e a gestão pública se relaciona aos corpos funcionais da organização pública?",
+   "alternativas": [
+    "A existência de um corpo permanente, de carreira, e outro não-permanente, de administradores políticos com objetivos externos à organização",
+    "A divisão entre trabalhadores celetistas e estatutários em todas as carreiras",
+    "A separação entre setor financeiro e setor operacional",
+    "A existência de dois corpos de servidores, ambos de carreira, com objetivos idênticos"
+   ],
+   "certa": 0,
+   "comentario": "O corpo permanente é formado por trabalhadores de carreira e o não-permanente por administradores políticos; a substituição destes a cada mandato gera descontinuidade e conflito de objetivos.",
+   "trecho": "a presença de dois corpos funcionais com características nitidamente distintas: um permanente e outro não-permanente",
+   "onde": 18
+  }
+ ],
+ "https://www.redalyc.org/pdf/4006/400638287004.pdf": [
+  {
+   "enunciado": "Segundo as autoras, perguntar aos empregados se estão satisfeitos com as práticas da organização produz que tipo de diagnóstico?",
+   "alternativas": [
+    "Um diagnóstico de clima organizacional",
+    "Um diagnóstico de cultura organizacional",
+    "Um diagnóstico do nível de satisfação dos membros, e não do clima",
+    "Um diagnóstico de comprometimento, que é o mesmo que clima"
+   ],
+   "certa": 2,
+   "comentario": "As autoras explicam que o termo cotidiano clima traz uma conotação avaliativa, mas no sentido científico avaliar o grau de satisfação é medir satisfação, não clima.",
+   "trecho": "ao indagar se os empregados de uma empresa estão satisfeitos ou não com as práticas organizacionais, está sendo realizado um diagnóstico do nível de satisfação dos membros da organização, e não do clima",
+   "onde": 3
+  },
+  {
+   "enunciado": "Qual é a definição de clima adotada no artigo, de Koys e DeCotiis (1991)?",
+   "alternativas": [
+    "Estado afetivo passageiro dos empregados, medido pelo nível de satisfação com a chefia",
+    "Soma das avaliações individuais de salário, liderança e benefícios",
+    "Conjunto de valores e crenças inconscientes que sustentam a identidade da organização",
+    "Fenômeno perceptual duradouro, construído com base na experiência, multidimensional e compartilhado, cuja função é orientar e regular os comportamentos individuais"
+   ],
+   "certa": 3,
+   "comentario": "A definição destaca cinco características: perceptual, duradouro, construído pela experiência, multidimensional e compartilhado, com a função de orientar e regular comportamentos.",
+   "trecho": "fenômeno perceptual duradouro, construído com base na experiência, multi-dimensional e compartilhado pelos membros de uma unidade da organização, cuja função principal é orientar e regular os comportamentos individuais",
+   "onde": 4
+  },
+  {
+   "enunciado": "Como o artigo diferencia clima organizacional e satisfação no trabalho?",
+   "alternativas": [
+    "O clima é a avaliação individual do que se recebe, e a satisfação é a percepção coletiva de práticas",
+    "Os dois são o mesmo construto, com nomes diferentes",
+    "O clima é percepção de ocorrência de práticas (nível da organização), e a satisfação é a avaliação do empregado sobre o que recebe da organização (nível do indivíduo)",
+    "O clima mede o vínculo afetivo com a empresa, e a satisfação mede a duração das práticas"
+   ],
+   "certa": 2,
+   "comentario": "O clima é variável macro, ligada à percepção de práticas; a satisfação é variável micro, que envolve avaliação afetiva em comparação com as expectativas.",
+   "trecho": "o clima diz respeito à percepção de ocorrência de práticas organizacionais pelo funcionário (variável macro ou do nível da organização), a satisfação consiste na avaliação do empregado sobre o que ele recebe da organização",
+   "onde": 5
+  },
+  {
+   "enunciado": "Segundo Parker e outros, citados no artigo, qual a diferença de natureza entre clima e cultura?",
+   "alternativas": [
+    "O clima tem foco descritivo, e a cultura tem foco normativo: valores, crenças e formas adequadas de agir",
+    "O clima tem foco normativo, e a cultura tem foco descritivo",
+    "São idênticos, pois o clima é só o reflexo da cultura",
+    "A cultura é de curta duração, e o clima é o mais longevo"
+   ],
+   "certa": 0,
+   "comentario": "O clima descreve (percepção de práticas ou significados compartilhados), enquanto a cultura é normativa, ligada a valores e crenças. A cultura é a mais ampla e longeva, e serve de base ao clima.",
+   "trecho": "a cultura possui um foco normativo na medida em que se refere aos valores, crenças e definições de formas adequadas de se comportar, agir e pensar",
+   "onde": 8
+  },
+  {
+   "enunciado": "Quais fatores as autoras mantêm como componentes do clima social, entre os oito sugeridos por Koys e DeCotiis, deixando suporte e justiça de fora?",
+   "alternativas": [
+    "Suporte ao desempenho, justiça, satisfação, comprometimento e motivação",
+    "Autonomia, inovação, gerenciamento das relações interpessoais, valorização e reconhecimento do desempenho e expectativas de desempenho",
+    "Salário, estilo de gerência, estresse, identificação e liderança",
+    "Coesão, confiança, justiça, suporte, pressão e remuneração"
+   ],
+   "certa": 1,
+   "comentario": "Suporte e justiça têm campos teóricos próprios e devem ser estudados à parte; os cinco restantes compõem um conjunto consistente de dimensões do clima social.",
+   "trecho": "Estes fatores são: a) Autonomia; b) Inovação; c) Gerenciamento das relações interpessoais; d) Valorização e reconhecimento do desempenho; e e) Expectativas de desempenho da organização",
+   "onde": 11
+  }
+ ],
+ "https://site.cfp.org.br/wp-content/uploads/2019/09/SaudeDoTrabalhador_WEB_FINAL_1_outubro.pdf": [
+  {
+   "enunciado": "Segundo Dejours e Begué, citados no documento, que tipo de organização do trabalho cria condições para atos suicidas ligados ao trabalho?",
+   "alternativas": [
+    "Organizações marcadas por solidão, alta competitividade, desconfiança mútua e vigilantismo",
+    "Organizações com jornadas curtas e grande autonomia dos trabalhadores",
+    "Organizações pequenas, em que todos se conhecem e cooperam",
+    "Organizações sem avaliação de desempenho e sem metas de qualidade"
+   ],
+   "certa": 0,
+   "comentario": "O texto descreve um cenário hostil de solidão, competitividade, desconfiança, vigilantismo e avaliação individualizada, em que a degradação do coletivo e o sentimento de abandono favorecem o gesto suicida.",
+   "trecho": "a configuração de um cenário hostil seria determinante para os atos suicidas. São organizações marcadas pela solidão, por alta competitividade entre os trabalhadores, desconfiança mútua, vigilantismo",
+   "onde": 38
+  },
+  {
+   "enunciado": "O que é um evento sentinela, que pode desencadear o processo de vigilância em Saúde do Trabalhador?",
+   "alternativas": [
+    "A fiscalização anual feita pela empresa em seus próprios setores",
+    "A ocorrência de doença, invalidez ou mortes evitáveis, que leva a investigar como eventos semelhantes podem ser prevenidos",
+    "A denúncia de assédio moral feita por um sindicato",
+    "A implantação de um novo sistema de informação no serviço de saúde"
+   ],
+   "certa": 1,
+   "comentario": "O evento sentinela é a ocorrência de doença, invalidez ou morte evitáveis, a partir da qual se investiga como prevenir eventos semelhantes no futuro.",
+   "trecho": "O processo de vigilância pode ser desencadeado por um evento sentinela, ou seja, a ocorrência de doença, invalidez ou mortes evitáveis",
+   "onde": 42
+  },
+  {
+   "enunciado": "No modelo de classificação do nexo causal apresentado no documento (Schilling), onde se enquadra a síndrome de burnout, em que o trabalho é fator contributivo, mas não necessário?",
+   "alternativas": [
+    "No Grupo I, em que o trabalho é causa necessária",
+    "No Grupo II, em que o trabalho é fator contributivo, mas não necessário",
+    "No Grupo III, em que o trabalho agrava uma doença já estabelecida",
+    "Em nenhum grupo, pois o burnout não tem relação com o trabalho"
+   ],
+   "certa": 1,
+   "comentario": "O burnout, desencadeado por estresse laboral prolongado, é exemplo do Grupo II. Já o Grupo I traz o trabalho como causa necessária (substâncias tóxicas, estresse pós-traumático), e o Grupo III, o trabalho como provocador de distúrbio latente ou agravador.",
+   "trecho": "O trabalho pode ser fator contributivo, mas não necessário – a vivência de esgotamento profissional em um contexto de estresse laboral prolongado",
+   "onde": 46
+  },
+  {
+   "enunciado": "Com o nexo técnico epidemiológico, adotado pelo INSS a partir de 2007, o que acontece quando um trabalhador é afastado por doença com significância estatística no ramo econômico de seu empregador?",
+   "alternativas": [
+    "O trabalhador precisa comprovar que o adoecimento foi causado pela atividade",
+    "O benefício é definido automaticamente como acidente de trabalho, e o empregador é que deve provar que o nexo não existe",
+    "O afastamento só é reconhecido se houver laudo psicológico",
+    "O benefício é negado, por falta de nexo individual"
+   ],
+   "certa": 1,
+   "comentario": "Com o nexo técnico epidemiológico, o ônus da prova se inverte: cabe ao empregador demonstrar que não há nexo entre a doença e o trabalho.",
+   "trecho": "quando um trabalhador for afastado do trabalho por uma determinada doença que tenha significância estatística no ramo econômico a que pertence o seu empregador, seu benefício será definido automaticamente pelo INSS como acidente de trabalho",
+   "onde": 48
+  },
+  {
+   "enunciado": "Como o documento distingue ética de moral ao tratar da dimensão ético-política da atuação do psicólogo?",
+   "alternativas": [
+    "A ética é o estudo fundamentado dos valores morais que orientam o comportamento em sociedade, e a moral são os costumes, regras e convenções de cada sociedade",
+    "A ética são os costumes e tabus de cada sociedade, e a moral é o estudo filosófico dos valores",
+    "Os dois termos têm origem latina e significado idêntico",
+    "A ética se resume ao Código de Ética Profissional, e a moral, às normas jurídicas"
+   ],
+   "certa": 0,
+   "comentario": "O texto associa a ética ao estudo dos valores morais (nível mais individual) e a moral aos costumes e regras coletivas; por isso os códigos de ética estariam mais na ordem da moral.",
+   "trecho": "A ética está associada ao estudo fundamentado dos valores morais que orientam o comportamento humano em sociedade, enquanto que a moral são os costumes, regras, tabus e convenções estabelecidas por cada sociedade",
+   "onde": 54
+  }
+ ],
+ "https://docs.bvsalud.org/biblioref/2016/12/827300/rbmt-v14n3_285-289.pdf": [
+  {
+   "enunciado": "Segundo o artigo, com base em Selye, qual a diferença entre eustresse e distresse?",
+   "alternativas": [
+    "O eustresse motiva e provoca a resposta adequada aos estímulos, e o distresse intimida o indivíduo diante de situação ameaçadora, com ansiedade, medo, tristeza e raiva",
+    "O eustresse é o estresse crônico, e o distresse, o estresse de curta duração",
+    "O eustresse ocorre só no trabalho, e o distresse só fora dele",
+    "O eustresse é a fase de exaustão, e o distresse, a fase de alarme"
+   ],
+   "certa": 0,
+   "comentario": "Selye descreve o estresse como resposta inespecífica do corpo, positiva (eustresse) quando motiva, ou negativa (distresse) quando intimida e gera emoções como ansiedade e medo.",
+   "trecho": "de forma positiva (eustresse), que motiva e provoca a resposta adequada aos estímulos estressores, ou negativa (distresse), que intimida o indivíduo diante de situação ameaçadora",
+   "onde": 2
+  },
+  {
+   "enunciado": "Entre as fases do estresse descritas no artigo (alarme, resistência e exaustão), o que caracteriza a fase de exaustão?",
+   "alternativas": [
+    "A resposta rápida de luta e fuga diante do estímulo estressor",
+    "A tentativa do indivíduo de se adaptar para restabelecer o equilíbrio interno",
+    "A extinção da resistência por falhas nos mecanismos de adaptação, a condição mais crítica",
+    "O enfraquecimento do indivíduo que ainda consegue resistir, com afecções pouco graves"
+   ],
+   "certa": 2,
+   "comentario": "A exaustão é a extinção da resistência por falhas de adaptação e pode levar a doenças graves ou colapso. A quase-exaustão (Lipp) é a fase intermediária, com afecções menos graves.",
+   "trecho": "Por fim, a fase de exaustão consiste em uma extinção da resistência em decorrência de falhas nos mecanismos de adaptação",
+   "onde": 3
+  },
+  {
+   "enunciado": "O que o artigo chama de estressor ocupacional?",
+   "alternativas": [
+    "Qualquer evento da vida pessoal do trabalhador, mesmo sem relação com o trabalho",
+    "Estímulos gerados no trabalho que têm consequências físicas ou psicológicas negativas para um maior número de indivíduos expostos",
+    "Uma doença orgânica causada diretamente pela jornada de trabalho",
+    "A percepção de que o salário é insuficiente, independentemente do ambiente"
+   ],
+   "certa": 1,
+   "comentario": "Estressor ocupacional designa estímulos gerados no trabalho com consequências negativas para muitos expostos; são agentes estressores os fatores extraorganizacionais, organizacionais, individuais e de grupo.",
+   "trecho": "O termo estressor ocupacional designa estímulos que são gerados no trabalho e têm consequências físicas ou psicológicas negativas para um maior número de indivíduos expostos a eles",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo o artigo, qual é a diferença entre estresse e síndrome de Burnout?",
+   "alternativas": [
+    "No estresse há pontos positivos e negativos e predominam sintomas físicos com emoções exageradas; no Burnout são marcantes apenas os aspectos negativos",
+    "No estresse só há aspectos negativos, e no Burnout há aspectos positivos e negativos",
+    "O estresse é exclusivo de profissionais da saúde, e o Burnout acomete qualquer profissão",
+    "Não há diferença, pois são sinônimos"
+   ],
+   "certa": 0,
+   "comentario": "O artigo afirma que o estresse tem aspectos positivos e negativos (eustresse e distresse), enquanto o Burnout só tem o lado negativo (distresse).",
+   "trecho": "A diferença entre estresse e síndrome de Burnout reside no fato de que no estresse são observados pontos positivos e negativos, além da predominância de sintomas físicos com emoções exageradas",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo as conclusões do artigo, o estresse ocupacional, por si só, é capaz de causar uma doença orgânica?",
+   "alternativas": [
+    "Sim, sempre que o trabalhador é exposto a estressores por mais de um mês",
+    "Não: para isso é necessário que outras condições estejam presentes, como a vulnerabilidade orgânica ou uma forma inadequada de avaliar e enfrentar a situação",
+    "Sim, pois o estresse ocupacional é sempre uma doença crônica de origem orgânica",
+    "Não, e o estresse nunca tem relação com adoecimento ou sofrimento"
+   ],
+   "certa": 1,
+   "comentario": "O artigo afirma que o estresse, sozinho, não desencadeia enfermidade orgânica nem disfunção significativa; são necessárias condições adicionais, como vulnerabilidade orgânica ou enfrentamento inadequado.",
+   "trecho": "capaz de desencadear uma enfermidade orgânica ou provocar uma disfunção significativa na vida do indivíduo. Para que isso ocorra, é necessário que outras condições estejam presentes, como a vulnerabilidade orgânica",
+   "onde": 1
+  }
+ ],
+ "https://orientacaoaqueixaescolar.ip.usp.br/wp-content/uploads/sites/462/2020/10/Livro-OQE.pdf": [
+  {
+   "enunciado": "Como Beatriz de Paula Souza entende a queixa escolar na abordagem da Orientação à Queixa Escolar?",
+   "alternativas": [
+    "Como um problema que nasce da criança e de sua família, a ser corrigido por meio de adaptação",
+    "Como um sintoma de transtorno neurológico a ser encaminhado a especialistas",
+    "Como um problema que nasce exclusivamente na escola e não envolve a família",
+    "Como algo centrado no processo de escolarização, emergente de uma rede de relações entre criança, escola e família"
+   ],
+   "certa": 3,
+   "comentario": "A abordagem vê a queixa como emergente de uma rede de relações (criança/adolescente, escola e família), com o processo de escolarização no centro; por isso se opõe às práticas adaptacionistas, que mudam só a criança e a família.",
+   "trecho": "queixa escolar, entendida como aquela que tem, em seu centro, o processo de escolarização. Trata-se de um emergente de uma rede de relações que tem como personagens principais, via de regra, a criança/adolescente, sua escola e sua família",
+   "onde": 101
+  },
+  {
+   "enunciado": "O que a autora diz que nunca pede logo após a narrativa dos pais sobre a queixa escolar na Triagem de Orientação, e por quê?",
+   "alternativas": [
+    "Nunca pede exemplos da queixa, para não influenciar os pais",
+    "Nunca pede o material escolar da criança, por ser pouco informativo",
+    "Nunca pede informações sobre gravidez, amamentação e desenvolvimento neuropsicomotor, porque isso passaria a mensagem de que a queixa decorre de problemas inerentes à criança ou aos pais",
+    "Nunca pergunta sobre a escola, para não ser vista como acusação"
+   ],
+   "certa": 2,
+   "comentario": "Essas perguntas só são feitas se fizerem sentido no quadro que se desenha; do contrário passam a mensagem subliminar de que o problema está na criança e/ou nos pais.",
+   "trecho": "Nunca pedimos, logo em seguida a essa narrativa sobre a queixa escolar, informações acerca de gravidez, amamentação, desenvolvimento neuropsicomotor, relacionamento com os pais, constelação familiar",
+   "onde": 106
+  },
+  {
+   "enunciado": "Ao marcar o encontro com a escola, quem a autora procura garantir que esteja presente, na qualidade daquele que lida diretamente com a criança no dia a dia?",
+   "alternativas": [
+    "O professor",
+    "Somente a Coordenação Pedagógica, como é prática das escolas",
+    "O supervisor de ensino da região",
+    "Os pais da criança, no lugar da escola"
+   ],
+   "certa": 0,
+   "comentario": "A autora quer a presença do professor (além de alguém de instância decisória, como Diretor ou Coordenador), pois as escolas costumam restringir o contato à Coordenação Pedagógica.",
+   "trecho": "Ao marcar esse encontro, procuramos garantir a presença do professor, na qualidade daquele que lida diretamente com a criança no dia a dia escolar",
+   "onde": 110
+  },
+  {
+   "enunciado": "Segundo o capítulo sobre funcionamentos escolares, qual era o foco tradicional da pesquisa das causas do fracasso escolar, do qual a Teoria da Carência Cultural é um exemplo?",
+   "alternativas": [
+    "Os fatores internos à escola, como as práticas docentes",
+    "As características dos alunos e de seu meio familiar e social",
+    "As políticas públicas de educação e a formação dos professores",
+    "Os salários dos docentes"
+   ],
+   "certa": 1,
+   "comentario": "Tradicionalmente o foco foi o aluno e seu meio; a partir dos anos 1980 houve uma ruptura temática, deslocando o foco para fatores internos à escola (Patto, 1990).",
+   "trecho": "A pesquisa das causas do fracasso escolar, tradicionalmente, teve como foco as características dos alunos e de seu meio familiar e social",
+   "onde": 246
+  },
+  {
+   "enunciado": "O que era a formação de classes homogêneas, descrita no capítulo como estratégia de homogeneização?",
+   "alternativas": [
+    "Agrupar alunos de níveis diversos para que os mais fortes ajudassem os mais fracos",
+    "Misturar alunos de idades diferentes em uma mesma sala",
+    "Formar classes de alunos no mesmo nível de aprendizado e com ritmos semelhantes, na crença de que o ensino seria otimizado",
+    "Dividir classes por critério sorteado, sem relação com o desempenho"
+   ],
+   "certa": 2,
+   "comentario": "O texto descreve a crença de que classes de alunos no mesmo nível otimizariam o ensino, o que gerava classes fortes, médias e fracas e efeitos de estigma, evasão e adoecimento das professoras.",
+   "trecho": "o esforço assumido de formar classes homogêneas. Essas classes seriam idealmente formadas por alunos que estariam no mesmo nível de aprendizado e com ritmos semelhantes",
+   "onde": 259
+  }
+ ],
+ "https://idonline.emnuvens.com.br/id/article/download/2369/3654/9465": [
+  {
+   "enunciado": "No artigo, o que Piaget chama de adaptação?",
+   "alternativas": [
+    "A passagem de um estágio de desenvolvimento a outro por influência da escola",
+    "O equilíbrio entre as assimilações e as acomodações, condição básica do desenvolvimento do organismo e do psiquismo",
+    "A transmissão do conhecimento social aos indivíduos pela mediação de adultos",
+    "A maturação dos órgãos, que determina a ordem das fases"
+   ],
+   "certa": 1,
+   "comentario": "Para Piaget, adaptação é o equilíbrio entre assimilações e acomodações; o desenvolvimento mental seria uma adaptação cada vez mais precisa à realidade.",
+   "trecho": "Piaget chama de adaptação ao equilíbrio destas assimilações e acomodações. Estas seriam as condições básicas do desenvolvimento do organismo e psiquismo humano",
+   "onde": 4
+  },
+  {
+   "enunciado": "Segundo o artigo, qual o diferencial teórico de Wallon quanto às condições orgânicas e sociais do desenvolvimento?",
+   "alternativas": [
+    "O biológico se sobrepõe ao social, que apenas confirma a maturação",
+    "O social explica tudo, e o biológico é irrelevante",
+    "No ser humano o biológico não pode ser dissociado do social, e a vida psíquica só se entende pelas relações recíprocas entre eles",
+    "O biológico só importa na infância, e depois o social assume o controle"
+   ],
+   "certa": 2,
+   "comentario": "Para Wallon as capacidades biológicas permitem a vida em sociedade, e o meio social é a condição do desenvolvimento dessas capacidades.",
+   "trecho": "no ser humano o biológico não pode ser dissociado do social, pois no homem estão tão estreitamente complementares desde o seu nascimento, que é impossível compreender a vida psíquica sem ser sob a forma de relações recíprocas",
+   "onde": 6
+  },
+  {
+   "enunciado": "Como o artigo apresenta a relação entre desenvolvimento e aprendizagem em Piaget?",
+   "alternativas": [
+    "A aprendizagem promove o desenvolvimento, que depende de ensino formal",
+    "Desenvolvimento e aprendizagem são o mesmo processo",
+    "O desenvolvimento é independente da aprendizagem: para aprender algo, certas estruturas cognitivas do desenvolvimento já precisam estar construídas",
+    "A aprendizagem determina os estágios, e o desenvolvimento é consequência dela"
+   ],
+   "certa": 2,
+   "comentario": "Para Piaget, o desenvolvimento antecede a aprendizagem e é seu pré-requisito; o motor do desenvolvimento é a equilibração, e a aprendizagem favorece sua ampliação.",
+   "trecho": "Para Piaget o desenvolvimento é independente da aprendizagem, ou seja, para que se aprenda algo é necessário que determinadas estruturas cognitivas, que fazem parte do desenvolvimento, já estejam construídas",
+   "onde": 8
+  },
+  {
+   "enunciado": "Como Vygotski concebe a Zona de Desenvolvimento Proximal, segundo o artigo?",
+   "alternativas": [
+    "Existe um desenvolvimento real, o que a criança resolve sozinha, e um desenvolvimento potencial, o que resolve com ajuda de adultos ou colegas mais capazes; a ZDP é a distância entre eles",
+    "É a fase de maturação em que a criança só consegue aprender por imitação",
+    "É o conjunto de estágios fixos que limitam o que a escola pode ensinar",
+    "É o nível de desenvolvimento que a criança atinge ao final da adolescência"
+   ],
+   "certa": 0,
+   "comentario": "A ZDP é a distância entre o nível de desenvolvimento real (solução independente) e o potencial (com ajuda). Daí a ideia de que o bom aprendizado é o que se adianta ao desenvolvimento.",
+   "trecho": "existe um desenvolvimento real, que é o nível de resposta que uma criança poderá dar sozinha aos problemas que lhe são apresentados, e uma zona de desenvolvimento potencial",
+   "onde": 10
+  },
+  {
+   "enunciado": "O que Wallon afirma sobre a relação entre aprendizagem e maturação, segundo o artigo?",
+   "alternativas": [
+    "A aprendizagem independe da maturação biológica",
+    "As estimulações só resultam em aprendizagem quando a função do órgão chega à maturação",
+    "A maturação só importa para a motricidade, e a aprendizagem intelectual independe dela",
+    "A aprendizagem acelera sempre a maturação, antes de qualquer condição biológica"
+   ],
+   "certa": 1,
+   "comentario": "Wallon afirma que a aprendizagem depende das condições biológicas da maturação, o que parece se aproximar de Piaget; mas ele amplia o enfoque, sem dar primazia ao biológico.",
+   "trecho": "a aprendizagem no indivíduo estará dependente das condições biológicas da maturação, isto significa dizer que as estimulações só poderão resultar em resposta de aprendizagem quando a função do órgão chega à maturação",
+   "onde": 13
+  }
+ ]
+}

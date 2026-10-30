@@ -1,0 +1,688 @@
+{
+ "prova": "FGV Pref. Abreu e Lima 2024",
+ "cor": "Tipo 1",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologocns205-tipo-1.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/pref_abreuelima_gabarito_definitivo_da0a4fs131.pdf",
+ "questoes": [
+  {
+   "numero": 31,
+   "texto": "",
+   "enunciado": "Comemorada no dia 18/05, a luta antimanicomial precisa ser diária para fazer valer os direitos das pessoas com doenças mentais. Uma pauta alinhada com essa luta é",
+   "alternativas": [
+    "o direito ao asilamento voluntário dos pacientes com transtorno mental",
+    "o incentivo à participação da família na internação compulsória",
+    "a proibição das internações nas situações de emergência psiquiátrica",
+    "o fortalecimento e a expansão da rede de atenção psicossocial",
+    "o recolhimento das pessoas em situação de rua com dependência química"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A luta antimanicomial defende o cuidado em liberdade, no território, o que se traduz no fortalecimento e na expansão da Rede de Atenção Psicossocial (CAPS, residências terapêuticas, leitos em hospital geral etc.). Asilamento, internação compulsória e recolhimento de pessoas em situação de rua vão na direção oposta, a da segregação. Proibir toda internação em emergência também erra: a Lei 10.216 admite a internação quando os recursos extra-hospitalares forem insuficientes."
+  },
+  {
+   "numero": 32,
+   "texto": "",
+   "enunciado": "Internada após um surto psicótico, Edna viveu toda sua juventude em um manicômio e perdeu os vínculos com sua família. Faz parte da estratégia de desinstitucionalização de pacientes psiquiátricos como Edna, prevista na Reforma Psiquiátrica, a implantação de",
+   "alternativas": [
+    "comunidades terapêuticas",
+    "serviços residenciais terapêuticos",
+    "Consultórios na Rua",
+    "leitos nos hospitais de custódia",
+    "modelo de atenção hospitalocêntrico"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "Os Serviços Residenciais Terapêuticos são moradias no território para egressos de longas internações psiquiátricas que perderam os vínculos familiares, peça central da desinstitucionalização. Comunidades terapêuticas atendem usuários de drogas, Consultório na Rua atende a população de rua, e hospital de custódia e modelo hospitalocêntrico são justamente o que a reforma quer superar."
+  },
+  {
+   "numero": 33,
+   "texto": "",
+   "enunciado": "Daiana, 23 anos, é mãe solo de três crianças e está grávida de 5 meses de seu quarto filho, fruto de uma relação eventual. Em atendimento feito na Unidade Básica de Saúde, Daiana disse à psicóloga que não queria aquele bebê e que iria “dar a criança”. Nesse caso, a psicóloga deve",
+   "alternativas": [
+    "prevenir Daiana de que irá denunciá-la às autoridades policiais pelo crime de abandono de incapaz",
+    "providenciar junto ao CRAS o aumento do valor do benefício de Bolsa Família para contemplar mais uma criança",
+    "advertir Daiana quanto à necessidade de acolher o filho que irá nascer para depois não sentir culpa e arrependimento",
+    "encaminhar Daiana para a Justiça de Infância e Juventude para que ela seja orientada sobre o direito de entrega em adoção",
+    "encaminhar a parturiente para atendimento em Saúde Mental considerando os riscos do estado puerperal para a integridade física do bebê"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A gestante que manifesta o desejo de entregar o filho para adoção deve ser encaminhada à Justiça da Infância e da Juventude, sem constrangimento, porque a entrega voluntária é um direito previsto no ECA. Ameaçar com denúncia, aconselhar moralmente ou presumir risco puerperal desrespeita a escolha dela, e o CRAS não resolve a questão de fundo."
+  },
+  {
+   "numero": 34,
+   "texto": "",
+   "enunciado": "Embora o envelhecimento normal não represente por si só uma condição patológica, verifica-se o aumento da prevalência de demências como a doença de Alzheimer na população acima de 65 anos. As demências são classificadas na psiquiatria como",
+   "alternativas": [
+    "esclerose múltipla",
+    "transtorno psicótico",
+    "transtorno neurocognitivo maior",
+    "distúrbio somatoforme",
+    "distúrbio do neurodesenvolvimento"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "No DSM-5 as demências, como a doença de Alzheimer, passaram a ser chamadas de transtorno neurocognitivo maior (o leve fica para o declínio menor, sem perda da independência). Esclerose múltipla é doença neurológica, e os transtornos do neurodesenvolvimento começam na infância, não no envelhecimento; psicose e quadro somatoforme são outras categorias."
+  },
+  {
+   "numero": 35,
+   "texto": "",
+   "enunciado": "Marlene procurou o CRAS que atende seu bairro em Abreu e Lima para pedir uma orientação. Seu filho José, 18 anos, começou a usar crack, passa dias fora de casa e está agressivo e inquieto. De acordo com o relatado, a situação poderá ser encaminhada para atendimento no",
+   "alternativas": [
+    "CAPS IV",
+    "NASF",
+    "CAPSi",
+    "CREAS",
+    "CAPS AD"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "O CAPS AD é o serviço da RAPS especializado em usuários de álcool e outras drogas, como José, que já tem 18 anos. O CAPSi atende crianças e adolescentes, o CREAS é equipamento da assistência social para violação de direitos, e o NASF dá apoio à atenção básica, não é serviço de referência para dependência química."
+  },
+  {
+   "numero": 36,
+   "texto": "",
+   "enunciado": "O alcoolismo é uma questão de saúde pública que pode afetar o ambiente de trabalho. Diversos fatores de risco para o alcoolismo podem ser identificados nas condições a que os trabalhadores estão expostos. Os fatores de risco ocupacionais para o alcoolismo incluem os seguintes, **à exceção de um.** Assinale-o.",
+   "alternativas": [
+    "O absenteísmo e a queda na produtividade",
+    "A exposição a riscos ocupacionais e trauma",
+    "O isolamento físico e social no trabalho",
+    "A baixa satisfação no trabalho",
+    "Os altos níveis de estresse no trabalho"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Absenteísmo e queda de produtividade são consequências do alcoolismo no trabalho, não fatores de risco para ele. Exposição a riscos e trauma, isolamento, baixa satisfação e estresse elevado são condições do trabalho que favorecem o uso abusivo de álcool."
+  },
+  {
+   "numero": 37,
+   "texto": "",
+   "enunciado": "O psicólogo Daniel coordena um grupo que reúne familiares de pacientes atendidos no CAPS. O grupo é aberto e com participação voluntária. Avalie se os fatores terapêuticos que podem estar presentes em um grupo dessa natureza incluem:\nI. A coesão do grupo e a universalidade.\nII. O compartilhamento de informações e o altruísmo.\nIII. A aprendizagem interpessoal e a desqualificação.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas",
+    "I, II e III",
+    "II, apenas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "",
+   "comentario": "Coesão, universalidade, compartilhamento de informações, altruísmo e aprendizagem interpessoal estão entre os fatores terapêuticos de grupo descritos por Yalom. Desqualificação não é fator terapêutico; é o contrário do que um grupo de apoio busca, e por isso o item III cai."
+  },
+  {
+   "numero": 38,
+   "texto": "",
+   "enunciado": "Luis começou a fumar na adolescência, com os irmãos mais velhos. Atualmente com 40 anos, Luis fuma dois maços de cigarro por dia e sente dor de cabeça e irritabilidade se passa algum tempo sem acender um cigarro. Luis admite que precisa de ajuda para parar de fumar. Considerando essa situação é correto afirmar que",
+   "alternativas": [
+    "a redução de danos da dependência de nicotina é feita a partir da total abstinência de cigarro",
+    "a terapia cognitiva comportamental é um dos recursos usados no tratamento do tabagismo",
+    "Luis precisou fumar cada vez mais porque sua tolerância à nicotina presente no cigarro foi diminuindo",
+    "a prevenção terciária do tabagismo envolve campanhas de esclarecimento quanto aos males do tabaco",
+    "um dos fatores de proteção para o desenvolvimento do tabagismo é ser criado em ambiente permissivo com relação ao fumo"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "A terapia cognitivo-comportamental é um dos recursos do tratamento do tabagismo, ao lado do apoio medicamentoso. As erradas: redução de danos não exige abstinência total; na tolerância a necessidade da substância aumenta, não diminui; campanhas de esclarecimento são prevenção primária, não terciária; e ambiente permissivo ao fumo é fator de risco, não de proteção."
+  },
+  {
+   "numero": 39,
+   "texto": "",
+   "enunciado": "Paula, 40 anos, participava de um grupo para pacientes hipertensos oferecido pela psicóloga Ana da ESF e parou de frequentar a unidade. Em uma visita domiciliar, a agente de saúde encontrou Paula abatida, sem querer se alimentar e tomar banho. Ana solicitou um apoio matricial para abordar o caso de Paula. Sobre essa situação é correto afirmar que",
+   "alternativas": [
+    "o CAPS poderá proporcionar apoio matricial por intermédio de uma interconsulta com a equipe da ESF",
+    "o matriciamento se dará por intermédio de atendimento psiquiátrico a Paula pelo médico do NASF",
+    "o NASF solicitará o apoio matricial da equipe do CAPS AD para elaborar o Projeto Terapêutico Individual",
+    "Ana deverá pedir a internação de Paula em um hospital psiquiátrico considerando o surto psicótico",
+    "o matriciamento não se aplica aqui porque Paula não demandou atendimento voluntariamente"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "No apoio matricial, a equipe especializada (como o CAPS) dá suporte técnico à equipe da atenção básica, por meio de interconsulta, discussão de caso e atendimento conjunto, sem tirar o caso dela. O matriciamento não é só consulta psiquiátrica, o CAPS AD é para álcool e drogas, nada no caso indica surto que justifique internação, e o apoio não depende de a usuária pedir."
+  },
+  {
+   "numero": 40,
+   "texto": "",
+   "enunciado": "A fase da adolescência é especialmente sensível no tocante à imagem corporal. Os transtornos alimentares ligados à imagem corporal são condições psicológicas graves que envolvem distúrbios significativos na percepção do corpo e nos comportamentos alimentares. De acordo com o DSM 5, são transtornos alimentares ligados à imagem corporal:",
+   "alternativas": [
+    "a compulsão alimentar e a seletividade alimentar",
+    "o transtorno obsessivo compulsivo e a vigorexia",
+    "a anorexia nervosa e a bulimia nervosa",
+    "o transtorno dismórfico corporal e a hipocondria",
+    "o transtorno de personalidade narcísica e a síndrome do pânico"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Anorexia nervosa e bulimia nervosa são transtornos alimentares do DSM-5 em que a autoavaliação é indevidamente influenciada pela forma e pelo peso do corpo. O transtorno de compulsão alimentar não traz essa preocupação central com a imagem, e TOC, vigorexia, dismórfico corporal, hipocondria, personalidade narcisista e pânico não são transtornos alimentares."
+  },
+  {
+   "numero": 41,
+   "texto": "",
+   "enunciado": "João teve seu primeiro surto psicótico com 17 anos. Hoje ele tem 21 anos e continua tendo acompanhamento para sua condição psiquiátrica. Avalie se a construção do Projeto Terapêutico Singular de João pode envolver:\nI. A equipe interdisciplinar do CAPS.\nII. A equipe multidisciplinar do CAPSi.\nIII. O próprio usuário.\nIV. A família do usuário.\nEstão corretos os itens:",
+   "alternativas": [
+    "I e III, apenas",
+    "II e III, apenas",
+    "I, II, III e IV",
+    "I, III e IV, apenas",
+    "II e IV, apenas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "O Projeto Terapêutico Singular é construído pela equipe interdisciplinar com a participação do próprio usuário e da família. João tem 21 anos, então o acompanhamento é no CAPS de adultos; o CAPSi atende crianças e adolescentes, e por isso o item II cai."
+  },
+  {
+   "numero": 42,
+   "texto": "",
+   "enunciado": "D. Ângela, 64 anos, tem sequelas de um AVC e deixou seu cartão da aposentadoria e a respectiva senha com sua neta Adriana, 18 anos, para a jovem ir todo mês à agência bancária sacar o benefício. Adriana contraiu empréstimos na conta de aposentadoria da avó e adquiriu, com o dinheiro do empréstimo, um celular de última geração. A situação aqui relatada configura",
+   "alternativas": [
+    "capacitismo de Ângela com relação à neta Adriana",
+    "violência financeira praticada por Adriana contra a avó",
+    "um direito de Adriana na qualidade de tutora de sua avó",
+    "violência psicológica praticada contra uma pessoa deficiente",
+    "violência moral praticada por Adriana em desfavor de Ângela"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Apropriar-se do benefício da idosa e contrair empréstimos em nome dela é violência financeira (ou patrimonial), prevista no Estatuto da Pessoa Idosa. Não é violência moral nem psicológica, e Adriana apenas tinha a senha, não é tutora com direito sobre os bens."
+  },
+  {
+   "numero": 43,
+   "texto": "",
+   "enunciado": "Letícia é psicóloga clínica e atende crianças em seu consultório. Na avaliação psicológica, Letícia entrevista os responsáveis pela criança com o objetivo de coletar informações abrangentes sobre a história de vida da criança, suas condições de saúde, seu histórico familiar, seu desenvolvimento, e outros aspectos relevantes da vida do paciente. A essa entrevista dá-se o nome de",
+   "alternativas": [
+    "entrevista motivacional",
+    "entrevista de anamnese",
+    "método projetivo",
+    "entrevista devolutiva",
+    "registro de observação de comportamento"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "",
+   "comentario": "A anamnese é a entrevista que reconstrói a história de vida, de saúde, familiar e do desenvolvimento do paciente, feita com os responsáveis quando se trata de criança. A devolutiva é o encontro final em que se comunicam os resultados, a entrevista motivacional serve para mudança de comportamento, e método projetivo e registro de observação não são entrevistas de coleta de história."
+  },
+  {
+   "numero": 44,
+   "texto": "",
+   "enunciado": "Alucinações visuais e auditivas são sintomas típicos de diversas formas de psicose. Esses sintomas são transtornos na área do(a)",
+   "alternativas": [
+    "humor",
+    "impulso",
+    "pensamento",
+    "consciência",
+    "percepção"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicopatologia",
+   "item": "",
+   "comentario": "Alucinação é percepção sem objeto, portanto alteração da sensopercepção. Delírio é que seria alteração do conteúdo do pensamento, e humor, impulso e consciência são outras funções psíquicas do exame mental."
+  },
+  {
+   "numero": 45,
+   "texto": "",
+   "enunciado": "Avalie se as seguintes afirmativas sobre as residências terapêuticas são falsas (F) ou verdadeiras (V).\n( ) Os Serviços Residenciais Terapêuticos se constituem como serviços estratégicos no processo de desospitalização e reinserção social de pessoas longamente internados nos hospitais psiquiátricos ou em hospitais de custódia.\n( ) As residências terapêuticas podem estar localizadas dentro dos limites de unidades hospitalares gerais ou especializadas.\n( ) Moradores de rua com transtornos mentais severos, quando inseridos em projetos terapêuticos especiais acompanhados nos CAPS, podem ser beneficiados pelos Serviços Residenciais Terapêuticos.\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    "V – F – V",
+    "F – V – V",
+    "F – F – V",
+    "V – V – V",
+    "F – V – F"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A primeira e a terceira estão certas: as residências terapêuticas servem à desospitalização de egressos de longas internações psiquiátricas ou de hospitais de custódia, e moradores de rua com transtorno mental grave acompanhados por CAPS também podem ser incluídos. A segunda é falsa, porque as residências devem ficar fora dos limites de unidades hospitalares, inseridas na comunidade."
+  },
+  {
+   "numero": 46,
+   "texto": "",
+   "enunciado": "Lívia, 8 anos, morava sozinha com a sua mãe, Ludmila. Recentemente Ludmila iniciou relacionamento amoroso com Augusto e o levou para morar com elas. Desde que Augusto passou a morar com elas, Lívia alterou seu comportamento, passando a apresentar enurese noturna, dificuldades de dormir e sono agitado, além de relutar em permanecer com o padrasto. Em visita aos avós, Lívia contou a eles que o padrasto tem tocado em suas partes íntimas quando estão sozinhos em casa. Com relação à hipótese de violência sexual analisada, é correto afirmar",
+   "alternativas": [
+    "o Conselho Tutelar é a autoridade responsável por afastar o agressor do lar",
+    "a mãe deve buscar um abrigo para proteger sua filha da violência sexual praticada pelo padrasto",
+    "os avós devem peticionar a guarda da neta assim que tomarem conhecimento das dinâmicas abusivas",
+    "o juiz da Infância pode afastar cautelarmente o padrasto da moradia da família",
+    "o pai de Lívia deve buscar a Vara de Família para reverter a guarda da criança"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Diante de abuso sexual por quem mora com a vítima, a autoridade judiciária pode determinar, como medida cautelar, o afastamento do agressor da moradia comum, previsão do ECA. O Conselho Tutelar não tem esse poder, e retirar a criança de casa ou trocar a guarda revitimiza quem deve ser protegida."
+  },
+  {
+   "numero": 47,
+   "texto": "",
+   "enunciado": "Helena é uma mulher trans e vive maritalmente com Murilo, que é um homem trans. Enciumado por ter encontrado a companheira com um ex-namorado na rua, Murilo passou a agredi-la com palavras de baixo calão, humilhando-a na via pública. Na perspectiva da violência contra a mulher, podemos afirmar acertadamente que",
+   "alternativas": [
+    "não se trata de hipótese de violência contra a mulher pois Helena é trans",
+    "Helena foi vítima de violência psicológica praticada pelo companheiro",
+    "como Murilo é um homem trans seu comportamento não se caracteriza como violência de gênero",
+    "trata-se de hipótese de violência física perpetrada por Murilo contra Helena",
+    "como Murilo é biologicamente do sexo feminino pode-se considerar que ele foi vítima de violência psicológica"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Humilhar e xingar a companheira em público é violência psicológica, e a Lei Maria da Penha protege mulheres trans, pois o que conta é a identidade de gênero. Não houve agressão física, e o fato de o agressor ser homem trans não descaracteriza a violência de gênero."
+  },
+  {
+   "numero": 48,
+   "texto": "",
+   "enunciado": "A teoria histórico-cultural compreende o desenvolvimento humano como resultado da apropriação da cultura humana historicamente elaborada, por outras palavras considera que o homem é um ser histórico, resultante de suas relações sociais e culturais, que se desenvolve a partir das interações que faz com o meio a que pertence. Ela foi desenvolvida por",
+   "alternativas": [
+    "Leon Festinger",
+    "Lev Vygotsky",
+    "Jean Piaget",
+    "Henri Wallon",
+    "Burrhus Frederic Skinner"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "",
+   "comentario": "A teoria histórico-cultural, que explica o desenvolvimento pela apropriação da cultura nas relações sociais, é de Vygotsky. Piaget é construtivista e enfatiza a ação do sujeito sobre o objeto, Wallon é da psicogenética da pessoa completa, Skinner é behaviorista e Festinger é da dissonância cognitiva."
+  },
+  {
+   "numero": 49,
+   "texto": "",
+   "enunciado": "Algumas pesquisas indicam que crianças expostas à violência familiar e maus tratos podem reproduzir esses comportamentos, corroborando a ideia defendida por Albert Bandura de",
+   "alternativas": [
+    "condicionamento operante",
+    "aprendizagem vicariante",
+    "conflito de apetência",
+    "valência resultante",
+    "zona de desenvolvimento proximal"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-aprendizagem",
+   "item": "",
+   "comentario": "Bandura mostrou que se aprende observando o comportamento de outros e suas consequências, a aprendizagem vicariante (ou observacional). Condicionamento operante é de Skinner, zona de desenvolvimento proximal é de Vygotsky, e conflito e valência são conceitos da teoria de campo de Lewin."
+  },
+  {
+   "numero": 50,
+   "texto": "",
+   "enunciado": "Com relação às falsas memórias, avalie se é correto afirmar: I. no início os estudos sobre memória se centravam sobre os erros ou distorções de omissão, ou seja, esquecimento, e posteriormente a atenção mudou-se para os chamados erros de comissão. II. o conceito de falsa memória não é consensual, pois pesquisas diferentes têm paradigmas conceituais dissonantes. III. pesquisas indicam ser possível a distorção mnêmica através da introdução de informações falsas.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As três afirmativas estão corretas: os estudos de memória passaram do esquecimento (erros de omissão) para as lembranças distorcidas (erros de comissão), o conceito de falsa memória varia conforme o paradigma de pesquisa, e a sugestão de informação falsa após o evento pode distorcer a lembrança. Por isso nenhuma alternativa parcial serve."
+  },
+  {
+   "numero": 51,
+   "texto": "",
+   "enunciado": "O método psicoterápico desenvolvido por Jacob Levy Moreno que se apoia na representação dramática improvisada, a partir de cenas ou assuntos sugeridos pelas pessoas que estão em terapia, como ponto de aproximação e expressão do psiquismo e das conexões emocionais, visando à catarse e ao desenvolvimento da espontaneidade individual é o(a)",
+   "alternativas": [
+    "psicodrama",
+    "teatro do oprimido",
+    "teatro do absurdo",
+    "arteterapia",
+    "terapia criativa"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-psicoterapias",
+   "item": "",
+   "comentario": "O psicodrama, criado por Jacob Levy Moreno, usa a dramatização improvisada para buscar catarse e desenvolver a espontaneidade. O teatro do oprimido é de Augusto Boal, com finalidade política, o teatro do absurdo é movimento literário, e arteterapia e terapia criativa não se baseiam na encenação."
+  },
+  {
+   "numero": 52,
+   "texto": "",
+   "enunciado": "De acordo com os conceitos trazidos pela psicodinâmica do trabalho de Christophe Dejours, é correto afirmar que",
+   "alternativas": [
+    "é inaceitável a separação entre trabalhador e ser humano, ou seja, o indivíduo dentro do trabalho e o indivíduo fora do trabalho",
+    "seu principal foco são as patologias relacionadas ao trabalho e às pesquisas de abordagens positivistas que propõem a cura dos trabalhadores",
+    "busca fazer a análise do sofrimento dos trabalhadores nas empresas e a catalogação dos os transtornos psíquicos mais comuns em cada profissão",
+    "analisa a submissão dos indivíduos na relação de trabalho, enfatizando a despersonalização e desindivualização no cotidiano laboral",
+    "entende a organização do trabalho de forma perversa e adoecedora, que leva o trabalhador ao sofrimento psíquico consciente"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Para Dejours, não dá para separar o sujeito no trabalho do sujeito fora dele: o trabalho é central na construção da identidade e da saúde mental. A psicodinâmica não é positivista nem cataloga transtornos por profissão, olha para o sofrimento e as estratégias de defesa, e não vê o trabalho como necessariamente adoecedor, pois ele também pode ser fonte de prazer."
+  },
+  {
+   "numero": 53,
+   "texto": "",
+   "enunciado": "Antônio tem 80 anos, é acamado e vive com sobrinhos que estão negligenciando os cuidados com sua saúde, implicando em risco à sua integridade física. Diante do quadro, vizinhos se mobilizaram pensando em formas de protegê-lo. Na hipótese descrita é correto afirmar que",
+   "alternativas": [
+    "os vizinhos devem buscar pelo filho do idoso que será o responsável por denunciar o caso na Polícia Civil",
+    "os vizinhos têm que procurar os netos pois só eles podem apresentar na Polícia Militar o caso do avô",
+    "os vizinhos são responsáveis por apresentar a dinâmica à ex-esposa que deve assumir os cuidados pelo idoso",
+    "os vizinhos podem comunicar ao Ministério Público do Idoso as violações de direito vividas por Antônio",
+    "os vizinhos devem conversar e capacitar os sobrinhos do idoso na prestação de cuidados responsáveis com ele"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Qualquer pessoa pode comunicar ao Ministério Público a violação de direitos de uma pessoa idosa, e o Estatuto da Pessoa Idosa prevê essa atuação do MP. Não é preciso que um parente faça a denúncia, nem cabe aos vizinhos impor o cuidado a outro familiar."
+  },
+  {
+   "numero": 54,
+   "texto": "",
+   "enunciado": "Entre os objetivos específicos previstos na Rede de Atenção Psicossocial (RAPS) está",
+   "alternativas": [
+    "promover cuidados em assistência especialmente para grupos mais vulneráveis",
+    "reduzir danos provocados pelo estresse e síndrome de Esgotamento Profissional",
+    "reduzir danos provocados pelo consumo de crack, álcool e outras drogas",
+    "promover mecanismos de formação permanente aos profissionais da assistência social",
+    "promover a reabilitação e a reinserção das pessoas com necessidades especiais orgânicas"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A portaria que instituiu a RAPS (Portaria GM/MS 3.088/2011) lista entre os objetivos específicos reduzir danos provocados pelo consumo de crack, álcool e outras drogas. A alternativa A troca \"saúde\" por \"assistência\", e burnout, formação de profissionais da assistência social e deficiências orgânicas não estão entre os objetivos da rede."
+  },
+  {
+   "numero": 55,
+   "texto": "",
+   "enunciado": "Sandra é enfermeira e trabalha em dois hospitais onde faz plantões de 24 horas por 72 horas em UTIs Neonatais, chegando a ficar 48 horas trabalhando. Ultimamente tem sentido extremo cansaço físico e mental, além de insônia, alterações de humor e sentimentos de fracasso e desesperança. Os sintomas apresentados por Sandra podem ser indicativos de",
+   "alternativas": [
+    "Síndrome de Burnout",
+    "Depressão puerperal",
+    "Gaslighting",
+    "Psicose Maníaco-depressiva",
+    "Whelming"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Exaustão física e mental, insônia, alteração de humor e sentimento de fracasso numa profissional de jornadas extenuantes indicam síndrome de burnout, o esgotamento ligado ao estresse crônico do trabalho. Ela não está no pós-parto, gaslighting é manipulação psicológica por outra pessoa, e não há episódios de mania que sugiram transtorno bipolar."
+  },
+  {
+   "numero": 56,
+   "texto": "",
+   "enunciado": "Ao falamos sobre a falha em prestar ou atender às necessidades básicas físicas, emocionais, educacionais e médicas de uma criança, que é indicada como modalidade mais recorrente de maus-tratos contra crianças estamos nos referindo à(o)",
+   "alternativas": [
+    "pobreza",
+    "abuso físico",
+    "violência psicológica",
+    "abuso sexual",
+    "negligência"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Negligência é a omissão em prover as necessidades básicas físicas, emocionais, educacionais e de saúde da criança, e é a forma de maus-tratos mais notificada. Pobreza não é maus-tratos em si, e abuso físico, sexual e violência psicológica são ações, não omissões."
+  },
+  {
+   "numero": 57,
+   "texto": "",
+   "enunciado": "A experiência desenvolvida pelo psiquiatra David Rosenhan sobre a internação em hospitais psiquiátricos girou em torno",
+   "alternativas": [
+    "da identificação com o agressor",
+    "da validade do diagnóstico psiquiátrico",
+    "da submissão à autoridade",
+    "da coesão do grupo",
+    "de endogrupos e exogrupos"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "O experimento de Rosenhan (\"On being sane in insane places\") colocou pessoas sem transtorno simulando ouvir vozes para serem internadas, e a equipe não as distinguiu dos pacientes reais, o que questionou a validade do diagnóstico psiquiátrico. Submissão à autoridade é de Milgram, e coesão e endogrupos são temas da psicologia social de grupos."
+  },
+  {
+   "numero": 58,
+   "texto": "",
+   "enunciado": "Gabriela é psicóloga e foi solicitada a fazer uma análise técnica a respeito de um documento psicológico feito por outro profissional, respondendo, portanto, a uma consulta. Tal documento fez uma avaliação do solicitante, para o qual foram aplicados testes psicológicos aparentemente inadequados para a avaliação realizada. Gabriela fará, assim, uma apreciação técnica sobre essa questão-problema, ou seja, produzirá o seguinte documento psicológico:",
+   "alternativas": [
+    "parecer",
+    "laudo",
+    "relatório",
+    "atestado",
+    "declaração"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "",
+   "comentario": "Pela Res. CFP 06/2019, o parecer responde a uma consulta com uma análise técnica de uma questão-problema, inclusive sobre documento de outro profissional, e não pressupõe avaliar a pessoa. Laudo e relatório resultam de avaliação ou acompanhamento do atendido, e atestado e declaração são documentos de outra natureza."
+  },
+  {
+   "numero": 59,
+   "texto": "",
+   "enunciado": "Sobre a obrigatoriedade do registro documental decorrente da prestação de serviços psicológicos, é correto afirmar que",
+   "alternativas": [
+    "o registro documental em papel tem por objetivo contemplar de forma minuciosa prestado e o prognóstico do caso",
+    "a guarda do registro documental é de responsabilidade do psicólogo e/ou da instituição em que ocorreu o serviço",
+    "a organização do registro documental é atribuição da chefia imediata do psicólogo que acompanha o procedimento",
+    "os documentos agrupados nos registros do trabalho realizados devem contemplar a descrição das entrevistas preliminares",
+    "os documentos resultantes da aplicação de instrumentos de avaliação psicológica devem ser arquivados em pastas de acesso a outros profissionais, quando se tratar de trabalhos interdisciplinares"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "",
+   "comentario": "As normas do CFP atribuem a guarda dos registros e documentos ao psicólogo e/ou à instituição em que o serviço foi prestado. A organização do registro não é atribuição da chefia, ele deve conter o essencial, sem detalhamento minucioso, e o material de testes não fica em pasta aberta a outros profissionais, porque é sigiloso."
+  },
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "Segundo o psicanalista francês Jacques Lacan, a função paterna é representada por aquele que, escolhido pelo desejo materno, corresponde à autoridade da lei simbólica, por meio da qual será permitido o acesso da criança",
+   "alternativas": [
+    "à forclusão",
+    "à significação fálica",
+    "ao complexo de Édipo",
+    "ao estádio de espelho",
+    "ao narcisismo originário"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Na metáfora paterna de Lacan, o Nome-do-Pai substitui o desejo materno e dá à criança acesso à significação fálica, inscrevendo-a na ordem simbólica. A forclusão é justamente a falha dessa inscrição (a psicose), e o estádio do espelho e o narcisismo são do registro imaginário."
+  },
+  {
+   "numero": 61,
+   "texto": "",
+   "enunciado": "Alessandra é o nome social de uma mulher trans que sofre preconceito desde a infância, o que impacta sua saúde mental. Ela vem fazendo o processo transexualizador há alguns anos e pretende realizar a cirurgia de modificação corporal, de tal modo que foi solicitada à psicóloga do serviço que fizesse uma avaliação do caso. Nesse contexto, são importantes as contribuições da teoria queer, sobretudo, da filósofa Judith Butler, conhecida pela perspectiva crítica das categorias de identidade de gênero. Uma das ideias centrais dessa teoria é",
+   "alternativas": [
+    "a identidade de gênero é performaticamente constituída",
+    "o sexo possui uma essência que deve ser vivida sem repressão",
+    "o interdito entre a mulher e o bebê é condição universal para qualquer sociedade humana",
+    "o amor materno é um mito atribuído às mulheres por serem as cuidadoras primárias dos filhos",
+    "o sexo possui uma natureza a priori, mas o gênero se desenvolve de acordo com cada indivíduo"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para Judith Butler, o gênero não expressa uma essência: ele é constituído performaticamente, pela repetição de atos e normas. As alternativas que falam em essência ou natureza prévia do sexo contrariam a teoria, e a do mito do amor materno é a tese de Elisabeth Badinter."
+  },
+  {
+   "numero": 62,
+   "texto": "",
+   "enunciado": "De acordo com o psicanalista inglês Donald Winnicott, a criança elege um objeto material por meio do qual se separa do corpo materno, permitindo a travessia necessária da primeira relação oral com a mãe para uma verdadeira relação de objeto. Esse objeto é denominado",
+   "alternativas": [
+    "auxiliativo",
+    "performático",
+    "pequeno A",
+    "transicional",
+    "intergeracional"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "O objeto transicional de Winnicott (a fralda, o paninho) faz a passagem entre a união com a mãe e a relação com objetos externos, numa área intermediária entre o subjetivo e o objetivo. Pequeno a (objeto a) é conceito de Lacan, e os demais termos não pertencem à teoria winnicottiana."
+  },
+  {
+   "numero": 63,
+   "texto": "",
+   "enunciado": "A violência contra a população infantojuvenil manifesta-se de diferentes maneiras, e marcam profundamente o desenvolvimento deste grupo etário. Em relação ao tema, analise as afirmativas a seguir.\nI. A violência contra criança e adolescente é um fenômeno multicausal, multifatorial e multidimensional, de maneira que o atendimento desses casos pressupõe um conjunto articulado de ações.\nII. A notificação é obrigatória nos casos suspeitos ou confirmados de violência contra crianças e adolescentes, estabelecida para todas as entidades de saúde integrantes do Sistema Único de Saúde do nosso país.\nIII. A escuta psicológica e oitiva da criança ou adolescente vítima ou testemunha de violência são práticas conceitualmente idênticas.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A violência contra crianças e adolescentes é multicausal e exige ações articuladas, e a notificação de casos suspeitos ou confirmados é obrigatória para os serviços de saúde. A afirmativa III é falsa: escuta especializada e depoimento especial (oitiva) são procedimentos diferentes na Lei 13.431/2017, um protetivo e outro para a produção de prova."
+  },
+  {
+   "numero": 64,
+   "texto": "",
+   "enunciado": "Ao distinguir duas grandes estruturas clínicas por intermédio do afrouxamento da relação do sujeito com a realidade, Freud argumenta que a primeira é uma reação contra o recalcamento ou fracasso resultado do conflito entre o Eu e o “Isso”; por sua vez, na segunda, a perda de realidade é primária, sendo produto de um distúrbio equivalente entre o Eu e o mundo externo. Tais estruturas clínicas são, respectivamente,",
+   "alternativas": [
+    "perversão e psicose",
+    "psicose e neurose",
+    "neurose e perversão",
+    "psicose e perversão",
+    "neurose e psicose"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Em \"A perda da realidade na neurose e na psicose\", Freud diz que na neurose o conflito é entre o Eu e o Isso e a perda da realidade é secundária, enquanto na psicose o conflito é entre o Eu e o mundo externo e a perda da realidade é primária. Por isso a ordem é neurose e psicose, e a perversão não entra nessa distinção."
+  },
+  {
+   "numero": 65,
+   "texto": "",
+   "enunciado": "Na segunda metade dos anos 1980, em um contexto político fundamental no Brasil, a noção de desinstitucionalização aprofundou o processo de reforma psiquiátrica no país. Considerando a influência de Franco Basaglia na reforma psiquiátrica brasileira, a desinstitucionalização",
+   "alternativas": [
+    "corresponde à desospitalização dos pacientes psiquiátricos, objetivando a extinção progressiva dos equipamentos manicomiais",
+    "visa à objetificação da loucura enquanto doença mental, permitindo a desconstrução de saberes e práticas da psiquiatria tradicional",
+    "busca ofertar ao sujeito condições de existência em liberdade, a despeito do pertencimento de si e da autonomia",
+    "amplia a participação dos pacientes psiquiátricos na comunidade, instituindo novas formas de viver que prescindem da rede assistencial em saúde",
+    "compreende o conceito de instituição num sentido amplo e dinâmico, pois o fato de um serviço ser externo ao hospital não garante sua natureza não manicomial"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-lei-10216",
+   "item": "",
+   "comentario": "Na tradição basagliana, desinstitucionalizar não é só desospitalizar: é desconstruir a lógica manicomial, e um serviço fora do hospital pode continuar manicomial. A alternativa A reduz a desinstitucionalização à desospitalização, a B inverte o sentido (a reforma critica a objetificação da loucura), e C e D contrariam a autonomia e o cuidado em rede."
+  },
+  {
+   "numero": 66,
+   "texto": "",
+   "enunciado": "Em Vigiar e Punir (1975), Foucault argumenta que a psicologia, entre outros saberes disciplinares da sociedade moderna, fabrica um saber que tem como condições de possibilidade o poder que se capilariza nas instituições da nossa sociedade. Em uma perspectiva crítica, analise as afirmativas a seguir acerca da psicologia hegemônica no campo da saúde mental:\nI. A neutralidade científica possibilitou questionar os mecanismos de exclusão dos manicômios.\nII. A patologização do louco fundamentou a cientificidade da psicologia, tornando-a um campo de atuação transformador frente às relações de dominação.\nIII. É um saber que contribuiu para o papel exercido pelos manicômios na engrenagem social, instrumentalizando a opressão de classes.\nIV. Por meio da patologização do louco, desconsiderou mecanismos sociais, raciais e sexistas que operam em nossa sociedade.\nEstão corretas:",
+   "alternativas": [
+    "somente I e II",
+    "somente II e III",
+    "Somente I, II e III",
+    "somente III e IV",
+    "I, II, III e IV"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "Na leitura crítica inspirada em Foucault, a psicologia hegemônica ajudou a sustentar a função social do manicômio e, ao patologizar o louco, ocultou determinantes sociais, raciais e de gênero; por isso III e IV estão corretas. I e II invertem a crítica: a suposta neutralidade e a patologização serviram à exclusão, não a questioná-la nem a transformar as relações de dominação."
+  },
+  {
+   "numero": 67,
+   "texto": "",
+   "enunciado": "A medicalização do sofrimento psicossocial é um dos principais desafios no campo da saúde mental contemporânea. Sobre a medicalização, é correto afirmar que",
+   "alternativas": [
+    "tornou-se uma via privilegiada para o enfrentamento dos desafios da existência, diminuindo a proliferação de diagnósticos",
+    "é um dos efeitos da hegemonia do modelo biomédico nos dispositivos de saúde, sendo superada pela atenção psicossocial",
+    "é potencializada pela implementação das práticas de matriciamento, possibilitando reconhecer os medicamentos enquanto recurso de cuidado",
+    "reconhece os direitos e as dimensões sociais do adoecimento e da saúde, enfrentando as lacunas de cuidado",
+    "desloca para a ordem médica questões relativas à esfera sociocultural, contribuindo para despolitizar o sofrimento psicossocial"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A medicalização transforma em questão médica problemas de ordem social e cultural, o que despolitiza o sofrimento psicossocial. Ela multiplica diagnósticos em vez de reduzi-los, não foi superada pela atenção psicossocial, não é fortalecida pelo matriciamento e não reconhece as dimensões sociais do adoecimento, faz o contrário."
+  },
+  {
+   "numero": 68,
+   "texto": "",
+   "enunciado": "Com relação aos Projetos Terapêuticos Singulares, instrumentos fundamentais para o processo de trabalho na atenção psicossocial, assinale a afirmativa correta.",
+   "alternativas": [
+    "Possibilitam a liderança do cuidado pelo psicólogo ou médico",
+    "Centralizam o cuidado nos Centros de Atenção Psicossocial",
+    "Pressupõem a participação do usuário junto a múltiplos atores",
+    "Objetivam responsabilizar o núcleo familiar pelo cuidado",
+    "Minimizam o papel do contexto na compreensão do sofrimento"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "O Projeto Terapêutico Singular é construído de forma compartilhada, com o usuário e diversos atores (equipe, família, rede). Ele não dá a liderança a uma categoria profissional, não centraliza o cuidado no CAPS, não transfere a responsabilidade para a família e valoriza o contexto, não o minimiza."
+  },
+  {
+   "numero": 69,
+   "texto": "",
+   "enunciado": "Em contraposição aos modelos dominantes de atuação clínica no âmbito da saúde, a designação de clínica ampliada",
+   "alternativas": [
+    "valoriza o autocuidado e a ampliação dos espaços de escuta grupais nos dispositivos de saúde, destituindo a clínica individualizada",
+    "busca a produção de saúde por diversificadas modalidades de cuidado, priorizando o protagonismo do trabalho dos psicólogos",
+    "é voltada para a ampliação do grau de autonomia dos sujeitos, possibilitando viver sem dependência socioafetiva",
+    "considera o saber dos sujeitos sobre o seu próprio sofrimento, dissociado do contexto territorial em que se inserem",
+    "implica a noção de clínica do sujeito na medida em que não há condição de adoecimento que suplante a singularidade subjetiva"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "A clínica ampliada põe o sujeito singular no centro, lembrando que nenhuma doença esgota a pessoa que adoece. Ela não elimina a clínica individual nem privilegia a psicologia, busca autonomia com vínculos (não sem dependência afetiva) e considera o saber do sujeito junto com o contexto em que ele vive."
+  },
+  {
+   "numero": 70,
+   "texto": "",
+   "enunciado": "Os efeitos da hegemonia do modelo biomédico nos processos de trabalho em saúde",
+   "alternativas": [
+    "possibilitam maior integralidade do cuidado e verticalização de saberes",
+    "fomentam a transversalidade e a interdisciplinaridade nas equipes",
+    "produzem trabalho articulado em rede e na perspectiva intersetorial",
+    "estão associados a modelos mais participativos de gestão dos serviços",
+    "geram ambulatorização do cuidado e hierarquização de saberes"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-saude-mental",
+   "item": "",
+   "comentario": "O modelo biomédico hegemônico centra o cuidado na consulta e no procedimento (ambulatorização) e hierarquiza os saberes sob o do médico. Integralidade, interdisciplinaridade, trabalho em rede intersetorial e gestão participativa são justamente o que esse modelo dificulta."
+  }
+ ]
+}

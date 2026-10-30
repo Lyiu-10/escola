@@ -1,0 +1,672 @@
+{
+ "https://www.youtube.com/watch?v=SHl__q3qGIU": [
+  {
+   "enunciado": "Segundo a aula, o que fez o movimento da Inconfidência Mineira ganhar força e ter data marcada para a revolta?",
+   "alternativas": [
+    "O medo de que a Derrama fosse decretada",
+    "A chegada da família real ao Rio de Janeiro",
+    "A proibição do tráfico de escravos pela Inglaterra",
+    "A transferência da capital para o Rio de Janeiro"
+   ],
+   "certa": 0,
+   "comentario": "A professora explica que a Derrama, recolhimento forçado de impostos atrasados, era a ameaça que fez os inconfidentes planejarem a revolta antes que ela ocorresse.",
+   "trecho": "a Derrama era o recolhimento forçado dos impostos, era a coroa literalmente pegando o que as pessoas tinham para pagar os impostos à força",
+   "onde": 202
+  },
+  {
+   "enunciado": "Sobre os objetivos dos inconfidentes mineiros, a aula destaca como detalhe importante que eles",
+   "alternativas": [
+    "queriam a independência de todo o Brasil e o fim da escravidão",
+    "queriam tornar Minas Gerais um país independente, não o Brasil inteiro",
+    "queriam apenas a redução do quinto, sem separação de Portugal",
+    "queriam trazer a corte portuguesa para Vila Rica"
+   ],
+   "certa": 1,
+   "comentario": "Na época não existia identidade brasileira unificada; o projeto era um país independente em Minas, mantendo a escravidão.",
+   "trecho": "os revolucionários, os inconfidentes, queriam tornar Minas Gerais um país independente. Eles não queriam a independência do Brasil",
+   "onde": 236
+  },
+  {
+   "enunciado": "Doze inconfidentes foram condenados à morte, mas a pena foi perdoada pela Coroa para todos, menos para um, mantido como exemplo. Quem foi?",
+   "alternativas": [
+    "Joaquim Silvério dos Reis",
+    "Manoel Joaquim Barbosa de Castro",
+    "Joaquim José da Silva Xavier, o Tiradentes",
+    "Dom João V"
+   ],
+   "certa": 2,
+   "comentario": "Tiradentes manteve a pena de morte para servir de exemplo; Silvério dos Reis foi o delator, não condenado.",
+   "trecho": "um deles não foi perdoado. Um deles manteve a pena de morte que foi Joaquim José da Silva Xavier, conhecido como Tiradentes",
+   "onde": 464
+  },
+  {
+   "enunciado": "Qual a diferença social central entre a Inconfidência Mineira e a Conjuração Baiana, segundo a aula?",
+   "alternativas": [
+    "Ambas foram feitas pela elite letrada, mas em regiões diferentes",
+    "A mineira foi feita por escravos e a baiana por clérigos",
+    "A mineira foi de elite; a baiana reuniu gente da base da pirâmide social, como alfaiates, pobres e escravos",
+    "A baiana foi feita por militares portugueses e a mineira por alfaiates"
+   ],
+   "certa": 2,
+   "comentario": "A Conjuração Baiana (ou dos Alfaiates) teve participação popular e negra, e por isso a repressão foi muito mais dura.",
+   "trecho": "na Conjuração Baiana, não. São as pessoas que estavam assim na base da pirâmide social, as pessoas que eram, geralmente, muito mais pobres até mesmo escravos participaram da Conjuração Baiana",
+   "onde": 734
+  },
+  {
+   "enunciado": "Por que a Revolução Pernambucana de 1817 se destaca entre os movimentos separatistas do período colonial?",
+   "alternativas": [
+    "Foi o único que contou com o apoio da elite mineira",
+    "Foi o único que pretendia manter a escravidão",
+    "Foi a única que teve como líder Tiradentes",
+    "Foi o único que passou da fase de conspiração e chegou a acontecer, com governo provisório"
+   ],
+   "certa": 3,
+   "comentario": "Os revoltosos tomaram o poder em Recife e instauraram um governo provisório, algo que mineiros e baianos nem chegaram a tentar.",
+   "trecho": "foi o único movimento separatista do período colonial que passou da fase de conspiração, que de fato chegou a acontecer",
+   "onde": 1078
+  }
+ ],
+ "https://www.youtube.com/watch?v=xrXXwvuXmo0": [
+  {
+   "enunciado": "Segundo a aula, qual é a natureza da Constituição de 1824?",
+   "alternativas": [
+    "Promulgada por uma Assembleia Constituinte eleita pelo povo",
+    "Outorgada: imposta pelo Imperador depois de fechar a Constituinte",
+    "Aprovada em plebiscito nacional",
+    "Resultado de um acordo entre o Imperador e o Senado vitalício"
+   ],
+   "certa": 1,
+   "comentario": "D. Pedro I fechou a Assembleia Constituinte e outorgou a Constituição, isto é, impôs o texto.",
+   "trecho": "depois ele vai fazer o que ele vai outorgar a nossa primeira condição que eu estou Imperial de 1824 não é uma construção outorgada você já sabe é uma condição imposta",
+   "onde": 307
+  },
+  {
+   "enunciado": "Qual problema prático da Constituição de 1824, apontado na aula, resultou da estrutura dos poderes?",
+   "alternativas": [
+    "O Judiciário não tinha independência",
+    "O Legislativo era eleito diretamente por todos os homens livres",
+    "O Executivo e o Moderador eram dois poderes assumidos pelo próprio Imperador",
+    "O Senado era escolhido por sorteio entre os deputados"
+   ],
+   "certa": 2,
+   "comentario": "Como o Imperador acumulava Executivo e Moderador, o poder moderador virou disfarce do absolutismo; só no Segundo Reinado se separou o Executivo.",
+   "trecho": "o executivo e o moderador serão dois poderes assumidos pelo Imperador",
+   "onde": 398
+  },
+  {
+   "enunciado": "Por que o voto censitário da Constituição de 1824 fazia só a elite votar e ser eleita, de acordo com a aula?",
+   "alternativas": [
+    "Exigia renda comprovada, equivalente a cerca de 200 alqueires de mandioca plantada para ser eleitor",
+    "Exigia diploma de ensino superior",
+    "Exigia ser nobre com título hereditário",
+    "Exigia ter servido no Exército por dez anos"
+   ],
+   "certa": 0,
+   "comentario": "A renda mínima (cem mil réis) equivalia a uma grande propriedade, e as exigências dobravam para deputado e senador.",
+   "trecho": "cem mil réis era uma renda que equivaleria a um camarada que tivesse 200 alqueires de mandioca plantada",
+   "onde": 583
+  },
+  {
+   "enunciado": "O que era o padroado, poder que o Imperador usava para interferir na Igreja Católica?",
+   "alternativas": [
+    "O poder de excomungar bispos rebeldes",
+    "O poder de aprovar ou vetar determinações do Papa",
+    "O poder de proibir a maçonaria",
+    "O poder de nomear bispos e padres"
+   ],
+   "certa": 3,
+   "comentario": "O padroado era o poder de nomear bispos e padres; o beneplácito era a autorização, ou veto, para determinações internas da Igreja.",
+   "trecho": "de a determinações internas a igreja e o padroado poder de nomear bispos e padres",
+   "onde": 1045
+  },
+  {
+   "enunciado": "Qual episódio, em 1831, foi a maior manifestação popular contra D. Pedro I, depois da nomeação de um ministério de portugueses, e levou à sua abdicação?",
+   "alternativas": [
+    "A Confederação do Equador",
+    "As noites das garrafadas",
+    "A Noite da Agonia",
+    "A Guerra da Cisplatina"
+   ],
+   "certa": 1,
+   "comentario": "Após a nomeação de ministros portugueses vieram as noites das garrafadas e o assassinato do jornalista Líbero Badaró, e a elite o deixou sozinho no trono.",
+   "trecho": "quando você vai ter a maior para a maior manifestação popular contra Dom Pedro primeiro as famosas noites das garrafadas",
+   "onde": 2346
+  }
+ ],
+ "https://www.youtube.com/watch?v=2skEPARnorI": [
+  {
+   "enunciado": "Na aula, \"Saquaremas\" e \"Luzias\" eram apelidos de quais grupos políticos do Segundo Reinado?",
+   "alternativas": [
+    "Saquaremas eram os liberais; Luzias, os conservadores",
+    "Saquaremas eram os republicanos; Luzias, os monarquistas",
+    "Saquaremas eram os conservadores; Luzias, os liberais",
+    "Ambos eram apelidos de grupos escravistas contra os abolicionistas"
+   ],
+   "certa": 2,
+   "comentario": "Saquarema era cidade onde os conservadores tinham terras; Santa Luzia, em Minas, foi a maior derrota liberal em 1842. Daí os apelidos.",
+   "trecho": "Saquarema era uma cidade aqui no Rio de Janeiro onde os conservadores tinham terras né, eles meio que dominavam aquele local",
+   "onde": 368
+  },
+  {
+   "enunciado": "Por que o sistema de governo de D. Pedro II é chamado de \"parlamentarismo às avessas\"?",
+   "alternativas": [
+    "Porque o Imperador escolhia de cima quem ficava abaixo, uma pirâmide invertida, em vez de o poder vir do povo",
+    "Porque o primeiro-ministro era eleito diretamente pelo povo",
+    "Porque o Parlamento não existia no Segundo Reinado",
+    "Porque a Câmara escolhia o Imperador"
+   ],
+   "certa": 0,
+   "comentario": "No parlamentarismo clássico o poder sobe do povo ao primeiro-ministro; aqui o Imperador nomeava o presidente do conselho de ministros e dissolvia a Câmara.",
+   "trecho": "no parlamentarismo do Dom Pedro II, do Segundo Reinado era ele de cima, que ia escolhendo quem ficava abaixo né, era meio que uma pirâmide invertida",
+   "onde": 1004
+  },
+  {
+   "enunciado": "Qual a importância da Revolução Praieira (Pernambuco, 1848), segundo a aula?",
+   "alternativas": [
+    "Foi a primeira revolta contra o tráfico negreiro",
+    "Foi a revolta que levou à Proclamação da República",
+    "Foi a última rebelião provincial, a última tentativa de uma província se separar do Brasil",
+    "Foi a revolta que criou o Poder Moderador"
+   ],
+   "certa": 2,
+   "comentario": "A repressão rápida representou a vitória do Império sobre o regionalismo: nenhuma província tentou se separar depois.",
+   "trecho": "a Revolução Praieira vai ser muito importante, porque ela vai ser considerada a última rebelião provincial",
+   "onde": 1480
+  },
+  {
+   "enunciado": "Segundo a aula, qual o objetivo da Lei de Terras de 1850 em relação aos imigrantes?",
+   "alternativas": [
+    "Distribuir terras gratuitas aos imigrantes europeus",
+    "Impedir que o imigrante pobre tivesse terra própria, pois ela só podia ser comprada, e assim ele trabalhasse para os cafeicultores",
+    "Devolver as sesmarias aos antigos donos",
+    "Proibir a entrada de imigrantes no Brasil"
+   ],
+   "certa": 1,
+   "comentario": "Sem doação de sesmarias, o imigrante sem dinheiro não comprava terra e ficava dependente dos grandes fazendeiros.",
+   "trecho": "para você viver numa terra, para você ocupar uma terra, você tem que pagar, você tem que comprar aquela terra. Não existe mais doação de sesmarias",
+   "onde": 2217
+  },
+  {
+   "enunciado": "O que diferenciou a imigração subvencionada do sistema de parcerias?",
+   "alternativas": [
+    "Na subvencionada, o imigrante pagava a viagem com o trabalho de anos na fazenda",
+    "Na subvencionada, só vinham imigrantes alemães para o Sul",
+    "Na subvencionada, o cafeicultor pagava a viagem e o imigrante chegava endividado",
+    "Na subvencionada, o Estado custeava a viagem e a primeira hospedagem, e o imigrante não chegava endividado"
+   ],
+   "certa": 3,
+   "comentario": "As parcerias eram comparadas à servidão por causa da dívida eterna; foram trocadas pela imigração subvencionada, paga pelo Estado.",
+   "trecho": "foi trocado pela imigração subvencionada, porque, justamente o custo da viagem e da primeira hospedagem dos imigrantes eram custeados pelo Estado",
+   "onde": 2387
+  }
+ ],
+ "https://www.youtube.com/watch?v=zQ7IoqfCxrE": [
+  {
+   "enunciado": "A Lei Feijó (1831) proibiu o tráfico de africanos, mas não foi cumprida na prática. Que expressão, citada na aula, nasceu daí?",
+   "alternativas": [
+    "Voluntários a pau e corda",
+    "Escravidão de ganho",
+    "Ventre livre",
+    "Lei para inglês ver"
+   ],
+   "certa": 3,
+   "comentario": "A expressão designa a lei que promete algo mas fica só no papel; a Lei Feijó foi o exemplo, sob pressão inglesa.",
+   "trecho": "Foi por conta da Lei Feijó que surgiu a expressão lei para inglês ver",
+   "onde": 277
+  },
+  {
+   "enunciado": "Segundo a aula, qual foi um efeito da Lei Eusébio de Queiroz (1850), que proibiu o tráfico negreiro?",
+   "alternativas": [
+    "O fim imediato e definitivo de qualquer tráfico, inclusive o clandestino",
+    "A libertação de todos os escravizados já existentes no Brasil",
+    "O aumento do tráfico interno, com mais venda de pessoas entre as províncias",
+    "A criação da campanha Voluntários da Pátria"
+   ],
+   "certa": 2,
+   "comentario": "Com o fim da importação de africanos, a venda de escravizados entre as províncias aumentou, e o tráfico clandestino não acabou de vez.",
+   "trecho": "Então se ela proíbe o tráfico negreiro E aí professora gente o tráfico interno aumenta a venda de pessoas entre as províncias do Brasil vai aumentar",
+   "onde": 493
+  },
+  {
+   "enunciado": "Qual a relação entre a Guerra do Paraguai e a alforria, segundo a aula?",
+   "alternativas": [
+    "Escravizados que se alistassem no Exército ganhariam a liberdade",
+    "A guerra acabou com a escravidão no Brasil",
+    "O Paraguai exigiu a libertação dos escravizados como condição de paz",
+    "Escravizados eram proibidos de ir à guerra"
+   ],
+   "certa": 0,
+   "comentario": "A campanha Voluntários da Pátria prometia alforria a quem se alistasse, embora muitos tenham ido à força, os chamados voluntários a pau e corda.",
+   "trecho": "exército para compor o corpo de militares da Guerra esses escravizados ganhariam a liberdade ou seja aforia",
+   "onde": 618
+  },
+  {
+   "enunciado": "O que determinava a Lei do Ventre Livre (1871)?",
+   "alternativas": [
+    "Libertava todos os escravizados com mais de 60 anos",
+    "Proibia a separação de filhos menores de 15 anos de suas mães",
+    "Proibia a importação de africanos",
+    "Declarava livres os filhos de escravizadas nascidos a partir de 1871"
+   ],
+   "certa": 3,
+   "comentario": "A criança nascida depois da promulgação estaria livre, ainda que a mãe fosse escravizada. A separação de mães e filhos menores de 15 anos era tema do decreto de 1869.",
+   "trecho": "partir de 1871 estão livres ou seja a mãe escravizada o pai escravizado porém se essa criança nasceu a partir da promulgação da Lei ela tá livre",
+   "onde": 774
+  },
+  {
+   "enunciado": "Qual limitação da Lei Áurea (1888) é destacada na aula?",
+   "alternativas": [
+    "Não trazia nenhuma política de inclusão para os libertos",
+    "Foi assinada por Dom Pedro II sem passar pelo Congresso",
+    "Previa indenização aos libertos",
+    "Valia só para a Bahia"
+   ],
+   "certa": 0,
+   "comentario": "A lei foi assinada pela princesa regente Isabel, mas sem medidas de inclusão, o que contribuiu para a marginalização dos libertos e o aprofundamento do racismo.",
+   "trecho": "um ponto importante dessa lei Ela não ela não traz nenhuma política de inclusão para os libertos",
+   "onde": 925
+  }
+ ],
+ "https://www.youtube.com/watch?v=oISI5OwOXXI": [
+  {
+   "enunciado": "Qual é o consenso atual dos historiadores sobre as causas da Guerra do Paraguai, segundo a aula?",
+   "alternativas": [
+    "A culpa foi só da Inglaterra, que se sentia ameaçada pelo Paraguai industrial",
+    "A culpa foi só de Solano López, um ditador expansionista",
+    "Não existem heróis nem vilões: vários países com interesses próprios, muitas vezes conflitantes",
+    "A culpa foi só do Brasil, por interferir na Bacia Platina"
+   ],
+   "certa": 2,
+   "comentario": "As teses de um culpado único (Inglaterra ou Solano López) caíram em desuso; a guerra resultou de interesses territoriais de todos os envolvidos.",
+   "trecho": "não existem heróis e não existem vilões, existem simplesmente vários agentes envolvidos, vários países envolvidos e cada um com seus interesses a zelar",
+   "onde": 488
+  },
+  {
+   "enunciado": "Em 1864, que ação do Brasil no Uruguai desagradou ao Paraguai de Solano López?",
+   "alternativas": [
+    "Apoiar os Blancos contra os Colorados",
+    "Fechar os portos de Montevidéu ao comércio",
+    "Declarar guerra à Argentina",
+    "Enviar tropas que tiraram os Blancos do poder e puseram os Colorados"
+   ],
+   "certa": 3,
+   "comentario": "Os Blancos eram aliados do Paraguai e davam a ele acesso ao mar por Montevidéu. A intervenção brasileira levou o Paraguai a retaliar, confiscando navios brasileiros.",
+   "trecho": "Dom Pedro II vai mandar tropas brasileiras para irem lá no Uruguai e eles vão tirar os Blancos do poder e colocar os Colorados",
+   "onde": 964
+  },
+  {
+   "enunciado": "Como surgiu a Tríplice Aliança?",
+   "alternativas": [
+    "Brasil, Argentina e Uruguai se uniram depois de o Paraguai invadir seus territórios",
+    "Brasil, Paraguai e Argentina se aliaram contra a Inglaterra",
+    "Argentina, Paraguai e Uruguai se aliaram contra o Brasil",
+    "Brasil, Inglaterra e Argentina se aliaram para financiar o Paraguai"
+   ],
+   "certa": 0,
+   "comentario": "O Paraguai invadiu Brasil, Argentina e Uruguai; os três, com um inimigo em comum, formaram a aliança e lutaram contra o Paraguai.",
+   "trecho": "Eles decidiram fazer uma aliança, que foi chamada de Tríplice Aliança justamente porque eram três países: A Argentina, o Uruguai e o Brasil",
+   "onde": 1265
+  },
+  {
+   "enunciado": "Qual consequência a promessa de liberdade aos escravos que lutassem na guerra trouxe para o Exército brasileiro, segundo a aula?",
+   "alternativas": [
+    "O Exército passou a defender a escravidão mais fortemente",
+    "O Exército foi dissolvido ao fim da guerra",
+    "O Exército passou a ser formado só por oficiais brancos",
+    "O Exército começou a se tornar uma instituição libertadora, e seus soldados mudaram de mentalidade sobre a escravidão"
+   ],
+   "certa": 3,
+   "comentario": "Anos lutando ao lado de escravizados fez os soldados verem a escravidão com outros olhos e se tornarem abolicionistas.",
+   "trecho": "Prometeu a liberdade e isso vai mudar toda a história do nosso país, por quê? O exército vai começar a se tornar uma instituição libertadora",
+   "onde": 1460
+  },
+  {
+   "enunciado": "Por que, segundo a aula, o Exército se distanciou da monarquia depois da guerra?",
+   "alternativas": [
+    "Porque queria restaurar a escravidão",
+    "Porque queria maior participação política e reconhecimento e não os recebeu de Dom Pedro II",
+    "Porque Dom Pedro II abandonou o comando da guerra",
+    "Porque a monarquia aumentou o número de soldados da Guarda Nacional"
+   ],
+   "certa": 1,
+   "comentario": "Sem o reconhecimento esperado, o Exército aderiu às ideias republicanas e acabou proclamando a República.",
+   "trecho": "mas o exército queria ter uma maior participação política e eles queriam receber benefícios do governo",
+   "onde": 2031
+  }
+ ],
+ "https://www.youtube.com/watch?v=FmGVa7W--mg": [
+  {
+   "enunciado": "Segundo a aula, como o coronel garantia que seu curral eleitoral votasse no candidato dele?",
+   "alternativas": [
+    "Porque o voto era secreto e comprado em urna",
+    "Porque o voto era aberto: sabendo em quem cada um votou, ele garantia a obediência, com ameaças, favores e suborno",
+    "Porque o voto era obrigatório para todos os brasileiros",
+    "Porque a Justiça Eleitoral fiscalizava cada seção"
+   ],
+   "certa": 1,
+   "comentario": "O voto aberto permitia ao coronel controlar o eleitor; daí o voto de cabresto e as demais fraudes.",
+   "trecho": "Fácil: o voto é aberto. Então eu sei em quem cada um votou. Como eu vejo em quem cada um votou, tenho a garantia de que vão me obedecer",
+   "onde": 192
+  },
+  {
+   "enunciado": "Qual era a função prática da Comissão Verificadora de Poderes na República Oligárquica?",
+   "alternativas": [
+    "Fiscalizar a compra de votos pelos coronéis",
+    "Garantir a posse do candidato mais votado",
+    "Declarar fraudulenta a eleição de um candidato indesejado e dar a vitória ao candidato das oligarquias",
+    "Escolher o presidente quando houvesse empate entre PRP e PRM"
+   ],
+   "certa": 2,
+   "comentario": "A comissão, que deveria verificar a corrupção, realizava a corrupção: anulava a vitória de quem não interessava às oligarquias.",
+   "trecho": "se um candidato que o coronel não quisesse vencesse a eleição, ele chamava a Comissão",
+   "onde": 322
+  },
+  {
+   "enunciado": "Segundo a aula, por que a aliança entre São Paulo e Minas Gerais (política do café com leite) funcionava?",
+   "alternativas": [
+    "Porque Minas era a maior produtora de café e São Paulo, de leite",
+    "Porque São Paulo era rica e poderosa e Minas tinha o maior eleitorado: os poderosos com os numerosos",
+    "Porque os dois estados controlavam o Exército",
+    "Porque Minas e São Paulo nunca brigavam entre si"
+   ],
+   "certa": 1,
+   "comentario": "São Paulo era cafeicultora e rica; Minas, produtora de leite e com muitos eleitores. Juntos, alternavam a Presidência.",
+   "trecho": "Então, a política do café com leite juntava o útil ao agradável, juntava os poderosos com os numerosos",
+   "onde": 448
+  },
+  {
+   "enunciado": "O que o Convênio de Taubaté decidiu em relação ao café?",
+   "alternativas": [
+    "Proibir a exportação de café",
+    "Que os governadores comprariam o excesso de café em caso de superprodução, para evitar a desvalorização",
+    "Que os cafeicultores pagariam imposto sobre o excedente",
+    "Que o café passaria a ser vendido só no mercado interno"
+   ],
+   "certa": 1,
+   "comentario": "Foi uma reunião de cafeicultores que criou a compra do excedente, para não gerar perda; depois foi apoiada por Afonso Pena.",
+   "trecho": "os governadores comprariam o excesso de café produzido para não gerar perda, a desvalorização do café",
+   "onde": 699
+  },
+  {
+   "enunciado": "Segundo a aula, qual atitude de Washington Luís rompeu a política do café com leite e levou à Revolução de 1930?",
+   "alternativas": [
+    "Apoiar a candidatura de Getúlio Vargas",
+    "Convocar eleições diretas com voto secreto",
+    "Indicar como sucessor Júlio Prestes, também paulista, em vez de um candidato mineiro",
+    "Dissolver o Partido Republicano Mineiro"
+   ],
+   "certa": 2,
+   "comentario": "Minas respondeu com a Aliança Liberal e lançou Getúlio Vargas; o assassinato de João Pessoa serviu de pretexto para o golpe de 1930.",
+   "trecho": "ele estava rompendo com a política do café com leite, porque ele deveria sugerir algum candidato do partido mineiro",
+   "onde": 1341
+  }
+ ],
+ "https://www.youtube.com/watch?v=jQU6Ojetq8M": [
+  {
+   "enunciado": "Segundo a divisão da Era Vargas feita na aula, qual período corresponde ao Governo Constitucional?",
+   "alternativas": [
+    "1930 a 1934",
+    "1934 a 1937",
+    "1937 a 1945",
+    "1945 a 1950"
+   ],
+   "certa": 1,
+   "comentario": "A aula divide a Era Vargas em Governo Provisório (1930-1934), Governo Constitucional (1934-1937) e Estado Novo (1937-1945).",
+   "trecho": "A segunda vai ser o Governo Constitucional, que vai ser entre 1934 e 1937. A terceira vai ser a Ditadura do Estado Novo, que vai ser entre 1937 e 1945",
+   "onde": 699
+  },
+  {
+   "enunciado": "O que São Paulo reivindicava ao pegar em armas na Revolução Constitucionalista de 1932?",
+   "alternativas": [
+    "A volta de Washington Luís à Presidência",
+    "O fim do voto feminino",
+    "Que o Brasil tivesse uma Constituição, limitando o governo sem lei de Vargas",
+    "A independência do estado de São Paulo"
+   ],
+   "certa": 2,
+   "comentario": "Desde o golpe Vargas governava sem lei; São Paulo foi derrotada em três meses, mas o movimento contribuiu para a Constituição de 1934.",
+   "trecho": "pegaram em armas mesmo, para pedir que o Brasil tivesse uma Constituição",
+   "onde": 1045
+  },
+  {
+   "enunciado": "Segundo a aula, que manobra Vargas usou para justificar o golpe do Estado Novo em 1937?",
+   "alternativas": [
+    "Anunciou que o Brasil entraria na Segunda Guerra",
+    "Divulgou o Plano Cohen, uma farsa sobre uma suposta revolta comunista",
+    "Alegou que a Constituição de 1934 permitia a reeleição",
+    "Culpou a AIB por um atentado contra ele"
+   ],
+   "certa": 1,
+   "comentario": "O Plano Cohen foi fraudado para criar medo do comunismo e justificar a ditadura, manobra anterior à de 1964.",
+   "trecho": "Então, o que ele fez? Ele inventou, hoje a gente sabe que é mentira, ele inventou o famoso Plano Cohen",
+   "onde": 1892
+  },
+  {
+   "enunciado": "Por que a industrialização da Era Vargas é chamada de industrialização por substituição de importações?",
+   "alternativas": [
+    "Porque o governo proibiu todas as importações",
+    "Porque o Brasil exportava café para pagar importações",
+    "Porque as fábricas estrangeiras foram nacionalizadas",
+    "Porque a Primeira Guerra e a Crise de 1929 deixaram os parceiros comerciais em crise, e o Brasil teve de produzir o que importava"
+   ],
+   "certa": 3,
+   "comentario": "Sem poder importar de parceiros em crise ou quebrados, o Brasil foi forçado a se industrializar para substituir as importações.",
+   "trecho": "para substituir as importações que fazia desses outros países, entendeu? Por isso que é industrialização por substituição de importações",
+   "onde": 2396
+  },
+  {
+   "enunciado": "Segundo a aula, além de conceder direitos, qual era um dos objetivos das políticas trabalhistas de Vargas?",
+   "alternativas": [
+    "Impedir a organização autônoma dos trabalhadores e colocá-los sob o controle do governo",
+    "Estimular a criação de sindicatos independentes do Estado",
+    "Transferir as empresas aos operários",
+    "Acabar com a ditadura do Estado Novo"
+   ],
+   "certa": 0,
+   "comentario": "Citando Boris Fausto, a professora mostra que a política trabalhista também visava reprimir a organização operária fora do controle do Estado e conquistar apoio ao governo.",
+   "trecho": "Um dos objetivos das políticas trabalhistas do Getúlio Vargas era justamente impedir a organização dos trabalhadores, dos movimentos operários,",
+   "onde": 2582
+  }
+ ],
+ "https://www.youtube.com/watch?v=bm13wedJ8hM": [
+  {
+   "enunciado": "Segundo o professor, que medida do governo Dutra mostra que a \"democracia\" do período era limitada?",
+   "alternativas": [
+    "O fechamento do Congresso Nacional",
+    "A censura prévia a todos os jornais",
+    "O enquadramento do PCB na Lei de Segurança Nacional e a cassação de seu registro",
+    "A prisão de Getúlio Vargas"
+   ],
+   "certa": 2,
+   "comentario": "Dutra alinhou-se aos Estados Unidos e, com o PCB impedido de existir, o professor diz que isso não é democracia.",
+   "trecho": "já no governo dutra ele vai enquadrar o pc do b na lei de segurança nacional",
+   "onde": 311
+  },
+  {
+   "enunciado": "Entre as medidas do segundo governo Vargas (1951-1954), a aula cita a criação de qual empresa, associada à campanha \"O petróleo é nosso\"?",
+   "alternativas": [
+    "A Petrobras",
+    "A Companhia Siderúrgica Nacional",
+    "A Embratel",
+    "A Eletrobras"
+   ],
+   "certa": 0,
+   "comentario": "Vargas retomou a agenda trabalhista, nacionalista e protecionista; transformou a companhia de petróleo em Petrobras.",
+   "trecho": "ele cria a petrobras tanto que os modem deles essa campanha é o petróleo é nosso",
+   "onde": 498
+  },
+  {
+   "enunciado": "Segundo a aula, qual foi um efeito do suicídio de Vargas em 1954 sobre o golpe militar?",
+   "alternativas": [
+    "Antecipou o golpe militar em dez anos",
+    "Atrasou o golpe em dez anos, porque a população foi às ruas e as Forças Armadas não puderam agir",
+    "Não teve efeito, pois o golpe ocorreu em 1955",
+    "Fortaleceu a UDN, que assumiu o governo"
+   ],
+   "certa": 1,
+   "comentario": "As Forças Armadas estavam prontas para tirá-lo do poder, mas a comoção popular impediu; o golpe só veio em 1964.",
+   "trecho": "que o vaga se suicidando ele atrasou em dez anos o golpe militar no brasil",
+   "onde": 809
+  },
+  {
+   "enunciado": "Qual crítica o professor faz à política de transportes de Juscelino Kubitschek?",
+   "alternativas": [
+    "Priorizou as ferrovias em detrimento das estradas",
+    "Fechou os portos para o comércio exterior",
+    "Construiu estradas para os caminhões das montadoras em detrimento da malha ferroviária, um gargalo logístico até hoje",
+    "Estatizou as montadoras de automóveis"
+   ],
+   "certa": 2,
+   "comentario": "JK trouxe as montadoras e abriu estradas, em detrimento dos trens; o professor aponta o resultado hoje: muito caminhão e pouco trem.",
+   "trecho": "e aí ele vai construir estrada estrada estrada estrada estrada estrada por tudo que tem que rodar os caminhões em detrimento do que a gente em detrimento da malha ferroviária do brasil",
+   "onde": 965
+  },
+  {
+   "enunciado": "Quais medidas de João Goulart, segundo a aula, aumentaram o desagrado dos generais antes do golpe de 1º de abril de 1964?",
+   "alternativas": [
+    "A dissolução do Congresso e a volta do parlamentarismo",
+    "A aproximação com a China e a condecoração de Che Guevara",
+    "A proibição do uso de biquíni e minissaia",
+    "O anúncio de estatizações, como na área do petróleo, e de desapropriações de terras para uma reforma agrária mínima"
+   ],
+   "certa": 3,
+   "comentario": "Sem apoio da direita nem da esquerda radicalizada, Jango buscou os praças e anunciou estatizações e reforma agrária, e veio o golpe.",
+   "trecho": "ele começa a anunciar a estatização de algumas e na área de petróleo né e a desapropriação de algumas terras para tentar uma reforma agrária mínima",
+   "onde": 1549
+  }
+ ],
+ "https://www.youtube.com/watch?v=Ux64F6jfSuo": [
+  {
+   "enunciado": "O que o Ato Institucional nº 2 (AI-2), do governo Castelo Branco, instituiu, segundo a aula?",
+   "alternativas": [
+    "A volta das eleições diretas para presidente",
+    "O fechamento do Congresso por dez meses",
+    "O bipartidarismo: só ARENA (partido dos militares) e MDB (oposição) ficaram legais",
+    "A pena de morte para crimes políticos"
+   ],
+   "certa": 2,
+   "comentario": "O AI-2 criou o bipartidarismo, passando a impressão de democracia, e manteve eleições indiretas para presidente.",
+   "trecho": "instituiu o bipartidarismo a partir de agora só dois partidos estão na legalidade a Aliança Renovadora Nacional o Arena Partido dos militares",
+   "onde": 310
+  },
+  {
+   "enunciado": "Qual das medidas abaixo faz parte do Ato Institucional nº 5, de 13 de dezembro de 1968, segundo a aula?",
+   "alternativas": [
+    "Instituiu eleições diretas para governadores",
+    "Criou o Serviço Nacional de Informações",
+    "Fechou o Congresso por dez meses e deu ao Executivo as funções do Legislativo, além de suspender o habeas corpus em crimes políticos",
+    "Concedeu anistia aos presos políticos"
+   ],
+   "certa": 2,
+   "comentario": "O AI-5, de 12 artigos, foi o maior golpe na democracia: cassações, perseguições, Congresso fechado e fim do habeas corpus para crimes políticos.",
+   "trecho": "Juscelino Kubitschek foi preso na mesma noite o congresso foi fechado por dez meses autorizando o Executivo assumir suas funções",
+   "onde": 709
+  },
+  {
+   "enunciado": "Segundo a aula, qual era o objetivo do DOI-CODI, criado em 1970?",
+   "alternativas": [
+    "Coordenar a reforma agrária no campo",
+    "Fiscalizar a imprensa e as músicas",
+    "Garantir eleições indiretas",
+    "Destruir os movimentos opositores e impedir que se reorganizassem"
+   ],
+   "certa": 3,
+   "comentario": "O DOI identificava, capturava e interrogava opositores; o CODI planejava as medidas de defesa interna. Os dois formavam o DOI-CODI.",
+   "trecho": "o objetivo deles era destruir os movimentos opositores e garantir que eles não conseguirem se reorganizar",
+   "onde": 1204
+  },
+  {
+   "enunciado": "Sobre o alcance da Lei da Anistia de 1979, a aula destaca que",
+   "alternativas": [
+    "valeu para os dois lados, perdoando também os militares que cometeram crimes em nome do Estado",
+    "valeu só para os militares",
+    "valeu só para os exilados que voltaram ao Brasil",
+    "puniu os torturadores e libertou todos os guerrilheiros"
+   ],
+   "certa": 0,
+   "comentario": "A lei perdoou perseguidos políticos, mas também militares e torturadores; por isso é criticada, já que os torturadores nunca foram processados.",
+   "trecho": "e é importante lembrar aqui que essa lhe valia para os dois lados porque militares que cometeram crimes em nome do estado também serão perdoadas",
+   "onde": 1789
+  },
+  {
+   "enunciado": "Como terminou o regime militar, segundo a aula, na eleição de 1985?",
+   "alternativas": [
+    "O candidato civil Tancredo Neves venceu, por eleição indireta, e foi o primeiro presidente civil desde 1964",
+    "Paulo Maluf venceu e deu continuidade ao regime",
+    "Foi realizada eleição direta com a vitória de José Sarney",
+    "Figueiredo foi reeleito pelo Colégio Eleitoral"
+   ],
+   "certa": 0,
+   "comentario": "A eleição foi indireta entre dois civis; Tancredo ganhou, mas adoeceu e morreu, e José Sarney assumiu.",
+   "trecho": "ganha fácil 480 votos contra 181 o Brasil agora tinha o seu primeiro presidente civil desde 1964",
+   "onde": 1939
+  }
+ ],
+ "https://www.youtube.com/watch?v=ksyBneLcPe8": [
+  {
+   "enunciado": "No Plano Cruzado, do governo Sarney, o que era o gatilho salarial?",
+   "alternativas": [
+    "O congelamento do salário mínimo durante a crise",
+    "A troca do cruzeiro pelo cruzado, cortando três zeros",
+    "O fiscal de Sarney, que denunciava aumentos de preço",
+    "O reajuste do salário mínimo sempre que a inflação chegasse a 20%, no mesmo percentual"
+   ],
+   "certa": 3,
+   "comentario": "O gatilho salarial reajustava o salário pela inflação, mas sem ganho real, o que o professor chama de arrocho salarial.",
+   "trecho": "mas toda hora que a inflação chega a 20% o salário mínimo também aumenta 20%",
+   "onde": 520
+  },
+  {
+   "enunciado": "Segundo a aula, o que a Constituição de 1988, chamada de Constituição Cidadã, estabeleceu em relação às minorias?",
+   "alternativas": [
+    "O fim das eleições diretas",
+    "A demarcação de terras indígenas e quilombolas",
+    "A volta do voto censitário",
+    "A proibição de partidos de esquerda"
+   ],
+   "certa": 1,
+   "comentario": "A Constituição ouviu grupos como comunidades indígenas e quilombolas e previu a demarcação de suas terras; também tornou o racismo crime inafiançável.",
+   "trecho": "é através dessa lei que nós vamos ter um aumento néon o estabelecimento de fato de demarcação de terras indígenas demarcação de terras quilombolas",
+   "onde": 825
+  },
+  {
+   "enunciado": "Qual foi a medida mais polêmica do Plano Collor, anunciada pela ministra Zélia Cardoso de Mello?",
+   "alternativas": [
+    "O congelamento das tarifas de energia",
+    "O confisco das contas correntes e poupanças por até 18 meses",
+    "A moratória da dívida externa",
+    "O fim do salário mínimo"
+   ],
+   "certa": 1,
+   "comentario": "O governo reteve o dinheiro da população para frear o consumo e regular a economia, causando desemprego e crise social.",
+   "trecho": "confisco das contas pessoais das pessoas tanto em conta corrente com quanto em contas poupança de até 18 meses é o seguinte durante 18 meses o estado vai reter a sua economia",
+   "onde": 1531
+  },
+  {
+   "enunciado": "Como foi feita a transição para o Plano Real, segundo a aula?",
+   "alternativas": [
+    "Cortando zeros do cruzeiro, como nos planos anteriores",
+    "Com o confisco das poupanças",
+    "Por uma moeda virtual e flutuante, a URV, que variava diariamente antes de dar lugar ao real",
+    "Pelo congelamento de preços fiscalizado pela população"
+   ],
+   "certa": 2,
+   "comentario": "A URV (Unidade Real de Valor) era uma moeda virtual flutuante usada antes da entrada do real, em 1994, no governo Itamar, com FHC ministro da Fazenda.",
+   "trecho": "primeiro você entra com uma moeda flutuante e transitórias chamada de urr ver antes do plano real entre o cruzeiro plano real nós teremos a o rv unidade real de valor é uma moeda virtual",
+   "onde": 2116
+  },
+  {
+   "enunciado": "O governo FHC, segundo a aula, consolidou o neoliberalismo no Brasil. Qual medida citada visava enxugar a máquina pública?",
+   "alternativas": [
+    "O Programa de Demissão Voluntária (PDV)",
+    "O Programa Fome Zero",
+    "O Prouni",
+    "O plebiscito do presidencialismo"
+   ],
+   "certa": 0,
+   "comentario": "Junto às privatizações (como a Vale, em 1997), o PDV foi usado para reduzir o Estado: quem se demitia recebia indenização, e quem ficava podia sofrer transferências.",
+   "trecho": "ele vai lançar o pdv que significa programa de demissão voluntária o estado precisa enxugar a sua máquina pública",
+   "onde": 2395
+  }
+ ]
+}

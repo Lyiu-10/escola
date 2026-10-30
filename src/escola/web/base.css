@@ -1,0 +1,66 @@
+/* Comum às duas telas (central e Orbe): fontes, tokens de cor e base. */
+@font-face { font-family: "Manrope"; src: url("/web/fontes/manrope.woff2") format("woff2"); font-weight: 200 800; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("/web/fontes/instrument-serif.woff2") format("woff2"); font-style: normal; font-display: swap; }
+@font-face { font-family: "Instrument Serif"; src: url("/web/fontes/instrument-serif-italic.woff2") format("woff2"); font-style: italic; font-display: swap; }
+
+:root {
+  color-scheme: dark;
+  --fundo: #0E0D0C;
+  --superficie: #141210;
+  --coluna: #131110;
+  --cartao: #1B1916;
+  --botao: #26221D;
+  --borda: #221F1B;
+  --borda-2: #2A2622;
+  --borda-3: #3A342E;
+  --texto: #F2EDE4;
+  --texto-2: #B3AA9E;
+  --texto-3: #8F877C;
+  --laranja: #F4A259;
+  --laranja-claro: #FFC487;
+  --fazendo: #C27A2E;
+  --feito: #2FA58A;
+  --atencao: #B86AD0;
+  --atencao-texto: #D9B3E8;
+  --sobre: #17140F;
+  --orbe-luz: #FFE6C2;
+  --orbe-quente: #D9634E;
+  --orbe-fundo: #5A2632;
+  --sombra: rgba(0, 0, 0, .4);
+  --sombra-forte: rgba(0, 0, 0, .55);
+  --serifa: "Instrument Serif", Georgia, serif;
+  --sans: "Manrope", system-ui, sans-serif;
+  --curva: cubic-bezier(.2, .8, .2, 1);
+  --brilho: rgba(244, 162, 89, .32);
+  --brilho-fundo: rgba(217, 99, 78, .16);
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; min-height: 100vh; background: var(--fundo); color: var(--texto); font: 500 15px/1.5 var(--sans); }
+a { color: var(--laranja); }
+a:hover { color: var(--texto); }
+::selection { background: rgba(244, 162, 89, .35); color: var(--texto); }
+:focus-visible { outline: 2px solid var(--laranja); outline-offset: 2px; }
+::-webkit-scrollbar { height: 8px; width: 8px; }
+::-webkit-scrollbar-thumb { background: var(--borda-3); border-radius: 4px; }
+h1, h2, h3, p { margin: 0; }
+[hidden] { display: none !important; }
+.so-leitor { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@keyframes respirar { 0%, 100% { transform: scale(.92); } 50% { transform: scale(1.04); } }
+@keyframes morph {
+  0%, 100% { border-radius: 48% 52% 55% 45% / 50% 45% 55% 50%; }
+  50% { border-radius: 55% 45% 47% 53% / 45% 55% 50% 50%; }
+}
+
+/* Link entre as duas telas */
+.link { display: inline-flex; align-items: center; min-height: 44px; font: 600 14px var(--sans); color: var(--texto); text-decoration: underline 1.5px var(--laranja); text-underline-offset: 6px; }
+.link:hover { color: var(--laranja-claro); }
+
+/* Instalar app: só aparece quando o navegador diz que dá para instalar (instalar.js) */
+.instalar { display: inline-flex; align-items: center; gap: 8px; height: 36px; padding: 0 14px; border: 1px solid var(--borda-3); border-radius: 22px; background: transparent; color: var(--texto); font: 600 14px var(--sans); cursor: pointer; }
+.instalar:hover { border-color: var(--laranja); }
+.instalar svg { flex: none; color: var(--laranja); }
+.topo-acoes { display: flex; align-items: center; gap: 16px; }
+@media (hover: none), (pointer: coarse), (max-width: 700px) { .instalar { height: 44px; } }

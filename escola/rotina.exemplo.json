@@ -1,0 +1,317 @@
+{
+ "desde": "2026-10-27",
+ "revisao": "2026-11-01",
+ "resumo": "A sua semana com os dois trabalhos, montada em 26/10 com o que você contou. Acordar, almoçar e deitar têm hora fixa todo dia; o estudo vem com 30 min de coringa logo depois.",
+ "coringa": {
+  "minutos": 30,
+  "titulo": "Coringa",
+  "nota": "Se o dia atrasou, o estudo termina aqui, sem comer o seu lazer. Se não atrasou, é livre, ou é onde cabe estudar mais."
+ },
+ "grades": [
+  {
+   "nome": "Segunda a sexta",
+   "dias": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ],
+   "blocos": [
+    {
+     "inicio": "10:15",
+     "fim": "10:30",
+     "tipo": "acordar",
+     "titulo": "Acordar",
+     "nota": "Abra a janela ou saia uns minutos: a luz da manhã ajuda a adiantar o sono."
+    },
+    {
+     "inicio": "10:30",
+     "fim": "10:50",
+     "tipo": "aquecimento",
+     "titulo": "Aquecimento do dia",
+     "nota": "Sugestão: o resumo e os cartões do que estudou ontem, e perguntas de tudo o que já estudou. É o pedaço pequeno que faz a manhã contar.",
+     "rota": "#/aquecimento",
+     "acao": "Aquecer"
+    },
+    {
+     "inicio": "10:50",
+     "fim": "11:20",
+     "tipo": "coringa",
+     "titulo": "Coringa da manhã",
+     "nota": "Se a manhã atrasou, o aquecimento ou o banho cabem aqui. Se não atrasou, é livre."
+    },
+    {
+     "inicio": "11:20",
+     "fim": "12:00",
+     "tipo": "casa",
+     "titulo": "Se arrumar"
+    },
+    {
+     "inicio": "12:00",
+     "fim": "12:35",
+     "tipo": "casa",
+     "titulo": "Almoço",
+     "nota": "Ao meio-dia, todo dia."
+    },
+    {
+     "inicio": "12:35",
+     "fim": "13:15",
+     "tipo": "fora",
+     "titulo": "Ida",
+     "nota": "Sair às 12h35 para chegar às 13h15. No carro, ouça o que quiser."
+    },
+    {
+     "inicio": "13:15",
+     "fim": "17:00",
+     "tipo": "trabalho",
+     "titulo": "Trabalho"
+    },
+    {
+     "inicio": "17:00",
+     "fim": "19:30",
+     "tipo": "trabalho",
+     "titulo": "Trabalho (2º turno)",
+     "nota": "O caminho entre os dois já está dentro."
+    },
+    {
+     "inicio": "19:30",
+     "fim": "20:10",
+     "tipo": "fora",
+     "titulo": "Volta"
+    },
+    {
+     "inicio": "20:10",
+     "fim": "21:00",
+     "tipo": "casa",
+     "titulo": "Banho e janta"
+    },
+    {
+     "inicio": "21:00",
+     "fim": "22:30",
+     "tipo": "estudo",
+     "titulo": "Estudo",
+     "nota": "O lugar do estudo quando o Cronograma não marca hora: a hora e o tempo de cada dia vêm de lá."
+    },
+    {
+     "inicio": "22:30",
+     "fim": "1:00",
+     "tipo": "livre",
+     "titulo": "Horário livre",
+     "nota": "Jogo, amigos, anime. É seu, e tem hora para acabar."
+    },
+    {
+     "inicio": "1:00",
+     "fim": "1:15",
+     "tipo": "casa",
+     "titulo": "Desligar",
+     "nota": "Sai do jogo e vai para a cama."
+    },
+    {
+     "inicio": "1:15",
+     "fim": "10:15",
+     "tipo": "sono",
+     "titulo": "Dormir",
+     "nota": "9h na cama."
+    }
+   ]
+  },
+  {
+   "nome": "Sábado",
+   "dias": [
+    5
+   ],
+   "blocos": [
+    {
+     "inicio": "10:15",
+     "fim": "10:30",
+     "tipo": "acordar",
+     "titulo": "Acordar",
+     "nota": "O mesmo alarme dos outros dias."
+    },
+    {
+     "inicio": "10:30",
+     "fim": "10:50",
+     "tipo": "aquecimento",
+     "titulo": "Aquecimento do dia",
+     "nota": "Sugestão, se der vontade: é dia de folga do estudo.",
+     "rota": "#/aquecimento",
+     "acao": "Aquecer"
+    },
+    {
+     "inicio": "10:50",
+     "fim": "11:20",
+     "tipo": "livre",
+     "titulo": "Livre"
+    },
+    {
+     "inicio": "11:20",
+     "fim": "12:00",
+     "tipo": "casa",
+     "titulo": "Se arrumar"
+    },
+    {
+     "inicio": "12:00",
+     "fim": "12:20",
+     "tipo": "casa",
+     "titulo": "Almoço",
+     "nota": "Ao meio-dia, como nos outros dias."
+    },
+    {
+     "inicio": "12:20",
+     "fim": "23:00",
+     "tipo": "fora",
+     "titulo": "Compromisso"
+    },
+    {
+     "inicio": "23:00",
+     "fim": "1:00",
+     "tipo": "livre",
+     "titulo": "Horário livre"
+    },
+    {
+     "inicio": "1:00",
+     "fim": "1:15",
+     "tipo": "casa",
+     "titulo": "Desligar"
+    },
+    {
+     "inicio": "1:15",
+     "fim": "10:15",
+     "tipo": "sono",
+     "titulo": "Dormir",
+     "nota": "9h na cama."
+    }
+   ]
+  },
+  {
+   "nome": "Domingo",
+   "dias": [
+    6
+   ],
+   "blocos": [
+    {
+     "inicio": "10:15",
+     "fim": "10:30",
+     "tipo": "acordar",
+     "titulo": "Acordar",
+     "nota": "O mesmo alarme dos outros dias."
+    },
+    {
+     "inicio": "10:30",
+     "fim": "10:50",
+     "tipo": "aquecimento",
+     "titulo": "Aquecimento do dia",
+     "nota": "Sugestão: o resumo e os cartões da última aula, e perguntas de tudo o que já estudou.",
+     "rota": "#/aquecimento",
+     "acao": "Aquecer"
+    },
+    {
+     "inicio": "10:50",
+     "fim": "12:00",
+     "tipo": "livre",
+     "titulo": "Livre"
+    },
+    {
+     "inicio": "12:00",
+     "fim": "13:00",
+     "tipo": "casa",
+     "titulo": "Almoço",
+     "nota": "Ao meio-dia, como nos outros dias. Domingo dá para almoçar sem pressa."
+    },
+    {
+     "inicio": "13:00",
+     "fim": "14:00",
+     "tipo": "livre",
+     "titulo": "Livre"
+    },
+    {
+     "inicio": "14:00",
+     "fim": "16:00",
+     "tipo": "estudo",
+     "titulo": "Estudo",
+     "nota": "O lugar do estudo de domingo, se o Cronograma tiver domingo."
+    },
+    {
+     "inicio": "16:00",
+     "fim": "18:00",
+     "tipo": "livre",
+     "titulo": "Livre"
+    },
+    {
+     "inicio": "18:00",
+     "fim": "22:00",
+     "tipo": "fora",
+     "titulo": "Compromisso"
+    },
+    {
+     "inicio": "22:00",
+     "fim": "1:00",
+     "tipo": "livre",
+     "titulo": "Horário livre"
+    },
+    {
+     "inicio": "1:00",
+     "fim": "1:15",
+     "tipo": "casa",
+     "titulo": "Desligar"
+    },
+    {
+     "inicio": "1:15",
+     "fim": "10:15",
+     "tipo": "sono",
+     "titulo": "Dormir",
+     "nota": "9h na cama."
+    }
+   ]
+  }
+ ],
+ "regras": [
+  {
+   "titulo": "Acordar, almoçar e deitar no mesmo horário todos os dias, inclusive sábado e domingo.",
+   "texto": "São os pilares da semana: o resto se mexe entre eles. O acordar é a peça que mais segura o sono no lugar; nas primeiras noites vai bater sono cedo, e é o relógio do corpo mudando."
+  },
+  {
+   "titulo": "O lazer da noite é seu e tem hora para acabar.",
+   "texto": "Começa depois do estudo e termina à 1h. Não é proibido: tem hora marcada, e por isso não precisa de culpa."
+  },
+  {
+   "titulo": "No fim do estudo, anote uma linha do que fez.",
+   "texto": "Por exemplo: “Código de Ética: aula, leitura, 5 questões”. É a prova contra o “não fiz nada”."
+  }
+ ],
+ "porques": [
+  {
+   "titulo": "O modo de espera",
+   "texto": "Com um compromisso marcado pela frente, o tempo até ele parece mais curto: a pessoa faz menos e evita tarefas longas, mesmo quando o tempo dá. Quebrar a tarefa em pedaços pequenos reduz o efeito, e é para isso que serve o aquecimento de manhã.",
+   "fontes": [
+    [
+     "Tonietto, Malkoc e Nowlis, 2019",
+     "https://profiles.wustl.edu/en/publications/when-an-hour-feels-shorter-future-boundary-tasks-alter-consumptio/"
+    ]
+   ]
+  },
+  {
+   "titulo": "O tempo coringa",
+   "texto": "Uma agenda cheia de ponta a ponta não se cumpre: o primeiro imprevisto empurra todo o resto, e cada plano que falha tira a fé no próximo. Um bloco guardado para o imprevisto segura o dia; se o imprevisto não vem, o bloco vira outra coisa. Por isso o estudo tem 30 min de coringa logo depois.",
+   "fontes": [
+    [
+     "Augusto Weber (@augustotita)",
+     "https://www.instagram.com/reel/Dayu_83yON4/"
+    ]
+   ]
+  },
+  {
+   "titulo": "A madrugada que tenta compensar o dia",
+   "texto": "Ir deitar mais tarde do que queria, sem nada impedindo, tem nome: procrastinação da hora de dormir. O dia parece perdido, a madrugada tenta compensar, e o dia seguinte começa tarde de novo. É um ciclo, não falta de caráter.",
+   "fontes": [
+    [
+     "Kroese et al., 2014",
+     "https://doi.org/10.3389/fpsyg.2014.00611"
+    ]
+   ]
+  }
+ ],
+ "mais_cedo": "Depois de 2 semanas estáveis, adiante o deitar e o acordar em 15 min por semana. Em uns 2 meses, dá para chegar perto de deitar à meia-noite e acordar às 9h. O limite é o horário dos seus amigos, e essa escolha fica para quando chegar lá.",
+ "acompanhar": "Durante a semana, anote só a hora em que deitou e a hora em que acordou. No domingo, mande essas horas no chat do Claude e diga “vamos continuar o plano de tempo”: a gente ajusta esta página."
+}

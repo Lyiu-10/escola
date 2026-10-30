@@ -1,0 +1,705 @@
+{
+ "prova": "FGV PC-SC 2024",
+ "cor": "Tipo 1",
+ "url": "https://conhecimento.fgv.br/sites/default/files/concursos/psicologo-policial-civil-objetivacns001-tipo-1.pdf",
+ "gabarito": "https://conhecimento.fgv.br/sites/default/files/concursos/pcscpsicologo2024_gabarito_definitivo_20240220.pdf",
+ "questoes": [
+  {
+   "numero": 60,
+   "texto": "",
+   "enunciado": "Em 2001, o Brasil foi condenado pela Comissão Interamericana de Direitos Humanos no caso Maria da Penha Maia Fernandes versus Brasil, por omissão em relação a crimes contra os Direitos Humanos das mulheres.\nEm razão da condenação no plano internacional, em 2006, foi publicada a Lei nº 11.340, que trouxe mecanismos de proteção às mulheres vítimas de violência doméstica e familiar.\nEm 2022, em consonância com a lei nacional, foi editada no Estado de Santa Catarina a Lei Estadual nº 18.322, fortalecendo, ainda mais, a proteção dos direitos humanos das mulheres vítimas de violência doméstica e familiar.\nAcerca das formas de violência contra a mulher elencadas na Lei nº 18.322/22, é correto afirmar que",
+   "alternativas": [
+    "violência patrimonial é entendida como qualquer conduta que configure calúnia, difamação ou injúria",
+    "violência obstétrica é todo ato praticado pelo médico, pela equipe do hospital, por um familiar ou acompanhante que ofenda, de forma verbal ou física, as mulheres gestantes, em trabalho de parto ou, ainda, no período puerpério",
+    "violência moral é entendida como qualquer conduta que configure retenção, subtração, destruição parcial ou total de seus objetos, instrumentos de trabalho, documentos pessoais, bens, valores e direitos ou recursos econômicos, incluindo os destinados a satisfazer suas necessidades",
+    "violência psicológica é entendida como qualquer conduta que a constranja a presenciar, a manter ou a participar de relação sexual não desejada, mediante intimidação, ameaça, coação ou uso da força; que a induza a comercializar ou a utilizar, de qualquer modo, a sua sexualidade, que a impeça de usar qualquer método contraceptivo ou que a force ao matrimônio, à gravidez, ao aborto ou à prostituição, mediante coação, chantagem, suborno ou manipulação; ou que limite ou anule o exercício de seus direitos sexuais e reprodutivos",
+    "violência sexual é entendida como qualquer conduta que lhe cause dano emocional e diminuição da autoestima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, violação de sua intimidade, ridicularização, exploração e limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Lei estadual catarinense segue as definições da Lei Maria da Penha e acrescenta a violência obstétrica, definida como ofensa verbal ou física à gestante, à parturiente ou à puérpera por médico, equipe, familiar ou acompanhante. As demais trocam as definições: calúnia, difamação e injúria são violência moral (não patrimonial); retenção ou destruição de bens é violência patrimonial (não moral); e as descrições de violência psicológica e sexual estão invertidas entre D e E."
+  },
+  {
+   "numero": 61,
+   "texto": "",
+   "enunciado": "O Brasil registra situações graves, que atingem sua população, tais como inundações, deslizamentos de terra, rompimentos de barragens, grandes acidentes. Cada vez mais é reconhecida a relevância da atuação de profissionais da Psicologia em contextos de riscos, emergências e desastres.\nAssinale a opção que melhor descreve a importância da contribuição da Psicologia nessas situações.",
+   "alternativas": [
+    "As vítimas de desastres desenvolvem o Transtorno de Estresse Pós-Traumático e necessitam de intervenção individual psicoterápica e medicamentosa",
+    "As populações já vulneráveis ou vulnerabilizadas pela situação de emergência e desastres precisam de assistencialismo para se recuperar de suas perdas humanas e materiais",
+    "A Psicologia vai compor a rede de cuidados em intervenções que vão desde a prevenção até a recuperação no pós-desastre, atuando conjuntamente com diferentes setores",
+    "O luto caracteriza-se enquanto uma reação psicopatológica frente ao fenômeno de perda de referências afetivas significativas decorrente da situação de desastre",
+    "As intervenções psicoterápicas breves e de psicoeducação permitem explorar o modo como a pessoa experimentou as crises e os eventos pregressos de sua vida infantil"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-emergencias",
+   "item": "",
+   "comentario": "A Psicologia em riscos, emergências e desastres atua em rede e de forma intersetorial, em todas as fases: prevenção, preparação, resposta e reconstrução. As erradas patologizam (nem toda vítima desenvolve TEPT, e o luto é reação esperada, não psicopatológica), defendem assistencialismo em vez de protagonismo da comunidade, ou deslocam a intervenção breve para a história infantil, que não é o foco da crise."
+  },
+  {
+   "numero": 62,
+   "texto": "",
+   "enunciado": "Francisco, 80 anos, tem sequelas motoras e neurológicas de um AVC hemorrágico e é hoje um paciente acamado. Seu filho, Pedro, contraiu um empréstimo consignado na conta de aposentadoria do idoso e, com o recurso, adquiriu uma motocicleta e outros bens de consumo pessoal como relógios e roupas de marca.\nIdentifica-se aqui uma situação de",
+   "alternativas": [
+    "antecipação de herança",
+    "violência financeira",
+    "negligência patrimonial",
+    "abuso psicológico",
+    "interdição por incapacidade civil"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Usar o dinheiro ou o benefício do idoso em proveito próprio, como o empréstimo consignado na aposentadoria de Francisco para comprar bens pessoais, é violência financeira (ou patrimonial), forma de violência contra a pessoa idosa. Não é antecipação de herança, que pressupõe ato lícito com consentimento, nem interdição, que é medida judicial; negligência e abuso psicológico descrevem outras condutas."
+  },
+  {
+   "numero": 63,
+   "texto": "",
+   "enunciado": "A autópsia psicológica nasceu como um procedimento para assessorar médicos forenses no curso de investigações de morte, especialmente em casos duvidosos. Atualmente, diversas publicações científicas discutem o uso da autópsia psicológica ou psicossocial como abordagem metodológica para a compreensão do fenômeno do suicídio.\nCom relação a essa abordagem, avalie as afirmativas a seguir.\nI. A autópsia psicológica contribui para a identificação de fatores de risco e correlatos sociodemográficos do suicídio, concorrendo para estruturar ações de prevenção e atendimento.\nII. São evitadas entrevistas com informantes da família a fim de prevenir novos suicídios provocados pelo sentimento de culpa.\nIII. A autópsia psicológica é importante na dosimetria da pena do criminoso por considerar fatores como a intencionalidade, a premeditação e o potencial de reincidência no crime.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I e II, apenas",
+    "I e III, apenas",
+    "II e III, apenas",
+    "I, II e III",
+    "I, apenas"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A autópsia psicológica reconstrói, por entrevistas com familiares e pessoas próximas e por documentos, a história e o estado mental de quem morreu, e com isso identifica fatores de risco do suicídio e orienta a prevenção (I). A afirmativa II erra porque os informantes da família são justamente a principal fonte do método. Para a banca, III também é correta, pela leitura de que o método pode subsidiar a esfera criminal ao examinar intencionalidade e premeditação."
+  },
+  {
+   "numero": 64,
+   "texto": "",
+   "enunciado": "Sérgio é psicólogo organizacional e está organizando um processo de seleção e recrutamento de novos colaboradores. Sérgio quer fazer uma avaliação psicológica dos candidatos para uma seleção mais adequada às vagas disponíveis e, entre outros recursos, ele faz uso de testes psicológicos.\nPara seu trabalho de seleção, Sérgio deve",
+   "alternativas": [
+    "escolher, em busca ao SATEPSI do CFP, os testes favoráveis para os construtos que ele quer avaliar",
+    "aplicar testes de personalidade como o Teste de Apercepção Infantil e o Rorschach Clínico",
+    "aplicar provas de conhecimentos específicos necessários para a execução das tarefas relacionadas aos cargos",
+    "consultar o administrador de Recursos Humanos sobre os testes psicológicos a serem empregados na Avaliação Psicológica",
+    "adaptar a aplicação dos testes psicológicos de forma a garantir suas qualidades técnicas e psicométricas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "",
+   "comentario": "Na seleção, o psicólogo só pode usar testes com parecer favorável no SATEPSI, escolhidos conforme os construtos exigidos pelo perfil do cargo (Res. CFP 31/2022). TAT infantil (CAT) e Rorschach clínico não se ajustam ao contexto organizacional de adultos; prova de conhecimentos não é avaliação psicológica; a escolha dos instrumentos é decisão técnica do psicólogo, não do administrador de RH; e adaptar a aplicação compromete a padronização em vez de garanti-la."
+  },
+  {
+   "numero": 65,
+   "texto": "",
+   "enunciado": "Lucas, 19 anos, invadiu a propriedade de seu vizinho idoso, Sr. José, para furtar uma bicicleta. Alertado pelos latidos do cão, o idoso saiu de casa e surpreendeu Lucas saindo com a bicicleta. Para fugir do local, Lucas atingiu o Sr. José que, na queda, teve os óculos quebrados e ferimentos no braço.\nUma prática de Justiça Restaurativa nessa hipótese buscará",
+   "alternativas": [
+    "qualificar como etarismo a ação de Lucas",
+    "a admissão de culpa, por parte de Lucas, no processo judicial",
+    "a reparação dos danos sofridos pelo idoso",
+    "a participação compulsória do acusado pelo delito",
+    "a absolvição sumária do jovem infrator"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Justiça Restaurativa busca a responsabilização do ofensor e a reparação dos danos sofridos pela vítima, por meio do encontro voluntário entre as partes e a comunidade. Ela não exige admissão de culpa no processo judicial, não é compulsória (a voluntariedade é princípio) e não equivale a absolvição; qualificar a conduta como etarismo é rotulação, não o objetivo restaurativo."
+  },
+  {
+   "numero": 66,
+   "texto": "",
+   "enunciado": "A gestão por competências é uma abordagem que coloca as pessoas no centro da estratégia de gestão de recursos humanos, reconhecendo que suas competências são um ativo valioso para a organização. Além das competências técnicas, as competências comportamentais são importantes porque contribuem para o bom funcionamento de uma organização, para o bem-estar dos colaboradores e para o sucesso profissional.\nSão exemplos de competências comportamentais:",
+   "alternativas": [
+    "domínio de um segundo idioma e autogestão",
+    "comunicação e conhecimento da legislação",
+    "manejo de sistemas de informação e empatia",
+    "pensamento crítico e liderança",
+    "trabalho em equipe e subordinação"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-treinamento",
+   "item": "",
+   "comentario": "Competências comportamentais (soft skills) são atitudes e habilidades de relação e de pensamento, como pensamento crítico e liderança. As erradas misturam uma competência comportamental com uma técnica (segundo idioma, conhecimento da legislação, manejo de sistemas) ou com algo que não é competência valorizada pela gestão por competências, como a subordinação."
+  },
+  {
+   "numero": 67,
+   "texto": "",
+   "enunciado": "A legislação que trata da proteção de crianças e adolescentes vítimas ou testemunhas de violência sexual traz uma preocupação com sua revitimização. Em casos de violência sexual, o seguinte cuidado pode ser tomado para evitar a revitimização:",
+   "alternativas": [
+    "tomar pelo menos dois depoimentos especiais a fim de garantir a fidedignidade da prova",
+    "lavrar registro policial com a descrição dos fatos na presença da criança ou adolescente",
+    "realizar a perícia física para a coleta de vestígios em todos os casos para descarte da ocorrência de fatos",
+    "na inquirição das vítimas, criar estratégias para romper o silêncio, respeitado seu estágio de desenvolvimento",
+    "coletar informação com o familiar ou acompanhante da criança ou do adolescente vítimas"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Para evitar a revitimização, a Lei 13.431/2017 manda reduzir ao mínimo a fala da criança sobre o fato e buscar informações com outras fontes, como o familiar ou acompanhante. O depoimento especial é tomado, em regra, uma única vez; descrever os fatos na presença da criança e fazer perícia física em todos os casos a expõem de novo; e a criança tem direito ao silêncio, então não se criam estratégias para rompê-lo."
+  },
+  {
+   "numero": 68,
+   "texto": "",
+   "enunciado": "De acordo com a Instrução Normativa nº 78/2014 da Polícia Federal, é necessário garantir a aptidão psicológica dos interessados no manuseio de armas de fogo, comprovada por meio da submissão a uma bateria de instrumentos de avaliação. São indicadores psicológicos restritivos para que o interessado seja considerado apto:",
+   "alternativas": [
+    "explosividade e adaptação",
+    "influenciabilidade e imprevisibilidade",
+    "prudência e vulnerabilidade",
+    "controle e imaturidade",
+    "equilíbrio e oposição"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-porte-arma",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2022/06/manual_arma_fogo-5-1.pdf",
+   "comentario": "Na IN PF 78/2014, influenciabilidade e imprevisibilidade estão entre as características restritivas, que pesam contra a aptidão para o manuseio de arma. Nas outras opções, um dos termos é característica desejável (adaptação, prudência, controle, equilíbrio), o que torna o par incorreto."
+  },
+  {
+   "numero": 69,
+   "texto": "",
+   "enunciado": "Fábio foi apreendido quando praticava ato infracional análogo ao Tráfico de Drogas. Na audiência, o adolescente relatou que era dependente de cocaína, que traficava para manter seu vício e que aceitava fazer um tratamento. O Juiz aplicou a medida de semiliberdade para o adolescente.\nNessa situação, a medida socioeducativa aplicada a Fábio deve ser cumprida",
+   "alternativas": [
+    "em unidade que ofereça o programa de privação de liberdade mais próxima de sua residência",
+    "no CAPSi para a realização do tratamento da dependência química",
+    "no Centro de Referência Especializado de Assistência Social (CREAS) de seu bairro",
+    "na Vara de Infância e Juventude com competência infracional",
+    "em presídio comum, em carceragem separada da dos presos adultos"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A semiliberdade é medida socioeducativa de restrição de liberdade, cumprida em unidade própria do programa, de preferência a mais próxima da residência do adolescente, conforme o SINASE. O tratamento da dependência pode ser feito no CAPSi como medida protetiva associada, mas não é o local de cumprimento; o CREAS acompanha medidas em meio aberto; a Vara não executa a medida; e o adolescente nunca vai para presídio comum."
+  },
+  {
+   "numero": 70,
+   "texto": "",
+   "enunciado": "Existem aspectos da organização do trabalho que merecem atenção do psicólogo pois podem gerar efeitos deletérios sobre a saúde mental dos trabalhadores e repercutir na qualidade da vida familiar e social do trabalhador.\nAssinale a opção que apresenta apenas fatores de promoção da saúde do trabalhador.",
+   "alternativas": [
+    "Pressão por resultados e ergonomia cognitiva",
+    "Respeito aos direitos no trabalho e estímulo à capacitação dos trabalhadores",
+    "Incremento do absenteísmo e programas de gestão de segurança e saúde",
+    "Práticas de assédio moral e excesso de horas-extras",
+    "Sobrecarga de trabalho e horários irregulares"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-saude-trabalhador",
+   "item": "",
+   "comentario": "Respeitar os direitos no trabalho e estimular a capacitação dos trabalhadores são fatores protetores da saúde mental no trabalho. As outras opções trazem pelo menos um fator de risco ou de adoecimento: pressão por resultados, aumento do absenteísmo (que é sinal de adoecimento, não promoção), assédio moral, excesso de horas extras, sobrecarga e horários irregulares."
+  },
+  {
+   "numero": 71,
+   "texto": "",
+   "enunciado": "Baseado em boas práticas em entrevistas e em inúmeros estudos empíricos, o protocolo NICHD é uma técnica muito usada ao redor do mundo na avaliação de casos de suspeita de abuso sexual infantil.\nFaz parte das estratégias desse protocolo",
+   "alternativas": [
+    "a aplicação prévia de testes psicológicos para avaliação da memória e da linguagem para adequação do instrumento ao desenvolvimento cognitivo da criança",
+    "a criação de um ambiente descontraído e de apoio na fase substantiva da entrevista para estabelecer o rapport entre a criança e o entrevistador",
+    "a utilização de questões abertas como a principal estratégia de estimulação da evocação livre por parte da criança de acontecimentos da sua vida",
+    "a opção prioritária por questões de múltipla escolha ou questões sugestivas para facilitar a evocação dos fatos pela criança e evitar distrações",
+    "o cuidado em utilizar palavras diferentes das usadas pela criança e de evitar referência aos detalhes mencionados por ela para não contaminar as memórias referentes ao evento"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O protocolo NICHD privilegia perguntas abertas para estimular a evocação livre, porque o relato espontâneo é o mais preciso e menos sujeito a sugestão. O rapport é construído na fase pré-substantiva, antes de falar do fato; perguntas de múltipla escolha e sugestivas são evitadas; o protocolo não exige testes prévios; e o entrevistador usa as palavras e os detalhes trazidos pela própria criança para pedir mais informação."
+  },
+  {
+   "numero": 72,
+   "texto": "",
+   "enunciado": "A violação aos direitos de crianças e adolescentes pode se manifestar de diferentes formas, sendo uma delas a negligência no atendimento às suas necessidades. É exemplo de negligência:",
+   "alternativas": [
+    "implantar falsas memórias referentes a abusos sexuais",
+    "promover alienação parental comprometendo o vínculo com o outro genitor",
+    "usar a criança ou o adolescente em atividade sexual em troca de remuneração",
+    "deixar de prover alimentação nutritiva e variada por falta de recursos materiais",
+    "deixar a criança sozinha e sem cuidados por longos períodos"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Negligência é a omissão dos cuidados básicos que o responsável poderia oferecer, como deixar a criança sozinha e sem cuidados por longos períodos. Falta de recursos materiais, por si só, não caracteriza negligência; falsas memórias e alienação parental são formas de violência psicológica; e usar a criança em atividade sexual remunerada é exploração sexual."
+  },
+  {
+   "numero": 73,
+   "texto": "",
+   "enunciado": "Opiáceos são classificados como substâncias oriundas do ópio e opioides são produtos sintéticos fabricados em laboratório com ação semelhante à dos opiáceos.\nSobre esse grupo de substâncias psicoativas é correto afirmar que",
+   "alternativas": [
+    "opioides e opiáceos são usados para aliviar a dor, mas também provocam uma sensação de grande bem-estar e podem levar à dependência",
+    "derivados do ópio como morfina e fentanil constituem um grande problema de saúde e de segurança pública já que são drogas ilícitas",
+    "o desenvolvimento da tolerância pode ocorrer depois de um período do uso contínuo de opiáceos e opioides e os usuários passam a consumir doses menores",
+    "a dependência de opioides e opiáceos acontece porque essas substâncias exercem uma ação perturbadora na atividade do sistema nervoso central",
+    "o uso recreativo de cocaína faz parte da estratégia de redução de danos nos casos de dependência de heroína"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-alcool-drogas",
+   "item": "",
+   "comentario": "Opiáceos e opioides são analgésicos potentes que também produzem euforia e bem-estar, o que explica o potencial de dependência. Fentanil é opioide sintético, não derivado do ópio, e morfina e fentanil são medicamentos de uso controlado, não drogas ilícitas; a tolerância leva a doses maiores, não menores; são depressores, não perturbadores do SNC; e a redução de danos na heroína usa substituição por opioides de ação longa, não cocaína."
+  },
+  {
+   "numero": 74,
+   "texto": "",
+   "enunciado": "Danielle, 13 anos, fugiu de casa e foi encontrada por seus pais dias após, em companhia de André, um homem de 30 anos que ela havia conhecido pela Internet. Danielle resistiu em voltar para casa e afirmou que André era o homem de sua vida, com quem ela teria um filho.\nDe acordo com a legislação, trata-se aqui de caso de",
+   "alternativas": [
+    "relação consensual entre a adolescente e o namorado",
+    "estupro de vulnerável",
+    "exploração sexual mediante fraude",
+    "crime de importunação sexual",
+    "violência moral"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Conjunção carnal ou ato libidinoso com menor de 14 anos é estupro de vulnerável (art. 217-A do Código Penal), e o consentimento da vítima é irrelevante. Por isso não é relação consensual; também não se enquadra em importunação sexual, em exploração sexual mediante fraude nem em violência moral."
+  },
+  {
+   "numero": 75,
+   "texto": "",
+   "enunciado": "Vera completou cinco anos como advogada em uma firma, mas sua carreira está estagnada porque ela não consegue falar em público. Vera teme tropeçar nas palavras, ruborizar, transpirar excessivamente, e vem se esquivando de participar de reuniões com clientes e de comparecer a eventos representando a firma, temendo ser alvo de avaliações negativas.\nO quadro apresentado por Vera sugere o diagnóstico de",
+   "alternativas": [
+    "agorafobia",
+    "transtorno de estresse pós traumático",
+    "síndrome de Burnout",
+    "fobia social",
+    "transtorno depressivo persistente"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "https://www.youtube.com/watch?v=UV9cu7TxLKc",
+   "comentario": "Medo intenso de situações sociais e de desempenho em que a pessoa pode ser avaliada negativamente, com sintomas físicos como rubor e sudorese e com esquiva dessas situações, caracteriza a fobia social (transtorno de ansiedade social). A agorafobia é o medo de lugares de onde seria difícil escapar; não há trauma que explique um TEPT; o Burnout vem do esgotamento crônico no trabalho; e o transtorno depressivo persistente exige humor deprimido crônico."
+  },
+  {
+   "numero": 76,
+   "texto": "",
+   "enunciado": "As primeiras pesquisas relacionadas à produção de falsas memórias começaram a ser desenvolvidas no final do século XIX, embora tenham se desdobrado na última década do século XX. Alguns trabalhos indicam que é possível criar erros de memória com recurso a perguntas sugestivas, alertando sobre a cautela durante os procedimentos interrogatórios, notadamente nos contextos policial e forense.\nAssinale a afirmativa correta com relação ao fenômeno mnêmico.",
+   "alternativas": [
+    "A recordação é um processo reconstrutivo, guiado por esquemas mentais que funcionam como organizadores gerais preexistentes",
+    "A memória funciona de forma similar a um sistema de vídeo que grava os acontecimentos permitindo que possamos revê-los tal como ocorreram",
+    "Síndrome das Falsas Memórias é o termo utilizado para designar casos em que testemunhas de crimes deram falsos testemunhos induzidas pelo interrogatório policial",
+    "Estudos indicam que os erros ou distorções de memória são apenas omissivos, ou seja, derivam do esquecimento do acontecimento",
+    "As pesquisas demonstram que as distorções nas lembranças são sempre comissivas, ou seja, são produzidas pela interferência externa"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A memória é reconstrutiva: a lembrança é montada a partir de esquemas mentais preexistentes, como mostrou Bartlett, e por isso pode ser distorcida por perguntas sugestivas. Ela não funciona como gravação de vídeo; as distorções podem ser por omissão ou por adição, e podem surgir de processos internos (falsas memórias espontâneas) ou externos (sugeridas); e a definição dada em C não corresponde ao termo."
+  },
+  {
+   "numero": 77,
+   "texto": "",
+   "enunciado": "A reconhecida pesquisa de Psicologia Social realizada pelo psicólogo Philip Zimbardo na Universidade de Stanford, em que alunos simulavam o funcionamento de uma prisão, indicou a importância do grupo na compreensão da",
+   "alternativas": [
+    "inteligência",
+    "resistência",
+    "individualização",
+    "desindividualização",
+    "curiosidade"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "",
+   "comentario": "O experimento da prisão de Stanford, de Zimbardo, é o exemplo clássico de desindividualização: imerso no grupo e no papel (com uniforme e anonimato), o indivíduo perde a autoconsciência e passa a agir conforme o papel, inclusive de forma cruel. Individualização é o oposto; inteligência, resistência e curiosidade não eram o foco do estudo."
+  },
+  {
+   "numero": 78,
+   "texto": "",
+   "enunciado": "Com relação ao fenômeno da violência conjugal avalie se as afirmativas estão corretas.\nI. Deixou de ser considerado restrito ao âmbito privado para ser compreendido como um grave problema de saúde pública.\nII. Mulheres que presenciaram violência conjugal entre seus pais na infância tendem a desenvolver maior autoculpabilização se forem vítimas de agressões pelos parceiros, indicando uma perspectiva transgeracional da violência.\nIII. Embora homens heterossexuais tenham mais dificuldade em confessar a violência sofrida pela parceira, estatísticas indicam que eles também sofrem violência conjugal.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I, II e III"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As três afirmativas estão corretas: a violência conjugal passou a ser tratada como problema de saúde pública, há transmissão transgeracional (quem presenciou violência entre os pais tende a se culpar mais quando é agredida) e homens também sofrem violência conjugal, embora a relatem menos. Por isso as opções que deixam de fora qualquer uma delas estão incompletas."
+  },
+  {
+   "numero": 79,
+   "texto": "",
+   "enunciado": "Assinale a opção que caracteriza um infanticídio.",
+   "alternativas": [
+    "A lesão corporal culposa ou danosa que atinja a integridade física de uma criança por qualquer pessoa",
+    "A morte do filho pela mãe, durante o parto ou logo após, sob efeito do estado puerperal",
+    "A morte de crianças até os sete anos por qualquer cuidador ou responsável",
+    "O assassinato do filho pelos pais desde o parto até os cinco anos de idade",
+    "A lesão corporal danosa que atinja a integridade física de uma criança por quem esteja responsável por ela"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Infanticídio é matar o próprio filho, durante o parto ou logo após, sob a influência do estado puerperal (art. 123 do Código Penal). As demais opções inventam faixas de idade ou descrevem lesão corporal, que é outro crime."
+  },
+  {
+   "numero": 80,
+   "texto": "",
+   "enunciado": "Recentes alterações da lei Maria da Penha enfatizam a importância de que sejam pensadas propostas de reabilitação e educação dos agressores que pratiquem violência doméstica e familiar contra a mulher.\nEm função disso, experiências de grupos reflexivos para homens autores de violência doméstica vêm se multiplicando por todo o país com o objetivo de",
+   "alternativas": [
+    "substituir a pena que seria aplicada pelo magistrado no processo no Juizado",
+    "ser um condicionante para reconciliação do casal depois da denúncia de violência doméstica",
+    "funcionar como um espaço que possibilite a reflexão sobre o seu papel na construção da dinâmica de violência",
+    "refletir sobre a importância das masculinidades e dos papéis sexuais para a sobrevivência das famílias",
+    "considerar a corresponsabilidade da mulher nas agressões físicas que ela sofra pelo companheiro"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Os grupos reflexivos para homens autores de violência são espaços em que eles refletem sobre o próprio papel na dinâmica da violência e sobre as masculinidades que a sustentam, para responsabilizá-los e prevenir a reincidência. Não substituem a pena, não condicionam a reconciliação, não dividem a culpa com a mulher e não reforçam papéis sexuais tradicionais."
+  },
+  {
+   "numero": 81,
+   "texto": "",
+   "enunciado": "Na perspectiva pós-estruturalista, gênero é entendido como",
+   "alternativas": [
+    "a forma que define a identidade biológica dos corpos humanos masculinos e femininos",
+    "um dispositivo de poder que constitui algumas identidades, entre elas, as de mulher e de homem",
+    "o elemento que descreve a personalidade e o comportamento do homem e da mulher",
+    "uma parte do sistema binário sexo/gênero, que diferencia o que é biologicamente definido do que é socialmente construído",
+    "estrutura biológica que diferencia e os corpos femininos e os masculinos"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Na perspectiva pós-estruturalista (Butler, Foucault), gênero é um dispositivo de poder que produz identidades como as de homem e mulher, e não um dado biológico. As opções que falam de estrutura ou identidade biológica e de personalidade são essencialistas, e o binário sexo/gênero (natureza x cultura) é justamente o que o pós-estruturalismo critica."
+  },
+  {
+   "numero": 82,
+   "texto": "",
+   "enunciado": "João, de 13 anos, pichou a escola em que estuda, cometendo ato infracional. O ato infracional é previsto no Estatuto da Criança e do Adolescente e se define como a conduta descrita como crime ou contravenção penal, quando praticada por criança ou por adolescente.\nDiante das condutas de João podem ser aplicadas",
+   "alternativas": [
+    "penas restritivas de direito e de privação de liberdade",
+    "penas de reparação de dano e medidas protetivas",
+    "medidas socioeducativas e medidas protetivas",
+    "pena de multa e medidas socioeducativas",
+    "penas de prestação de serviços à comunidade e multa"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "João, com 13 anos, é adolescente pelo ECA (12 a 18 anos), e ao adolescente que comete ato infracional se aplicam medidas socioeducativas, que podem vir junto com medidas protetivas. Adolescente não recebe pena: privação de liberdade, multa e penas restritivas de direito são do direito penal de adultos."
+  },
+  {
+   "numero": 83,
+   "texto": "",
+   "enunciado": "Durante o século XX o desenho passou a ser utilizado como técnica de avaliação psicológica, como instrumento útil na investigação de habilidades cognitivas e de personalidade.\nO House-Tree-Person Test ou Teste do Desenho da Casa – Árvore – Pessoa é o único teste gráfico projetivo para uso no contexto profissional da avaliação psicológica.\nEle objetiva",
+   "alternativas": [
+    "avaliar as habilidades cognitivas do sujeito que está sendo testado, dimensionando sua inteligência matemático-numérica e verbal",
+    "compreender aspectos da personalidade do indivíduo, bem como a forma desse indivíduo interagir com as pessoas e com o ambiente",
+    "dimensionar a capacidade que uma pessoa tem de focar a atenção ora em um estímulo, ora em outro",
+    "fornecer uma medida referente à capacidade de um indivíduo para buscar dois ou mais estímulos simultaneamente",
+    "avaliar a capacidade de memória visual de pessoas por meio de estímulos figurativos"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-psicodiagnostico",
+   "item": "",
+   "comentario": "O HTP é técnica projetiva gráfica que busca compreender aspectos da personalidade e o modo como a pessoa se relaciona com os outros e com o ambiente. As demais descrevem o que medem outros testes: inteligência, atenção alternada, atenção dividida e memória visual."
+  },
+  {
+   "numero": 84,
+   "texto": "",
+   "enunciado": "Luciana tem 26 anos e emagreceu muito após romper o noivado com Carlos Antônio. Apesar do emagrecimento considerável, ela considera que esteja com sobrepeso, expressando-se forma depreciativa sobre o seu próprio corpo e manifestando-se ansiosa a cada vez que tem que ingerir algum alimento, contabilizando as calorias a cada refeição.\nOs sintomas de Luciana são sugestivos de",
+   "alternativas": [
+    "anorexia",
+    "compulsão alimentar",
+    "bulimia",
+    "ansiedade alimentar",
+    "comer emocional"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-transtornos",
+   "item": "",
+   "comentario": "Perda de peso importante, distorção da imagem corporal (ela se vê acima do peso) e medo de comer com controle rígido de calorias são o quadro da anorexia nervosa. Na bulimia e na compulsão alimentar há episódios de comer em grande quantidade, o que o caso não descreve; ansiedade alimentar e comer emocional não são diagnósticos."
+  },
+  {
+   "numero": 85,
+   "texto": "",
+   "enunciado": "Assinale o conceito a seguir que **_não_** faz parte da Teoria de Personalidade desenvolvida por Jung.",
+   "alternativas": [
+    "Inconsciente coletivo",
+    "Anima e animus",
+    "Arquétipo de Grande Mãe",
+    "Projeção da sombra",
+    "Zona de Desenvolvimento Proximal"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-personalidade",
+   "item": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychology2e_WEB.pdf#page=374",
+   "comentario": "Zona de Desenvolvimento Proximal é conceito de Vygotsky sobre aprendizagem, não de Jung. Inconsciente coletivo, anima e animus, o arquétipo da Grande Mãe e a sombra (com a projeção dela nos outros) são conceitos da psicologia analítica de Jung."
+  },
+  {
+   "numero": 86,
+   "texto": "",
+   "enunciado": "De acordo com as disposições contidas na Instrução Normativa nº 78/2014 da Polícia Federal, a expedição do laudo psicológico que ateste a aptidão psicológica para o manuseio de arma de fogo e para exercer a profissão de vigilante deve ser baseada em bateria que deverá contar com, no mínimo,",
+   "alternativas": [
+    "1 teste projetivo, 1 teste expressivo, 1 teste de memória, 1 teste de atenção difusa e concentrada e 1 entrevista semiestruturada",
+    "2 testes projetivos, 2 testes expressivos, 2 testes de memória, 2 testes de atenção difusa e concentrada e 2 entrevistas semiestruturadas",
+    "3 testes projetivos, 3 testes expressivos, 3 testes de memória, 3 testes de atenção difusa e concentrada e 3 entrevistas semiestruturadas",
+    "4 testes projetivos, 4 testes expressivos, 4 testes de memória, 4 testes de atenção difusa e concentrada e 4 entrevistas semiestruturadas",
+    "5 testes projetivos, 5 testes expressivos, 5 testes de memória, 5 testes de atenção difusa e concentrada e 5 entrevistas semiestruturadas"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "p-porte-arma",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2022/06/manual_arma_fogo-5-1.pdf",
+   "comentario": "Pela IN PF 78/2014, a bateria mínima para o laudo de aptidão para arma de fogo e para vigilante tem um teste projetivo, um expressivo, um de memória, um de atenção difusa e concentrada e uma entrevista semiestruturada. As outras opções apenas multiplicam essa quantidade, o que a norma não exige."
+  },
+  {
+   "numero": 87,
+   "texto": "",
+   "enunciado": "Muito embora o experimento social desenvolvido pelo psicólogo Stanley Milgram, em 1964, com imposição de choques elétricos, esteja sendo questionado atualmente, prêmios foram concedidos à pesquisa, pois se tratou de iniciativa pioneira para entender algumas das dinâmicas associadas ao nazismo.\nAquela experiência social buscou analisar",
+   "alternativas": [
+    "a tolerância à frustração",
+    "o apego à figura materna",
+    "a obediência à autoridade",
+    "a inteligência adaptativa",
+    "o estresse pós-traumático"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "p-social",
+   "item": "",
+   "comentario": "O experimento de Milgram estudou a obediência à autoridade: quantas pessoas aplicariam choques cada vez mais fortes em outra só porque um experimentador mandava. Tolerância à frustração, apego, inteligência e estresse pós-traumático não eram o objeto do estudo."
+  },
+  {
+   "numero": 88,
+   "texto": "",
+   "enunciado": "Clarice e João casaram-se mas não conseguiram ter filhos biológicos, optando pela via da adoção; para tanto, ingressaram com processo de habilitação para adotar uma criança de até dois anos de idade. Como parte do processo, avalie se eles devem passar por estudo psicológico, que, entre outras intervenções, pode:\nI. Avaliar a maturidade do casal diante do projeto adotivo.\nII. Considerar o luto emocional diante da impossibilidade de gestação biológica.\nIII. Investigar as condições socioeconômicas da família como condição para adoção.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II",
+    "I e III"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "O estudo psicológico na habilitação para adoção avalia a maturidade e as motivações do casal para o projeto adotivo e como foi elaborado o luto pela impossibilidade de ter filhos biológicos. A condição socioeconômica não é requisito para adotar, por isso III está errada."
+  },
+  {
+   "numero": 89,
+   "texto": "",
+   "enunciado": "Emergindo como modelo alternativo às formas tradicionais de resolução de conflitos propostas pelo Judiciário, a Justiça Restaurativa",
+   "alternativas": [
+    "exige que o infrator receba uma punição por um crime proporcional e semelhante ao seu delito, seja pela privação de liberdade ou pagamento de multa",
+    "prioriza o passado, pois foi o momento em que a ação ou a omissão delituosa aconteceu, sendo interesse do estado o direito de punir o autor do crime",
+    "olha para o tripé vítima-ofensor-comunidade, visando a ajudar na superação do trauma pela vítima, a responsabilizar o ofensor pelo crime e a reparar o dano para a sociedade",
+    "considera a culpa de forma individual, conduzindo o processo penal com base no Direito dogmático pelos operadores da jurídicos e as autoridades competentes",
+    "cria a polarização entre infrator e vítima, onde a vítima atua como mero figurante do processo, enquanto o ofensor é representado pelo advogado"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A Justiça Restaurativa olha para o tripé vítima, ofensor e comunidade, com o objetivo de cuidar da vítima, responsabilizar o ofensor e reparar o dano. As outras opções descrevem o modelo retributivo tradicional: punição proporcional, foco no passado e no direito de punir, culpa individual e vítima como figurante."
+  },
+  {
+   "numero": 90,
+   "texto": "",
+   "enunciado": "A abordagem terapêutica desenvolvida por Jacob Moreno, aplicável a intervenções individuais e grupais, que permite a expressão livre e a exploração de sentimentos e pensamentos é",
+   "alternativas": [
+    "o teatro do oprimido",
+    "o psicodrama",
+    "a terapia cognitivo comportamental",
+    "a terapia holística",
+    "a terapia existencial"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-grupos",
+   "item": "https://www.youtube.com/watch?v=h-fdQEGLRG8",
+   "comentario": "O psicodrama foi criado por Jacob Levy Moreno e usa a dramatização para que a pessoa expresse e explore sentimentos e pensamentos, em grupo ou individualmente. O teatro do oprimido é de Augusto Boal, e TCC, terapia holística e terapia existencial têm outros fundadores e técnicas."
+  },
+  {
+   "numero": 91,
+   "texto": "",
+   "enunciado": "A Resolução CFP nº 31, de 15 de dezembro de 2022, estabelece diretrizes para a realização de Avaliação Psicológica no exercício profissional da psicóloga e do psicólogo, regulamenta o Sistema de Avaliação de Testes Psicológicos – SATEPSI e revoga a Resolução CFP nº 09/2018.\nEm relação ao tema, analise as afirmativas a seguir:\nI. Documentos técnicos, tais como protocolos ou relatórios de equipes multiprofissionais são fontes fundamentais de informação.\nII. A utilização de testes psicológicos com parecer desfavorável, ou que constem na lista de Testes Psicológicos Não Avaliados no site do SATEPSI, será considerada falta ética.\nIII. As psicólogas e os psicólogos não poderão elaborar, validar, traduzir, adaptar, normatizar, comercializar e fomentar instrumentos ou técnicas psicológicas, para criar, manter ou reforçar preconceitos, estigmas ou estereótipos.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "II e III, apenas",
+    "I, II e III"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "p-avaliacao",
+   "item": "",
+   "comentario": "Na Res. CFP 31/2022, documentos técnicos como protocolos e relatórios de equipes multiprofissionais são fontes complementares, não fundamentais, por isso I está errada; e III repete a vedação de criar ou usar instrumentos que reforcem preconceitos, estigmas ou estereótipos. Para a banca, II também está errada, provavelmente porque a resolução abre exceção ao uso de testes desfavoráveis ou não avaliados em pesquisa, e a afirmativa fala em falta ética sem ressalva."
+  },
+  {
+   "numero": 92,
+   "texto": "",
+   "enunciado": "A Resolução CFP nº 6, de 29 de março de 2019, institui regras para a elaboração de documentos escritos produzidos pela(o) psicóloga(o) no exercício profissional.\nDe acordo com a Resolução, é correto afirmar que",
+   "alternativas": [
+    "a declaração tem por finalidade detalhar a prestação do serviço realizado e deve conter o registro de sintomas, situações ou estados psicológicos",
+    "é obrigatório, no atestado psicológico, o uso da Classificação Internacional de Doenças (CID) como fonte para enquadramento de diagnóstico",
+    "o relatório visa a comunicar a atuação profissional da(o) psicóloga(o) em diferentes processos de trabalho já desenvolvidos com finalidade de produzir diagnóstico psicológico",
+    "orienta-se no relatório multiprofissional que cada profissional faça sua análise separadamente, identificando, com subtítulo, o nome e a categoria profissional",
+    "o laudo psicológico deve fornecer informações que ultrapassem a demanda e relatar o diagnóstico, o prognóstico, a evolução do caso e a medida institucional a ser tomada"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "p-documentos",
+   "item": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+   "comentario": "A Res. CFP 06/2019 orienta que, no relatório multiprofissional, cada profissional faça sua análise separadamente, identificada por subtítulo com seu nome e categoria. Erram: a declaração não registra sintomas nem estados psicológicos; a CID no atestado não é obrigatória; o relatório não tem finalidade de produzir diagnóstico; e o laudo responde à demanda, sem ultrapassá-la."
+  },
+  {
+   "numero": 93,
+   "texto": "",
+   "enunciado": "A resolução CFP 008/2010 dispõe sobre a atuação do psicólogo como perito e assistente técnico no Poder Judiciário.\nCom relação às atribuições e à interação profissional entre o perito e o assistente técnico, assinale (V) para a afirmativa verdadeira e (F) para a falsa.\n( ) O psicólogo perito apresentará indicativos pertinentes à sua investigação que possam diretamente subsidiar o Juiz na solicitação realizada, reconhecendo os limites legais de sua atuação profissional, sem adentrar nas decisões, que são exclusivas às atribuições dos magistrados.\n( ) Recomenda-se que o perito e o assistente técnico estejam presentes durante a realização dos procedimentos metodológicos que norteiam os atendimentos, evitando, assim, contestação ou impugnação do documento psicológico.\n( ) Para desenvolver sua função, o assistente técnico poderá ouvir pessoas envolvidas, solicitar documentos em poder das partes, entre outros meios.\nAs afirmativas são, respectivamente,",
+   "alternativas": [
+    "V – F – V",
+    "F – V – V",
+    "V – F – F",
+    "V – V – F",
+    "F – F – V"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Pela Res. CFP 08/2010, o perito oferece ao juiz indicativos pertinentes à investigação sem entrar na decisão, que é do magistrado (V); perito e assistente técnico não devem estar presentes nos procedimentos um do outro (F); e o assistente técnico pode usar os meios necessários, como ouvir pessoas e solicitar documentos (V)."
+  },
+  {
+   "numero": 94,
+   "texto": "",
+   "enunciado": "A Alienação Parental é um assunto bastante polêmico, de forma que o Conselho Federal de Psicologia emitiu a nota técnica nº 4/2022/GTEC/CG que versa sobre os impactos da Lei nº 12.318/2010 na atuação das psicólogas e dos psicólogos.\nUm dos apontamentos críticos feitos em relação à lei da Alienação Parental é que seu texto",
+   "alternativas": [
+    "ignora a complexidade das situações de conflito familiar e promove a judicialização na qual mães e pais são reduzidos às categorias de vítima e algoz",
+    "preconiza que os tribunais deveriam ser indicados para capacitar o(a) psicólogo(a) a discriminar no ato investigativo de avaliação psicológica a falsa denúncia de abuso sexual e o abuso sexual de fato ocorrido",
+    "designa o psicólogo e/ou o assistente social como responsáveis por conduzir a “visitação assistida no fórum”, mas não define os parâmetros que devem nortear tal intervenção",
+    "privilegia a realização de estudos técnicos por profissionais servidores públicos, discriminando e subvalorizando os profissionais externos ao judiciário e que atuam no âmbito privado",
+    "define os procedimentos a serem adotados pelos profissionais para a identificação do ilícito civil com base nas normativas do Conselho Federal de Psicologia, contudo, não elenca todos os procedimentos específicos da profissão"
+   ],
+   "certa": 0,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "A nota técnica do CFP critica a Lei 12.318/2010 por simplificar conflitos familiares complexos e por judicializá-los, reduzindo pais e mães às posições de vítima e algoz. As outras opções atribuem à lei conteúdos que ela não tem, como capacitação pelos tribunais, regras de visitação assistida ou distinção entre servidores e profissionais privados."
+  },
+  {
+   "numero": 95,
+   "texto": "",
+   "enunciado": "Gabriel é psicólogo clínico e atende uma jovem, Fernanda, com 13 anos de idade. Durante as sessões, a paciente relata que sofre reiteradas situações de humilhação, de vexame e de violência psicológica por parte de seu núcleo familiar.\nDiante desse fato, o psicólogo",
+   "alternativas": [
+    "deve quebrar o sigilo profissional e notificar diretamente o Ministério Público da região",
+    "pode decidir pela quebra de sigilo profissional baseando sua decisão na busca de menor prejuízo",
+    "deve respeitar o sigilo profissional e sugerir a colocação de Fernanda aos cuidados da família extensa",
+    "pode decidir pela quebra de sigilo profissional baseando sua decisão no fato de que se trata de uma adolescente e não criança",
+    "deve respeitar o sigilo profissional mesmo sob conflito com o princípio de contribuir para a eliminação de quaisquer formas de violência, crueldade e opressão"
+   ],
+   "certa": -1,
+   "anulada": true,
+   "assunto": "",
+   "item": "",
+   "comentario": ""
+  },
+  {
+   "numero": 96,
+   "texto": "",
+   "enunciado": "A dinâmica da violência conjugal corresponde em geral a um processo cíclico, relacional e progressivo, composta por três fases. Uma dessas fases seria a principal responsável pela permanência dos cônjuges em relações violentas, pois seria alimentada pela esperança de um relacionamento melhor, calcado nas promessas e no arrependimento do agressor.\nDe forma persuasiva, o agressor convida a vítima para entrar, novamente, no circuito da situação abusiva.\nTal fase é chamada de",
+   "alternativas": [
+    "explosão",
+    "lua de mel",
+    "aumento de tensão",
+    "redenção e superação",
+    "amorosidade superficial"
+   ],
+   "certa": 1,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "No ciclo da violência descrito por Lenore Walker, a fase de lua de mel vem depois da explosão: o agressor se arrepende, promete mudar e reconquista a vítima, o que alimenta a esperança e a permanência na relação. Aumento de tensão e explosão são as outras duas fases; redenção e amorosidade superficial não são nomes do ciclo."
+  },
+  {
+   "numero": 97,
+   "texto": "",
+   "enunciado": "Em um contexto de reiteradas mortes de parte da população jovem, negra e periférica pela violência, a Psicologia Brasileira pode contribuir efetivamente para reverter a situação e promover uma sociedade mais igualitária e democrática, o que passa pelo enfrentamento das desigualdades raciais, de classe e gênero.\nAvalie se entre os princípios capazes de balizar a inserção da Psicologia no campo da formulação, gestão e execução de políticas públicas de segurança no Brasil, incluem-se:\nI. Garantia e ampliação de direitos humanos.\nII. Direito à cidade aos diversos segmentos sociais.\nIII. Investimento em políticas carcerárias e de combate ao crime organizado.\nEstá correto o que se afirma em",
+   "alternativas": [
+    "I, apenas",
+    "II, apenas",
+    "III, apenas",
+    "I e II, apenas",
+    "I e III, apenas"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "As referências do CFP para a atuação em políticas de segurança pública partem da garantia e ampliação de direitos humanos e do direito à cidade para os diversos segmentos sociais. Investir em políticas carcerárias e no combate ao crime organizado reflete a lógica punitiva e de encarceramento que essas referências criticam."
+  },
+  {
+   "numero": 98,
+   "texto": "",
+   "enunciado": "No decorrer de sua obra, Freud associa o caráter a certos tipos libidinais, ao mesmo tempo em que traça a sua distinção em relação ao sintoma. Na formação do caráter, há o predomínio de formações reativas ou até mesmo de sublimação, assumindo o seu papel de resistência em face das excitações pulsionais.\nPor sua vez, o sintoma, característico das psiconeuroses, tem como base constitutiva o mecanismo de",
+   "alternativas": [
+    "forclusão",
+    "denegação",
+    "devaneio",
+    "acting-out",
+    "recalque"
+   ],
+   "certa": 4,
+   "anulada": false,
+   "assunto": "p-psicanalise",
+   "item": "",
+   "comentario": "Em Freud, o sintoma da psiconeurose é uma formação de compromisso que nasce do retorno do recalcado, por isso o recalque é o mecanismo de base. Forclusão é o mecanismo da psicose em Lacan; denegação (negação) é admitir o conteúdo dizendo que não; devaneio e acting-out não são mecanismos constitutivos do sintoma."
+  },
+  {
+   "numero": 99,
+   "texto": "",
+   "enunciado": "Achille Mbembe é um importante pensador camaronês que faz uma releitura das noções ligadas ao racismo de Estado trazidas por Michel Foucault, juntamente com contribuições teóricas de outros autores também importantes para refletir sobre as relações entre Estado, violência e colonialidade. Como exemplo, a chamada guerra às drogas como política de Estado produz práticas de desumanização, criminalização e extermínio de grupos socialmente vulneráveis.\nPara pensar essa forma de gestão, Mbembe cria o conceito chave de",
+   "alternativas": [
+    "biopoder",
+    "biopolítica",
+    "necropolítica",
+    "banalidade do mal",
+    "estado de exceção"
+   ],
+   "certa": 2,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "Mbembe criou o conceito de necropolítica para designar o poder de decidir quem pode viver e quem deve morrer, que ele usa para pensar a violência de Estado sobre populações racializadas e colonizadas. Biopoder e biopolítica são conceitos de Foucault que ele relê; banalidade do mal é de Hannah Arendt; e estado de exceção é de Agamben (a partir de Schmitt)."
+  },
+  {
+   "numero": 100,
+   "texto": "",
+   "enunciado": "O reconhecimento da ocorrência de violência contra crianças e adolescentes trouxe como consequência direta a necessidade de protegê-las.\nEm relação ao tema, analise as afirmativas a seguir:\nI. As relações de dominação e subordinação são naturalizadas histórica e socialmente por meio de discursos que defendem o uso da violência como estratégia educativa, prática que revela o processo multigeracional do fenômeno.\nII. As estratégias de enfrentamento da violência contra crianças e adolescentes devem visar a reparação dos danos causados pelos agressores haja vista se tratar de um fenômeno cuja causalidade é linear e de natureza individual.\nIII. As consequências da violência para as vítimas variam de acordo com o apoio social e afetivo por elas obtidos após a ocorrência do ato violento, podendo, assim, atenuar os seus efeitos sobre as crianças e os adolescentes.\nEstá correto apenas o que se afirma em",
+   "alternativas": [
+    "I",
+    "III",
+    "I e II",
+    "I e III",
+    "II e III"
+   ],
+   "certa": 3,
+   "anulada": false,
+   "assunto": "",
+   "item": "",
+   "comentario": "I está correta porque a violência como estratégia educativa é naturalizada e passada de geração em geração; III também, porque o apoio social e afetivo depois do fato atenua os efeitos sobre a criança. II erra ao tratar a violência como fenômeno linear e individual: ela é multicausal, e o enfrentamento vai além de reparar o dano, incluindo proteção e prevenção."
+  }
+ ]
+}

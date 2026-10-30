@@ -1,0 +1,672 @@
+{
+ "https://www.youtube.com/watch?v=XP0VGNLFpsg": [
+  {
+   "enunciado": "Segundo a aula, qual característica a escola de Paris (Pierre Marty) aponta nos pacientes que adoecem de forma psicossomática de modo constante?",
+   "alternativas": [
+    "Personalidade ambiciosa e introspectiva",
+    "Pensamento operatório",
+    "Alexitimia como causa direta de toda doença psicossomática",
+    "Excesso de simbolização das emoções"
+   ],
+   "certa": 1,
+   "comentario": "A professora diz que a característica da escola de Paris, representada por Pierre Marty, é o pensamento operatório: o paciente sente a emoção, mas não sabe o que é nem a expressa.",
+   "trecho": "Ele aponta uma característica específica dos pacientes que adoecem constantemente, que é o pensamento operatório",
+   "onde": 1393
+  },
+  {
+   "enunciado": "Segundo a aula, o que significa a alexitimia, termo trazido pela escola de Boston?",
+   "alternativas": [
+    "Ausência de emoção: a pessoa não sente nada",
+    "Excesso de emoção que impede de falar",
+    "Ausência de palavras para as emoções, embora as emoções existam",
+    "Incapacidade de sonhar e de usar mecanismos de defesa"
+   ],
+   "certa": 2,
+   "comentario": "Na aula, a alexitimia é a ausência de palavras para as emoções, e não a ausência da emoção em si.",
+   "trecho": "A ausência de palavras para as emoções, as emoções existem. Não é a ausência de emoção, é a ausência de palavras para as emoções.",
+   "onde": 1754
+  },
+  {
+   "enunciado": "Para Franz Alexander (escola americana), a personalidade predispõe a certos adoecimentos. Segundo a aula, que perfil ele associava à tendência a doenças coronarianas?",
+   "alternativas": [
+    "Pacientes melancólicos e passivos",
+    "Pacientes operatórios, que só descrevem fatos concretos",
+    "Pacientes ambiciosos, introspectivos e que não lidam bem com a falta de controle",
+    "Pacientes alexitímicos criados em famílias frias"
+   ],
+   "certa": 2,
+   "comentario": "A aula atribui a Alexander a ideia de que pacientes ambiciosos, introspectivos e com dificuldade de lidar com a falta de controle tendem a doenças do coração; o perfil passivo e melancólico foi ligado ao câncer de mama.",
+   "trecho": "pacientes que são ambiciosos, que são introspectivos, que não conseguem lidar com a falta do controle, geralmente eles terão a tendência de desenvolver doenças coronarianas, doenças de coração",
+   "onde": 2174
+  },
+  {
+   "enunciado": "Na visão de Joyce McDougall, como se chama o processo materno que equilibra a energia do corpo do bebê e faz a representação simbólica das emoções pela criança?",
+   "alternativas": [
+    "Desafetação",
+    "Clivagem",
+    "Associação livre",
+    "Para-excitação"
+   ],
+   "certa": 3,
+   "comentario": "Segundo a aula, equilibrar a energia e representar simbolicamente a emoção para a criança leva o nome de para-excitação.",
+   "trecho": "esse processo de equilibrar a energia funcional e de fazer a representação simbólica pela criança, leva o nome de para-excitação",
+   "onde": 2592
+  },
+  {
+   "enunciado": "Segundo a aula, qual é, para Joyce McDougall, o ponto crucial para o surgimento do funcionamento operatório?",
+   "alternativas": [
+    "A desafetação, resultante de falha na para-excitação na primeira infância",
+    "Uma lesão anatômica no sistema límbico",
+    "O estilo de vida e o uso de substâncias",
+    "A cultura da família, que proíbe falar de emoções"
+   ],
+   "certa": 0,
+   "comentario": "Para McDougall, a falha na para-excitação leva à desafetação (retirada do afeto do psiquismo), que é o ponto crucial para o operatório.",
+   "trecho": "Então a desafetação para Joyce McDowell é o ponto crucial para o surgimento do operatório",
+   "onde": 2901
+  }
+ ],
+ "https://www.youtube.com/watch?v=HyXJy2ZIbwo": [
+  {
+   "enunciado": "Segundo a aula, qual é o papel da atenção básica (UBS e equipes de saúde da família) dentro da estrutura da RAPS?",
+   "alternativas": [
+    "Atender exclusivamente os casos graves e persistentes",
+    "Ordenar a rede e servir de porta de entrada principal",
+    "Acolher pacientes longamente internados em residências temporárias",
+    "Atender as urgências pelo telefone 192"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que a atenção básica tem papel de ordenadora e de porta de entrada da rede; os casos graves e persistentes vão para os CAPS.",
+   "trecho": "Lembrando que dentro da estrutura da RAPS, o BS tem ali um papel de ordenadora, de porta de entrada principalmente.",
+   "onde": 189
+  },
+  {
+   "enunciado": "Sobre as urgências e emergências na RAPS, segundo a aula, qual serviço faz parte da rede e qual não faz?",
+   "alternativas": [
+    "O corpo de bombeiros (193) faz parte; o SAMU (192) não",
+    "SAMU (192) e corpo de bombeiros (193) fazem parte",
+    "Nenhum dos dois faz parte da RAPS",
+    "O SAMU (192) faz parte; o corpo de bombeiros (193) não está inserido na RAPS"
+   ],
+   "certa": 3,
+   "comentario": "O professor destaca que o 193 não está na RAPS: no atendimento à urgência e emergência, quem é da RAPS é o SAMU.",
+   "trecho": "193, que é o telefone do corpo de bombeiro, não está inserido na RAPS, então no atendimento à urgência e emergência, quem é da RAPS é o SAMU e não o bombeiro.",
+   "onde": 283
+  },
+  {
+   "enunciado": "Segundo a aula, o que é o matriciamento entre o CAPS e outros serviços (CRAS, CREAS, Centro Pop, UBS)?",
+   "alternativas": [
+    "Uma capacitação em serviço, em que profissionais especialistas do CAPS apoiam as outras equipes",
+    "A transferência definitiva do usuário para o CAPS",
+    "Uma internação de curta duração para casos de crise",
+    "A elaboração do plano de cuidados apenas pela equipe, sem o usuário"
+   ],
+   "certa": 0,
+   "comentario": "A aula define o matriciamento como capacitação em serviço, na qual especialistas do CAPS orientam as equipes dos demais serviços.",
+   "trecho": "O matriciamento é uma capacitação em serviço. Então os profissionais do CAPES, que são profissionais especialistas, que vão capacitar as equipes",
+   "onde": 760
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é o objetivo central da política de redução de danos?",
+   "alternativas": [
+    "Obter a abstinência imediata do usuário como condição para o cuidado",
+    "Minimizar danos sociais e biológicos, sem focar obrigatoriamente na abstinência imediata",
+    "Afastar o usuário do território para tratá-lo longe do uso",
+    "Condicionar o acesso a alimentação e abrigo à redução do uso"
+   ],
+   "certa": 1,
+   "comentario": "O professor alerta que a redução de danos busca minimizar danos sociais e biológicos e não a abstinência imediata, ponto em que a banca costuma armar pegadinhas.",
+   "trecho": "danos sociais e biológicos e não focar obrigatoriamente na abstinência imediata isso daí galera é um grande paradoxo da assistência psiquiátrica",
+   "onde": 1159
+  },
+  {
+   "enunciado": "Segundo a aula, em que situação o sigilo, que em regra é inviolável na saúde mental, pode ser quebrado?",
+   "alternativas": [
+    "Quando a família do usuário pedir informações",
+    "Quando o usuário recusar o tratamento proposto",
+    "Quando houver risco de morte, como suicídio ou homicídio",
+    "Sempre que o diagnóstico ainda não estiver estabelecido"
+   ],
+   "certa": 2,
+   "comentario": "A aula cita o risco de morte, como condição de suicídio ou homicídio, como exceção que permite quebrar o sigilo.",
+   "trecho": "Então quebrar, se houver risco de morte, como por exemplo uma condição de suicídio ou homicídio, então a gente pode quebrar o sigilo.",
+   "onde": 1659
+  }
+ ],
+ "https://www.youtube.com/watch?v=DF8gLKhS-hY": [
+  {
+   "enunciado": "Segundo a aula, o que caracteriza uma situação como desastre no conceito apresentado?",
+   "alternativas": [
+    "Qualquer evento natural que cause danos materiais",
+    "Apenas eventos de origem ambiental, como rompimento de barragem",
+    "Um evento que exceda a capacidade da comunidade afetada de lidar com a situação com seus próprios recursos",
+    "Um evento que só pode ser mapeado e previsto pela Defesa Civil"
+   ],
+   "certa": 2,
+   "comentario": "A aula define desastre como séria interrupção do funcionamento da comunidade, com perdas que excedem a capacidade dela de lidar com a situação com seus próprios recursos; a origem pode ser natural, tecnológica ou humana.",
+   "trecho": "ambientais que excedem a capacidade da comunidade ou sociedade afetada de lidar com a situação com seus próprios recursos",
+   "onde": 62
+  },
+  {
+   "enunciado": "Pela nota técnica do Conselho Federal citada na aula, a atuação do psicólogo em desastres segue o modelo da gestão integral de risco. Em quais etapas ele deve atuar?",
+   "alternativas": [
+    "Apenas na recuperação, após o desastre",
+    "Em prevenção, mitigação, preparação, resposta e recuperação",
+    "Somente em prevenção e preparação, pois o atendimento cabe à saúde",
+    "Apenas na resposta e na recuperação"
+   ],
+   "certa": 1,
+   "comentario": "A aula destaca a mudança de foco: antes a psicologia era demandada só na recuperação; hoje deve estar nas cinco etapas, inclusive a preventiva.",
+   "trecho": "etapas tá prevenção mitigação preparação resposta e Recuperação então Perceba que há uma mudança de foco",
+   "onde": 245
+  },
+  {
+   "enunciado": "Sobre a divisão de papéis entre os conselhos de psicologia na atuação em desastres, segundo a aula:",
+   "alternativas": [
+    "O Conselho Federal fiscaliza diretamente cada psicólogo em campo",
+    "Os conselhos regionais elaboram a nota técnica nacional",
+    "Federal e regionais têm exatamente as mesmas atribuições",
+    "Os regionais orientam e fiscalizam os psicólogos, e o Federal elabora as diretrizes gerais"
+   ],
+   "certa": 3,
+   "comentario": "Segundo a aula, cabe ao Federal elaborar as diretrizes gerais e aos regionais orientar e fiscalizar quem atua em emergências e desastres.",
+   "trecho": "compete aos regionais aos conselhos regionais orientação e fiscalização das psis que atuam na situa de Emergências e desastres sempre cabe ao Federal elaborar as diretrizes Gerais",
+   "onde": 431
+  },
+  {
+   "enunciado": "Um psicólogo atende vítimas de um desastre, como voluntário e sem remuneração. Segundo a aula, quanto aos registros dos atendimentos, ele deve:",
+   "alternativas": [
+    "Dispensar o registro, por ser situação de emergência",
+    "Registrar e guardar os documentos por no mínimo 5 anos",
+    "Registrar apenas se houver contrato de prestação de serviços",
+    "Guardar os registros apenas durante o período do desastre"
+   ],
+   "certa": 1,
+   "comentario": "A aula afirma que, mesmo em emergências, o registro documental é imprescindível e deve ser mantido por no mínimo 5 anos, pois pode servir depois em processos judiciais.",
+   "trecho": "esses registros devem ser mantidos por pelo um período eh mínimo de 5 anos",
+   "onde": 803
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a única vedação ao psicólogo em situações de desastre, muito cobrada em prova?",
+   "alternativas": [
+    "Realizar pesquisa com seres humanos",
+    "Prestar atendimento psicológico online (virtual) às populações atingidas",
+    "Supervisionar estagiários",
+    "Atender crianças e adolescentes com autorização de um responsável"
+   ],
+   "certa": 1,
+   "comentario": "A aula diz que estágio, pesquisa e atendimento a crianças são permitidos; a vedação expressa é prestar orientação psicológica de forma virtual em desastres, pela peculiaridade e vulnerabilidade da situação.",
+   "trecho": "quando você for fazer prestar qualquer serviço de orientação psicológica você não pode fazer isso de forma virtual em situações de desastres há uma vedação expressa",
+   "onde": 989
+  }
+ ],
+ "https://www.youtube.com/watch?v=i7klFU1wReo": [
+  {
+   "enunciado": "Segundo a aula, para a OMS, um caso de automutilação em que o sujeito não tem a intenção de se matar:",
+   "alternativas": [
+    "É sempre comportamento suicida, pela gravidade da lesão",
+    "É comportamento suicida quando houver risco de morte, mesmo sem intenção",
+    "Só é comportamento suicida se envolver medicação",
+    "Não entra no comportamento suicida, pois falta a intenção de se matar"
+   ],
+   "certa": 3,
+   "comentario": "A professora explica que, embora muitos estudiosos incluam a autolesão, para a OMS (referência para a prova) sem intenção de se matar ela não está dentro do comportamento suicida.",
+   "trecho": "mas para a OMS não está dentro do comportamento suicida se não existe a intenção de se matar.",
+   "onde": 468
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a relação entre transtorno mental e suicídio?",
+   "alternativas": [
+    "Mais de 90% das vítimas de suicídio apresentam algum transtorno mental, com risco cerca de oito vezes maior",
+    "Cerca de 10% das vítimas apresentam transtorno mental, pois o suicídio é sobretudo social",
+    "O transtorno mental só pesa em adolescentes, não em idosos",
+    "O gênero e a idade pesam mais do que o transtorno mental de base"
+   ],
+   "certa": 0,
+   "comentario": "A aula afirma que o transtorno mental de base, especialmente a depressão, é o fator preponderante, mais forte que gênero ou idade.",
+   "trecho": "mais de 90% das vítimas que cometeram suicídio apresentam algum transtorno mental E é o que representa risco oito vezes maior",
+   "onde": 875
+  },
+  {
+   "enunciado": "Por que, segundo a aula, a tentativa de suicídio na população idosa tende a ser mais letal?",
+   "alternativas": [
+    "Porque os idosos não têm transtornos mentais associados",
+    "Pela fragilidade do corpo, pelo melhor planejamento e pelo isolamento que dificulta o pedido de socorro",
+    "Porque os idosos usam só medicamentos em doses altas",
+    "Porque os idosos procuram menos os serviços de saúde que os homens jovens"
+   ],
+   "certa": 1,
+   "comentario": "A aula cita a fragilidade do corpo, o planejamento mais cuidadoso e o isolamento sem rede de apoio como razões da maior letalidade.",
+   "trecho": "a tentativa de suicídio na população idosa vai ser mais letal, por conta da fragilidade do corpo",
+   "onde": 1140
+  },
+  {
+   "enunciado": "Segundo a aula, qual fator explica o homem ser o grande fator de risco preponderante para o suicídio consumado?",
+   "alternativas": [
+    "Os homens tentam mais vezes que as mulheres",
+    "Os homens usam meios mais letais, como enforcamento e arma de fogo",
+    "Os homens têm mais transtornos mentais que as mulheres",
+    "Os homens recorrem aos serviços de saúde mental mais tarde"
+   ],
+   "certa": 1,
+   "comentario": "A professora aponta o meio utilizado: os homens tendem a usar meios mais letais, como enforcamento e arma de fogo, enquanto o envenenamento, mais comum entre mulheres, permite socorro com mais facilidade.",
+   "trecho": "Os homens tendem a usar meios mais letais para a tentativa de suicídio.",
+   "onde": 1239
+  },
+  {
+   "enunciado": "No contexto hospitalar, um paciente em cirurgia iminente e com luto recente prepara um testamento ou carta de despedida. Como a aula classifica esse sinal?",
+   "alternativas": [
+    "Sinal sem relevância, comum em quem enfrenta cirurgia",
+    "Sinal que só importa em pacientes com borderline",
+    "Sinal de alerta muito grave, sobretudo associado a outros sinais",
+    "Sinal que indica apenas pessimismo próprio dos quadros depressivos"
+   ],
+   "certa": 2,
+   "comentario": "A aula chama esse sinal de muito grave, especialmente se vier junto de outro sinal na fala ou de crise vital, luto ou cirurgia iminente.",
+   "trecho": "prepara um testamento ou uma carta de despedida esse sinal de alerta é muito grave",
+   "onde": 1515
+  }
+ ],
+ "https://www.youtube.com/watch?v=Dtpy12uWMpE": [
+  {
+   "enunciado": "Segundo a professora, quem deve ser o foco principal do psicólogo hospitalar quando ele media e intervém junto à equipe e à família?",
+   "alternativas": [
+    "A equipe, pois o hospital é um ambiente multiprofissional",
+    "A família, que tem pouco acesso ao paciente",
+    "O paciente, que está no ápice da tríade paciente, família e equipe",
+    "A instituição, para garantir que as regras sejam cumpridas"
+   ],
+   "certa": 2,
+   "comentario": "A aula insiste que o foco é sempre o paciente: a mediação com equipe e família serve ao paciente.",
+   "trecho": "Nosso foco, gente, sempre vai ser o paciente. Quando a gente media e intervém a nível de equipe e a nível de família, é para o foco principal o paciente",
+   "onde": 1316
+  },
+  {
+   "enunciado": "De acordo com a aula, qual é a diferença de foco entre a psicologia hospitalar e a psicologia da saúde?",
+   "alternativas": [
+    "A hospitalar trata do processo saúde-doença; a da saúde, das repercussões da hospitalização",
+    "A hospitalar trata das repercussões do adoecimento e da hospitalização; a da saúde, dos fatores biológicos, comportamentais e sociais do processo saúde-doença",
+    "As duas têm o mesmo foco, mudando apenas o local de atuação",
+    "A hospitalar atua na atenção primária; a da saúde, na terciária"
+   ],
+   "certa": 1,
+   "comentario": "A professora contrasta: hospitalar, repercussões do adoecimento e da hospitalização (atenção secundária e terciária); saúde, fatores que influenciam o processo saúde-doença (do primário ao quaternário).",
+   "trecho": "Psicologia hospitalar tem a ver com as repercussões do adoecimento e da hospitalização. Já a psicologia da saúde compreende fatores biológicos, comportamentais e sociais que influenciam o processo saúde doença.",
+   "onde": 1593
+  },
+  {
+   "enunciado": "Sobre o trabalho com grupos em hospitais, qual afirmativa foi dada como correta na aula?",
+   "alternativas": [
+    "Os grupos devem seguir sempre o modelo de grupos fechados",
+    "Os grupos em hospitais não devem trazer informações, que são prerrogativa dos médicos",
+    "O modelo de grupo operativo não é adequado à realidade hospitalar",
+    "Interpretações psicodinâmicas não são adequadas aos grupos de enfermaria, por falta de tempo hábil"
+   ],
+   "certa": 3,
+   "comentario": "A professora explica que questões psicodinâmicas e estruturais exigem tempo que o hospital não oferece; o grupo operativo, focado em tarefa, é um dos mais usados.",
+   "trecho": "É um dos principais grupos que é utilizado na realidade hospitalar, que é um grupo que tem como foco uma tarefa ali.",
+   "onde": 2334
+  },
+  {
+   "enunciado": "Segundo a aula, como é o setting do psicólogo hospitalar em comparação ao setting clínico?",
+   "alternativas": [
+    "É a sala do psicólogo, com tranquilidade e sem intercorrências",
+    "Exige estrutura adequada e horários fixos, como no consultório",
+    "É o local onde o paciente está, exigindo postura flexível e criativa para contornar as dificuldades",
+    "Deve evitar qualquer atendimento fora de salas fechadas, inclusive no pronto-socorro"
+   ],
+   "certa": 2,
+   "comentario": "A aula afirma que no hospital o atendimento ocorre onde o paciente está, sem horário nem local fixos, o que exige flexibilidade e criatividade.",
+   "trecho": "psicologia hospitalar, onde o paciente está e o psicólogo necessita encontrar uma postura flexível e criativa, objetivando contornar a dificuldade.",
+   "onde": 2950
+  },
+  {
+   "enunciado": "No esquema de Simonetti apresentado na aula, qual diagnóstico constrói uma visão panorâmica da vida do paciente, incluindo áreas não diretamente ligadas à doença?",
+   "alternativas": [
+    "Diagnóstico relacional",
+    "Diagnóstico transferencial",
+    "Diagnóstico médico",
+    "Diagnóstico situacional"
+   ],
+   "certa": 3,
+   "comentario": "O diagnóstico situacional abrange a vida social, psíquica e cultural do paciente, para além da doença.",
+   "trecho": "acertou quem falou o diagnóstico situacional, que é esse que tenta abranger a vida como um todo desse indivíduo",
+   "onde": 3197
+  }
+ ],
+ "https://www.youtube.com/watch?v=NtEbyak5Uac": [
+  {
+   "enunciado": "Segundo a aula, em quais níveis de análise a psicologia organizacional e do trabalho investiga os fenômenos psicológicos ligados ao trabalho?",
+   "alternativas": [
+    "Individual, grupal e organizacional",
+    "Operacional, tático e estratégico",
+    "Clínico, escolar e jurídico",
+    "Biológico, psicológico e social"
+   ],
+   "certa": 0,
+   "comentario": "A professora afirma que o campo opera em três níveis de análise: individual, grupal e organizacional (micro, médio e macro em Robbins).",
+   "trecho": "Então, em três níveis de análise individual, o grupal e o",
+   "onde": 207
+  },
+  {
+   "enunciado": "Segundo a aula, qual foi a contribuição da Primeira Guerra Mundial para a psicologia organizacional?",
+   "alternativas": [
+    "O estudo de tempos e movimentos do casal Gilbreth",
+    "A formulação da teoria Y por McGregor",
+    "A criação da escola das relações humanas, com Elton Mayo",
+    "O uso em larga escala de testes psicológicos (Army Alpha e Beta) para colocar soldados em funções adequadas, com psicólogos liderados por Robert Yerkes"
+   ],
+   "certa": 3,
+   "comentario": "Em 1917, psicólogos liderados por Robert Yerkes aplicaram testes de habilidade mental ao exército americano, a primeira aplicação em larga escala de testes com fim de colocação profissional.",
+   "trecho": "Em 1917, alguns psicólogos liderados por Robert Yerks ofereceram seus serviços para o exército americano.",
+   "onde": 1484
+  },
+  {
+   "enunciado": "Qual foi a principal descoberta do estudo de Hawthorne (Elton Mayo), segundo a aula?",
+   "alternativas": [
+    "O nível de produção depende apenas da intensidade da iluminação",
+    "O trabalhador reage isoladamente, como indivíduo, às condições físicas",
+    "Os trabalhadores agem como membros de grupos, e a produção resulta também da interação social",
+    "A produtividade só aumenta com recompensas financeiras individuais"
+   ],
+   "certa": 2,
+   "comentario": "A aula conta que o estudo começou medindo iluminação e concluiu que os trabalhadores reagem como membros de grupos e que a produção depende da interação social.",
+   "trecho": "A descoberta foi que os trabalhadores não agem ou reagem isoladamente como indivíduos, mas como membros de grupos.",
+   "onde": 1697
+  },
+  {
+   "enunciado": "Segundo a aula, em qual fase da psicologia aplicada ao trabalho a ênfase recaiu na teoria Y de McGregor?",
+   "alternativas": [
+    "Na fase da psicologia industrial",
+    "Na fase da administração científica de Taylor",
+    "Na fase da psicologia organizacional",
+    "Na fase da engineering psychology"
+   ],
+   "certa": 2,
+   "comentario": "A professora diz que a psicologia industrial foi dominada pela mentalidade da teoria X, e a fase da psicologia organizacional, que ampliou o objeto de estudo, enfatizou a teoria Y.",
+   "trecho": "Então, a ênfase aqui na fase da psicologia organizacional foi da teoria Y.",
+   "onde": 1972
+  },
+  {
+   "enunciado": "Diante da revolução 4.0 e dos processos de mudança e inovação, qual competência do psicólogo organizacional a professora aponta como a resposta correta da questão comentada?",
+   "alternativas": [
+    "Aperfeiçoar sistemas de normas e controle das relações de trabalho",
+    "Elaborar políticas de gestão de pessoas",
+    "Preparar as lideranças, que são o motor da mudança",
+    "Implementar programas de bem-estar e qualidade de vida"
+   ],
+   "certa": 2,
+   "comentario": "As alternativas de políticas de gestão e de bem-estar são competências gerais; frente à mudança e à inovação, a resposta é preparar lideranças, motor das transformações.",
+   "trecho": "frente aos processos de mudança e inovação, aí a resposta correta é a letra D. a capacidade de preparar as lideranças, porque elas por sua vez serão o motor da mudança",
+   "onde": 3021
+  }
+ ],
+ "https://www.youtube.com/watch?v=h_Ec7nWKmIc": [
+  {
+   "enunciado": "Segundo o professor, qual é a diferença entre recrutar e selecionar no processo de contratação?",
+   "alternativas": [
+    "Recrutar é escolher o melhor candidato; selecionar é divulgar a vaga",
+    "Recrutar é contratar e selecionar é entrevistar",
+    "Recrutar é atrair candidatos, deixando a empresa atraente; selecionar é escolher entre eles",
+    "Recrutar e selecionar são sinônimos e ocorrem na mesma etapa"
+   ],
+   "certa": 2,
+   "comentario": "Para o professor, recrutar não é contratar nem selecionar: é a fase de atração, e a seleção é a fase de escolher.",
+   "trecho": "recrutar é uma pequena fase do processo de contratação mas ela não é toda fase recrutar Então é só atrair e selecionar é óbvio que é escolher",
+   "onde": 591
+  },
+  {
+   "enunciado": "Na fase de recrutamento, segundo a aula, qual deve ser o primeiro papel do psicólogo organizacional?",
+   "alternativas": [
+    "Redigir a descrição técnica do cargo",
+    "Mapear a cultura organizacional, que traz os primeiros critérios de identificação entre empresa e colaborador",
+    "Aplicar testes de personalidade nos candidatos",
+    "Definir o salário praticado pelo mercado"
+   ],
+   "certa": 1,
+   "comentario": "O professor diz que o primeiro passo é mapear a cultura, e não a estratégia, a descrição de cargo ou o salário, pois é nela que estão os primeiros critérios de identificação.",
+   "trecho": "então primeiro papel do psicólogo organizacional é atuar no recrutamento desenhando e dando um suporte ou mapeando a cultura organizacional",
+   "onde": 838
+  },
+  {
+   "enunciado": "Segundo o professor, como o psicólogo deve conduzir a comparação na fase de seleção para evitar preconceitos?",
+   "alternativas": [
+    "Comparar três candidatos entre si, como o gestor costuma pedir",
+    "Comparar cada candidato com o perfil da vaga desenhada, e não com outras pessoas",
+    "Comparar candidatos pela experiência em ocupações anteriores",
+    "Priorizar o candidato que melhor se encaixe no estilo do gestor"
+   ],
+   "certa": 1,
+   "comentario": "A aula afirma que comparar candidatos entre si abre brecha para preconceito; a comparação correta é do candidato com o perfil desenhado para a cadeira.",
+   "trecho": "você vai comparar o candidato que se apresentou com a vaga Que Você desenhou você não vai comparar ele com pessoas",
+   "onde": 1915
+  },
+  {
+   "enunciado": "A entrevista baseada em competências citada na aula usa uma metodologia que avalia quais elementos do candidato?",
+   "alternativas": [
+    "Contexto, ação e resultado",
+    "Situação, tarefa e recompensa",
+    "Cultura, clima e valores",
+    "Cargo, salário e escolaridade"
+   ],
+   "certa": 0,
+   "comentario": "A aula apresenta a metodologia CAR: avalia o contexto, as ações e os resultados do candidato para saber se ele tem a competência.",
+   "trecho": "metodologia Car que você vai avaliar o contexto as ações e os resultados do candidato",
+   "onde": 1978
+  },
+  {
+   "enunciado": "Segundo o professor, qual sistema valida os testes psicológicos que o psicólogo pode usar, e o que ele faz?",
+   "alternativas": [
+    "O SATEPSI, que valida se o teste é bom, e só se pode usar teste ali validado",
+    "O CRP, que autoriza o psicólogo a comprar qualquer teste",
+    "O RH da empresa, que escolhe testes mais baratos",
+    "O CFP, que dispensa validação de testes comerciais"
+   ],
+   "certa": 0,
+   "comentario": "O professor explica que o SATEPSI (aparece como \"satélite\" na legenda) valida os testes e o psicólogo só pode usar os que lá estiverem validados.",
+   "trecho": "o satélite que é o sistema de avaliação de testes psicológicos todo ano ele trabalha para validar se o teste é bom ou se ele não presta",
+   "onde": 2224
+  }
+ ],
+ "https://www.youtube.com/watch?v=XUrunX0QGGA": [
+  {
+   "enunciado": "Segundo a aula, qual é a definição mais simples de validade de um teste psicológico?",
+   "alternativas": [
+    "A consistência dos escores em aplicações diferentes do teste",
+    "A garantia de que o teste mede aquilo que supostamente deve medir",
+    "A padronização dos escores em tabelas normativas",
+    "A facilidade de aplicação e correção do instrumento"
+   ],
+   "certa": 1,
+   "comentario": "A aula define validade, na versão mais simples, como a garantia de que o teste mede aquilo que deve medir; consistência dos escores é fidedignidade (precisão).",
+   "trecho": "validade a garantia de que o teste mede aquilo que supostamente deve medir",
+   "onde": 405
+  },
+  {
+   "enunciado": "Qual mudança de perspectiva sobre a validade a aula apresenta em relação ao antigo modelo tripartite (conteúdo, construto e critério)?",
+   "alternativas": [
+    "O modelo tripartite foi mantido e ampliado com a validade de face",
+    "O modelo foi substituído por um único coeficiente de validade",
+    "Hoje se fala em evidências de validade, acumuladas de diversas fontes",
+    "Hoje a validade é propriedade do teste, e não da interpretação dos escores"
+   ],
+   "certa": 2,
+   "comentario": "O modelo tripartite foi questionado e atualizado: atualmente se fala em evidências de validade que se acumulam a partir de várias fontes; a validade se refere à interpretação dos escores, e não ao teste em si.",
+   "trecho": "esse modelo tripartite Foi questionado né foi lá Foi atualizada né E hoje se fala de evidências de validade",
+   "onde": 498
+  },
+  {
+   "enunciado": "Qual fonte de evidência de validade investiga, por exemplo com análise fatorial, se a estrutura do instrumento é coerente com a estrutura do construto teórico?",
+   "alternativas": [
+    "Evidências baseadas no conteúdo",
+    "Evidências baseadas nas consequências da testagem",
+    "Evidências baseadas no processo de resposta",
+    "Evidências baseadas na estrutura interna"
+   ],
+   "certa": 3,
+   "comentario": "A aula explica que a fonte baseada na estrutura interna verifica se a estrutura do instrumento é coerente com o construto teórico, usando métodos como análise fatorial exploratória e confirmatória.",
+   "trecho": "então essa fonte de evidência de validade baseada na estrutura interna ela investiga se a estrutura interna do do instrumento é coerente um construto teórico",
+   "onde": 809
+  },
+  {
+   "enunciado": "Um pesquisador aplica um teste de atenção concentrada e, seis meses depois, conta os acidentes de trânsito dos mesmos participantes. De acordo com a aula, que tipo de evidência é essa?",
+   "alternativas": [
+    "Validade de critério preditiva",
+    "Validade de critério concorrente",
+    "Validade convergente",
+    "Fidedignidade por teste-reteste"
+   ],
+   "certa": 0,
+   "comentario": "Na aula, avaliar o critério (acidentes) depois de um tempo é validade de critério preditiva; avaliar o critério no mesmo momento do teste é critério concorrente.",
+   "trecho": "eu avalio atenção concentrada no teste que a gente ela adorou e depois de seis meses eu vejo quantos acidentes no trânsito elas envolverão",
+   "onde": 1275
+  },
+  {
+   "enunciado": "Segundo a aula, quais são as três técnicas mais frequentemente usadas para estimar a fidedignidade (precisão) de um teste?",
+   "alternativas": [
+    "Análise fatorial, validade de conteúdo e teste-reteste",
+    "Formas paralelas ou equivalentes, consistência interna e teste-reteste",
+    "Critério concorrente, critério preditivo e consistência interna",
+    "Entrevista cognitiva, juízes especialistas e formas paralelas"
+   ],
+   "certa": 1,
+   "comentario": "A aula cita as formas paralelas (equivalentes), a consistência interna e o teste-reteste como as técnicas mais usadas para estimar a fidedignidade.",
+   "trecho": "três técnicas mais é mais frequentemente usado utilizadas de estimação dessa decisão são as formas paralelas ou equivalentes a consistência interna e o teste reteste",
+   "onde": 2115
+  }
+ ],
+ "https://www.youtube.com/watch?v=jEZ7mcdBow4": [
+  {
+   "enunciado": "Segundo a aula, qual é a diferença entre a visão antiga e a visão moderna do treinamento?",
+   "alternativas": [
+    "Antes o treinamento desenvolvia competências; hoje serve apenas para operar novas ferramentas",
+    "Antes servia para adequar a pessoa ao cargo; hoje serve também para desenvolver competências e tornar a pessoa mais produtiva",
+    "Antes era voltado ao longo prazo; hoje é voltado apenas ao curto prazo",
+    "Antes era contínuo; hoje é pontual e específico"
+   ],
+   "certa": 1,
+   "comentario": "A professora explica que o treinamento antes servia para adequar a pessoa ao cargo e hoje, além disso, desenvolve competências para um desempenho melhor.",
+   "trecho": "além de adequar essa pessoa para o cargo que ela vai ocupar e o treinamento ele serve para desenvolver competências",
+   "onde": 402
+  },
+  {
+   "enunciado": "Segundo a aula, como distinguir treinamento de desenvolvimento?",
+   "alternativas": [
+    "Treinamento é de longo prazo e para cargos futuros; desenvolvimento é de curto prazo e para o cargo atual",
+    "Treinamento é de curto prazo e para o cargo atual; desenvolvimento pensa no futuro, no longo prazo, para cargos futuros",
+    "Os dois são de curto prazo e voltados ao cargo atual",
+    "Os dois são de longo prazo, mas treinamento é só para gestores"
+   ],
+   "certa": 1,
+   "comentario": "A aula resume: treinamento é no curto prazo e no cargo atual; desenvolvimento olha para o futuro do profissional, no longo prazo, e subsidia promoções e transferências.",
+   "trecho": "treinamento é no curto prazo e no cargo atual e o desenvolvimento é pensando no futuro daquele profissional no longo prazo para cargos futuros",
+   "onde": 706
+  },
+  {
+   "enunciado": "Qual é a sequência das quatro fases do processo de treinamento apresentada na aula?",
+   "alternativas": [
+    "Desenho do programa, levantamento das necessidades, execução, avaliação dos resultados",
+    "Levantamento das necessidades, execução, desenho do programa, avaliação dos resultados",
+    "Levantamento das necessidades, desenho do programa, aplicação (execução) e avaliação dos resultados",
+    "Avaliação dos resultados, levantamento das necessidades, desenho do programa, aplicação"
+   ],
+   "certa": 2,
+   "comentario": "As fases são: levantamento de necessidades, desenho do programa, aplicação e avaliação dos resultados, que fecha o ciclo e pode iniciar um novo.",
+   "trecho": "primeira fase levantamento das necessidades segunda fase desenho do programa terceira fase aplicação do Programa de Treinamento ou execução e quarta fase avaliação dos resultados",
+   "onde": 1139
+  },
+  {
+   "enunciado": "Na análise organizacional do levantamento de necessidades de treinamento, o que a professora diz que os treinamentos precisam estar em consonância?",
+   "alternativas": [
+    "Com o perfil atual de cada colaborador",
+    "Com o orçamento anual do setor de gestão de pessoas",
+    "Com a missão, a visão e os objetivos estratégicos da organização",
+    "Com as metas individuais definidas pelo gestor imediato"
+   ],
+   "certa": 2,
+   "comentario": "A aula afirma que, se os treinamentos não estiverem casados com a missão, a visão e os objetivos estratégicos, eles pouco ajudam a organização a alcançar seus resultados.",
+   "trecho": "se esse treinamento esses treinamentos não tiver em casados com a missão com a visão e com os objetivos estratégicos eles não vão adiantar de muita coisa",
+   "onde": 1356
+  },
+  {
+   "enunciado": "O que a aula chama de GAP de competências na análise das competências organizacionais?",
+   "alternativas": [
+    "A lacuna entre as competências existentes e disponíveis e as competências necessárias",
+    "A diferença salarial entre cargos de níveis diferentes",
+    "O intervalo de tempo entre dois programas de treinamento",
+    "A diferença entre o desempenho dos colaboradores novos e dos antigos"
+   ],
+   "certa": 0,
+   "comentario": "O GAP é a lacuna entre as competências que já existem na organização e as necessárias; identificá-lo mostra o que construir ou adquirir.",
+   "trecho": "é a lacuna que vai existir entre aquelas competências que já existem ou seja as competências existentes e que estão disponíveis e as competências necessárias",
+   "onde": 1423
+  }
+ ],
+ "https://www.youtube.com/watch?v=hQgddGkQ2Ik": [
+  {
+   "enunciado": "Segundo o professor, que dado de pesquisa da Gallup ele usa como argumento para convencer a empresa a capacitar a liderança?",
+   "alternativas": [
+    "Empresas com líderes capacitados aumentam em 70% o faturamento",
+    "70% dos líderes não sabem dar feedback",
+    "Líderes capacitados reduzem em 70% o número de demissões",
+    "Uma liderança engajada e inspiradora aumenta em até 70% a produtividade individual dos colaboradores"
+   ],
+   "certa": 3,
+   "comentario": "O professor cita pesquisa da Gallup de 2022: liderança engajada e inspiradora pode elevar em até 70% a produtividade dos colaboradores, e esclarece que são 70% a mais na produção individual, não na empresa toda.",
+   "trecho": "da Gallup, que diz que uma liderança engajada, uma liderança inspiradora, ela aumenta em até 70% a produtividade dos colaboradores",
+   "onde": 615
+  },
+  {
+   "enunciado": "Pela citação de John Maxwell usada na aula, qual é a relação entre confiança e influência na liderança?",
+   "alternativas": [
+    "A confiança só importa para líderes de equipes difíceis",
+    "A influência precede a confiança: primeiro se influencia, depois se ganha confiança",
+    "A confiança precede a influência: não adianta querer influenciar sem saber transmitir confiança",
+    "Confiança e influência são independentes"
+   ],
+   "certa": 2,
+   "comentario": "O professor explica que, para Maxwell, liderança é transmitir confiança e exercer influência, e a confiança vem antes da influência.",
+   "trecho": "a confiança precede a influência, de nada adianta eu falar líder é ser influente se eu não souber transmitir confiança",
+   "onde": 927
+  },
+  {
+   "enunciado": "Segundo o professor, em que se baseia o respeito pela atuação do psicólogo organizacional no conflito entre líder e equipe?",
+   "alternativas": [
+    "Em tomar partido do lado mais frágil, o funcionário",
+    "No posicionamento neutro e na maturidade de modelar todo o ambiente, sem tomar partido",
+    "Em tomar partido do líder, por ser quem responde pelos resultados",
+    "Em apontar o culpado e propor seu afastamento"
+   ],
+   "certa": 1,
+   "comentario": "A aula defende que o psicólogo não deve triangular nem tomar partido: o respeito vem da neutralidade e da capacidade de modelar o ambiente como um todo.",
+   "trecho": "O respeito pela nossa atuação está no nosso posicionamento neutro e na nossa maturidade de modelar todo o ambiente e não de tomar partido para A ou B.",
+   "onde": 1263
+  },
+  {
+   "enunciado": "Segundo o professor, por que um treinamento de liderança feito apenas com os líderes tende a falhar?",
+   "alternativas": [
+    "Porque o ambiente não preparado volta a modelar o líder para o comportamento antigo; é preciso sensibilizar também a equipe",
+    "Porque os líderes resistem a qualquer capacitação",
+    "Porque o treinamento deve ser feito só com os donos da empresa",
+    "Porque os líderes não têm tempo de aplicar o que aprendem"
+   ],
+   "certa": 0,
+   "comentario": "A aula diz que o treinamento de liderança deve incluir a equipe: se o ambiente não está preparado, ele modela o líder de volta ao que era antes.",
+   "trecho": "nunca mais faça um treinamento de líderes só com os líderes treinamento e desenvolvimento de liderança inclui a equipe",
+   "onde": 1476
+  },
+  {
+   "enunciado": "Quando o líder tem dificuldade porque o colaborador recorre ao dono e o dono toma o lado do colaborador, o que o professor orienta treinar no líder?",
+   "alternativas": [
+    "Aprender a fazer alinhamento de expectativa e feedback das entregas",
+    "Aprender a controlar tudo minuciosamente, com microgerenciamento",
+    "Aprender a ganhar no grito para impor autoridade",
+    "Aprender a evitar o dono e tratar tudo apenas com a equipe"
+   ],
+   "certa": 0,
+   "comentario": "O professor orienta trazer contexto, dar feedback e alinhar expectativas com todos, inclusive com o dono; ele também alerta contra o microgerenciamento.",
+   "trecho": "Então você precisa treinar o líder para ele aprender a fazer alinhamento de expectativa e aprender a fazer feedback de entrega.",
+   "onde": 2060
+  }
+ ]
+}

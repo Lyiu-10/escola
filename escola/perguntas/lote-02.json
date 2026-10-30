@@ -1,0 +1,925 @@
+{
+ "https://www.youtube.com/watch?v=5uMooAjtVis": [
+  {
+   "enunciado": "Segundo a aula, o que é a crase?",
+   "alternativas": [
+    "A junção de qualquer \"a\" com um verbo no infinitivo.",
+    "A fusão da preposição \"a\" com o artigo \"a\" (ou \"as\"), o que exige um substantivo feminino logo depois.",
+    "A fusão de dois artigos femininos, sem necessidade de preposição.",
+    "A troca do artigo \"o\" pelo artigo \"a\" antes de palavras masculinas."
+   ],
+   "certa": 1,
+   "comentario": "A aula define a crase como a fusão da preposição a com o artigo a: é preciso ter os dois \"a\", e a palavra seguinte precisa ser substantivo feminino.",
+   "trecho": "regra 1 a crase gente é a fusão da preposição a mas o artigo A então tem que ter o a e o a dois a",
+   "onde": 33
+  },
+  {
+   "enunciado": "Em qual das frases abaixo o \"a\" deve receber o sinal de crase, de acordo com a regra do pronome demonstrativo explicada na aula (preposição \"a\" + primeira sílaba de \"aquele\", \"aquela\", \"aquilo\")?",
+   "alternativas": [
+    "Eles planejam ir a três clínicas.",
+    "Eles planejam ir a algumas clínicas.",
+    "Eles planejam ir a aquele bar.",
+    "Eles planejam ir a toda cidade."
+   ],
+   "certa": 2,
+   "comentario": "Antes de aquele, aquela, aquilo e suas flexões a preposição a se funde com o primeiro a do pronome, e a crase aparece (àquele bar). Antes de indefinidos e numerais não há crase.",
+   "trecho": "regra dois a fusão da preposição a mais a primeira sílaba do pronome demonstrativo aquele aqueles aquela aquelas ou aquilo",
+   "onde": 470
+  },
+  {
+   "enunciado": "Segundo a aula, a crase ocorre antes de locuções adverbiais, conjuntivas e prepositivas de base feminina. Em qual frase o \"a\" destacado deve receber crase por esse motivo?",
+   "alternativas": [
+    "A estrutura chegou (a) tempo.",
+    "Ele foi (a) pé até o clube.",
+    "Ele fez tudo (a) pressas.",
+    "Ele pretende (a) estudar mais."
+   ],
+   "certa": 2,
+   "comentario": "\"Às pressas\" é locução de base feminina e leva crase. \"A tempo\" tem núcleo masculino e \"a estudar\" é antes de verbo, onde a crase é proibida.",
+   "trecho": "onde Tem crase Alvaro Em locuções adverbiais vem cá lê comigo locuções adverbiais de base feminina",
+   "onde": 1008
+  },
+  {
+   "enunciado": "Segundo a aula, como fica a crase na indicação de horas, como em \"Acordei ... 7 horas\" e \"Saímos ... meia-noite\"?",
+   "alternativas": [
+    "Ela é obrigatória: às 7 horas, à meia-noite.",
+    "Ela é facultativa, como antes de nomes de mulher.",
+    "Ela é proibida, porque horas é palavra numeral.",
+    "Ela só aparece quando a hora é redonda, sem minutos."
+   ],
+   "certa": 0,
+   "comentario": "A aula afirma que a indicação de horas tem crase (às 7 horas, às 10:45, à meia-noite), e isso não é opcional.",
+   "trecho": "regra quatro alvarou Olha que lindo gente a mesma coisa na indicação de horas Tem crase porque tem",
+   "onde": 1167
+  },
+  {
+   "enunciado": "Segundo a aula, qual é o uso da crase antes de pronomes possessivos femininos como \"minha\", \"sua\" e \"nossa\"?",
+   "alternativas": [
+    "Facultativa no plural e obrigatória no singular.",
+    "Obrigatória no singular e no plural.",
+    "Proibida no singular e no plural.",
+    "Obrigatória no plural (às suas residências) e facultativa no singular (a/à sua residência)."
+   ],
+   "certa": 3,
+   "comentario": "A aula diz que antes de possessivo feminino no plural a crase é obrigatória, e no singular é facultativa (se tiver está certo, se não tiver também).",
+   "trecho": "você vai utilizar crase antes de pronomes possessivos femininos no plural dá uma olhada",
+   "onde": 1673
+  }
+ ],
+ "https://setec.ufmt.br/ri/bitstream/1/91/3/Aspectos_Norma_Culta_2021.pdf#page=22": [
+  {
+   "enunciado": "Segundo o material da UFMT, o que se chama de crase?",
+   "alternativas": [
+    "A troca do artigo \"a\" pelo artigo \"o\" diante de verbos.",
+    "O acento que indica sílaba tônica em palavras terminadas em \"a\".",
+    "O fenômeno de fusão de dois \"a\" em um único som, que na escrita é marcado pelo acento grave.",
+    "O uso do acento grave em qualquer palavra feminina."
+   ],
+   "certa": 2,
+   "comentario": "O texto define crase como a fusão da preposição \"a\" com o artigo (ou pronome iniciado por \"a\"), que na fala soa como um \"a\" só e, na escrita, recebe o acento grave.",
+   "trecho": "Chamamos de crase a esse fenômeno de fusão",
+   "onde": 22
+  },
+  {
+   "enunciado": "Em \"Luiz devolveu o dinheiro a Maria\", como decidir se há crase? Qual é a conclusão do material para nomes próprios femininos?",
+   "alternativas": [
+    "Como Maria é nome próprio, a crase é sempre proibida.",
+    "Troca-se por um equivalente masculino: como só \"ao\" é possível, a crase é obrigatória.",
+    "Troca-se por um equivalente masculino (João): como \"a João\" e \"ao João\" são possíveis, a crase é facultativa.",
+    "Basta verificar se a frase tem verbo: havendo verbo, a crase é obrigatória."
+   ],
+   "certa": 2,
+   "comentario": "O material ensina a trocar a palavra feminina por um equivalente masculino; se ambos \"a\" e \"ao\" servem, o artigo e a crase são opcionais, como diante de nomes próprios femininos.",
+   "trecho": "uma boa dica é tentar trocar a palavra feminina por um equivalente masculino de mesma classe gramatical",
+   "onde": 24
+  },
+  {
+   "enunciado": "Segundo o material, o que vale para a crase diante de pronomes pessoais, como em \"Não dê ouvidos a ela\"?",
+   "alternativas": [
+    "A crase é proibida, porque \"ele\" não admite artigo \"o\" (\"a ele\").",
+    "A crase é obrigatória, porque \"ela\" é palavra feminina.",
+    "A crase é facultativa, como diante de possessivos femininos.",
+    "A crase é obrigatória sempre que o verbo pede a preposição \"a\"."
+   ],
+   "certa": 0,
+   "comentario": "Pelo teste do equivalente masculino, \"ele\" não aceita \"ao\"; logo \"ela\" não aceita \"à\", e o texto conclui que diante de pronomes pessoais a crase é proibida.",
+   "trecho": "Diante de pronomes pessoais, a crase é proibida",
+   "onde": 26
+  },
+  {
+   "enunciado": "Segundo o material, qual a diferença de sentido entre \"Não aderimos a modas fúteis\" (sem crase) e \"Não aderimos às modas fúteis\" (com crase)?",
+   "alternativas": [
+    "Não há diferença de sentido, apenas de pronúncia.",
+    "A sem crase é a única correta, pois antes de plural feminino a crase é sempre proibida.",
+    "A com crase é mais geral e a sem crase se refere a modas específicas.",
+    "A com crase supõe que o leitor já saiba de quais modas se trata; a sem crase é mais geral."
+   ],
+   "certa": 3,
+   "comentario": "Sem o artigo, a frase é generalista (modas fúteis em geral); com \"as\", o artigo definido indica modas conhecidas do leitor, em geral já mencionadas antes.",
+   "trecho": "Já a segunda, devido ao uso do artigo definido, seria usada apenas em um contexto em que o leitor soubesse de que modas fúteis se trata",
+   "onde": 28
+  },
+  {
+   "enunciado": "Segundo o material, como conferir se um nome próprio de lugar (Bahia, Cuiabá, Sinop) exige crase depois de \"ir a\" ou \"chegar a\"?",
+   "alternativas": [
+    "Trocando o nome do lugar por um equivalente masculino e vendo se aparece \"ao\".",
+    "Substituindo o verbo e a preposição por \"vir de\": se der \"vir da\", há crase; se der \"vir de\", não há.",
+    "Verificando se o nome do lugar está no plural.",
+    "Verificando se o lugar é uma cidade ou um estado."
+   ],
+   "certa": 1,
+   "comentario": "Não há regra que defina por que um lugar aceita artigo; o material propõe o teste do \"vir de\": venho da Bahia (vou à Bahia), mas venho de Cuiabá (chegou a Cuiabá).",
+   "trecho": "O que devemos fazer, para checar se usamos ou não o acento grave, é uma substituição do verbo regente e sua preposição pela locução",
+   "onde": 30
+  }
+ ],
+ "https://www.youtube.com/watch?v=6zsVwix7Uh0": [
+  {
+   "enunciado": "Segundo a aula, em \"Enviaram-lhe os documentos solicitados\", como se classifica a colocação do pronome \"lhe\"?",
+   "alternativas": [
+    "Próclise, porque o pronome é oblíquo átono.",
+    "Ênclise, porque o pronome aparece depois do verbo.",
+    "Mesóclise, porque o pronome fica ligado ao verbo por hífen.",
+    "Próclise, porque o verbo está no pretérito."
+   ],
+   "certa": 1,
+   "comentario": "A aula define ênclise como o pronome aparecendo após o verbo, e usa exatamente \"enviaram-lhe os documentos solicitados\" como exemplo.",
+   "trecho": "em crítico é quando o pronome aparecer após o verbo enviaram-lhe enviaram-lhe os documentos solicitados",
+   "onde": 158
+  },
+  {
+   "enunciado": "Segundo a aula, como se chama a colocação em que o pronome oblíquo fica no meio da forma verbal, como em \"enviar-lhe-iam\" ou \"falar-se-á\"?",
+   "alternativas": [
+    "Ênclise.",
+    "Próclise.",
+    "Mesóclise.",
+    "Anástrofe."
+   ],
+   "certa": 2,
+   "comentario": "Mesóclise é o caso em que o pronome não está nem antes nem depois do verbo, mas no meio dele.",
+   "trecho": "mesóclise o pronome não está nem antes nem após o verbo está no meio do verbo",
+   "onde": 191
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a primeira regra sobre o início de frase com pronome oblíquo? Qual frase está correta?",
+   "alternativas": [
+    "Frase só pode começar com pronome oblíquo se o verbo estiver no futuro.",
+    "Pode-se começar frase com pronome oblíquo, desde que haja vírgula: \"Me disseram a verdade\".",
+    "Não se começa frase com pronome oblíquo: \"Disseram-me a verdade\".",
+    "Começar frase com pronome oblíquo é obrigatório na norma padrão."
+   ],
+   "certa": 2,
+   "comentario": "A aula repete que não se começa uma frase com pronome oblíquo; por isso \"me disseram a verdade\" é trocado por \"disseram-me a verdade\".",
+   "trecho": "não se começa uma frase com pronome oblíquo primeira coisa tem que saber galera você não vai começar uma frase com pronome oblíquo",
+   "onde": 288
+  },
+  {
+   "enunciado": "Segundo a aula, o que são palavras atrativas e o que acontece quando uma delas aparece, como em \"Jamais me ajudaria\"?",
+   "alternativas": [
+    "São palavras que puxam o pronome para antes do verbo, tornando a próclise obrigatória.",
+    "São palavras que empurram o pronome para depois do verbo, tornando a ênclise obrigatória.",
+    "São palavras que permitem colocar o pronome no meio do verbo, na mesóclise.",
+    "São palavras que só aparecem no início da frase e dispensam o pronome."
+   ],
+   "certa": 0,
+   "comentario": "As palavras atrativas (negativas, pronomes indefinidos, demonstrativos e relativos, advérbios, interrogativas, conjunções subordinativas) puxam o pronome oblíquo para antes do verbo.",
+   "trecho": "palavras atrativas são palavras que puxam o pronome para antes do verbo",
+   "onde": 412
+  },
+  {
+   "enunciado": "Na aula, o advérbio aparece como palavra atrativa. Considerando isso, qual colocação está correta em \"Atualmente, algumas pessoas ... confundem\"?",
+   "alternativas": [
+    "Atualmente, algumas pessoas confundem-se ou se confundem, tanto faz.",
+    "Atualmente, algumas pessoas confundem-se (ênclise obrigatória).",
+    "Atualmente, algumas pessoas confundir-se-ão (mesóclise obrigatória).",
+    "Atualmente, algumas pessoas se confundem (próclise, por causa do advérbio)."
+   ],
+   "certa": 3,
+   "comentario": "Advérbio (como atualmente, ainda, talvez, sempre) é palavra atrativa e puxa o pronome para antes do verbo: próclise obrigatória.",
+   "trecho": "o advérbio galera o advérbio ele puxa o verbo é uma palavra atrativa próclise obrigatória",
+   "onde": 570
+  }
+ ],
+ "https://www.unifal-mg.edu.br/petletras/wp-content/uploads/sites/30/2018/10/Minicurso-%E2%80%9CPronomes-Cl%C3%ADticos%E2%80%9D.pdf": [
+  {
+   "enunciado": "Segundo o minicurso, o que é um pronome clítico?",
+   "alternativas": [
+    "Pronome relativo que atrai o verbo para depois de si.",
+    "Pronome pessoal reto e tônico, que tem acento próprio e funciona como sujeito.",
+    "Pronome pessoal de uma só sílaba, sem acentuação própria, que depende do acento da palavra vizinha, geralmente um verbo.",
+    "Qualquer pronome de duas ou mais sílabas que acompanha um substantivo."
+   ],
+   "certa": 2,
+   "comentario": "O material define clítico como pronome pessoal de uma só sílaba (o, me, lo, lhe, se) que não tem acento próprio e se apoia no verbo antes ou depois dele.",
+   "trecho": "pronome pessoal de uma só sílaba (como o, me, lo, lhe, se) que não tem acentuação própria e que por isso depende do acento da palavra que está imediatamente antes ou depois",
+   "onde": 1
+  },
+  {
+   "enunciado": "Segundo o minicurso, como o advérbio interfere na colocação do pronome em \"Talvez a jovem se decida ainda hoje\"?",
+   "alternativas": [
+    "O advérbio só atrai o pronome se a frase for exclamativa.",
+    "O advérbio sempre obriga a ênclise, com ou sem vírgula.",
+    "O advérbio atrai o pronome (próclise), exceto quando há vírgula depois do advérbio, pois então ele deixa de atrair.",
+    "O advérbio nunca interfere; a colocação é livre."
+   ],
+   "certa": 2,
+   "comentario": "A regra do material: verbos antecedidos por advérbio levam próclise, a não ser que haja vírgula depois do advérbio, que então deixa de atrair o pronome.",
+   "trecho": "Verbos antecedidos por advérbios ou expressões adverbiais, exceto quando haja vírgula depois do advérbio, uma vez que dessa forma o advérbio deixa de atrair o pronome",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo o minicurso, em quais verbos se pode usar a mesóclise, como em \"Orgulhar-me-ei dos meus alunos\"?",
+   "alternativas": [
+    "Apenas nos verbos do futuro do presente ou do futuro do pretérito.",
+    "Em qualquer verbo no pretérito perfeito.",
+    "Somente nos verbos no imperativo afirmativo.",
+    "Em verbos no particípio, junto ao auxiliar."
+   ],
+   "certa": 0,
+   "comentario": "O material afirma que a mesóclise é utilizada apenas com os verbos do futuro do presente ou do futuro do pretérito.",
+   "trecho": "A mesóclise é utilizada apenas com os verbos do futuro do presente ou do futuro do pretérito",
+   "onde": 4
+  },
+  {
+   "enunciado": "Pelo minicurso, como fica o pronome \"o\" depois de uma forma verbal terminada em -r, como em \"chamar + o\"?",
+   "alternativas": [
+    "O pronome some e fica só o verbo: chamar.",
+    "Mantém-se o -r e o pronome continua \"o\": chamaro.",
+    "O pronome vira \"no\": chamarno.",
+    "Perde-se o -r e o pronome vira \"lo\": chamá-lo."
+   ],
+   "certa": 3,
+   "comentario": "Se a forma verbal terminar em -r, -s ou -z, suprimem-se essas consoantes e o pronome assume as formas lo, la, los, las.",
+   "trecho": "Se a forma verbal terminar em -r, -s, ou -z, suprimem-se estas consoantes, e o pronome assume as modalidades lo, la, los, las",
+   "onde": 4
+  },
+  {
+   "enunciado": "De acordo com a seção sobre a colocação dos pronomes átonos no Brasil, o que é possível no uso brasileiro, segundo o minicurso?",
+   "alternativas": [
+    "Colocar pronome átono apenas depois do verbo.",
+    "Iniciar frases com pronomes átonos, especialmente a forma \"me\", como em \"Me desculpe se falei demais\".",
+    "Usar a mesóclise em qualquer tempo verbal.",
+    "Eliminar o pronome átono de todas as locuções verbais."
+   ],
+   "certa": 1,
+   "comentario": "A seção sobre o Brasil lista, em primeiro lugar, a possibilidade de iniciar frases com pronomes átonos, especialmente \"me\".",
+   "trecho": "possibilidade de se iniciarem frases com pronomes átonos, especialmente a forma me",
+   "onde": 5
+  }
+ ],
+ "https://www.preparaenem.com/portugues/coesao-textual.htm": [
+  {
+   "enunciado": "Segundo o texto, o que é a coesão textual?",
+   "alternativas": [
+    "Um recurso linguístico que costura e une as partes de um texto, formando um todo coeso.",
+    "A articulação das ideias e do sentido do texto, independentemente das palavras usadas.",
+    "A adequação do texto ao nível de linguagem do leitor.",
+    "A repetição das mesmas palavras ao longo do texto para reforçar o tema."
+   ],
+   "certa": 0,
+   "comentario": "O texto define a coesão como o recurso linguístico responsável por costurar, amarrar e unir as partes de um texto.",
+   "trecho": "A coesão textual é entendida como um recurso linguístico responsável por costurar, amarrar e unir as partes de um texto, formando um todo denominado coeso"
+  },
+  {
+   "enunciado": "Segundo o texto, a coesão pode funcionar de duas formas. Quais são elas?",
+   "alternativas": [
+    "Coesão oral (fala) e coesão escrita (texto).",
+    "Coesão lógica (sentido das ideias) e coesão gramatical (concordância).",
+    "Coesão formal (norma culta) e coesão informal (linguagem coloquial).",
+    "Coesão sequencial (elementos que dão sequência) e coesão referencial (palavras que retomam termos anteriores)."
+   ],
+   "certa": 3,
+   "comentario": "O texto diz que a coesão funciona por elementos que dão sequência (sequencial) ou por palavras que retomam termos anteriores (referencial).",
+   "trecho": "Ela pode funcionar de duas formas: por meio de elementos que dão sequência, isto é, a coesão sequencial"
+  },
+  {
+   "enunciado": "Segundo o texto, para que serve principalmente a coesão referencial, em que um elemento faz referência a outro?",
+   "alternativas": [
+    "Indicar causa, finalidade ou condição entre as ideias do texto.",
+    "Evitar repetições excessivas no texto, retomando termos por pronomes, advérbios, elipse etc.",
+    "Verificar se o texto é coerente com o mundo real.",
+    "Marcar a mudança de assunto entre os parágrafos."
+   ],
+   "certa": 1,
+   "comentario": "A coesão referencial é quando um elemento remete a outro, recurso muito usado para evitar repetições excessivas (por exemplo, o pronome \"ele\" retomando \"João\").",
+   "trecho": "É quando um elemento refere-se/faz referência a outro. Esse recurso é muito utilizado em textos a fim de evitar repetições excessivas"
+  },
+  {
+   "enunciado": "Segundo o texto, quais classes de palavras são consideradas elementos de coesão?",
+   "alternativas": [
+    "Somente as conjunções coordenativas.",
+    "Substantivos, adjetivos, verbos e numerais.",
+    "Preposições, conjunções, advérbios e locuções adverbiais.",
+    "Interjeições e onomatopeias."
+   ],
+   "certa": 2,
+   "comentario": "O texto lista preposições, conjunções, advérbios e locuções adverbiais como as classes que funcionam como elementos coesivos.",
+   "trecho": "Entre as classes compreendidas como elementos de coesão, temos as preposições, as conjunções, os advérbios e as locuções adverbiais"
+  },
+  {
+   "enunciado": "Segundo o texto, qual é a diferença entre coesão e coerência?",
+   "alternativas": [
+    "As duas são a mesma coisa e sempre aparecem juntas.",
+    "A coesão trata das ideias e do sentido; a coerência trata das conjunções e da estrutura da frase.",
+    "A coesão liga-se à parte estrutural do texto; a coerência refere-se à articulação e compreensão das ideias.",
+    "A coesão só existe na fala; a coerência, só na escrita."
+   ],
+   "certa": 2,
+   "comentario": "O texto resume: a coesão está ligada à parte estrutural, enquanto a coerência refere-se à articulação e compreensão das ideias; ambas são independentes.",
+   "trecho": "enquanto a coesão está ligada à parte estrutural, a coerência refere-se à articulação e compreensão das ideias"
+  }
+ ],
+ "https://www.youtube.com/watch?v=jMJyKzfRtQ4": [
+  {
+   "enunciado": "Segundo a professora, o que caracteriza o discurso direto?",
+   "alternativas": [
+    "O narrador reproduz a fala da personagem com as próprias palavras, sem pontuação de fala.",
+    "O narrador cede voz à personagem e transcreve as palavras que ela usou, normalmente com verbo elocutivo e marcação de pontuação.",
+    "A fala da personagem se mistura ao pensamento do narrador, sem marcação.",
+    "O texto apresenta apenas o pensamento do narrador, sem nenhuma personagem falando."
+   ],
+   "certa": 1,
+   "comentario": "No discurso direto o narrador coloca as palavras que a própria personagem usou, como uma transcrição íntegra, geralmente com verbo elocutivo (disse, gritou) e dois-pontos, aspas ou travessão.",
+   "trecho": "as palavras que a própria personagem usou. É como se fosse a transcrição na íntegra do que o personagem falou",
+   "onde": 155
+  },
+  {
+   "enunciado": "Na aula, compare \"A criança diz: \\\"Mamãe, estou com fome\\\"\" com \"A criança disse que estava com fome\". O que diferencia o segundo exemplo, segundo a professora?",
+   "alternativas": [
+    "É discurso indireto livre, porque não há aspas.",
+    "É discurso direto, porque há um verbo elocutivo (disse).",
+    "É discurso indireto: a fala da personagem é parafraseada pelo narrador, com as palavras dele.",
+    "É discurso direto, pois a criança continua falando em primeira pessoa."
+   ],
+   "certa": 2,
+   "comentario": "No indireto a fala da personagem é parafraseada pelo narrador; no direto são as palavras da própria personagem.",
+   "trecho": "No discurso indireto, nós temos, observe bem, a fala da personagem parafraseada pelo narrador",
+   "onde": 219
+  },
+  {
+   "enunciado": "Segundo a professora, o que acontece no discurso indireto livre?",
+   "alternativas": [
+    "A fala da personagem vem entre aspas, ligada ao narrador por conjunção.",
+    "O narrador reproduz a fala com travessão e dois-pontos, introduzida por verbo elocutivo.",
+    "A fala da personagem se insere no meio do discurso do narrador, dando a impressão de ser pensamento dele, sem marcação de pontuação.",
+    "O narrador reproduz a fala com conectivo \"que\", sem confundir com a personagem."
+   ],
+   "certa": 2,
+   "comentario": "No indireto livre há confusão entre a fala da personagem e o pensamento do narrador, sem marcação de discurso direto.",
+   "trecho": "No discurso indireto livre, a fala da personagem se insere no meio do discurso do narrador, dando a impressão de que se trata do pensamento dele",
+   "onde": 281
+  },
+  {
+   "enunciado": "A professora transpõe para o discurso indireto a frase \"Amanhã estarei saindo daqui com a minha irmã\". Qual é a forma correta que ela marca?",
+   "alternativas": [
+    "Ele disse que no dia seguinte estaria saindo de lá com sua irmã.",
+    "Ele disse que amanhã estará saindo de lá com sua irmã.",
+    "Ele disse que amanhã estaria saindo daqui com a minha irmã.",
+    "Ele diz que no dia seguinte estará saindo de lá com sua irmã."
+   ],
+   "certa": 0,
+   "comentario": "Na transposição, o verbo elocutivo vai ao passado e o tempo verbal combina com ele (futuro do pretérito), e \"amanhã\" passa a \"no dia seguinte\".",
+   "trecho": "Então, ele disse que no dia seguinte estaria saindo de lá com sua irmã",
+   "onde": 956
+  },
+  {
+   "enunciado": "Na questão 7, \"Os resultados preliminares indicam...\" é transposto para o indireto depois de \"disseram\". Que tempo a professora escolhe para o verbo \"indicam\", e por quê?",
+   "alternativas": [
+    "Futuro do presente (indicarão), porque o resultado ainda virá.",
+    "Pretérito perfeito (indicaram), porque o fato já foi concluído.",
+    "Presente do subjuntivo (indiquem), porque indica dúvida.",
+    "Pretérito imperfeito (indicavam), porque o presente indica ação habitual e o imperfeito é o passado habitual."
+   ],
+   "certa": 3,
+   "comentario": "A professora argumenta que o presente indica ação habitual e que o passado correspondente é o pretérito imperfeito, que enfatiza o hábito e a duração.",
+   "trecho": "Qual é o passado habitual? É o perfeito ou imperfeito? É o passado imperfeito",
+   "onde": 1234
+  }
+ ],
+ "https://concursos.estrategia.com/portal/reescritura-de-frases-desvendando-questoes-cebraspe/": [
+  {
+   "enunciado": "Segundo o artigo, o que as questões de reescritura de frases da Cebraspe podem pedir para analisar?",
+   "alternativas": [
+    "A beleza do estilo e o vocabulário do autor.",
+    "Apenas a ortografia e a acentuação das palavras trocadas.",
+    "Somente a quantidade de palavras da frase reescrita.",
+    "A manutenção da correção gramatical, a manutenção do sentido original do texto e a coerência."
+   ],
+   "certa": 3,
+   "comentario": "O artigo diz que há questões sobre correção gramatical, outras sobre sentido original e outras sobre coerência, e que muitas combinam dois desses tópicos.",
+   "trecho": "Há questões que pedem para que seja analisada a manutenção da correção gramatical; outras pedem para que se analise a manutenção do sentido original do texto; e há ainda aquelas que pedem para analisar a coerência"
+  },
+  {
+   "enunciado": "No exemplo do artigo, \"Os alunos estudaram e não jogaram bola\" vira \"Os alunos estudaram, mas não jogaram bola\" (de adição para oposição). O que o artigo conclui?",
+   "alternativas": [
+    "Não houve mudança de sentido, só de pontuação.",
+    "Houve mudança de sentido, mas o texto continua coerente.",
+    "Houve quebra de coerência, e por isso o texto ficou errado.",
+    "Houve erro gramatical, pois \"mas\" exige outro verbo."
+   ],
+   "certa": 1,
+   "comentario": "O artigo afirma que mudança de sentido não resulta necessariamente em texto incoerente: sentido e coerência não são sinônimos.",
+   "trecho": "Mudança de sentido não resulta necessariamente em um texto incoerente; pode haver mudança de sentido e o texto continuar coerente"
+  },
+  {
+   "enunciado": "Em questões que pedem a análise do sentido, o artigo manda ficar atento a quatro pontos. Qual deles trata de tempo e modo verbais?",
+   "alternativas": [
+    "Mudar o tempo e o modo só importa quando há conectivos.",
+    "Mudar o tempo e o modo nunca altera o sentido, só a correção gramatical.",
+    "Mudar o tempo e o modo geralmente altera o sentido original.",
+    "Mudar o tempo e o modo é sempre erro de concordância."
+   ],
+   "certa": 2,
+   "comentario": "O artigo lista, entre os pontos de atenção, que a mudança de tempo e modo verbais geralmente altera o sentido original.",
+   "trecho": "tempo e modo verbais (mudança de tempo e modo geralmente altera o sentido original)"
+  },
+  {
+   "enunciado": "Segundo o artigo, o que acontece ao trocar uma oração adjetiva restritiva por uma explicativa (ou o contrário) numa reescritura?",
+   "alternativas": [
+    "Nada muda, pois as duas têm o mesmo valor.",
+    "O sentido se mantém, mas a correção gramatical se perde.",
+    "O sentido é alterado, mas normalmente a correção gramatical se mantém.",
+    "O texto sempre passa a ser incoerente."
+   ],
+   "certa": 2,
+   "comentario": "O artigo diz que mudar de restritiva para explicativa altera o sentido, mas normalmente mantém a correção gramatical.",
+   "trecho": "mudança de uma restritiva para uma explicativa (ou vice-versa) altera o sentido, mas normalmente mantém a correção gramatical"
+  },
+  {
+   "enunciado": "Segundo o artigo, o que é coerência? Qual frase seria incoerente?",
+   "alternativas": [
+    "A relação lógica entre as ideias e a compatibilidade com a realidade; \"Comprei um carro caro porque estava com pouco dinheiro\" é incoerente.",
+    "A escolha correta de conectivos; \"Comprei um carro caro, mas estava com pouco dinheiro\" é incoerente.",
+    "A concordância entre sujeito e verbo; \"Os alunos estudou\" é incoerente.",
+    "O uso de sinônimos; \"Comprei um carro caro e dispendioso\" é incoerente."
+   ],
+   "certa": 0,
+   "comentario": "Para o artigo, coerência é a relação lógica entre as ideias e a compatibilidade das informações com a realidade; quem tem pouco dinheiro não compra um carro caro.",
+   "trecho": "a coerência é a relação LÓGICA entre as ideias veiculadas no texto e também a compatibilidade das informações do texto com a própria realidade"
+  }
+ ],
+ "https://www.youtube.com/watch?v=MavYAYVFG1Y": [
+  {
+   "enunciado": "Segundo a aula, o que são palavras sinônimas? Qual par é exemplo dado no vídeo?",
+   "alternativas": [
+    "Palavras de significados opostos, como feliz e triste.",
+    "Palavras de significados semelhantes, como feliz e alegre.",
+    "Palavras de mesma grafia e sentidos diferentes, como almoço (refeição) e almoço (verbo).",
+    "Palavras parecidas, mas diferentes, como retificar e ratificar."
+   ],
+   "certa": 1,
+   "comentario": "A aula define sinônimos como palavras que apresentam significados semelhantes e dá o exemplo de feliz e alegre.",
+   "trecho": "palavras que apresentam significados semelhantes ou seja tem mesmo sem sentido",
+   "onde": 39
+  },
+  {
+   "enunciado": "Segundo a aula, quando duas palavras são antônimas?",
+   "alternativas": [
+    "Quando têm sentido mais abrangente que outras palavras.",
+    "Quando têm o mesmo som e grafias diferentes.",
+    "Quando têm sentidos contrários, como feliz e triste ou resistente e frágil.",
+    "Quando são escritas de forma parecida, mas com sentidos diferentes."
+   ],
+   "certa": 2,
+   "comentario": "A aula diz que, quando as palavras estão em sentidos contrários, são antônimas (feliz/triste, longe/perto, resistente/frágil).",
+   "trecho": "quando ela tiver em sentidos contrários aí nós teremos duas",
+   "onde": 72
+  },
+  {
+   "enunciado": "Segundo a aula, concerto (música) e conserto (reparo) são que tipo de palavras?",
+   "alternativas": [
+    "Parônimas: não têm nada igual, apenas parecem.",
+    "Homônimas homógrafas: têm a mesma grafia e sons diferentes.",
+    "Homônimas homófonas e heterográficas: têm o mesmo som e grafias diferentes.",
+    "Sinônimas: têm significados semelhantes."
+   ],
+   "certa": 2,
+   "comentario": "A aula apresenta os homófonos heterográficos como palavras que têm o mesmo som e grafias diferentes, e usa concerto e conserto como exemplo.",
+   "trecho": "segundo tipo dos homônimos Quem são eles são os homófonos heterográficos professor já entende como anos tem o mesmo som",
+   "onde": 261
+  },
+  {
+   "enunciado": "Segundo a aula, o que são palavras parônimas, como retificar e ratificar?",
+   "alternativas": [
+    "Palavras que não têm nada igual, apenas são parecidas na escrita ou no som, com sentidos diferentes.",
+    "Palavras com a mesma grafia e o mesmo som, mas sentidos diferentes.",
+    "Palavras com o mesmo som e grafias diferentes.",
+    "Palavras com sentidos contrários."
+   ],
+   "certa": 0,
+   "comentario": "A aula explica que nos parônimos não há nada igual, só semelhança (retificar = tornar reto; ratificar = confirmar).",
+   "trecho": "os dois são parônimos já disse o repetir não tem nada igual é apenas parecido",
+   "onde": 450
+  },
+  {
+   "enunciado": "Segundo a aula, qual é a relação entre \"animal\" e \"cachorro\" ou \"cavalo\"?",
+   "alternativas": [
+    "Animal e cachorro são parônimos.",
+    "Animal é hipônimo; cachorro e cavalo são hiperônimos.",
+    "Animal e cachorro são sinônimos.",
+    "Animal é hiperônimo, palavra de sentido mais geral; cachorro e cavalo são hipônimos."
+   ],
+   "certa": 3,
+   "comentario": "O hiperônimo é a palavra de sentido mais abrangente (animal), que designa diversos elementos específicos (cavalo, gato, papagaio), os hipônimos.",
+   "trecho": "olha os exemplos animal é hiperonimo de cachorro e cavalo é isso porque porque animal designa diversos elemento",
+   "onde": 700
+  }
+ ],
+ "https://www.unifal-mg.edu.br/letrasparatodos/wp-content/uploads/sites/259/2024/07/Semantica_Edvando_Sa.pdf": [
+  {
+   "enunciado": "Segundo a apostila, o que estuda a semântica?",
+   "alternativas": [
+    "O significado das palavras e das frases.",
+    "A pronúncia e a grafia das palavras.",
+    "A estrutura das orações e a ordem dos termos.",
+    "A origem histórica das palavras."
+   ],
+   "certa": 0,
+   "comentario": "A apostila abre dizendo que a semântica é o ramo da linguística que estuda o significado das palavras e das frases.",
+   "trecho": "A semântica é o ramo da linguística que estuda o significado das palavras e das frases",
+   "onde": 1
+  },
+  {
+   "enunciado": "Na apostila, \"cumprimento\" (saudar) e \"comprimento\" (dimensão) ilustram qual relação?",
+   "alternativas": [
+    "Antonímia: significados opostos.",
+    "Homonímia perfeita: mesma pronúncia e mesma grafia.",
+    "Sinonímia: mesma ideia de significado.",
+    "Paronímia: palavras diferentes, mas parecidas na escrita ou na fala."
+   ],
+   "certa": 3,
+   "comentario": "A apostila define paronímia como palavras diferentes, mas parecidas, e usa cumprimento/comprimento como exemplo.",
+   "trecho": "Palavras diferentes, mas parecidas na escrita ou na fala",
+   "onde": 2
+  },
+  {
+   "enunciado": "A frase \"Eu peguei o ônibus correndo\" é usada na apostila como exemplo de quê?",
+   "alternativas": [
+    "Denotação: a frase está no sentido literal.",
+    "Ambiguidade: a frase tem duas ou mais interpretações possíveis.",
+    "Hiperonímia: uma palavra engloba outras.",
+    "Antonímia: há palavras de significados opostos."
+   ],
+   "certa": 1,
+   "comentario": "Não fica claro quem corria (o ônibus, a pessoa ou ambos); por isso a apostila a apresenta como exemplo de ambiguidade.",
+   "trecho": "Quando a frase não está clara devido a duas ou mais interpretações",
+   "onde": 2
+  },
+  {
+   "enunciado": "Segundo a apostila, em \"Joãozinho é um cão chupando manga\", que quer dizer que a pessoa é complicada ou difícil, qual o conceito aplicado?",
+   "alternativas": [
+    "Paronímia: palavras parecidas com sentidos diferentes.",
+    "Denotação: a sentença está em seu sentido literal.",
+    "Conotação: a palavra ou sentença não está em seu sentido literal.",
+    "Hiponímia: uma palavra mais específica dentro de um grupo."
+   ],
+   "certa": 2,
+   "comentario": "A apostila define conotação como o uso fora do sentido literal, e explica que \"cão chupando manga\" é figurado, enquanto \"foi ao hospital\" é denotação.",
+   "trecho": "Quando a palavra ou sentença não está em seu sentido literal",
+   "onde": 3
+  },
+  {
+   "enunciado": "Segundo a apostila, o que diferencia hipônimo de hiperônimo? Qual exemplo está correto?",
+   "alternativas": [
+    "Hipônimo e hiperônimo são palavras de significado igual.",
+    "Hipônimo cobre conceito mais amplo, e hiperônimo é mais específico: animal é hipônimo de cachorro.",
+    "Hipônimo tem significado mais detalhado, e hiperônimo cobre conceito mais amplo: cachorro é hipônimo de animal.",
+    "Hipônimo é palavra com sentido literal, e hiperônimo, com sentido figurado."
+   ],
+   "certa": 2,
+   "comentario": "A apostila diz que o hipônimo tem significado mais detalhado e o hiperônimo é o termo mais amplo; assim, animal é hiperônimo e cachorro, hipônimo.",
+   "trecho": "O termo hipônimo se refere à palavra que tem um significado mais detalhado, enquanto hiperônimo é a palavra que cobre um conceito mais amplo",
+   "onde": 3
+  }
+ ],
+ "https://www.youtube.com/watch?v=jfkqf12UBiI": [
+  {
+   "enunciado": "Segundo a aula, o que é a estilística?",
+   "alternativas": [
+    "A parte da gramática que estuda o significado das palavras.",
+    "A parte da gramática que se preocupa com o estilo da linguagem, usada para fins estéticos e emotivos.",
+    "A parte da gramática que estuda a estrutura das frases e a ordem dos termos.",
+    "A parte da linguística que descreve os textos técnicos e científicos."
+   ],
+   "certa": 1,
+   "comentario": "A professora diz que a estilística é a última parte da gramática, ligada ao estilo da linguagem; textos técnicos, como a descrição do coração, não têm a ver com ela.",
+   "trecho": "então a estilística pessoal é a parte parte da gramática que se preocupa aí com o estilo da linguagem",
+   "onde": 43
+  },
+  {
+   "enunciado": "Em \"Eu sou como um cristal bonito\", qual é a figura de linguagem, segundo a aula?",
+   "alternativas": [
+    "Metonímia, pois troca o autor pela obra.",
+    "Metáfora, pois compara sem usar nexo comparativo.",
+    "Comparação, que estabelece relação de semelhança entre dois seres ou fatos, com nexo comparativo (como).",
+    "Personificação, pois dá qualidades humanas a seres inanimados."
+   ],
+   "certa": 2,
+   "comentario": "A comparação é reconhecida pela presença de nexos comparativos (como, semelhante a, igual a, que nem), como no exemplo \"eu sou como um cristal bonito\".",
+   "trecho": "ela vai estabelecer entre dois seres ou fatos uma relação de semelhança de comparação",
+   "onde": 321
+  },
+  {
+   "enunciado": "Na aula, qual é a diferença entre comparação e metáfora em \"O mundo é um moinho\"?",
+   "alternativas": [
+    "É metonímia, pois troca a parte pelo todo.",
+    "É comparação, pois mundo e moinho são relacionados.",
+    "É metáfora: a relação de semelhança é feita mentalmente, sem os nexos comparativos.",
+    "É personificação, pois o mundo ganha ações humanas."
+   ],
+   "certa": 2,
+   "comentario": "A professora ensina que a comparação traz nexo comparativo (como, semelhante a) e a metáfora aparece sem eles.",
+   "trecho": "a metáfora ela vai aparecer sem os nexos então apareceu sem os nexos",
+   "onde": 443
+  },
+  {
+   "enunciado": "Em \"Eu leio Drummond\" (querendo dizer \"leio o livro do Drummond\"), qual figura de linguagem a aula identifica?",
+   "alternativas": [
+    "Metonímia, porque se troca a obra pelo autor, termos de estreita afinidade.",
+    "Metáfora, porque se compara o livro a uma pessoa.",
+    "Comparação, porque se relaciona o autor ao leitor.",
+    "Personificação, porque o autor ganha vida."
+   ],
+   "certa": 0,
+   "comentario": "A metonímia consiste em empregar um termo no lugar de outro com estreita afinidade de sentido; um dos casos é trocar o autor pela obra.",
+   "trecho": "consiste em empregar um termo no lugar do outro tá é um termo agora vou empregar um termo no lugar do outro porém havendo entre ambos Estreita afinidade ou relação de sentido",
+   "onde": 662
+  },
+  {
+   "enunciado": "Segundo a aula, em \"O rio caminha para o sul\" e \"A caneta escrevia\", qual é a figura de linguagem?",
+   "alternativas": [
+    "Metáfora, que compara sem nexo, sem atribuir ação humana.",
+    "Metonímia, que troca a causa pelo efeito.",
+    "Comparação, que usa nexo comparativo.",
+    "Personificação (prosopopeia), que atribui ações ou qualidades de seres animados a seres inanimados."
+   ],
+   "certa": 3,
+   "comentario": "A aula define a prosopopeia como atribuir ações ou qualidades de pessoas a seres inanimados: o rio não caminha, a caneta não escreve.",
+   "trecho": "atribui ações ou qualidades de seres animados né de pessoas a seres inanimados que não fazem nada disso",
+   "onde": 884
+  }
+ ],
+ "https://cursinho.ufms.br/files/2013/03/2.-Figuras-de-linguagem.pdf": [
+  {
+   "enunciado": "Segundo os slides, o que caracteriza as figuras de som (como aliteração, assonância e onomatopeia)?",
+   "alternativas": [
+    "A sonoridade das palavras e das sílabas cria sentidos e expressões diversas.",
+    "O empréstimo de palavras com o significado de outra, por semelhança.",
+    "A alteração da construção sintática da norma culta.",
+    "O uso do significado das palavras para causar impacto no receptor."
+   ],
+   "certa": 0,
+   "comentario": "Nos slides de classificação, figuras de som são as que usam a sonoridade de palavras e sílabas para criar sentidos.",
+   "trecho": "A sonoridade das palavras e sílabas criam sentidos e expressões diversas",
+   "onde": 2
+  },
+  {
+   "enunciado": "Nos slides, como a metáfora é definida?",
+   "alternativas": [
+    "Exagero explícito de uma ideia.",
+    "Ligação do significado de dois elementos com termos comparativos como \"como\" e \"que nem\".",
+    "Substituição de um termo por outro por relação real entre os dois.",
+    "Substituição de um termo por outro por semelhança subentendida entre os dois, por meio de uma comparação implícita."
+   ],
+   "certa": 3,
+   "comentario": "Os slides diferenciam a metáfora (comparação implícita) da comparação (com termos comparativos) e da metonímia (relação real).",
+   "trecho": "Substituição de um termo por outro devido a uma semelhança subentendida entre os dois, por meio de uma comparação implícita",
+   "onde": 7
+  },
+  {
+   "enunciado": "Segundo os slides, o que é a catacrese? Qual conjunto de expressões a exemplifica?",
+   "alternativas": [
+    "Exagero explícito de uma ideia: morrer de rir, chorar rios.",
+    "Metáforas que já se tornaram habituais: pé da mesa, cabeça de alho, céu da boca.",
+    "Palavras para amenizar algo desagradável: partiu dessa para a melhor.",
+    "Repetição de uma mesma ideia: subir para cima, ver com os olhos."
+   ],
+   "certa": 1,
+   "comentario": "A catacrese é a metáfora que se tornou habitual, a ponto de passar despercebida (pé da mesa, cabeça de alho).",
+   "trecho": "Metáforas que já se tornaram habituais. Pé da mesa, cabeça de alho, céu da boca",
+   "onde": 14
+  },
+  {
+   "enunciado": "Nos slides, \"É ferida que dói e não se sente. É um contentamento descontente\", de Camões, ilustra qual figura?",
+   "alternativas": [
+    "Eufemismo: emprego de palavra para amenizar algo penoso.",
+    "Antítese: aproximação de palavras ou expressões com significados opostos, em termos distintos.",
+    "Paradoxo: fusão de dois termos ou expressões excludentes relacionando-se ao mesmo termo.",
+    "Ironia: as palavras e o sentido que querem expressar se contradizem."
+   ],
+   "certa": 2,
+   "comentario": "Os slides trazem esse trecho como exemplo de paradoxo, em que termos excludentes (dói e não se sente) se relacionam ao mesmo termo.",
+   "trecho": "Fusão de dois termos ou expressões excludentes relacionando-se ao mesmo termo",
+   "onde": 26
+  },
+  {
+   "enunciado": "Segundo os slides, o que é o assíndeto?",
+   "alternativas": [
+    "Omissão de um termo facilmente identificável.",
+    "Repetição proposital e enfática de conjunções.",
+    "Sequência de termos separados por vírgulas, em que os possíveis conectivos são substituídos por elas.",
+    "Repetição de uma mesma ideia, redundância."
+   ],
+   "certa": 2,
+   "comentario": "O assíndeto é a ausência dos conectivos, trocados por vírgulas (\"partir, guerrear, sofrer, vencer\"); o oposto é o polissíndeto, que repete conjunções.",
+   "trecho": "Ocorre quando há uma sequência de termos separados por vírgulas, e inclusive os possíveis conectivos são substituídos por ela",
+   "onde": 37
+  }
+ ],
+ "https://www.youtube.com/watch?v=HvSpjLb5b3c": [
+  {
+   "enunciado": "Segundo o vídeo, que mudança de olhar a linguística moderna propõe no lugar de \"certo versus errado\"?",
+   "alternativas": [
+    "Pensar em formal versus informal, abolindo a norma padrão.",
+    "Pensar em adequado versus inadequado, já que o objetivo da língua é comunicar.",
+    "Pensar em antigo versus moderno, valorizando só o uso atual.",
+    "Pensar em culto versus inculto, avaliando o falante."
+   ],
+   "certa": 1,
+   "comentario": "O vídeo diz que a proposta é parar com a obsessão de certo e errado e começar a pensar em adequado e inadequado, porque a língua serve para a mensagem chegar ao outro lado.",
+   "trecho": "A proposta é parar com essa obsessão de certo versus errado e começar a pensar em adequado versus inadequado",
+   "onde": 93
+  },
+  {
+   "enunciado": "Segundo o vídeo, quais fatores se levam em conta para medir a adequação de uma fala?",
+   "alternativas": [
+    "Apenas a região onde a pessoa nasceu e a idade.",
+    "Apenas a obediência à gramática normativa e a correção ortográfica.",
+    "Com quem se fala, onde, sobre o quê, o nível de intimidade e a intenção de quem fala.",
+    "Apenas o vocabulário e o tamanho das frases."
+   ],
+   "certa": 2,
+   "comentario": "O vídeo lista interlocutor, lugar, assunto, intimidade e, talvez o mais importante, a intenção; uma gíria perfeita com amigos pode ser desastrosa numa entrevista de emprego.",
+   "trecho": "a gente leva em conta alguns fatores, tipo com quem estamos falando, onde, sobre o quê, qual é o nosso nível de intimidade com a pessoa e talvez o mais importante, qual é a nossa intenção",
+   "onde": 123
+  },
+  {
+   "enunciado": "De acordo com o vídeo, o que é a norma padrão?",
+   "alternativas": [
+    "A língua falada nas ruas, cheia de gírias e regionalismos.",
+    "A variedade que as pessoas de alta escolaridade realmente usam em situações formais.",
+    "Um ideal, um modelo abstrato baseado em textos literários antigos, que existe mais na teoria.",
+    "A língua de textos de jornais e revistas atuais."
+   ],
+   "certa": 2,
+   "comentario": "O vídeo descreve a norma padrão como espécie de ideal, modelo abstrato do que as gramáticas tradicionais ensinam; ninguém fala assim o tempo todo.",
+   "trecho": "Pensa nela como uma espécie de ideal, um modelo abstrato que foi baseado lá em textos literários antigos",
+   "onde": 153
+  },
+  {
+   "enunciado": "Qual é a diferença entre norma padrão e norma culta, segundo o vídeo?",
+   "alternativas": [
+    "A padrão é prescritiva (dita regras de um modelo idealizado antigo); a culta é descritiva (descreve o uso real e dinâmico).",
+    "A padrão é descritiva e a culta é prescritiva.",
+    "As duas são prescritivas, mas a culta é mais antiga.",
+    "As duas são descritivas, mas a padrão é só escrita."
+   ],
+   "certa": 0,
+   "comentario": "O vídeo resume: a norma padrão olha para o passado e prescreve; a norma culta olha para o presente e descreve o uso real.",
+   "trecho": "A norma padrão é prescritiva, ou seja, ela dita regras com base num modelo idealizado antigo. Já a norma culta é descritiva",
+   "onde": 183
+  },
+  {
+   "enunciado": "Segundo o vídeo, entender que o certo depende do contexto ajuda a combater qual problema?",
+   "alternativas": [
+    "O uso da norma culta em textos profissionais.",
+    "O uso de gírias e regionalismos em qualquer situação.",
+    "O ensino de gramática nas escolas.",
+    "O preconceito linguístico, a ideia errada de que existe um jeito superior de falar."
+   ],
+   "certa": 3,
+   "comentario": "O vídeo conclui que ver a língua como ferramenta viva e entender o contexto ajuda a combater o preconceito linguístico.",
+   "trecho": "ajuda a gente a combater o preconceito linguístico, aquela ideia errada de que existe um jeito superior de falar",
+   "onde": 306
+  }
+ ],
+ "https://www.todamateria.com.br/niveis-de-linguagem/": [
+  {
+   "enunciado": "Segundo o texto, o que são os níveis de linguagem?",
+   "alternativas": [
+    "Os registros da linguagem usados pelos falantes, determinados por vários fatores, como situação, escolarização e interlocutores.",
+    "As etapas de aprendizado da gramática ao longo da escola.",
+    "Os tipos de texto: narrativo, descritivo e dissertativo.",
+    "As regiões do país onde cada variedade é falada."
+   ],
+   "certa": 0,
+   "comentario": "O texto define níveis de linguagem (ou de fala) como registros usados pelos falantes, influenciados por situação, escolaridade e interlocutores; os principais são o culto e o coloquial.",
+   "trecho": "Os níveis de linguagem, ou níveis de fala, são os registros da linguagem utilizados pelos falantes, os quais são determinados por vários fatores de influência"
+  },
+  {
+   "enunciado": "Segundo o texto, qual é a característica da linguagem culta?",
+   "alternativas": [
+    "É aquela usada apenas na fala, nunca na escrita.",
+    "É a informal, com preocupação menor com as regras e com as palavras.",
+    "É aquela que surge só entre grupos de jovens, surfistas ou policiais.",
+    "É a formal, em que se fala de acordo com as regras gramaticais, também chamada de norma padrão, e se escolhe o vocabulário com mais cuidado."
+   ],
+   "certa": 3,
+   "comentario": "O texto define a linguagem culta como a formal, de acordo com as regras gramaticais, usada na escrita e aprendida na escola.",
+   "trecho": "A linguagem culta ou formal é aquela em que as pessoas falam de acordo com as regras gramaticais"
+  },
+  {
+   "enunciado": "De acordo com o texto, a linguagem coloquial deve ser considerada como?",
+   "alternativas": [
+    "Incorreta e própria de pessoas sem escolaridade.",
+    "Informal e não incorreta; não pode ser caracterizada como inculta, pois qualquer pessoa a usa em ambiente descontraído.",
+    "Sinônimo de linguagem vulgar.",
+    "Proibida em qualquer situação oral."
+   ],
+   "certa": 1,
+   "comentario": "O texto afirma que a linguagem informal não é incorreta e, por isso, não pode ser chamada de inculta, embora a descontração possa abrir espaço a transgressões gramaticais.",
+   "trecho": "A linguagem informal não é incorreta, motivo pelo qual ela não pode ser caracterizada como inculta"
+  },
+  {
+   "enunciado": "Segundo o texto, o que são regionalismos?",
+   "alternativas": [
+    "Mudanças da língua em função do tempo, como o português medieval e o atual.",
+    "Palavras ou frases usadas em ambientes informais por grupos como jovens ou surfistas.",
+    "Vocabulário e formas de expressão influenciados pelo local onde a língua é falada, como \"Não se avexe\" (Nordeste) e \"Não precisa ficar sem graça\" (Sul).",
+    "Erros gramaticais típicos de quem não frequentou a escola."
+   ],
+   "certa": 2,
+   "comentario": "O texto define regionalismos como vocabulário e expressões influenciados pelo local; já as gírias surgem entre grupos em ambientes informais.",
+   "trecho": "Os regionalismos consistem em vocabulário e formas de expressão que são influenciadas pelo local onde a língua é falada"
+  },
+  {
+   "enunciado": "Segundo o texto, o que são as gírias? Qual o exemplo dado?",
+   "alternativas": [
+    "Termos técnicos de uma profissão, como \"jurisprudência\".",
+    "Vocabulário típico de uma região, como \"avexe\".",
+    "Palavras ou frases usadas em ambientes informais que surgem entre grupos (jovens, surfistas, policiais), como \"date\" no lugar de \"encontro\".",
+    "Palavras da norma padrão que caíram em desuso."
+   ],
+   "certa": 2,
+   "comentario": "O texto define as gírias como palavras usadas em ambientes informais, surgidas entre grupos, e cita \"date\" como gíria dos jovens.",
+   "trecho": "As gírias consistem em palavras ou frases utilizadas em ambientes informais, e que surgem entre grupos"
+  }
+ ],
+ "https://setec.ufmt.br/ri/bitstream/1/91/3/Aspectos_Norma_Culta_2021.pdf#page=8": [
+  {
+   "enunciado": "Segundo o material da UFMT, o que NÃO se deve fazer com o ponto final ao dividir frases longas?",
+   "alternativas": [
+    "Colocar ponto final ao término de uma frase declarativa.",
+    "Colocar ponto final entre uma oração subordinada e a oração principal a que ela se vincula.",
+    "Trocar uma vírgula por ponto final quando a frase já terminou.",
+    "Iniciar com letra maiúscula a frase depois do ponto final."
+   ],
+   "certa": 1,
+   "comentario": "O material mostra que fragmentar o período separando a subordinada (\"de modo que...\", \"ficando...\") da principal com ponto final é erro.",
+   "trecho": "O que é importante você saber, neste momento, é que um ponto final não deve ser colocado entre uma oração subordinada e a oração principal a que ele se vincula",
+   "onde": 10
+  },
+  {
+   "enunciado": "Segundo o material, qual é a função dos dois-pontos?",
+   "alternativas": [
+    "Isolar informação extra, na forma de aposto ou oração intercalada.",
+    "Indicar o término de uma frase exclamativa.",
+    "Introduzir uma enumeração, explicação, citação ou diálogo.",
+    "Marcar a interrupção de uma sentença por insinuação ou ironia."
+   ],
+   "certa": 2,
+   "comentario": "O material define os dois-pontos como sinal que introduz enumeração, explicação, citação ou diálogo; a função de isolar informação extra é dos parênteses.",
+   "trecho": "Têm como função introduzir uma enumeração, explicação, citação ou diálogo",
+   "onde": 12
+  },
+  {
+   "enunciado": "Segundo o material, o que acontece quando um autor separa orações coordenadas por ponto e vírgula, deixando-as no mesmo período?",
+   "alternativas": [
+    "Ele transforma as orações em subordinadas.",
+    "Ele indica que as orações não têm relação alguma.",
+    "Ele reforça a relação de sentido entre essas orações.",
+    "Ele torna obrigatório o uso de ponto final depois de cada uma."
+   ],
+   "certa": 2,
+   "comentario": "O texto diz que o ponto e vírgula entre coordenadas no mesmo período reforça a relação de sentido entre elas.",
+   "trecho": "Quando um autor opta por separar orações coordenadas por ponto e vírgula, deixando-as no mesmo período, ele acaba reforçando a relação de sentido entre essas orações",
+   "onde": 14
+  },
+  {
+   "enunciado": "Segundo o material, qual é a regra geral sobre vírgula entre sujeito, verbo e complemento, como em \"A população exige medidas mais enérgicas\"?",
+   "alternativas": [
+    "Não devem ser separados por vírgula quando se sucedem de forma ininterrupta; só se separam se houver adjunto adverbial, vocativo ou aposto intercalado.",
+    "Devem sempre ser separados por vírgula para marcar a pausa da respiração.",
+    "Devem ser separados por vírgula sempre que o sujeito for longo.",
+    "Devem ser separados por vírgula apenas se o verbo estiver no plural."
+   ],
+   "certa": 0,
+   "comentario": "O material afirma que sujeito, verbo e complementos não se separam por vírgula quando seguidos; a vírgula entra quando há adjunto adverbial, vocativo ou aposto no meio.",
+   "trecho": "sujeito, verbo e complementos verbais não devem ser separados por vírgulas quando se sucedem de forma ininterrupta, a despeito da ordem",
+   "onde": 15
+  },
+  {
+   "enunciado": "Segundo o material, qual a diferença de sentido entre \"Os alunos desta sala que se esforçaram obtiveram sucesso\" e \"Os alunos desta sala, que se esforçaram, obtiveram sucesso\"?",
+   "alternativas": [
+    "A primeira está errada, pois a oração adjetiva sempre exige vírgulas.",
+    "Sem vírgulas, todos os alunos se esforçaram; com vírgulas, só alguns se esforçaram.",
+    "As duas têm o mesmo sentido; a vírgula é facultativa.",
+    "Sem vírgulas, só os alunos que se esforçaram obtiveram sucesso; com vírgulas, todos os alunos se esforçaram e obtiveram sucesso."
+   ],
+   "certa": 3,
+   "comentario": "O material explica que a vírgula na oração adjetiva muda o sentido: sem vírgulas ela restringe (só os que se esforçaram); com vírgulas generaliza (todos se esforçaram).",
+   "trecho": "Note que, na primeira frase, o autor disse que, entre os alunos da sala, apenas os que se esforçaram obtiveram sucesso",
+   "onde": 17
+  }
+ ]
+}

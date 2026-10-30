@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# a rotina de quem estuda é pessoal; o repositório traz a rotina.exemplo.json
+escola/rotina.json

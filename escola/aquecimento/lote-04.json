@@ -1,0 +1,716 @@
+{
+ "https://site.cfp.org.br/wp-content/uploads/2022/08/cartilha_avaliacao_psicologica-2309.pdf": {
+  "resumo": "A avaliação psicológica é um processo estruturado de investigação de fenômenos psicológicos, que usa métodos, técnicas e instrumentos para subsidiar decisões, conforme a Resolução CFP 9/2018. A decisão deve se apoiar em fontes fundamentais (testes aprovados no Satepsi, entrevistas, anamnese, observação) e pode ser complementada por fontes complementares. O laudo tem identificação, demanda, procedimento, análise e conclusão. Testes precisam de parecer favorável, têm estudos revisados a cada 15 anos, não podem ser fotocopiados, e os registros são guardados por no mínimo 5 anos.",
+  "cartoes": [
+   {
+    "frente": "Como a Resolução CFP 9/2018 define a avaliação psicológica?",
+    "verso": "Processo estruturado de investigação de fenômenos psicológicos, com métodos, técnicas e instrumentos, para fornecer informações à tomada de decisão.",
+    "trecho": "define a Avaliação Psicológica como um processo estruturado de investigação de fenômenos psicológicos, composto de métodos, técnicas e instrumentos",
+    "onde": 10
+   },
+   {
+    "frente": "Quais são as fontes fundamentais de informação na avaliação psicológica?",
+    "verso": "Testes psicológicos aprovados pelo CFP, entrevistas psicológicas e anamnese, e protocolos ou registros de observação de comportamentos.",
+    "trecho": "Consideram-se fontes fundamentais de informação: a) Testes psicológicos aprovados pelo CFP para uso profissional da psicologia e do",
+    "onde": 11
+   },
+   {
+    "frente": "Quais tópicos estruturam o laudo psicológico?",
+    "verso": "Identificação, descrição da demanda, procedimento, análise, conclusão e referências.",
+    "trecho": "A escrita do laudo psicológico deve estruturar-se nos seguintes tópicos explicitados no documento: a) identificação; b) descrição da demanda; c) procedimento; d) análise; e) conclusão; f) referências",
+    "onde": 22
+   },
+   {
+    "frente": "De quanto em quanto tempo os estudos psicométricos de um teste devem ser revisados?",
+    "verso": "A cada 15 anos; sem a revisão, o teste passa a ser considerado desfavorável para uso profissional.",
+    "trecho": "precisam ser revisados periodicamente a cada 15 anos. Caso a revisão não seja apresentada no prazo estabelecido, o teste psicológico passará a ser considerado desfavorável para uso profissional",
+    "onde": 30
+   },
+   {
+    "frente": "Por quanto tempo se guardam os documentos e materiais de uma avaliação psicológica?",
+    "verso": "No mínimo 5 anos, podendo ser ampliado por lei, determinação judicial ou caso específico.",
+    "trecho": "o período de guarda deve ser de no mínimo 5 anos, podendo ser ampliado nos casos previstos em lei, por determinação judicial",
+    "onde": 36
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a Cartilha de Avaliação Psicológica do CFP, quais são os documentos resultantes de uma avaliação psicológica?",
+    "alternativas": [
+     "Relatório multiprofissional e parecer",
+     "Atestado psicológico e laudo psicológico",
+     "Declaração e relatório psicológico",
+     "Laudo psicológico e prontuário"
+    ],
+    "certa": 1,
+    "comentario": "Pelo art. 13 da Resolução CFP 6/2019, os documentos resultantes da avaliação psicológica são o atestado psicológico e o laudo psicológico.",
+    "trecho": "os documentos resultantes da avaliação psicológica são o atestado psicológico e o laudo psicológico",
+    "onde": 21
+   },
+   {
+    "enunciado": "Um psicólogo quer usar, como fonte complementar, um teste psicológico que não foi avaliado nem aprovado pelo Satepsi. O que a cartilha diz?",
+    "alternativas": [
+     "Pode, desde que seja só como apoio e o resultado não conste do laudo",
+     "Pode, se o avaliando concordar por escrito com o uso",
+     "Pode, se o teste tiver estudos publicados em revistas científicas",
+     "Não pode: testes não aprovados não servem nem como fonte fundamental nem como complementar"
+    ],
+    "certa": 3,
+    "comentario": "Testes são fontes fundamentais; os não avaliados ou não aprovados pelo Satepsi não podem ser usados nem como fonte fundamental nem complementar.",
+    "trecho": "Instrumentos não avaliados e não aprovados pelo Satepsi não podem ser usados nem como fonte fundamental nem como fonte complementar de informação",
+    "onde": 34
+   },
+   {
+    "enunciado": "Para a cartilha do CFP, a fotocópia de testes psicológicos é permitida em qual situação?",
+    "alternativas": [
+     "Em nenhuma, nem mesmo para fins acadêmicos ou de pesquisa",
+     "Apenas para fins acadêmicos ou de pesquisa",
+     "Quando o original estiver esgotado na editora",
+     "Quando a cópia tiver boa qualidade de impressão"
+    ],
+    "certa": 0,
+    "comentario": "As fotocópias comprometem a validade dos testes e ferem a Lei de Direitos Autorais, por isso não são permitidas em nenhuma hipótese.",
+    "trecho": "fotocópias de testes psicológicos não podem ser realizadas em nenhuma hipótese, nem mesmo para fins acadêmicos ou de pesquisa",
+    "onde": 35
+   },
+   {
+    "enunciado": "Sobre testes informatizados e testes aplicados on-line, o que a cartilha afirma?",
+    "alternativas": [
+     "Todo teste informatizado aprovado pode ser aplicado a distância",
+     "A aplicação informatizada equivale à aplicação on-line",
+     "A aplicação informatizada não equivale à on-line: é preciso verificar se o manual aprovado permite a forma remota",
+     "Só testes de lápis e papel podem ser aprovados no Satepsi"
+    ],
+    "certa": 2,
+    "comentario": "A cartilha destaca que informatizada (mediada por computador) não é o mesmo que on-line (remota); deve-se checar se o teste permite a aplicação remota.",
+    "trecho": "o formato de aplicação informatizada (mediada por computador) não se equivale à aplicação on-line",
+    "onde": 31
+   },
+   {
+    "enunciado": "Não há prazo legal para reaplicar um teste psicológico. Como a psicóloga deve definir o intervalo de reteste?",
+    "alternativas": [
+     "Esperar sempre 15 anos, conforme a revisão do Satepsi",
+     "Seguir o prazo do manual do teste e, se não houver, a literatura científica",
+     "Seguir o prazo fixado pelo Conselho Regional de Psicologia",
+     "Decidir livremente, sem consultar manual ou literatura"
+    ],
+    "certa": 1,
+    "comentario": "A psicóloga verifica se o manual indica tempo para o reteste; se não indicar, pauta-se na literatura científica, conforme o construto avaliado.",
+    "trecho": "deve verificar se os manuais dos testes utilizados em sua avaliação indicam tempo para o reteste",
+    "onde": 25
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=CtabP9zF6Qs": {
+  "resumo": "A avaliação psicológica é um processo estruturado de avaliação de fenômenos psicológicos, com métodos, técnicas e instrumentos, cujo objetivo é fornecer informações para uma tomada de decisão, individual, grupal ou institucional. A Resolução CFP 31/2022 revogou a 09/2018 e mantém o conceito. As fontes fundamentais são três: testes aprovados no Satepsi, entrevistas e anamnese, e protocolos de observação. As complementares são técnicas não psicológicas com respaldo científico e relatórios multiprofissionais. Cartas de tarô não servem. A avaliação é mais ampla que a testagem.",
+  "cartoes": [
+   {
+    "frente": "Qual resolução do CFP revogou a Resolução 09/2018, segundo a aula?",
+    "verso": "A Resolução CFP 31/2022, que mudou pouco os conceitos gerais e atualizou o que já vinha da 09/2018.",
+    "trecho": "a resolução 31 mais recente ela revogou a resolução 09 de 2018",
+    "onde": 197
+   },
+   {
+    "frente": "Como a avaliação psicológica é definida já no artigo primeiro?",
+    "verso": "Processo estruturado de avaliação de fenômenos psicológicos, com métodos, técnicas e instrumentos, para prover informações à tomada de decisão.",
+    "trecho": "avaliação psicológica isso já no artigo primeiro é definida como um processo estruturado de avaliação de fenômenos psicológicos composto de métodos métodos técnicas instrumentos",
+    "onde": 322
+   },
+   {
+    "frente": "A decisão que a avaliação psicológica subsidia é sempre do psicólogo?",
+    "verso": "Não. Na área jurídica, por exemplo, o psicólogo fornece dados e quem decide é o magistrado.",
+    "trecho": "essa tomada de decisão não necessariamente vai ser sua né então por exemplo avaliação psicológica no contexto jurídico",
+    "onde": 477
+   },
+   {
+    "frente": "Quais são as três fontes fundamentais de informação?",
+    "verso": "Testes psicológicos aprovados (Satepsi), entrevistas psicológicas e anamnese, e protocolos ou registros de observação de comportamentos.",
+    "trecho": "são três coisas tá primeiro testes psicológicos aprovados pelo Conselho Federal",
+    "onde": 661
+   },
+   {
+    "frente": "O que são as fontes complementares de informação?",
+    "verso": "Técnicas e instrumentos não psicológicos com respaldo científico e compatíveis com o código de ética, e relatórios de equipes multiprofissionais.",
+    "trecho": "são duas técnicas instrumentos não psicológicos né então os testes psicológicos são instrumentos psicológicos mas existem outras técnicas instrumentos que não são exclusivos da Psicologia",
+    "onde": 818
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a aula, por que cartas de tarô não podem ser usadas como fonte complementar de informação?",
+    "alternativas": [
+     "Porque o tarô é proibido por lei em qualquer contexto",
+     "Porque falta respaldo científico e a prática conflita com o código de ética",
+     "Porque só psicólogos clínicos podem usar técnicas simbólicas",
+     "Porque o tarô só vale como fonte fundamental, nunca como complementar"
+    ],
+    "certa": 1,
+    "comentario": "A professora explica que não há respaldo científico que comprove que o tarô forneça informações confiáveis e que ele conflita com o código de ética, que exige instrumentos científicos.",
+    "trecho": "não posso porque porque não há respaldo científico que comprove que cartas de tarô fornecem informações confiáveis e seguras",
+    "onde": 851
+   },
+   {
+    "enunciado": "Qual destes é um contexto de avaliação psicológica compulsória citado na aula?",
+    "alternativas": [
+     "Seleção para vaga gerencial no RH de uma empresa",
+     "Triagem inicial em consultório particular de psicoterapia",
+     "Orientação vocacional de estudantes do ensino médio",
+     "Avaliação para porte de arma de fogo"
+    ],
+    "certa": 3,
+    "comentario": "A aula cita porte de arma, cirurgia bariátrica e carteira de motorista como contextos em que a avaliação psicológica é obrigatória.",
+    "trecho": "avaliações obrigatórias né compulsórias como por exemplo da porte de arma para cirurgia bariátrica",
+    "onde": 538
+   },
+   {
+    "enunciado": "A avaliação psicológica pode ser aplicada em grupos? Qual exemplo a aula dá?",
+    "alternativas": [
+     "Sim, por exemplo em grupo psicoterapêutico, temático ou operativo",
+     "Não, ela é sempre individual",
+     "Sim, mas somente em grupos de seleção de pessoal",
+     "Sim, mas apenas em turmas escolares"
+    ],
+    "certa": 0,
+    "comentario": "A aula afirma que é possível aplicar avaliação a um grupo para verificar fenômenos psicológicos dele, citando grupos psicoterapêuticos, temáticos e operativos.",
+    "trecho": "Você pode por exemplo aplicar uma avaliação psicológica num grupo PS terapêutico num grupo temático num grupo operativo",
+    "onde": 599
+   },
+   {
+    "enunciado": "Um psicólogo avalia um casal que quer adotar uma criança. Quem toma a decisão sobre a aptidão da família, segundo a aula?",
+    "alternativas": [
+     "O próprio psicólogo avaliador, de forma exclusiva",
+     "O Conselho Regional de Psicologia",
+     "O magistrado do caso, com base nos dados fornecidos",
+     "A equipe do Satepsi"
+    ],
+    "certa": 2,
+    "comentario": "No exemplo jurídico da aula, o psicólogo fornece os dados e o magistrado do caso toma a decisão.",
+    "trecho": "fornecer dados para que a magistrado a magistrado do caso tome a sua decisão",
+    "onde": 507
+   },
+   {
+    "enunciado": "Segundo a aula, por que o tema avaliação psicológica cai em qualquer concurso público?",
+    "alternativas": [
+     "Porque as resoluções do CFP só são cobradas em provas de psicologia clínica",
+     "Porque em todos os contextos de atuação pública o psicólogo usa a avaliação como instrumento",
+     "Porque o edital sempre exige a aplicação prática de testes",
+     "Porque a Resolução 31/2022 proíbe outros temas nas provas"
+    ],
+    "certa": 1,
+    "comentario": "A aula diz que em todos os contextos da esfera pública o psicólogo concursado acabará usando a avaliação psicológica, por isso o assunto é recorrente.",
+    "trecho": "em todos os contextos absolutamente todos você eventualmente",
+    "onde": 599
+   }
+  ]
+ },
+ "https://www.scielo.br/j/pcp/a/qSsx4k4f5Zy8b6VSPbZQmkh/?format=pdf&lang=pt&ilang=en": {
+  "resumo": "Schneider e colegas propõem um fluxograma para planejar a avaliação psicológica, com foco na escolha de testes e técnicas. O planejamento parte de uma pergunta clara, passa pela literatura confiável e pela consulta ao Satepsi, e então pelo estudo dos manuais: construto, padronização, normas, precisão e evidências de validade. Os testes padronizados são menos sujeitos ao viés do avaliador que as entrevistas. Teste com parecer desfavorável não se usa em nenhum contexto. Se faltar preparo, o psicólogo busca supervisão ou encaminha o caso a outro profissional.",
+  "cartoes": [
+   {
+    "frente": "Que parcela dos processos éticos contra psicólogos envolve a avaliação psicológica?",
+    "verso": "Mais de 60% dos processos éticos tratam de infrações ligadas ao processo de avaliação psicológica e aos documentos derivados dele.",
+    "trecho": "uma quantidade significativa (mais de 60% dos processos éticos) referente a infrações éticas denunciadas contra psicólogos por questões relativas ao processo de AP e aos documentos derivados",
+    "onde": 3
+   },
+   {
+    "frente": "Por que os testes psicológicos são mais livres do viés do avaliador que as entrevistas?",
+    "verso": "Pela padronização na aplicação, no levantamento e na interpretação dos resultados.",
+    "trecho": "pela padronização, tanto na aplicação quanto no levantamento e na interpretação, eles se tornam mais livres do viés do avaliador que as entrevistas",
+    "onde": 6
+   },
+   {
+    "frente": "O que é a padronização de um teste?",
+    "verso": "A uniformidade do ambiente e dos procedimentos usados no momento da aplicação.",
+    "trecho": "A padronização de um teste diz respeito à uniformidade do ambiente e dos procedimentos utilizados no momento da aplicação",
+    "onde": 8
+   },
+   {
+    "frente": "O que é a precisão de um teste, segundo os Standards?",
+    "verso": "A consistência dos escores em repetições de um procedimento de teste, o que dá confiabilidade aos dados.",
+    "trecho": "consistência dos escores em repetições de um procedimento de teste",
+    "onde": 9
+   },
+   {
+    "frente": "Um teste com parecer desfavorável do Satepsi pode ser usado em algum contexto?",
+    "verso": "Não. Teste com parecer desfavorável não deve ser utilizado em nenhum contexto profissional.",
+    "trecho": "Um teste com parecer desfavorável não deve ser utilizado em nenhum contexto profissional",
+    "onde": 10
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Em perícia psicológica na área jurídica, quando o juiz não fixa o prazo, em quanto tempo o laudo deve ser entregue, segundo o artigo?",
+    "alternativas": [
+     "Em quinze dias, sendo dez antes da audiência",
+     "Em sessenta dias, sendo trinta antes da audiência",
+     "Em trinta dias, sendo ao menos vinte antes da audiência",
+     "Em cinco dias úteis antes da audiência"
+    ],
+    "certa": 2,
+    "comentario": "O artigo, citando Rovinski (2013), indica trinta dias para o laudo, sendo ao menos vinte dias antes da audiência, o que reduz o tempo real da avaliação.",
+    "trecho": "o laudo deve ser entregue em trinta dias, sendo ao menos vinte dias antes da audiência",
+    "onde": 5
+   },
+   {
+    "enunciado": "Segundo o artigo, é sempre verdade que quanto mais evidências de validade, melhor é o teste?",
+    "alternativas": [
+     "Não: poucas fontes sólidas de evidência são mais consistentes que muitas de qualidade questionável",
+     "Sim: a quantidade de evidências é o principal critério de qualidade",
+     "Sim, desde que todas sejam estudos de validade de conteúdo",
+     "Não: evidências de validade não influenciam a escolha do teste"
+    ],
+    "certa": 0,
+    "comentario": "O texto afirma que a máxima nem sempre é verdadeira, pois é mais consistente haver poucas fontes sólidas do que muitas de qualidade duvidosa.",
+    "trecho": "é mais consistente haver poucas fontes sólidas de evidências referentes a uma proposta de interpretação do que uma grande quantidade de evidências de qualidade questionável",
+    "onde": 9
+   },
+   {
+    "enunciado": "Por que, segundo o artigo, os testes psicológicos jamais devem estar disponíveis como livros em bibliotecas de livre acesso?",
+    "alternativas": [
+     "Porque são caros e se desgastam com o uso",
+     "Porque os manuais já foram traduzidos e estão defasados",
+     "Porque a editora proíbe o empréstimo por contrato",
+     "Porque são de uso exclusivo de psicólogos"
+    ],
+    "certa": 3,
+    "comentario": "O artigo lembra que os testes são de uso exclusivo de psicólogos, por isso não podem ficar em bibliotecas de livre acesso; o caminho é a testoteca ou o empréstimo de colegas.",
+    "trecho": "os testes são de uso exclusivo de psicólogos e que, por isso, jamais devem estar disponíveis como livros em bibliotecas de livre acesso",
+    "onde": 7
+   },
+   {
+    "enunciado": "Para avaliar uma criança de cinco anos com suspeita de TDAH, se for necessário um teste projetivo, qual o artigo indica em vez do CAT-H?",
+    "alternativas": [
+     "O WISC-IV, por avaliar atenção e memória",
+     "O CAT-A, versão com figuras de animais",
+     "O Rorschach, por ter normas para todas as idades",
+     "O ASEBA, por ser projetivo"
+    ],
+    "certa": 1,
+    "comentario": "O CAT-H tem parecer favorável para crianças de 7 a 12 anos; para as de cinco anos o artigo indica o CAT-A, e o WISC-IV não tem normas abaixo de seis anos.",
+    "trecho": "seria indicado usar o CAT versão com animais (CAT-A; Miguel, Tardivo, Silva, & Tosi, 2010), que permite o uso para crianças de cinco anos",
+    "onde": 6
+   },
+   {
+    "enunciado": "Que benefício o artigo atribui a fazer uma avaliação psicológica antes do processo psicoterapêutico no contexto clínico?",
+    "alternativas": [
+     "Dispensa o uso de testes durante a psicoterapia",
+     "Substitui o diagnóstico feito pelo psiquiatra",
+     "Aumenta a chance de adesão ao tratamento e dá fundamentação concreta ao trabalho",
+     "Reduz o número de sessões necessárias para a alta"
+    ],
+    "certa": 2,
+    "comentario": "Segundo Gastaud e colegas, citados no artigo, a avaliação prévia tende a aumentar a adesão ao tratamento e fundamenta o trabalho subjetivo da psicoterapia.",
+    "trecho": "realizar uma avaliação psicológica antes do processo psicoterapêutico tende a aumentar a chance de adesão ao tratamento",
+    "onde": 10
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=1fCmjabKTd8": {
+  "resumo": "O exame do estado mental faz parte do exame clínico de qualquer paciente e se integra à anamnese e ao exame físico, sem precisar seguir uma ordem fixa. O mnemônico reúne apresentação, consciência, atenção, senso-percepção, orientação, memória, inteligência, afeto e humor, pensamento, juízo crítico, conduta e linguagem. A consciência pode ser medida pela escala de Glasgow, de 3 a 15. A inteligência é aferida por psicólogos, com testes, e inferida por médicos. Funções como sono, apetite e sexualidade devem ser avaliadas, mas não fazem parte do exame.",
+  "cartoes": [
+   {
+    "frente": "Quais são os itens do exame do estado mental pelo mnemônico da aula?",
+    "verso": "Apresentação, consciência, atenção, senso-percepção, orientação, memória, inteligência, afeto e humor, pensamento, juízo crítico, conduta e linguagem.",
+    "trecho": "Então são eles aqui apresentação consciência atenção senso percepção orientação memória inteligência afetividade e humor pensamento juízo crítico conduta e linguagem",
+    "onde": 434
+   },
+   {
+    "frente": "Quais são os valores mínimo e máximo da escala de coma de Glasgow?",
+    "verso": "O mínimo é 3 e o máximo é 15, avaliando abertura ocular, resposta motora e resposta verbal.",
+    "trecho": "então o mínimo que se pode obter na escala de Glasgow no caso é três e o máximo que a gente obtém na escala é o valor de 15",
+    "onde": 963
+   },
+   {
+    "frente": "O que a orientação alopsíquica avalia, e o que a autopsíquica avalia?",
+    "verso": "Alopsíquica: orientação no espaço, no tempo e na situação. Autopsíquica: orientação da pessoa sobre ela mesma.",
+    "trecho": "a orientação ela pode ser alopsíquica ou autopsíquica a alopsíquica se refere a orientação espacial e temporal",
+    "onde": 1588
+   },
+   {
+    "frente": "O que é a amnésia anterógrada?",
+    "verso": "Não lembrar o que aconteceu depois de um fato (como um acidente), embora se lembre do que veio antes.",
+    "trecho": "você não lembra do que aconteceu depois de um fato que causou essa alteração na memória",
+    "onde": 1771
+   },
+   {
+    "frente": "Quem afere e quem infere a inteligência, segundo a aula?",
+    "verso": "Psicólogos aferem por testes, que dão o QI. Médicos, sem psicólogo, inferem a inteligência: média, acima ou abaixo da média.",
+    "trecho": "quem faz isso são os psicólogos pois eles são capacitados para fazer aferição da Inteligência através de testes",
+    "onde": 1988
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a aula, o que é necessário para que uma ideia seja considerada um delírio?",
+    "alternativas": [
+     "Que o paciente tenha também alucinações auditivas",
+     "Que a ideia seja sempre de perseguição",
+     "Que a pessoa realmente acredite naquilo, mesmo sem condizer com a lógica",
+     "Que a ideia dure pelo menos seis meses"
+    ],
+    "certa": 2,
+    "comentario": "A aula diz que, para considerar o delírio, a pessoa tem de realmente acreditar naquele pensamento, que não condiz com a lógica, e há vários tipos além do paranoide.",
+    "trecho": "no delírio pra gente considerar o Delírio a pessoa tem que realmente acreditar naquilo então para uma pessoa que realmente acredita num pensamento",
+    "onde": 2357
+   },
+   {
+    "enunciado": "Um paciente se prende demais aos detalhes, fala sobre eles e não chega ao ponto que o examinador quer. Qual alteração do curso do pensamento a aula descreve?",
+    "alternativas": [
+     "Circunstancialidade",
+     "Fuga de ideias",
+     "Bloqueio de pensamento",
+     "Perseveração"
+    ],
+    "certa": 0,
+    "comentario": "Na circunstancialidade a pessoa se prende demais a detalhes e não chega ao ponto; na fuga de ideias o foco muda totalmente de assunto.",
+    "trecho": "circunstancial didade é quando já não ele já se prende demais a detalhes ele fica fica na falando sobre aqueles detalhes não chega ao ponto que a gente quer",
+    "onde": 2325
+   },
+   {
+    "enunciado": "Um paciente que antes gostava de certas atividades agora não sente prazer nelas, algo comum na depressão. Como a aula chama isso?",
+    "alternativas": [
+     "Labilidade afetiva",
+     "Embotamento afetivo",
+     "Incongruência emocional",
+     "Anedonia"
+    ],
+    "certa": 3,
+    "comentario": "A anedonia é a incapacidade de sentir prazer em coisas que antes davam prazer, muito comum na depressão.",
+    "trecho": "anedonia quando ele não consegue sentir prazer nas coisas que por exemplo antes ele gostava de uma coisa",
+    "onde": 2143
+   },
+   {
+    "enunciado": "Entre os estados de consciência, qual exige estímulos mais severos para acordar a pessoa, sem ser a ausência total de resposta do coma?",
+    "alternativas": [
+     "Sonolência",
+     "Estupor",
+     "Obnubilação",
+     "Hiperalerta"
+    ],
+    "certa": 1,
+    "comentario": "A aula descreve o estupor como estado mais difícil de acordar, que pede estímulos mais severos; o coma é a ausência de resposta aos estímulos externos.",
+    "trecho": "estupor estupor já é um estado que é um pouquinho mais difícil de acordar a pessoa tem que ser estímulos mais severos para poder acordar essa pessoa",
+    "onde": 1088
+   },
+   {
+    "enunciado": "Que funções a aula diz que devem ser avaliadas na consulta, embora não façam parte propriamente do exame do estado mental?",
+    "alternativas": [
+     "Linguagem, conduta e juízo crítico",
+     "Atenção, memória e orientação",
+     "Sono, apetite e sexualidade",
+     "Consciência, afeto e humor"
+    ],
+    "certa": 2,
+    "comentario": "As funções psicofisiológicas, como sono, apetite e sexualidade, podem estar alteradas e devem ser avaliadas, mas não fazem parte propriamente do exame do estado mental.",
+    "trecho": "outras coisas que são importantes a gente avaliar são funções psicofisiológicas né que elas também podem estar alteradas já não fazem mais parte do propriamente do exame de estado mental",
+    "onde": 2887
+   }
+  ]
+ },
+ "https://journals.usp.br/rmrp/article/download/711/723/1387": {
+  "resumo": "Zuardi e Loureiro apresentam a entrevista psiquiátrica como base da história clínica e do exame do estado mental. A entrevista aberta dá liberdade ao paciente, mas tem pouca concordância entre entrevistadores; a estruturada aumenta a confiabilidade. O exame do estado mental é organizado por áreas: apresentação, linguagem e pensamento, senso-percepção, afetividade e humor, atenção, memória, orientação, consciência, capacidade intelectual e juízo crítico da realidade. Cada área tem alterações típicas, como bloqueio de pensamento, delírios, alucinações, desatenção seletiva e confabulação.",
+  "cartoes": [
+   {
+    "frente": "Quais são as limitações da entrevista aberta?",
+    "verso": "Pouca concordância entre entrevistadores, dificuldade de diagnósticos consistentes, pela investigação assistemática, e tempo imprevisível e longo.",
+    "trecho": "Suas principais limitações são: a pequena possibilidade de concordância entre diferentes entrevistadores; a dificuldade para formulação de diagnósticos consistentes",
+    "onde": 2
+   },
+   {
+    "frente": "Qual é o objetivo da história clínica psiquiátrica (anamnese)?",
+    "verso": "Fornecer elementos para a formulação diagnóstica: descrever os sintomas e identificar fatores predisponentes, precipitantes e perpetuantes da doença.",
+    "trecho": "objetiva fornecer elementos para a formulação diagnóstica, incluindo a descrição detalhada dos sintomas e a identificação dos fatores predisponentes, precipitantes e perpetuantes da doença",
+    "onde": 3
+   },
+   {
+    "frente": "Como se caracteriza a fuga de ideias?",
+    "verso": "Ocorre com pensamento acelerado, com associações inapropriadas entre os pensamentos, feitas pelo som ou pelo ritmo das palavras.",
+    "trecho": "Fuga de idéias - ocorre sempre na presença de um pensamento acelerado",
+    "onde": 6
+   },
+   {
+    "frente": "O que é ilusão, na senso-percepção?",
+    "verso": "Interpretação perceptual alterada, resultante de um estímulo externo real. Na alucinação não há estímulo externo.",
+    "trecho": "Ilusão: interpretação perceptual alterada, resultante de um estímulo externo real",
+    "onde": 7
+   },
+   {
+    "frente": "Quando o juízo crítico da realidade está alterado?",
+    "verso": "Por exemplo, quando as decisões do paciente são determinadas por delírios ou alucinações.",
+    "trecho": "Considera-se que o juízo crítico da realidade está alterado, por exemplo, quando as decisões do paciente são determinadas por delírios ou alucinações",
+    "onde": 9
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Na avaliação da atenção e concentração, o que é a desatenção seletiva, segundo Zuardi e Loureiro?",
+    "alternativas": [
+     "Dificuldade de focalizar a atenção em qualquer estímulo do meio",
+     "Dificuldade de manter a atenção por mais de alguns minutos",
+     "Desvio constante da atenção para estímulos irrelevantes",
+     "Desatenção frente a temas que geram ansiedade"
+    ],
+    "certa": 3,
+    "comentario": "O artigo define desatenção seletiva como a desatenção frente a temas que geram ansiedade, diferente da manutenção e da focalização prejudicadas.",
+    "trecho": "Desatenção Seletiva: desatenção frente a temas que geram ansiedade",
+    "onde": 8
+   },
+   {
+    "enunciado": "Um paciente interrompe de repente a fala no meio de uma frase e, ao retomar, fala de outro assunto sem ligação. Qual alteração da forma do pensamento é essa?",
+    "alternativas": [
+     "Bloqueio de pensamento",
+     "Perseveração",
+     "Tangencialidade",
+     "Ecolalia"
+    ],
+    "certa": 0,
+    "comentario": "No bloqueio de pensamento há interrupção súbita da fala no meio de uma sentença, e o discurso é retomado com outro assunto, sem conexão com a ideação anterior.",
+    "trecho": "Bloqueio de pensamento - ocorre uma interrupção súbita da fala, no meio de uma sentença",
+    "onde": 6
+   },
+   {
+    "enunciado": "Na avaliação da psicomotricidade, o que é a flexibilidade cérea, sinal de catatonia?",
+    "alternativas": [
+     "Resistência imotivada a fazer o que é pedido",
+     "Imitação dos movimentos do examinador",
+     "Manutenção de posturas impostas por outros",
+     "Repetição de movimentos involuntários e espasmódicos"
+    ],
+    "certa": 2,
+    "comentario": "O artigo define flexibilidade cérea como a manutenção de posturas impostas por outros, sinal característico de catatonia; o negativismo é a resistência imotivada.",
+    "trecho": "como flexibilidade cérea (manutenção de posturas impostas por outros), obediência automática",
+    "onde": 5
+   },
+   {
+    "enunciado": "Segundo o artigo, as alucinações hipnagógicas e hipnopômpicas, que ocorrem perto do sono, são sempre patológicas?",
+    "alternativas": [
+     "Sim, indicam sempre um quadro psicótico",
+     "Não, estão associadas ao sono normal e não são necessariamente patológicas",
+     "Sim, mas só quando são auditivas",
+     "Não, mas só ocorrem em pacientes com delirium"
+    ],
+    "certa": 1,
+    "comentario": "As alucinações antes de dormir (hipnagógicas) e ao despertar (hipnopômpicas) são associadas ao sono normal e não são, necessariamente, patológicas.",
+    "trecho": "são associadas ao sono normal e não são, necessariamente, patológicas",
+    "onde": 7
+   },
+   {
+    "enunciado": "O que o artigo inclui na orientação autopsíquica avaliada no exame do estado mental?",
+    "alternativas": [
+     "Saber a data, a estação do ano e marcos como o Natal",
+     "Saber o próprio nome, reconhecer as pessoas do meio imediato e saber quem é o entrevistador",
+     "Saber o lugar, a cidade e o estado em que se encontra",
+     "Recordar o que comeu na refeição anterior"
+    ],
+    "certa": 1,
+    "comentario": "A orientação autopsíquica é o reconhecimento de si e do entorno pessoal: o próprio nome, as pessoas do meio imediato e quem é o entrevistador. Tempo e espaço são alopsíquicos.",
+    "trecho": "saber o próprio nome; b) reconhecer as pessoas do seu meio imediato",
+    "onde": 8
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=UV9cu7TxLKc": {
+  "resumo": "Revisão dos transtornos mais cobrados em concurso, pelo DSM-5-TR. O TEA exige déficits persistentes de comunicação e interação social e padrões restritivos e repetitivos; na CID-11 virou um agrupamento único. O TDAH aparece antes dos 12 anos. No bipolar tipo I há mania; no tipo II, hipomania e depressivo maior, sem mania. Ataque de pânico é sintoma, não transtorno. No TOC, obsessão é pensamento e compulsão é ação, inclusive mental. O TEPT tem sintomas intrusivos, evitação e hipervigilância. Bulimia tem comportamento compensatório; compulsão alimentar, não.",
+  "cartoes": [
+   {
+    "frente": "Quais são os dois critérios essenciais do diagnóstico do TEA?",
+    "verso": "Déficits persistentes na comunicação e interação social em múltiplos contextos, e padrões restritivos e repetitivos de comportamento, interesses ou atividades.",
+    "trecho": "agora especificamente do tea a gente tem duas características essenciais a primeira déficits persistentes persistentes na comunicação",
+    "onde": 281
+   },
+   {
+    "frente": "O que mudou para o autismo na CID-11?",
+    "verso": "Passou a haver um agrupamento único, o transtorno do espectro do autismo, no lugar das várias nomenclaturas da CID-10.",
+    "trecho": "agora a gente tem um agrupamento único que é o transtorno do espectro do autismo substituindo aquelas diversas nomenclaturas da CID 10",
+    "onde": 566
+   },
+   {
+    "frente": "O que é necessário para diagnosticar o transtorno bipolar tipo II?",
+    "verso": "Pelo menos um episódio hipomaníaco e um depressivo maior, sem nunca ter havido episódio maníaco.",
+    "trecho": "para o bipolar Tipo dois você tem que ter ambos pelo menos um episódio hipomaníaco e pelo menos um episódio depressivo maior",
+    "onde": 1468
+   },
+   {
+    "frente": "No TOC, qual a diferença entre obsessão e compulsão?",
+    "verso": "Obsessão é o pensamento intrusivo e indesejado; compulsão é a ação, o ritual ou comportamento repetitivo em resposta a ele.",
+    "trecho": "já a compulsão é a ação enquanto a obsessão é o pensamento a compulsão é a ação é o ato em si",
+    "onde": 2266
+   },
+   {
+    "frente": "Com que frequência mínima ocorrem os episódios na bulimia nervosa?",
+    "verso": "Em média, no mínimo uma vez por semana durante 3 meses.",
+    "trecho": "a compulsão alimentar e os comportamentos compensatórios ocorrem em média no mínimo uma ve por semana durante 3 meses",
+    "onde": 3914
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a aula, o ataque de pânico é, por si só, um transtorno mental?",
+    "alternativas": [
+     "Sim, é o transtorno de pânico em sua forma aguda",
+     "Não, é uma sintomatologia que ocorre dentro do transtorno de pânico",
+     "Sim, mas só quando ocorre durante o sono",
+     "Não, é um sintoma exclusivo do transtorno de ansiedade generalizada"
+    ],
+    "certa": 1,
+    "comentario": "A aula alerta para a pegadinha: ataque de pânico não é transtorno, e sim a sintomatologia do transtorno de pânico, que exige também preocupação persistente com novos ataques.",
+    "trecho": "ataque de pânico é um transtorno não ataque de pânico não é um transtorno ataque de pânico é uma sintomatologia do",
+    "onde": 1928
+   },
+   {
+    "enunciado": "Segundo a aula, até quando devem aparecer os primeiros sintomas do TDAH e do autismo, respectivamente?",
+    "alternativas": [
+     "TDAH até 24 meses e autismo até 12 anos",
+     "Ambos apenas após os 6 anos",
+     "Ambos até os 24 meses",
+     "TDAH antes dos 12 anos e autismo normalmente até 24 meses"
+    ],
+    "certa": 3,
+    "comentario": "No TDAH os sintomas se apresentam antes dos 12 anos; no autismo costumam aparecer já até os 24 meses, por serem mais acentuados.",
+    "trecho": "apresentam Antes de 12 anos de idade tá bem eh no autismo a gente tem normalmente eh já a a o aparecimento dos primeiros sintomas eh até 24 meses",
+    "onde": 688
+   },
+   {
+    "enunciado": "No TEPT, como a aula chama as reações dissociativas em que a pessoa sente ou age como se o evento traumático estivesse ocorrendo de novo?",
+    "alternativas": [
+     "Flashbacks",
+     "Evitação persistente",
+     "Hipervigilância",
+     "Amnésia dissociativa"
+    ],
+    "certa": 0,
+    "comentario": "A aula explica que as reações dissociativas são os chamados flashbacks, sinônimos que podem aparecer em prova, e fazem parte dos sintomas intrusivos.",
+    "trecho": "reações dissociativas os chamados flashbacks Tá o que que é um flashback é uma reação dissociativa é um sinônimo",
+    "onde": 2765
+   },
+   {
+    "enunciado": "Um paciente conta mentalmente até 59 antes de sair de casa, para evitar que algo ruim aconteça. Como a aula classifica esse ato mental?",
+    "alternativas": [
+     "Obsessão, por ser um pensamento intrusivo",
+     "Delírio, por não ter conexão com a realidade",
+     "Compulsão, pois é um comportamento, ainda que mental",
+     "Ideia supervalorizada, por ser recorrente"
+    ],
+    "certa": 2,
+    "comentario": "A aula diz que contar mentalmente é um comportamento, ainda que um ato interno mental, e portanto é compulsão, não obsessão.",
+    "trecho": "isso é um comportamento muito embora seja um ato interno mental isso é um comportamento",
+    "onde": 2329
+   },
+   {
+    "enunciado": "Segundo a aula, o que diferencia o episódio maníaco do hipomaníaco?",
+    "alternativas": [
+     "A gravidade: o hipomaníaco tem as mesmas características, mas é mais leve",
+     "Os sintomas: o hipomaníaco inclui delírios e o maníaco não",
+     "A duração: o hipomaníaco dura sempre mais de um ano",
+     "A presença de depressão: só o maníaco ocorre junto de episódio depressivo"
+    ],
+    "certa": 0,
+    "comentario": "A diferença é a severidade: o episódio maníaco é grave o bastante para causar hospitalização ou prejuízo severo, e o hipomaníaco tem as mesmas características em menor intensidade.",
+    "trecho": "a diferença de um episódio maníaco pro hipomaníaco é a gravidade como eu falei né o hipomaníaco ele é necessariamente mais leve",
+    "onde": 1405
+   }
+  ]
+ },
+ "https://ubibliorum.ubi.pt/bitstreams/ac16e1ee-5849-440b-a3dc-6fdb6e39f6c9/download": {
+  "resumo": "O capítulo V da CID-10 organiza os transtornos mentais em códigos Fxx.xx, em que o primeiro dígito indica o grupo principal, de F0 (orgânicos) a F9 (infância e adolescência). Álcool e drogas ficam em F10-F19, num bloco único, por praticidade. Na esquizofrenia, cada um dos sintomas principais basta para o diagnóstico. Os episódios depressivos são classificados por gravidade, e o retardo mental pelos graus de QI. A CID-10 abandonou a divisão entre neurose e psicose, embora ela permaneça implícita na ordem dos blocos. F99 é o transtorno não especificado e seu uso não é recomendado.",
+  "cartoes": [
+   {
+    "frente": "Na CID-10, o que agrupam os blocos F3 e F4?",
+    "verso": "F3: transtornos do humor (afetivos). F4: transtornos neuróticos, relacionados ao estresse e somatoformes.",
+    "trecho": "3 – Transtornos do humor (afetivos) 4 – Transtornos neuróticos, relacionados ao estresse e somatoformes",
+    "onde": 14
+   },
+   {
+    "frente": "Por que os transtornos por álcool e drogas ficam em F10-F19, e não nos orgânicos?",
+    "verso": "Por vantagens práticas: manter todos os transtornos decorrentes de substância psicoativa em um único bloco.",
+    "trecho": "devido a vantagens práticas em se manter todos os transtornos decorrentes do uso de substância psicoativa em um único bloco",
+    "onde": 21
+   },
+   {
+    "frente": "Na CID-10, quantos dos sintomas principais bastam para diagnosticar a esquizofrenia?",
+    "verso": "Cada um dos critérios principais é suficiente; os demais sintomas são complementares.",
+    "trecho": "Cada um destes critérios é suficiente para realizar o diagnóstico de esquizofrenia segundo a CID-10",
+    "onde": 27
+   },
+   {
+    "frente": "Como o episódio depressivo (F32) é subdividido na CID-10?",
+    "verso": "Por intensidade, em leve, moderado e grave, com base em critérios quantitativos como o tempo de duração dos sintomas.",
+    "trecho": "que é subdividido em episódio leve (F32.0), moderado (F32.1) e grave (F32.3), com base preferencialmente em critérios quantitativos como tempo de duração de sintomas",
+    "onde": 30
+   },
+   {
+    "frente": "Que parâmetro a CID-10 usa para diferenciar os graus de retardo mental?",
+    "verso": "O teste de QI, apesar de a monografia ressaltar que ele está sujeito a erros e não é muito confiável.",
+    "trecho": "esta utiliza o teste de QI como parâmetro para diferenciar os diferentes graus de retardo mental",
+    "onde": 36
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo a monografia, o que costuma exigir o registro de um diagnóstico nos transtornos mentais orgânicos (F00-F09)?",
+    "alternativas": [
+     "Apenas o código da síndrome psicopatológica",
+     "O uso de dois códigos: o da síndrome psicopatológica e o do transtorno subjacente",
+     "A confirmação por teste de QI",
+     "A exclusão prévia de todos os transtornos do bloco F10-F19"
+    ],
+    "certa": 1,
+    "comentario": "Como o transtorno orgânico decorre de doença ou lesão cerebral, o registro exige um código para a síndrome e outro, de outro capítulo da CID-10, para a causa subjacente.",
+    "trecho": "na maioria dos casos, o registro de um diagnóstico de qualquer um dos transtornos neste bloco vai exigir o uso de dois códigos: um para a síndrome psicopatológica e outro para o transtorno subjacente",
+    "onde": 25
+   },
+   {
+    "enunciado": "Por que os transtornos autistas (F84) estão no bloco de transtornos do desenvolvimento psicológico, segundo a monografia?",
+    "alternativas": [
+     "Embora definidos por desvio, quase sempre há algum atraso de desenvolvimento",
+     "Porque o autismo sempre cursa com retardo mental grave",
+     "Porque começa sempre depois da adolescência",
+     "Porque tem curso com remissões e recaídas, como os transtornos do humor"
+    ],
+    "certa": 0,
+    "comentario": "A CID-10 explica que o autismo é definido mais por desvio que por atraso, mas um atraso de desenvolvimento de algum grau é quase invariável, e há coincidência com os outros transtornos do bloco.",
+    "trecho": "Os transtornos autistas são incluídos neste bloco porque, embora definidos em termos de desvio, um atraso de desenvolvimento de algum grau é quase invariável",
+    "onde": 37
+   },
+   {
+    "enunciado": "Por que o transtorno obsessivo-compulsivo (F42) é descrito em um grupo separado dos demais transtornos de ansiedade, segundo a monografia?",
+    "alternativas": [
+     "Porque é sempre secundário a um quadro depressivo",
+     "Porque tem causa exclusivamente psicanalítica",
+     "Porque só aparece após um evento de vida excepcionalmente estressante",
+     "Provavelmente devido a descobertas que o relacionam a determinadas alterações cerebrais"
+    ],
+    "certa": 3,
+    "comentario": "A monografia sugere que o TOC é descrito separadamente por descobertas que o associam a alterações cerebrais específicas, diferentemente dos outros subgrupos.",
+    "trecho": "No próximo grupo (F42) trata-se do transtorno obsessivo compulsivo, descrito separadamente provavelmente devido a descobertas que o relacionam a determinadas alterações cerebrais",
+    "onde": 32
+   },
+   {
+    "enunciado": "Como a CID-10, segundo a monografia, trata a homossexualidade e a bissexualidade?",
+    "alternativas": [
+     "Como parafilias, no grupo F65",
+     "Como transtornos da identidade sexual, no grupo F64",
+     "Não são identificadas como transtorno, mas podem ser codificadas como quinto caractere complementar",
+     "Como transtornos de personalidade, no grupo F60"
+    ],
+    "certa": 2,
+    "comentario": "A monografia destaca que homossexualidade e bissexualidade não são identificadas como transtorno, mas podem entrar como quinto caractere complementar do diagnóstico.",
+    "trecho": "Vale notar que homossexualidade e bissexualidade não são identificados como um transtorno , mas podem ser codificados como um quinto caractere complementar para o diagnóstico",
+    "onde": 35
+   },
+   {
+    "enunciado": "Quais são características exigidas, segundo a CID-10, para os transtornos do desenvolvimento psicológico (F80-F89)?",
+    "alternativas": [
+     "Início na vida adulta, curso com remissões e recaídas e causa sempre ambiental",
+     "Início em qualquer idade, ligado a trauma e com curso episódico",
+     "Início na infância, atraso em funções ligadas à maturação biológica do sistema nervoso central e curso estável",
+     "Início na adolescência, sem componente genético e com remissões frequentes"
+    ],
+    "certa": 2,
+    "comentario": "Os critérios citados são início invariavelmente na infância, comprometimento ou atraso de funções ligadas à maturação do sistema nervoso central e curso estável, sem remissões e recaídas.",
+    "trecho": "um início que ocorre invariavelmente durante a infância (b) um comprometimento ou atraso no desenvolvimento de funções que",
+    "onde": 36
+   }
+  ]
+ }
+}

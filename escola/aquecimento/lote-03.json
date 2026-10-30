@@ -1,0 +1,818 @@
+{
+ "https://www.redalyc.org/pdf/2820/282021763014.pdf": {
+  "resumo": "Pisetta mostra que Freud teorizou a angústia em dois momentos. Em 1916-1917, ela é um afeto posterior ao recalque, uma espécie de moeda universal pela qual qualquer afeto pode ser trocado. A partir de 1926, relida a partir da fobia do pequeno Hans, ela passa a ser anterior e causadora do recalque, sinal de um perigo, o da castração. O eu é a sede e o produtor da angústia, que tem duas origens: o momento traumático (angústia automática) e o sinal que ameaça repetir esse momento.",
+  "cartoes": [
+   {
+    "frente": "O que a angústia anuncia, no segundo momento da teoria freudiana?",
+    "verso": "A falência do princípio de prazer-desprazer, já que ela é percebida essencialmente como desprazerosa.",
+    "trecho": "Ela é, pois, um anúncio da falência do princípio de prazer-desprazer, já que é percebida essencialmente como desprazerosa",
+    "onde": 3
+   },
+   {
+    "frente": "Como o artigo define afeto?",
+    "verso": "Algo que chega à consciência e provoca uma sensação: é algo que se sente.",
+    "trecho": "O afeto se caracteriza e é definido como algo que chega à consciência e provoca uma sensação",
+    "onde": 4
+   },
+   {
+    "frente": "Quais são as três fases do recalque?",
+    "verso": "Recalque primitivo, recalque propriamente dito e retorno do recalcado.",
+    "trecho": "uma primeira fase deste, ou recalque primitivo, uma segunda fase, ou recalque propriamente dito, e uma terceira fase, ou retorno do recalcado",
+    "onde": 6
+   },
+   {
+    "frente": "No caso Hans, quem o objeto fóbico (o cavalo) substitui?",
+    "verso": "O pai, visto como castrador.",
+    "trecho": "o objeto (que produz medo e reação de fuga), como nos diz Freud, é um substituto do pai",
+    "onde": 8
+   },
+   {
+    "frente": "Para Lacan, no Seminário 10, a que remete o objeto da angústia?",
+    "verso": "A algo não objetivável: ele introduz a pura função da falta.",
+    "trecho": "o objeto da angústia nos remete a algo não objetivável, ao contrário, nos introduz na pura função da falta",
+    "onde": 14
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Na primeira teoria freudiana, por que a angústia é chamada de \"moeda corrente universal\"?",
+    "alternativas": [
+     "Porque qualquer impulso, cuja ideia está sujeita ao recalque, pode ser trocado por ela",
+     "Porque ela é o único afeto que o eu consegue controlar",
+     "Porque ela substitui o sintoma na formação das neuroses",
+     "Porque ela aparece igual em todas as pessoas, em qualquer idade"
+    ],
+    "certa": 0,
+    "comentario": "Para Freud, a ansiedade é a moeda pela qual pode ser trocado qualquer impulso cuja ideia esteja sujeita ao recalque.",
+    "trecho": "A ansiedade constitui moeda corrente universal pela qual é ou pode ser trocado qualquer impulso se o conteúdo ideativo vinculado a ele estiver sujeito à repressão",
+    "onde": 5
+   },
+   {
+    "enunciado": "Em 1926, segundo o artigo, qual instância Freud afirma ser a sede real e a produtora da angústia?",
+    "alternativas": [
+     "O supereu",
+     "O isso",
+     "O eu",
+     "O inconsciente recalcado"
+    ],
+    "certa": 2,
+    "comentario": "O artigo cita que, em 1926, Freud afirma ser o eu a sede real e o produtor de angústia.",
+    "trecho": "Em 1926, Freud afirma que é o eu a sede real e o produtor de angústia",
+    "onde": 12
+   },
+   {
+    "enunciado": "Quais são as duas origens da angústia admitidas a partir da teoria do trauma?",
+    "alternativas": [
+     "O recalque primário e o retorno do recalcado",
+     "O momento traumático e o sinal que ameaça a repetição de um tal momento",
+     "A libido não utilizada e a castração",
+     "A fobia e a neurose obsessiva"
+    ],
+    "certa": 1,
+    "comentario": "A libido não utilizada não explica tudo: a angústia vem do momento traumático ou funciona como sinal que ameaça repeti-lo.",
+    "trecho": "temos que admitir duas origens da angústia, uma conseqüente do momento traumático e outra como sinal que ameaça a repetição de um tal momento",
+    "onde": 12
+   },
+   {
+    "enunciado": "Como o eu reage diante de um perigo pulsional, em contraste com um perigo externo?",
+    "alternativas": [
+     "Tenta fugir, retirando o investimento do objeto",
+     "Projeta o perigo em um objeto fóbico",
+     "Reprime o perigo sem qualquer afeto",
+     "Produz o sinal de angústia"
+    ],
+    "certa": 3,
+    "comentario": "Nos perigos externos o eu tenta a fuga; diante do perigo pulsional ele produz o sinal de angústia.",
+    "trecho": "Ante o perigo pulsional, ele reage produzindo o sinal de angústia",
+    "onde": 12
+   },
+   {
+    "enunciado": "Por que os sonhos da neurose traumática desafiam a ideia de que todo sonho realiza um desejo?",
+    "alternativas": [
+     "Porque reproduzem uma situação de extremo sofrimento e repetição do trauma, sem relação com o princípio do prazer",
+     "Porque são esquecidos assim que o paciente acorda",
+     "Porque só ocorrem em pacientes com fobia",
+     "Porque mostram o desejo recalcado de forma disfarçada"
+    ],
+    "certa": 0,
+    "comentario": "Esses sonhos repetem o sofrimento do trauma e por isso não podem ser referidos ao princípio do prazer.",
+    "trecho": "na neurose traumática, os sonhos reproduzem uma situação de extremo sofrimento e repetição do trauma, não podendo, portanto, se referir ao princípio do prazer",
+    "onde": 11
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=oHsInJ9BpXM": {
+  "resumo": "Luto e melancolia nascem de um evento traumático, uma perda que não é só a morte de alguém: pode ser emprego ou relacionamento. A reação depende da estrutura psíquica de cada pessoa. No luto, a libido fica presa ao objeto perdido, e por isso a pessoa se recolhe para elaborar a perda e depois buscar novos objetos, sem prazo fixo. Na melancolia, ligada à psicose, o sujeito se identifica com o objeto e se perde junto, sem a fantasia como defesa contra o Real, o que eleva o risco de suicídio.",
+  "cartoes": [
+   {
+    "frente": "Em que ano Freud escreveu Luto e melancolia, e quando foi publicado?",
+    "verso": "Escrito em 1915 e publicado em 1917.",
+    "trecho": "o texto original do froid que ele foi escrito em 1915 porém publicado em 1917",
+    "onde": 38
+   },
+   {
+    "frente": "De que eventos nascem o luto e a melancolia?",
+    "verso": "De um evento traumático, uma perda: pode ser morte, mas também emprego ou relacionamento.",
+    "trecho": "ambos ocorrem a partir de um evento traumático algo que aconteceu na nossa vida alguma perda",
+    "onde": 103
+   },
+   {
+    "frente": "Para que serve o recolhimento da pessoa em luto?",
+    "verso": "Para elaborar e dar sentido à perda e poder continuar a vida.",
+    "trecho": "um momento onde a gente fica mais fechado mais ir ido para que a gente possa elaborar e significar isso daí e continuar nossa vida",
+    "onde": 135
+   },
+   {
+    "frente": "Como era a criação das crianças nas décadas anteriores a 1980?",
+    "verso": "Mais autoritária e repressora, com medo do castigo.",
+    "trecho": "antes a criação ela é uma criação muito mais autoritária muito mais repressora",
+    "onde": 751
+   },
+   {
+    "frente": "Segundo a aula, o que marca os quadros melancólicos no século 21?",
+    "verso": "Um sentimento de insuficiência diante da pressão e da competitividade esmagadora.",
+    "trecho": "os quadros melancólicos no século 21 São esse sentimento de insuficiência diante dessa pressão dessa competitividade esmagadora",
+    "onde": 910
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Por que, segundo a aula, quem está em luto se afasta do convívio social?",
+    "alternativas": [
+     "Porque a libido, investida no objeto perdido, não pode ser investida ao mesmo tempo em outro objeto",
+     "Porque a pessoa se culpa pela perda",
+     "Porque o luto é um sinal de psicose",
+     "Porque a pessoa perdeu a capacidade de fantasiar"
+    ],
+    "certa": 0,
+    "comentario": "A aula explica que a energia libidinal está presa ao objeto perdido e não pode ser investida em outro até o trabalho de luto.",
+    "trecho": "mas quando ele está investindo em um objeto e não podemos ao mesmo tempo investir aquela mesma energia em outro objeto",
+    "onde": 319
+   },
+   {
+    "enunciado": "Qual a função da fantasia para o neurótico, segundo a aula?",
+    "alternativas": [
+     "Substituir o objeto perdido de forma definitiva",
+     "Mecanismo de defesa para frear o gozo mortífero e proteger do Real",
+     "Provocar o delírio diante da perda",
+     "Aumentar a identificação com o objeto"
+    ],
+    "certa": 1,
+    "comentario": "A fantasia é a defesa do neurótico contra o Real; o psicótico, sem ela, tende a delirar.",
+    "trecho": "a fantasia e ela é um mecanismo de defesa nosso para frear esse gozo mortífero",
+    "onde": 628
+   },
+   {
+    "enunciado": "Por que o risco de suicídio é muito grande na melancolia?",
+    "alternativas": [
+     "Porque o melancólico não elabora o luto por escolha",
+     "Porque o melancólico é sempre neurótico",
+     "Porque, ao perder o objeto amado, perde a estrutura junto com ele e não se reorganiza facilmente",
+     "Porque a melancolia é causada apenas pela perda de alguém por morte"
+    ],
+    "certa": 2,
+    "comentario": "Segundo a aula, o melancólico perde a estrutura junto com o objeto e tem dificuldade de se reorganizar.",
+    "trecho": "porque o melancólico quando ele perde o seu objeto Amado ele perde a estrutura junto com ele e o risco dessa pessoa tirar a própria vida é muito grande",
+    "onde": 568
+   },
+   {
+    "enunciado": "Segundo a aula, o que as crianças a partir da década de 1980 passam a temer?",
+    "alternativas": [
+     "O castigo por fazer algo errado",
+     "O pecado",
+     "A perda da mãe",
+     "Não atender à idealização dos pais"
+    ],
+    "certa": 3,
+    "comentario": "A aula contrasta o antigo medo do castigo com o atual medo de não corresponder às idealizações dos pais.",
+    "trecho": "as crianças agora tem medo de não atender a essa idealização dos pais",
+    "onde": 846
+   },
+   {
+    "enunciado": "Quanto tempo dura o luto, segundo a aula?",
+    "alternativas": [
+     "Cerca de seis meses para todos",
+     "Não há prazo fixo: depende de cada pessoa",
+     "Exatamente um ano",
+     "Até a pessoa substituir o objeto perdido"
+    ],
+    "certa": 1,
+    "comentario": "A professora afirma que não existe prazo para o luto e que ele varia de pessoa para pessoa.",
+    "trecho": "não existe um prazo para isso dizer há quanto tempo leva o luto depende muito de pessoa para pessoa",
+    "onde": 412
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=nAqQYSzGPng": {
+  "resumo": "A psicoterapia breve reúne ferramentas que agilizam o tratamento em demandas específicas, como fobias, crenças limitantes e algumas neuroses. Suas raízes estão nos primeiros atendimentos curtos de Freud; Ferenczi e Rank retomaram a prática, valorizando a vida atual do paciente, uma data para o término e a motivação. Alexander e French introduziram a experiência emocional corretiva, e Beck levou a reestruturação das crenças. Em vez de só escutar, o terapeuta fala e instrui mais, e a técnica exige paciente com demanda clara.",
+  "cartoes": [
+   {
+    "frente": "Onde se situam as raízes da psicoterapia breve?",
+    "verso": "Nos primeiros trabalhos de Freud, com atendimentos clínicos curtos e eficazes.",
+    "trecho": "As raízes da psicoterapia breve de orientação psicodinâmica se situa nos primeiros trabalhos desenvolvidos por Sigmon Freud",
+    "onde": 67
+   },
+   {
+    "frente": "Para que Ferenczi e Rank propunham usar os processos intelectuais?",
+    "verso": "Para modificar fatores emocionais na experiência dos pacientes.",
+    "trecho": "entenderam que se deveria utilizar os processos intelectuais para modificar fatores emocionais na experiência dos pacientes",
+    "onde": 442
+   },
+   {
+    "frente": "Qual o propósito das ferramentas da psicoterapia breve?",
+    "verso": "Tratar no presente, gerando experiências positivas que formem novas memórias.",
+    "trecho": "tratar o indivíduo no presente, fazendo com que experiências positivas do presente gerem agora novas memórias",
+    "onde": 656
+   },
+   {
+    "frente": "Que terapia Beck criou, reestruturando cognitivamente as crenças?",
+    "verso": "A terapia cognitivo-comportamental.",
+    "trecho": "criou a técnica terapêutica que ele chamou terapia cognitivo comportamental",
+    "onde": 996
+   },
+   {
+    "frente": "Qual é a principal ferramenta da psicanálise tradicional?",
+    "verso": "A escuta.",
+    "trecho": "Dentro da psicanálise, nossa principal ferramenta é a escuta",
+    "onde": 1092
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Quem foi o primeiro discípulo de Freud a propor técnicas ativas para reduzir a duração do tratamento?",
+    "alternativas": [
+     "Otto Rank",
+     "Franz Alexander",
+     "Sandor Ferenczi",
+     "David Malan"
+    ],
+    "certa": 2,
+    "comentario": "A aula atribui a Sandor Ferenczi, primeiro discípulo de Freud, as técnicas ativas; Rank colaborou em 1924.",
+    "trecho": "Foi Sandor Ferenzi o primeiro discípulo de Freud a propor técnicas ativas para",
+    "onde": 257
+   },
+   {
+    "enunciado": "Um paciente com claustrofobia, que só quer conseguir usar o elevador do trabalho, é indicado para a psicoterapia breve por quê?",
+    "alternativas": [
+     "Porque tem demanda específica e quer apenas resolvê-la",
+     "Porque não tem nenhum trauma",
+     "Porque a causa da fobia está no presente, não no passado",
+     "Porque o terapeuta deve evitar investigar o inconsciente"
+    ],
+    "certa": 0,
+    "comentario": "A aula indica as ferramentas para demandas pontuais, como fobias, em que o paciente quer a resolução de um problema.",
+    "trecho": "há casos como fobias, crenças limitantes e algumas neuroses que eu posso utilizar essas ferramentas",
+    "onde": 37
+   },
+   {
+    "enunciado": "Qual paciente a aula considera pouco indicado para as ferramentas da psicoterapia breve?",
+    "alternativas": [
+     "Aquele com fobia de elevador",
+     "Aquele com crença limitante",
+     "Aquele que busca resolver uma ansiedade pontual",
+     "Aquele que não sabe que problema tem e vem porque a esposa ou o patrão mandaram"
+    ],
+    "certa": 3,
+    "comentario": "Sem noção de suas disfunções, o paciente não tem demanda específica, e a ferramenta não acelera o processo.",
+    "trecho": "Olha, eu não sei, para mim está tudo bem, mas a minha esposa diz que eu preciso de tratamento",
+    "onde": 1216
+   },
+   {
+    "enunciado": "Quanto tempo, em geral, levam fobias e crenças limitantes para serem resolvidas com essas ferramentas?",
+    "alternativas": [
+     "Cerca de 1 mês",
+     "Cerca de 6 meses",
+     "Em torno de 3 meses",
+     "Cerca de 1 ano"
+    ],
+    "certa": 2,
+    "comentario": "A aula diz que geralmente levam em torno de 3 meses, e a meta ajuda a manter a motivação.",
+    "trecho": "Geralmente fobias e crenças limitantes levam em torno de 3 meses para serem resolvidas com estas ferramentas",
+    "onde": 780
+   },
+   {
+    "enunciado": "Na analogia da aula, o que significa o paciente que traz o livro aberto no capítulo 10?",
+    "alternativas": [
+     "Quer explorar todos os capítulos da sua vida com o terapeuta",
+     "Chega com uma demanda específica e quer ajuda só com ela",
+     "Não aceita falar do passado",
+     "Não tem nenhum problema"
+    ],
+    "certa": 1,
+    "comentario": "É a psicoterapia breve: o paciente aponta o problema específico, enquanto na psicanálise o livro é entregue fechado.",
+    "trecho": "O paciente traz o livro aberto, te apresenta o capítulo 10",
+    "onde": 1277
+   }
+  ]
+ },
+ "https://revistasbph.emnuvens.com.br/revista/article/download/455/443/484": {
+  "resumo": "A psicoterapia breve tem objetivos limitados e se orienta por dois princípios: foco e temporalidade, com prazo fixado de alguns meses. Knobel, Gilliéron, Braier e Fiorini propõem técnicas diferentes; Fiorini, por exemplo, fala em omissões deliberadas e em um papel ativo do terapeuta, e Braier trabalha com o ponto de urgência. A indicação pede queixa específica, motivação e crise recente. No hospital, o ambulatório é o ambiente mais adequado; enfermaria e UTI não, por falta de privacidade e de previsão de permanência.",
+  "cartoes": [
+   {
+    "frente": "Por que a psicoterapia breve tem objetivos limitados?",
+    "verso": "Em função das necessidades imediatas do indivíduo: a limitação é uma de suas principais características.",
+    "trecho": "Essa limitação é uma das principais características do procedimento da psicoterapia breve e aparece em função das necessidades imediatas do indivíduo",
+    "onde": 4
+   },
+   {
+    "frente": "Quais são os quatro princípios da técnica de Knobel?",
+    "verso": "Não-transferencial, não-regressiva, elaborativa de predomínio cognitivo e de mutação objetal.",
+    "trecho": "se sustenta em quatro princípios: é não-transferencial, não-regressiva, elaborativa de predomínio cognitivo, e de mutação objetal",
+    "onde": 5
+   },
+   {
+    "frente": "O que é o \"ponto de urgência\" de Braier?",
+    "verso": "A situação psíquica inconsciente de conflito que, por fatores atuais, predomina no sujeito naquele momento.",
+    "trecho": "corresponde à situação psíquica inconsciente de conflito que, pela ação de fatores atuais, predomina no sujeito num dado momento, sendo motivo de determinadas ansiedades e defesas",
+    "onde": 7
+   },
+   {
+    "frente": "O que o \"projeto terapêutico\" de Fiorini estabelece?",
+    "verso": "Metas a serem atingidas em prazos aproximadamente previsíveis.",
+    "trecho": "que estabelece metas a serem atingidas em prazos aproximadamente previsíveis",
+    "onde": 8
+   },
+   {
+    "frente": "Que fator de contraindicação aparece na enfermaria, além da falta de privacidade?",
+    "verso": "A variabilidade da permanência, que impede planejar objetivos e tempo.",
+    "trecho": "outro fator contrário à utilização da psicoterapia breve é a variabilidade da permanência na instituição, impedindo um planejamento de objetivos e de tempo",
+    "onde": 12
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Que nome Fiorini deu à estratégia de atenção seletiva, deixando passar o material atraente que se afasta do foco?",
+    "alternativas": [
+     "Ponto de urgência",
+     "Mutação objetal",
+     "Omissões deliberadas",
+     "Projeto terapêutico"
+    ],
+    "certa": 2,
+    "comentario": "Fiorini chama a atenção seletiva ao foco de \"omissões deliberadas\".",
+    "trecho": "deu a essa estratégia de atenção seletiva o nome de “omissões deliberadas”, no qual se deve deixar passar material atraente sempre que este se mostre irrelevante ou afastado do foco",
+    "onde": 5
+   },
+   {
+    "enunciado": "Qual autor usa a associação livre, sem determinar previamente o problema a tratar, e pede ao terapeuta atenção flutuante?",
+    "alternativas": [
+     "Gilliéron",
+     "Braier",
+     "Knobel",
+     "Fiorini"
+    ],
+    "certa": 0,
+    "comentario": "Gilliéron, em transição da psicanálise para as breves, mantém a associação livre e a atenção flutuante.",
+    "trecho": "Gilliéron utiliza a associação livre, sem determinar previamente o problema consciente a ser tratado",
+    "onde": 7
+   },
+   {
+    "enunciado": "Na unidade de emergência do hospital, qual é o objetivo da intervenção psicológica, segundo o artigo?",
+    "alternativas": [
+     "Realizar uma psicoterapia breve completa",
+     "Fazer o paciente aceitar a doença em longo prazo",
+     "Planejar metas e duração do tratamento",
+     "Possibilitar a expressão do paciente, numa intervenção de emergência, sem objetivo de fazer psicoterapia"
+    ],
+    "certa": 3,
+    "comentario": "O artigo diz que a intervenção é breve, mas não se objetiva realizar uma psicoterapia, apenas uma intervenção de emergência.",
+    "trecho": "a intervenção psicoterapêutica é breve, mas não se objetiva realizar uma psicoterapia, apenas uma intervenção de emergência",
+    "onde": 11
+   },
+   {
+    "enunciado": "Segundo Knobel, qual a diferença entre psicoterapia focal e psicoterapia breve?",
+    "alternativas": [
+     "A focal tem prazo fixo e a breve não",
+     "Na focal resolve-se a queixa ou um conflito predominante; na breve ajuda-se a encarar os diversos conflitos predominantes",
+     "A focal é regressiva e a breve é não-transferencial",
+     "A focal só ocorre no hospital e a breve no consultório"
+    ],
+    "certa": 1,
+    "comentario": "Para Knobel, a focal resolve a queixa ou o conflito predominante, e a breve ajuda a encarar vários conflitos predominantes.",
+    "trecho": "na primeira, procura-se resolver a queixa do paciente ou um conflito predominante; na segunda, trata-se de ajudar a encarar os diversos conflitos predominantes",
+    "onde": 5
+   },
+   {
+    "enunciado": "Que mudança uma psicoterapia de prazo limitado não consegue suscitar, segundo Fiorini?",
+    "alternativas": [
+     "O desaparecimento de sintomas",
+     "Modificações dinâmicas",
+     "Mudanças na estrutura da personalidade",
+     "Alívio do sofrimento atual"
+    ],
+    "certa": 2,
+    "comentario": "Segundo Fiorini, em prazos limitados não se obtêm mudanças na estrutura da personalidade, embora haja modificações dinâmicas.",
+    "trecho": "Uma terapia não pode, em prazos limitados, suscitar mudanças na estrutura da personalidade, embora possa produzir modificações dinâmicas não-desprezíveis",
+    "onde": 10
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=h-fdQEGLRG8": {
+  "resumo": "Segundo Cordioli, a psicoterapia de grupo é desrecomendada quando há dificuldade de empatia, incompatibilidade com as normas, sintomas psicóticos graves ou falta de controle de impulsos agressivos; nesses casos, a individual é preferível. Todo grupo é planejado com uma finalidade, público, enquadre e seleção de participantes, e pode ser homogêneo ou heterogêneo. Os fatores terapêuticos de Yalom incluem esperança, universalidade, orientação, altruísmo, reedição familiar, aprendizagem interpessoal, identificação, coesão, catarse, fatores existenciais e autocompreensão.",
+  "cartoes": [
+   {
+    "frente": "O que a psicoterapia grupal tem a mais que a individual?",
+    "verso": "Um terceiro fator, o grupo, além da relação entre terapeuta e paciente.",
+    "trecho": "Mas a psicoterapia grupal tem um terceiro fator, que é o grupo",
+    "onde": 132
+   },
+   {
+    "frente": "Nos casos de contraindicação do grupo, qual modalidade é preferível?",
+    "verso": "A psicoterapia individual.",
+    "trecho": "Então, em todos esses casos aqui, a psicoterapia individual é preferível",
+    "onde": 363
+   },
+   {
+    "frente": "O que todo grupo terapêutico precisa ter ao ser formado, no planejamento de Cordioli?",
+    "verso": "Uma finalidade.",
+    "trecho": "Sim, todo grupo tem uma finalidade. Todo grupo terapêutico se forma com uma finalidade.",
+    "onde": 496
+   },
+   {
+    "frente": "O que é o fator terapêutico \"orientação\" nos grupos?",
+    "verso": "Ajudar os pacientes a conhecer suas questões e lidar melhor com elas, por aconselhamento, instrução didática ou psicoeducação.",
+    "trecho": "a orientação, que auxilia os pacientes a conhecer suas questões e lidar melhor com elas por meio de aconselhamento, instrução didática ou psicoeducação",
+    "onde": 889
+   },
+   {
+    "frente": "Com o que se relacionam os fatores existenciais dos grupos?",
+    "verso": "Com a existência: confrontação da condição humana, mortalidade, responsabilidade e liberdade.",
+    "trecho": "os fatores existenciais, que abrangem fatores relacionados à existência, à confrontação da condição humana, à mortalidade, responsabilidade e liberdade",
+    "onde": 1153
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Segundo Cordioli, em qual caso a psicoterapia de grupo é desrecomendada?",
+    "alternativas": [
+     "Transtorno bipolar em fase aguda ou esquizofrenia com alucinações",
+     "Pessoas enlutadas com tema em comum",
+     "Gestantes com dúvidas sobre o parto",
+     "Adolescentes em conflito com a lei"
+    ],
+    "certa": 0,
+    "comentario": "A aula cita sintomas psicóticos graves, como bipolar em fase aguda e esquizofrenia delirante ou alucinatória, como contraindicação.",
+    "trecho": "Também não se recomenda a psicoterapia grupal em casos de ansiedade, depressão ou então sintomas psicóticos graves, como, por exemplo, transtorno bipolar em fase aguda",
+    "onde": 331
+   },
+   {
+    "enunciado": "Como Yalom chama o fator terapêutico que corresponde à expectativa de conseguir melhorar?",
+    "alternativas": [
+     "Coesão",
+     "Esperança",
+     "Catarse",
+     "Altruísmo"
+    ],
+    "certa": 1,
+    "comentario": "A esperança é a expectativa de melhorar e impulsiona a mudança de comportamento.",
+    "trecho": "A primeira delas, esperança. Olha que legal. A expectativa de conseguir melhorar",
+    "onde": 792
+   },
+   {
+    "enunciado": "A dificuldade extrema de estabelecer relação honesta e laços afetivos ou de lealdade contraindica o grupo. Que transtorno a aula dá como exemplo?",
+    "alternativas": [
+     "Transtorno obsessivo-compulsivo",
+     "Transtorno de ansiedade generalizada",
+     "Transtorno antissocial",
+     "Transtorno de pânico"
+    ],
+    "certa": 2,
+    "comentario": "A aula cita o transtorno antissocial como exemplo dessa dificuldade extrema de vínculo honesto e de lealdade.",
+    "trecho": "Também não é recomendado, em caso de dificuldade extrema, de estabelecer uma relação honesta, de estabelecer laços afetivos ou de lealdade",
+    "onde": 396
+   },
+   {
+    "enunciado": "No grupo, uma pessoa percebe que existem outras formas de se relacionar com o cônjuge e com os filhos. Qual fator terapêutico é esse?",
+    "alternativas": [
+     "Catarse",
+     "Coesão",
+     "Altruísmo",
+     "Aprendizagem interpessoal (output)"
+    ],
+    "certa": 3,
+    "comentario": "A aprendizagem interpessoal (output) é o desenvolvimento de habilidades sociais pela convivência com o grupo.",
+    "trecho": "aprendizagem interpessoal ou output, compreende o desenvolvimento de habilidades sociais pela convivência com o grupo",
+    "onde": 1056
+   },
+   {
+    "enunciado": "Qual fator terapêutico é traduzido pelo bom relacionamento e pela aceitação entre os membros e o terapeuta?",
+    "alternativas": [
+     "Identificação",
+     "Coesão",
+     "Catarse",
+     "Esperança"
+    ],
+    "certa": 1,
+    "comentario": "A coesão é o bom relacionamento entre os membros e é importante para a psicoterapia em grupo fluir.",
+    "trecho": "a coesão, que é traduzida pelo bom relacionamento entre os membros, aceitando-os aos outros, incluindo a pessoa do terapeuta",
+    "onde": 1121
+   }
+  ]
+ },
+ "https://dialnet.unirioja.es/descarga/articulo/5513433.pdf": {
+  "resumo": "Zimerman relata suas mudanças na grupoterapia psicanalítica. Na composição, mantém uma certa heterogeneidade dentro de um grupo homogêneo. Valoriza a pessoa real do terapeuta como novo modelo de identificação. Vê a resistência como comunicação não verbal, redefine a transferência como repetição de antigos traumas mal resolvidos, e não classifica a positiva como boa e a negativa como má. Prefere falar em atividade interpretativa, estimula os pacientes a pensar e interpretar, e adota, com Bion, a expressão crescimento mental no lugar de cura.",
+  "cartoes": [
+   {
+    "frente": "Quando a psicoterapia analítica de grupo floresceu, e o que veio depois?",
+    "verso": "Começou nos anos 1950 e floresceu nos 1960; depois, estagnação.",
+    "trecho": "após o início de sua aplicação na década de 1950, e o vigoroso florescimento na de 1960, as décadas seguintes, até os dias atuais, têm sido marcadas por uma certa estagnação",
+    "onde": 2
+   },
+   {
+    "frente": "Como Zimerman reformula a definição clássica de transferência?",
+    "verso": "Como necessidade de repetir antigos traumas psíquicos que foram muito mal resolvidos.",
+    "trecho": "a transferência é uma necessidade de repetições de antigos traumas psíquicos que foram muito mal resolvidos",
+    "onde": 5
+   },
+   {
+    "frente": "Quais são os três vetores dos processos de comunicação, segundo Zimerman?",
+    "verso": "Forma de transmissão, forma de recepção das mensagens e os canais pelos quais flui a comunicação.",
+    "trecho": "os três principais vetores inerentes aos processos de comunicação: a forma de transmissão das mensagens; a forma de recepção das mesmas e os distintos canais pelos quais flui a comunicação",
+    "onde": 6
+   },
+   {
+    "frente": "Todo conteúdo do paciente deve ser reduzido à transferência no aqui e agora?",
+    "verso": "Não: existe transferência em tudo, mas nem tudo deve ser trabalhado obrigatoriamente como transferência.",
+    "trecho": "existe transferência em tudo, porém nem tudo deve ser trabalhado como sendo obrigatoriamente uma transferência no campo analítico",
+    "onde": 7
+   },
+   {
+    "frente": "Em vez de cura completa, o que o grupoterapeuta deve propiciar?",
+    "verso": "O crescimento de um equipamento mental para enfrentar traumas, perdas e situações angustiantes.",
+    "trecho": "deve pensar em termos de propiciar a eles o crescimento de um equipamento mental que os possibilitem a enfrentar, de forma bastante mais adequada e menos desgastante, a traumas, perdas, situações angustiantes em geral",
+    "onde": 8
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Na composição de um novo grupo, o que Zimerman procura manter?",
+    "alternativas": [
+     "Uma certa heterogeneidade dentro de um grupo homogêneo",
+     "Grupos totalmente homogêneos quanto à idade e à profissão",
+     "Pacientes com o mesmo traço de personalidade",
+     "Apenas pacientes sem psicopatologia"
+    ],
+    "certa": 0,
+    "comentario": "Zimerman busca alguma distinção (idade, sexo, profissão, traços) dentro de um grupo homogêneo em estrutura mental.",
+    "trecho": "Quando da composição de um novo grupo, eu procuro manter uma certa heterogeneidade dentro de um grupo homogêneo",
+    "onde": 3
+   },
+   {
+    "enunciado": "Para Zimerman, qual a mais importante qualidade de um grupoterapeuta?",
+    "alternativas": [
+     "Neutralidade absoluta",
+     "Capacidade de empatia",
+     "Rigidez nas regras do setting",
+     "Conhecimento teórico"
+    ],
+    "certa": 1,
+    "comentario": "Ao sintonizar com o inconsciente dos pacientes, o terapeuta abre as portas para a capacidade de empatia.",
+    "trecho": "ele abriu as portas para a mais importante qualidade de um grupoterapeuta: a capacidade de empatia",
+    "onde": 6
+   },
+   {
+    "enunciado": "Que papel a pessoa real do grupoterapeuta passa a ter, para Zimerman, além do de pantalha transferencial e da função interpretativa?",
+    "alternativas": [
+     "Observador neutro",
+     "Árbitro dos conflitos",
+     "Autoridade que dá a sentença final",
+     "Novo modelo de identificação para os pacientes"
+    ],
+    "certa": 3,
+    "comentario": "O terapeuta real funciona como novo modelo de identificação dos pacientes.",
+    "trecho": "na atualidade a figura da pessoa real do grupo-terapeuta, indo muito além de seu papel de pantalha transferencial e de sua função interpretativa, também funciona como sendo um novo modelo de identificação para os seus pacientes",
+    "onde": 6
+   },
+   {
+    "enunciado": "Como Zimerman encara hoje a interpretação de um paciente a um colega ou ao grupo?",
+    "alternativas": [
+     "Como atuação que compete com o terapeuta, a ser evitada",
+     "Como resistência a ser interpretada de imediato",
+     "Estimula que os pacientes pensem e verbalizem o que sentem e o que se passa no grupo",
+     "Como transferência negativa"
+    ],
+    "certa": 2,
+    "comentario": "Ao contrário do que aprendeu, hoje Zimerman estimula que os pacientes verbalizem a leitura de si e dos demais.",
+    "trecho": "até estimulo que eles pensem e verbalizem o que estão sentindo e refletindo o que está se passando no grupo",
+    "onde": 7
+   },
+   {
+    "enunciado": "Qual é o clássico tripé do processo psicanalítico, desde Freud?",
+    "alternativas": [
+     "Associação livre, atenção flutuante e abstinência",
+     "Resistência, transferência e interpretação",
+     "Insight, elaboração e crescimento mental",
+     "Seleção, setting e comunicação"
+    ],
+    "certa": 1,
+    "comentario": "Zimerman lembra que o processo repousava no tripé resistência, transferência e interpretação.",
+    "trecho": "o processo psicanalítico, fundamentalmente, repousava no clássico tripé: resistência, transferência e interpretação",
+    "onde": 4
+   }
+  ]
+ },
+ "https://www.youtube.com/watch?v=HcGH53ychi4": {
+  "resumo": "A Resolução CFP 31/2022 define avaliação psicológica como processo estruturado, composto de métodos, técnicas e instrumentos, que busca prover informações à tomada de decisão. O psicólogo deve basear a decisão em fontes fundamentais (testes aprovados, entrevistas e anamneses, registros de observação) e pode recorrer a fontes complementares, como relatórios multiprofissionais. É livre para escolher os instrumentos, desde que com base científica. O uso de testes é privativo do psicólogo, e o teste com parecer desfavorável no Satepsi não pode ser usado. Os estudos de validade, precisão e normas valem, no máximo, 15 anos.",
+  "cartoes": [
+   {
+    "frente": "Como a Resolução 31/2022 define avaliação psicológica?",
+    "verso": "Processo estruturado de avaliação de fenômenos psicológicos, para prover informações à tomada de decisão.",
+    "trecho": "processo estruturado de avaliação de fenômenos psicológicos sim avaliação psicológica ela tem uma estrutura que não é rígida",
+    "onde": 100
+   },
+   {
+    "frente": "Em que o psicólogo deve basear a decisão na avaliação psicológica?",
+    "verso": "Obrigatoriamente em métodos, técnicas e instrumentos reconhecidos cientificamente.",
+    "trecho": "devem basear a sua decisão Obrigatoriamente em métodos técnicas e Instrumentos reconhecidos cientificamente",
+    "onde": 224
+   },
+   {
+    "frente": "Quais são os objetivos do teste psicológico, segundo o art. 7º?",
+    "verso": "Identificar, descrever, qualificar e mensurar características psicológicas.",
+    "trecho": "testes tem como objetivos identificar descrever qualificar e",
+    "onde": 627
+   },
+   {
+    "frente": "Como o art. 9º classifica o teste psicológico e o manual?",
+    "verso": "Como tecnologia profissional da Psicologia.",
+    "trecho": "dizer que o teste psicológico e o manual constituem tecnologia profissional da Psicologia",
+    "onde": 782
+   },
+   {
+    "frente": "O que acontece quando vence o prazo de um teste no Satepsi?",
+    "verso": "Vira parecer desfavorável na hora, e o teste não pode ser usado.",
+    "trecho": "vencer o prazo é parecer desfavorável na hora",
+    "onde": 1583
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Qual destes documentos é fonte complementar de informação na avaliação psicológica?",
+    "alternativas": [
+     "Entrevista psicológica",
+     "Teste psicológico aprovado",
+     "Protocolos de observação de comportamento",
+     "Relatório de equipe multiprofissional"
+    ],
+    "certa": 3,
+    "comentario": "Relatórios multiprofissionais são fontes complementares; testes, entrevistas e registros de observação são fundamentais.",
+    "trecho": "e também documentos técnicos tais como protocolos e relatórios de equipes multiprofissionais",
+    "onde": 409
+   },
+   {
+    "enunciado": "Um psicólogo não gosta do Rorschach e quer usar só entrevista e registros de observação. Pode?",
+    "alternativas": [
+     "Não, o teste é obrigatório",
+     "Sim, desde que embasado cientificamente",
+     "Não, só com autorização do CRP",
+     "Sim, mas só em contexto clínico"
+    ],
+    "certa": 1,
+    "comentario": "A autonomia técnica é livre, desde que a decisão seja embasada cientificamente e justificada.",
+    "trecho": "você é livre para tomar tua decisão técnica desde que ela seja embasada cientificamente",
+    "onde": 532
+   },
+   {
+    "enunciado": "Segundo a aula, qual é o prazo mínimo de guarda documental dos registros de avaliação?",
+    "alternativas": [
+     "5 anos",
+     "10 anos",
+     "15 anos",
+     "20 anos"
+    ],
+    "certa": 0,
+    "comentario": "A aula cita a Resolução 01/2009, que estabelece prazo mínimo de guarda documental de 5 anos.",
+    "trecho": "estabelece um prazo mínimo de guarda documental que é de 5 anos",
+    "onde": 596
+   },
+   {
+    "enunciado": "Mesmo com o acesso público aos manuais dos testes, o que continua privativo do psicólogo?",
+    "alternativas": [
+     "A compra do manual",
+     "A leitura dos itens",
+     "A aplicação do teste psicológico",
+     "A divulgação das normas"
+    ],
+    "certa": 2,
+    "comentario": "O acesso aos manuais é público, mas a aplicação do teste continua privativa do psicólogo.",
+    "trecho": "Muito embora a aplicação do teste psicológico continua sendo prerrogativa exclusiva privativa do psicólogo",
+    "onde": 751
+   },
+   {
+    "enunciado": "Qual instrumento é uma lista de afirmações às quais a pessoa responde com concordância ou discordância, sem progressão?",
+    "alternativas": [
+     "Escala",
+     "Inventário",
+     "Questionário",
+     "Método projetivo"
+    ],
+    "certa": 1,
+    "comentario": "Na aula, o inventário é uma lista de informações com concordância ou discordância, sem progressão, diferente da escala.",
+    "trecho": "um inventário é uma lista de informações às quais o indivíduo responde de acordo com concordância ou",
+    "onde": 906
+   }
+  ]
+ },
+ "https://ses.sp.bvs.br/wp-content/uploads/2022/12/U_RS-CFP-31_151222.pdf": {
+  "resumo": "A Resolução CFP nº 31/2022 estabelece diretrizes para a avaliação psicológica, regulamenta o Satepsi e revoga a Resolução 09/2018. O psicólogo decide quais métodos usar, com base na literatura científica. O uso profissional dos testes é privativo do psicólogo. Testes com parecer desfavorável não podem ser usados, e a CCAP e o Plenário do CFP avaliam os testes submetidos. Os estudos de validade, precisão e normas têm prazo máximo de 15 anos. A norma veda instrumentos que reforcem preconceitos e entra em vigor 60 dias após a publicação.",
+  "cartoes": [
+   {
+    "frente": "Quem decide os métodos da avaliação psicológica, e com qual condição?",
+    "verso": "O psicólogo, desde que fundamentado na literatura científica e nas normas do CFP.",
+    "trecho": "têm a prerrogativa de decidir quais são os métodos, técnicas e instrumentos empregados na Avaliação Psicológica, desde que fundamentados na literatura científica psicológica",
+    "onde": 1
+   },
+   {
+    "frente": "Quais são os objetivos dos testes psicológicos, pelo art. 7º?",
+    "verso": "Identificar, descrever, qualificar e mensurar características psicológicas.",
+    "trecho": "Os testes psicológicos têm como objetivos identificar, descrever, qualificar e mensurar características psicológicas",
+    "onde": 2
+   },
+   {
+    "frente": "O que ocorre se não houver resposta à CCAP em 30 dias?",
+    "verso": "O teste é incluído na lista de Testes Não Avaliados do Satepsi.",
+    "trecho": "será de 30 dias, e a ausência de resposta pela(o) psicóloga ou psicólogo responsável técnica(o) do teste psicológico acarretará sua inclusão na lista de Testes Não Avaliados do SATEPSI",
+    "onde": 4
+   },
+   {
+    "frente": "Quanto tempo os autores têm para disponibilizar normas atualizadas após a aprovação?",
+    "verso": "180 dias úteis.",
+    "trecho": "os autores, laboratórios e responsáveis técnicos do material terão o prazo de 180 dias úteis para aplicar o disposto no caput deste artigo",
+    "onde": 7
+   },
+   {
+    "frente": "O que o art. 41 veda quanto a instrumentos e técnicas psicológicas?",
+    "verso": "Elaborar, validar, comercializar etc. para criar, manter ou reforçar preconceitos, estigmas ou estereótipos.",
+    "trecho": "As psicólogas e os psicólogos não poderão elaborar, validar, traduzir, adaptar, normatizar, comercializar e fomentar instrumentos ou técnicas psicológicas, para criar, manter ou reforçar preconceitos, estigmas ou estereótipos",
+    "onde": 9
+   }
+  ],
+  "perguntas": [
+   {
+    "enunciado": "Que lei o art. 8º cita para fundamentar que o uso profissional dos testes psicológicos é privativo do psicólogo?",
+    "alternativas": [
+     "Lei 5.766/1971",
+     "Lei 4.119/1962",
+     "Lei 9.656/1998",
+     "Lei 8.080/1990"
+    ],
+    "certa": 1,
+    "comentario": "O art. 8º cita o art. 13 da Lei 4.119, de 27 de agosto de 1962.",
+    "trecho": "O uso profissional dos testes psicológicos é privativo da psicóloga e do psicólogo, conforme estabelece o art. 13, da Lei 4.119, de 27 de agosto de 1962",
+    "onde": 2
+   },
+   {
+    "enunciado": "Havendo dúvida sobre classificar um instrumento como teste psicológico ou instrumento não psicológico, quem fica legitimado a submetê-lo à CCAP?",
+    "alternativas": [
+     "Os autores do instrumento",
+     "As editoras",
+     "O Plenário do CFP",
+     "Os Conselhos Regionais de Psicologia"
+    ],
+    "certa": 3,
+    "comentario": "O art. 13 legitima os CRPs a submeter o instrumento à CCAP do CFP.",
+    "trecho": "ficam legitimados os Conselhos Regionais de Psicologia (CRPs) a submeter o respectivo instrumento à Comissão Consultiva em Avaliação Psicológica (CCAP) do CFP para apreciação",
+    "onde": 2
+   },
+   {
+    "enunciado": "Um teste aprovado passa a ter formato de correção diferente do descrito no manual técnico aprovado. O que a resolução exige?",
+    "alternativas": [
+     "Nenhuma nova avaliação, desde que sigam rigorosamente os procedimentos do manual",
+     "Nova avaliação completa pela CCAP",
+     "Submissão como versão equivalente",
+     "Nova aprovação pelo Plenário do CFP"
+    ],
+    "certa": 0,
+    "comentario": "Pelo art. 24, § 2º, o formato de correção diferente dispensa nova avaliação se o manual for seguido.",
+    "trecho": "não necessitam de nova avaliação, desde que sejam rigorosamente seguidos os procedimentos descritos nos respectivos manuais técnicos",
+    "onde": 5
+   },
+   {
+    "enunciado": "Um teste teve parecer final desfavorável do CFP. O que a resolução prevê?",
+    "alternativas": [
+     "Nunca poderá ser reapresentado",
+     "Só poderá ser reapresentado após 15 anos",
+     "Poderá ser reapresentado a qualquer tempo, com o mesmo trâmite",
+     "Só poderá ser reapresentado por recurso"
+    ],
+    "certa": 2,
+    "comentario": "O art. 21 permite reapresentar o teste a qualquer tempo, seguindo o trâmite do art. 19.",
+    "trecho": "poderão ser reapresentados a qualquer tempo e seguirão o trâmite previsto no art. 19 desta Resolução",
+    "onde": 4
+   },
+   {
+    "enunciado": "Quando a Resolução 31/2022 entra em vigor, segundo o art. 46?",
+    "alternativas": [
+     "Na data da publicação",
+     "30 dias após a publicação",
+     "60 dias após a publicação",
+     "180 dias após a publicação"
+    ],
+    "certa": 2,
+    "comentario": "O art. 46 diz que a resolução entra em vigor 60 dias após sua publicação.",
+    "trecho": "Esta Resolução entrará em vigor 60 (sessenta) dias após sua publicação",
+    "onde": 9
+   }
+  ]
+ }
+}
