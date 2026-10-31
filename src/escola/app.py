@@ -3,6 +3,7 @@
 O catálogo (concursos, assuntos, materiais e fotos) vem do repositório; os PDFs, o progresso e a situação semanal
 dos concursos ficam em Documentos\\Escola. A central da Thalia tem um link comum para cá (só em tela de computador).
 """
+import asyncio
 import json
 import logging
 import math
@@ -21,11 +22,11 @@ from pathlib import Path
 from typing import Annotated, Literal
 
 from fastapi import FastAPI, HTTPException, Request, Response
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, StreamingResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
-from . import caminho, catalogo, cronograma, placar, rotina, situacao
+from . import caminho, catalogo, cronograma, juntos, placar, rotina, situacao
 from .cronograma import Tarefa
 from .perfis import COOKIE, CORES, DaVez, Perfis, PorPerfil, perfil_da_vez
 
@@ -56,6 +57,7 @@ FIRMAR = 2  # dias diferentes, depois do último erro, em que ele precisa acerta
 HORARIO_LIVRE = "Horário livre"  # o bloco da Rotina que o início mostra
 PRAZO_DIAS = 30  # a inscrição que fecha nesse prazo vira faixa no início, até ele dizer que se inscreveu
 COPIA_REMOTA = "escola-progresso-{}.db"  # uma por perfil, na pasta do usuário do notebook
+PING = 15  # segundos: o fluxo ao vivo manda um sinal para a conexão não cair no caminho (e a sala parada fechar)
 MIN_POR_QUESTAO = 2  # a régua das horas do cartão da turma: os minutos de cada item concluído e 2 por questão
 TIPO_RESPOSTAS = {"prova": "Simulado", "provinha": "Provinha"}  # o que ele respondeu num dia que já passou
 SEM_JANELA = getattr(subprocess, "CREATE_NO_WINDOW", 0)  # sem isto o scp abre um console
@@ -101,6 +103,16 @@ class Respostas(BaseModel):
 
 class Folha(BaseModel):
     marcadas: list[int | None] = Field(min_length=1, max_length=120)  # o simulado: None é a que ficou em branco
+
+
+class NovaSala(BaseModel):
+    item: str = Field(max_length=200)
+
+
+class Comando(BaseModel):
+    acao: Literal["play", "pause"]
+    posicao: float = Field(ge=0, le=86400)
+    conexao: int | None = None  # a conexão de quem mandou, para ele não receber o próprio eco
 
 
 class NovoPerfil(BaseModel):
@@ -730,6 +742,68 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
         vizinho = lambda pid: {"nome": nomes[pid], "pontos": pl[pid]["pontos"]} if pid else None  # noqa: E731
         return {**pl[eu], "total": len(todos), "acima": vizinho(fila[i - 1] if i else None),
                 "abaixo": vizinho(fila[i + 1] if i + 1 < len(fila) else None)}
+
+    # ---------- Assistir junto: uma sala por vídeo; os comandos sobem por POST e descem pelo fluxo (ver juntos.py) ----------
+
+    salas = juntos.Salas()
+
+    def eu_mesmo() -> dict:
+        p = perfis.achar(perfil_da_vez())
+        return {"id": p["id"], "nome": p["nome"], "cor": p["cor"]}
+
+    def fluxo(fila: asyncio.Queue, ao_sair: Callable[[], None]) -> StreamingResponse:
+        """Server-Sent Events: cada mensagem da fila vira um evento com o tipo dela; a cada PING sem nada, um sinal."""
+        async def eventos():
+            try:
+                while True:
+                    try:
+                        msg = await asyncio.wait_for(fila.get(), PING)
+                    except TimeoutError:
+                        salas.limpar()
+                        yield ": ping\n\n"
+                        continue
+                    yield f"event: {msg['tipo']}\ndata: {json.dumps(msg, ensure_ascii=False)}\n\n"
+                    if msg["tipo"] == "fechada":
+                        return
+            finally:
+                ao_sair()
+        return StreamingResponse(eventos(), media_type="text/event-stream",
+                                 headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
+
+    @app.post("/api/juntos")
+    async def abrir_sala(corpo: NovaSala):
+        item = cat.itens.get(corpo.item)
+        if item is None or not catalogo.youtube(item.url):
+            raise HTTPException(404, "esse vídeo não existe")
+        return salas.abrir(item.id, item.titulo, eu_mesmo())
+
+    @app.get("/api/juntos/{sala}")
+    async def estado_da_sala(sala: str):
+        estado = salas.estado(sala)
+        if estado is None:
+            raise HTTPException(404, "essa sala fechou")
+        return estado
+
+    @app.get("/api/juntos/{sala}/fluxo")
+    async def fluxo_da_sala(sala: str):
+        entrou = salas.entrar(sala, eu_mesmo())
+        if entrou is None:
+            raise HTTPException(404, "essa sala fechou")
+        conexao, fila = entrou
+        return fluxo(fila, lambda: salas.sair(sala, conexao))
+
+    @app.post("/api/juntos/{sala}/comando")
+    async def comando_na_sala(sala: str, c: Comando):
+        estado = salas.comando(sala, c.acao, c.posicao, eu_mesmo(), c.conexao)
+        if estado is None:
+            raise HTTPException(404, "essa sala fechou")
+        return estado
+
+    @app.get("/api/aovivo")
+    async def ao_vivo():
+        """As salas abertas, ao vivo, para o convite "Fulano está assistindo"."""
+        n, fila = salas.ouvir()
+        return fluxo(fila, lambda: salas.parar_de_ouvir(n))
 
     @app.get("/api/turma")
     def turma():
