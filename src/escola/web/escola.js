@@ -452,7 +452,8 @@ function palco(i) {
     const pag = i.url.match(/#page=(\d+)/);
     return `<iframe class="pdf" src="${esc(i.pdf)}${pag ? `#page=${pag[1]}` : ""}" title="${esc(i.titulo)}"></iframe>`;
   }
-  return `<div class="fora"><p>Este material abre no site de origem${i.fonte ? ` (${esc(i.fonte)})` : ""}, numa aba nova.</p><a class="botao primario" href="${esc(i.url)}" target="_blank" rel="noopener">Abrir no site ${ICONE.fora}</a></div>`;
+  const aula = i.tipo === "aula";
+  return `<div class="fora"><p>${aula ? "Esta aula" : "Este material"} abre no site de origem${i.fonte ? ` (${esc(i.fonte)})` : ""}, numa aba nova.${aula ? " Assista lá e volte para concluir." : ""}</p><a class="botao primario" href="${esc(i.url)}" target="_blank" rel="noopener">${aula ? "Abrir a aula" : "Abrir no site"} ${ICONE.fora}</a></div>`;
 }
 
 function abrirFora(i) {
