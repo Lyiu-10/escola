@@ -28,9 +28,15 @@ def escola(tmp_path):
     (dados / "arquivos" / "etica" / "l1.pdf").write_bytes(b"%PDF-1.4 teste")
     app = criar_escola(montar(tmp_path / "cat"), dados, relogio=relogio)
     with TestClient(app) as cliente:
+        entrar(cliente)
         cliente.relogio = relogio
         yield cliente
     app.state.progresso.fechar()
+
+
+def entrar(cliente):
+    """Cada aparelho estuda num perfil; o primeiro criado já fica escolhido."""
+    cliente.post("/api/perfis", json={"nome": "Teste"})
 
 
 def continuar(escola):
@@ -122,6 +128,7 @@ def test_saude(escola):
 def test_catalogo_vazio_sobe_e_avisa(tmp_path):
     app = criar_escola(montar(tmp_path / "cat", materiais={}), tmp_path / "dados")
     with TestClient(app) as cliente:
+        entrar(cliente)
         d = cliente.get("/api/inicio").json()
     app.state.progresso.fechar()
     assert d["montando"] and d["continuar"] is None and d["plano"]["itens"] == []
@@ -136,6 +143,7 @@ def test_simulado_abre_so_com_o_proprio_gabarito(tmp_path):
     app = criar_escola(montar(tmp_path / "cat", materiais={**MATERIAIS, "provas-mb": simulados}, estrutura=estrutura),
                        tmp_path / "dados")
     with TestClient(app) as cliente:
+        entrar(cliente)
         d = cliente.get(f"/api/itens/{id_de('https://mb/2015-prova.pdf')}").json()
     app.state.progresso.fechar()
     assert [g["titulo"] for g in d["gabaritos"]] == ["Gabarito 2015"]
@@ -442,6 +450,7 @@ def test_questoes_de_prova_tomam_o_lugar_das_perguntas_da_aula(tmp_path):
     relogio = Relogio()
     app = criar_escola(montar(tmp_path / "cat", questoes=questoes), tmp_path / "dados", relogio=relogio)
     with TestClient(app) as escola:
+        entrar(escola)
         aula = id_de(a1)
         escola.post(f"/api/perguntas/{aula}", json={"marcadas": [1, 3]})  # respondeu as feitas da aula antes
         i = escola.get(f"/api/itens/{aula}").json()
@@ -469,6 +478,7 @@ def test_aula_sem_questao_de_prova_usa_as_escritas_no_estilo_da_banca(tmp_path):
                    for n in (1, 2, 3)]}
     app = criar_escola(montar(tmp_path / "cat", estilo=estilo), tmp_path / "dados", relogio=Relogio())
     with TestClient(app) as escola:
+        entrar(escola)
         i = escola.get(f"/api/itens/{id_de(a2)}").json()
         assert i["fixacao"]["alvo"] == f"estilo:{id_de(a2)}" and i["fixacao"]["questoes"][0]["estilo"] == "CP-T"
         assert i["fixacao"]["questoes"][0]["prova"] == "" and i["duracao"] == 40 + 3 * 2 + 1
@@ -541,6 +551,7 @@ def test_correcao_traz_por_que_cada_errada_esta_errada(tmp_path):
         json.dumps({q1.chave: ["Erra o a.", None, "Erra o c.", "Erra o d."], "chave-que-mudou": ["x"]}), encoding="utf-8")
     app = criar_escola(pasta, tmp_path / "dados", relogio=Relogio())
     with TestClient(app) as escola:
+        entrar(escola)
         r = escola.post(f"/api/perguntas/{id_de('https://www.youtube.com/watch?v=aula0000001')}",
                         json={"marcadas": [0, 0]}).json()
         assert [c["erradas"] for c in r["correcao"]] == [["Erra o a.", None, "Erra o c.", "Erra o d."], []]
@@ -583,6 +594,7 @@ def test_prazo_de_inscricao_vira_faixa_ate_ele_dizer_que_se_inscreveu(tmp_path):
     relogio = Relogio()
     app = criar_escola(montar(tmp_path / "cat", estrutura=estrutura), tmp_path / "dados", relogio=relogio)
     with TestClient(app) as escola:
+        entrar(escola)
         [p] = escola.get("/api/inicio").json()["prazos"]
         assert (p["concurso"]["sigla"], p["fim"], p["dias"], p["obs"], p["fonte"]) ==             ("CP-T", "2026-11-10", 17, "taxa de R$ 150 até 11/11", "https://marinha.mil.br/aviso.pdf")
         relogio.agora = datetime(2026, 10, 1, 12, 0)  # falta mais de um mês: ainda não incomoda
@@ -601,6 +613,7 @@ def test_uma_copia_do_progresso_por_dia_guarda_14_e_vai_ao_notebook(tmp_path):
     dados = tmp_path / "dados"
     app = criar_escola(montar(tmp_path / "cat"), dados, relogio=relogio, enviar_copia=enviadas.append)
     with TestClient(app) as escola:
+        entrar(escola)
         escola.post(f"/api/itens/{continuar(escola)}/estado", json={"estado": "feito"})
         escola.get("/api/inicio")  # a segunda vez no mesmo dia não copia de novo
         for _ in range(100):
@@ -614,7 +627,7 @@ def test_uma_copia_do_progresso_por_dia_guarda_14_e_vai_ao_notebook(tmp_path):
         for n in range(1, 17):
             relogio.agora = datetime(2026, 10, 24, 9, 0) + timedelta(days=n)
             escola.get("/api/inicio")
-        nomes = sorted(c.name for c in (dados / "copias").glob("progresso-*.db"))
+        nomes = sorted(c.name for c in (dados / "perfis" / "teste" / "copias").glob("progresso-*.db"))
         assert len(nomes) == 14 and nomes[0] == "progresso-2026-10-27.db" and nomes[-1] == "progresso-2026-11-09.db"
     app.state.progresso.fechar()
 
@@ -645,6 +658,7 @@ def test_simulado_comeca_guarda_o_rascunho_e_entrega_com_nota_por_materia(tmp_pa
     relogio = Relogio()
     app, sid = escola_com_simulado(tmp_path, relogio)
     with TestClient(app) as escola:
+        entrar(escola)
         s = escola.get(f"/api/simulados/{sid}").json()
         assert [x["enunciado"] for x in s["perguntas"]["questoes"]] == ["Simulado 1?", "Simulado 2?", "Simulado 5?"]
         assert s["numeros"] == [1, 2, 5] and s["redacao"] and s["minutos"] == 180
@@ -688,6 +702,7 @@ def test_texto_base_que_ficou_na_prova_vira_link_para_a_pagina(tmp_path):
     arq.write_text(json.dumps(bruto), encoding="utf-8")
     app = criar_escola(tmp_path / "cat", tmp_path / "dados2", relogio=relogio)
     with TestClient(app) as escola:
+        entrar(escola)
         q = escola.get(f"/api/simulados/{sid}").json()["perguntas"]["questoes"][0]
         assert q["texto"] == "" and q["texto_na_prova"] == {"pagina": 6, "url": "https://sspm.mil.br/cpt-2012.pdf"}
     app.state.progresso.fechar()
@@ -700,6 +715,7 @@ def test_o_guia_vem_com_o_texto_e_sem_pdf(tmp_path):
     (pasta / "guias" / "etica.md").write_text("## O sigilo\n\n| caso | regra |\n|---|---|\n| a | b |\n", encoding="utf-8")
     app = criar_escola(pasta, tmp_path / "dados", relogio=Relogio())
     with TestClient(app) as cliente:
+        entrar(cliente)
         g = cliente.get(f"/api/itens/{id_de('guia:etica')}").json()
         aula1 = cliente.get(f"/api/itens/{id_de('https://www.youtube.com/watch?v=aula0000001')}").json()
     app.state.progresso.fechar()

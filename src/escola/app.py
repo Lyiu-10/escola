@@ -20,14 +20,14 @@ from itertools import takewhile
 from pathlib import Path
 from typing import Annotated, Literal
 
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request, Response
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from . import caminho, catalogo, cronograma, rotina, situacao
 from .cronograma import Tarefa
-from .progresso import Progresso
+from .perfis import COOKIE, CORES, DaVez, Perfis, PorPerfil, perfil_da_vez
 
 WEB = Path(__file__).parent / "web"
 
@@ -55,7 +55,7 @@ RODADA = 10  # perguntas numa rodada do caderno de erros
 FIRMAR = 2  # dias diferentes, depois do último erro, em que ele precisa acertar para a pergunta sair do caderno
 HORARIO_LIVRE = "Horário livre"  # o bloco da Rotina que o início mostra
 PRAZO_DIAS = 30  # a inscrição que fecha nesse prazo vira faixa no início, até ele dizer que se inscreveu
-COPIA_REMOTA = "escola-progresso.db"  # cai na pasta do usuário do notebook
+COPIA_REMOTA = "escola-progresso-{}.db"  # uma por perfil, na pasta do usuário do notebook
 TIPO_RESPOSTAS = {"prova": "Simulado", "provinha": "Provinha"}  # o que ele respondeu num dia que já passou
 SEM_JANELA = getattr(subprocess, "CREATE_NO_WINDOW", 0)  # sem isto o scp abre um console
 
@@ -102,11 +102,22 @@ class Folha(BaseModel):
     marcadas: list[int | None] = Field(min_length=1, max_length=120)  # o simulado: None é a que ficou em branco
 
 
+class NovoPerfil(BaseModel):
+    nome: str = Field(max_length=60)  # o limite de verdade (20, sem os espaços sobrando) é do Perfis
+    cor: str | None = None
+
+
+class MudaPerfil(BaseModel):
+    nome: str | None = Field(None, max_length=60)
+    cor: str | None = None
+
+
 def enviar_ao_notebook(arquivo: Path) -> None:
-    """Leva a cópia do dia ao notebook-servidor pelo ssh da Thalia: se o disco do PC morrer, o progresso fica lá."""
+    """Leva a cópia do dia ao notebook-servidor pelo ssh da Thalia: se o disco do PC morrer, o progresso fica lá. A
+    cópia mora em perfis/<id>/copias/, e o id do perfil vai no nome do arquivo de lá."""
     try:
         r = subprocess.run(["scp", "-o", "ConnectTimeout=5", "-o", "BatchMode=yes", str(arquivo),
-                            f"notebook:{COPIA_REMOTA}"], capture_output=True, text=True, timeout=120,
+                            f"notebook:{COPIA_REMOTA.format(arquivo.parent.parent.name)}"], capture_output=True, text=True, timeout=120,
                            creationflags=SEM_JANELA)
     except (OSError, subprocess.TimeoutExpired) as e:
         log.warning("a cópia do progresso não foi ao notebook: %s", e)
@@ -123,7 +134,8 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     imagens = pasta_catalogo / "imagens"
     arq_creditos = imagens / "creditos.json"  # autor e licença de cada foto (todas livres, do Wikimedia Commons)
     creditos = json.loads(arq_creditos.read_text(encoding="utf-8")) if arq_creditos.is_file() else {}
-    prog = Progresso(dados / "progresso.db")
+    perfis = Perfis(dados, rotina_antiga=pasta_catalogo / "rotina.json")
+    prog = DaVez()  # o Progresso do perfil que fez o pedido (ver perfis.py)
     lugares = caminho.onde(cat)
     sequencias = {c.id: caminho.sequencia(cat, c) for c in cat.concursos}
 
@@ -141,7 +153,8 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     app.mount("/arquivos", StaticFiles(directory=arquivos), name="arquivos")
     if imagens.is_dir():
         app.mount("/imagens", StaticFiles(directory=imagens), name="imagens")
-    app.state.progresso = prog
+    app.add_middleware(PorPerfil, perfis=perfis)
+    app.state.progresso = perfis
 
     def hoje() -> date:
         """O dia da Escola vira às 4h: o estudo da madrugada ainda é da noite anterior, no plano, no aquecimento e no
@@ -519,11 +532,11 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
 
     def rotina_da_semana() -> dict | None:
         """A rotina.json com o estudo do Cronograma dentro. É lida a cada vez: um ajuste no arquivo vale sem reiniciar.
-        A rotina.json é de quem estuda e fica fora do repositório; sem ela, vale a rotina.exemplo.json."""
-        arq = pasta_catalogo / "rotina.json"
-        if not arq.is_file():
-            arq = pasta_catalogo / "rotina.exemplo.json"
-        return rotina.montar(json.loads(arq.read_text(encoding="utf-8")), prog.semana()) if arq.is_file() else None
+        Cada perfil tem a sua, na pasta dele; sem ela, vale a da instalação (escola/rotina.json, fora do repositório)
+        e, sem esta, a rotina.exemplo.json."""
+        arq = next((a for a in (perfis.pasta(perfil_da_vez()) / "rotina.json", pasta_catalogo / "rotina.json",
+                                pasta_catalogo / "rotina.exemplo.json") if a.is_file()), None)
+        return rotina.montar(json.loads(arq.read_text(encoding="utf-8")), prog.semana()) if arq else None
 
     def posicao(dados_item: dict) -> dict:
         """'Aula 3 de 12' na matéria, para o cartão do Continuar."""
@@ -586,7 +599,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     def guardar_copia() -> None:
         """Uma cópia do progresso por dia, na primeira vez que o início abre; a do dia também vai ao notebook."""
         try:
-            nova = prog.copiar(dados / "copias", hoje().isoformat())
+            nova = prog.copiar(perfis.pasta(perfil_da_vez()) / "copias", hoje().isoformat())
         except (OSError, sqlite3.Error):
             log.exception("não deu para copiar o progresso")
             return
@@ -611,6 +624,46 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     @app.get("/api/saude")
     def saude():
         return {"ok": True}
+
+    # ---------- Perfis: a escolha (como a da Netflix) e o Gerenciar; o cookie diz quem estuda neste aparelho ----------
+
+    def entrar_como(resposta: Response, pid: str) -> None:
+        resposta.set_cookie(COOKIE, pid, max_age=365 * 86400, httponly=True, samesite="lax")
+
+    @app.get("/api/perfis")
+    def listar_perfis(request: Request):
+        return {"perfis": perfis.todos(), "atual": perfis.achar(request.cookies.get(COOKIE)), "cores": list(CORES)}
+
+    @app.post("/api/perfis")
+    def novo_perfil(corpo: NovoPerfil, resposta: Response):
+        try:
+            perfil = perfis.criar(corpo.nome, corpo.cor)
+        except ValueError as e:
+            raise HTTPException(422, str(e)) from None
+        entrar_como(resposta, perfil["id"])
+        return perfil
+
+    @app.post("/api/perfis/sair")
+    def sair_do_perfil(resposta: Response):
+        resposta.delete_cookie(COOKIE)
+        return {"ok": True}
+
+    @app.post("/api/perfis/{pid}/entrar")
+    def entrar_no_perfil(pid: str, resposta: Response):
+        perfil = perfis.achar(pid)
+        if perfil is None:
+            raise HTTPException(404, "esse perfil não existe")
+        entrar_como(resposta, pid)
+        return perfil
+
+    @app.put("/api/perfis/{pid}")
+    def editar_perfil(pid: str, corpo: MudaPerfil):
+        try:
+            return perfis.editar(pid, corpo.nome, corpo.cor)
+        except KeyError:
+            raise HTTPException(404, "esse perfil não existe") from None
+        except ValueError as e:
+            raise HTTPException(422, str(e)) from None
 
     @app.get("/api/inicio")
     def api_inicio():

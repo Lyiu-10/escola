@@ -78,3 +78,81 @@ def test_migracao_leva_o_progresso_as_copias_e_a_rotina_para_o_principal(tmp_pat
     assert p.progresso("principal").estados()["aula-1"][0] == "feito"
     p.fechar()
     assert Perfis(tmp_path).todos()[0]["id"] == "principal"  # a segunda subida não migra de novo
+
+
+@pytest.fixture
+def app(tmp_path):
+    app = criar_escola(montar(tmp_path / "cat"), tmp_path / "dados")
+    yield app
+    app.state.progresso.fechar()
+
+
+def marcar_continuar(cliente) -> str:
+    item = cliente.get("/api/inicio").json()["continuar"]["id"]
+    cliente.post(f"/api/itens/{item}/estado", json={"estado": "feito"})
+    return item
+
+
+def test_sem_perfil_a_api_de_estudo_e_401_e_a_escolha_e_livre(app):
+    with TestClient(app) as c:
+        assert c.get("/api/inicio").status_code == 401
+        assert c.get("/").status_code == 200 and c.get("/api/saude").status_code == 200
+        assert c.get("/api/perfis").json() == {"perfis": [], "atual": None, "cores": list(CORES)}
+
+
+def test_criar_entra_e_cada_aparelho_ve_so_o_seu(app):
+    with TestClient(app) as ana, TestClient(app) as bia:
+        ana.post("/api/perfis", json={"nome": "Ana"})
+        bia.post("/api/perfis", json={"nome": "Bia"})
+        item = marcar_continuar(ana)
+        assert ana.get("/api/inicio").json()["continuar"]["id"] != item
+        assert bia.get("/api/inicio").json()["continuar"]["id"] == item  # a Bia ainda está no começo
+        assert ana.get("/api/perfis").json()["atual"]["id"] == "ana"
+
+
+def test_trocar_e_sair(app):
+    with TestClient(app) as c:
+        c.post("/api/perfis", json={"nome": "Ana"})
+        c.post("/api/perfis", json={"nome": "Bia"})
+        assert c.get("/api/perfis").json()["atual"]["id"] == "bia"
+        assert c.post("/api/perfis/ana/entrar").json()["nome"] == "Ana"
+        assert c.get("/api/perfis").json()["atual"]["id"] == "ana"
+        assert c.post("/api/perfis/ninguem/entrar").status_code == 404
+        c.post("/api/perfis/sair")
+        assert c.get("/api/inicio").status_code == 401
+
+
+def test_nome_repetido_e_editar(app):
+    with TestClient(app) as c:
+        c.post("/api/perfis", json={"nome": "Ana"})
+        r = c.post("/api/perfis", json={"nome": "ána"})
+        assert r.status_code == 422 and "nome" in r.json()["detail"]
+        assert c.put("/api/perfis/ana", json={"nome": "Ana Clara", "cor": CORES[2]}).json()["cor"] == CORES[2]
+        assert c.put("/api/perfis/ana", json={"cor": "#123456"}).status_code == 422
+        assert c.put("/api/perfis/ninguem", json={"nome": "X"}).status_code == 404
+
+
+def test_rotina_do_perfil_vale_antes_da_do_catalogo(tmp_path):
+    cat = montar(tmp_path / "cat")
+    (cat / "rotina.json").write_text(json.dumps({"grades": [], "regras": []}), encoding="utf-8")
+    app = criar_escola(cat, tmp_path / "dados")
+    with TestClient(app) as c:
+        c.post("/api/perfis", json={"nome": "Ana"})
+        assert c.get("/api/rotina").json()["grades"] == []  # sem rotina própria, vale a do catálogo
+        util = {"nome": "Segunda a sexta", "dias": [0, 1, 2, 3, 4], "blocos": [
+            {"inicio": "10:00", "fim": "1:00", "tipo": "livre", "titulo": "Livre"},
+            {"inicio": "1:00", "fim": "10:00", "tipo": "sono", "titulo": "Dormir"}]}
+        propria = tmp_path / "dados" / "perfis" / "ana" / "rotina.json"
+        propria.write_text(json.dumps({"grades": [util], "regras": []}), encoding="utf-8")
+        assert c.get("/api/rotina").json()["grades"][0]["nome"] == "Segunda a sexta"
+    app.state.progresso.fechar()
+
+
+def test_a_copia_vai_ao_notebook_com_o_id_do_perfil_no_nome(tmp_path, monkeypatch):
+    from escola import app as app_escola
+
+    chamadas = []
+    monkeypatch.setattr(app_escola.subprocess, "run",
+                        lambda cmd, **kw: chamadas.append(cmd) or type("R", (), {"returncode": 0})())
+    app_escola.enviar_ao_notebook(tmp_path / "perfis" / "ana" / "copias" / "progresso-2026-10-30.db")
+    assert chamadas[0][-1] == "notebook:escola-progresso-ana.db"
