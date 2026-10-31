@@ -36,6 +36,7 @@ const ICONE = {
   marcado: svg('<path d="M5 12.5l4.5 4.5L19 7.5"/>', 16),
   menos: svg('<path d="M6 12h12"/>', 16),
   mais: svg('<path d="M12 6v12M6 12h12"/>', 16),
+  coroa: svg('<path d="M3.5 8.5l4.5 3.8 4-6.8 4 6.8 4.5-3.8-2 10.5h-13z"/>'),
   caderno: svg('<path d="M6.5 3.5h11a1.5 1.5 0 0 1 1.5 1.5v14a1.5 1.5 0 0 1-1.5 1.5h-11z"/><path d="M6.5 3.5v17M4.5 8h4M4.5 12h4M4.5 16h4"/><path d="M11.5 9.5l4 4M15.5 9.5l-4 4"/>'),
 };
 const TIPO = { aula: "Aula", leitura: "Leitura", guia: "Guia", prova: "Simulado", revisao: "Revisão", redacao: "Redação", provinha: "Provinha" };
@@ -404,6 +405,7 @@ async function inicio() {
     : "";
 
   document.title = "Escola";
+  const placarCartao = d.placar ? cartaoPlacar(d.placar) : "";
   pagina.innerHTML = `
     ${aviso()}
     ${prazos}
@@ -418,6 +420,7 @@ async function inicio() {
       ${cartaoAquecimento(d.aquecimento, aquecer)}
       ${plano}
       <div class="lado-painel">
+        ${placarCartao}
         ${caderno}
         <section class="cursos-painel" aria-labelledby="t-cursos">
           <h2 id="t-cursos" class="titulo-secao">Meus cursos</h2>
@@ -2541,8 +2544,13 @@ function cartaoTurma(p, eu, n = null) {
   return `
     <li class="turma-cartao${voce ? " eu" : ""}${n === null ? "" : " perfis-entra"}"${n === null ? "" : ` style="--n: ${n}"`}>
       <div class="turma-topo">${avatar(p, "medio")}
-        <div><h2 class="turma-nome">${esc(p.nome)}${voce ? '<span class="selo-voce">você</span>' : ""}</h2>
+        <div><h2 class="turma-nome">${esc(p.nome)}${voce ? '<span class="selo-voce">você</span>' : ""}${p.coroa ? `<span class="coroa" title="Venceu a semana passada">${ICONE.coroa}<span class="so-leitor">venceu a semana passada</span></span>` : ""}</h2>
           <p class="meta">${p.concursos.map((c) => esc(c.sigla)).join(" · ")}</p></div>
+      </div>
+      <div class="turma-placar">
+        <span class="turma-posicao">${p.posicao}º</span>
+        <span class="turma-pontos"><strong>${p.pontos}</strong> pontos na semana</span>
+        <span class="foguinho${p.sequencia ? "" : " apagado"}" title="Dias seguidos de estudo">${ICONE.aquecimento}${p.sequencia}<span class="so-leitor"> ${p.sequencia === 1 ? "dia seguido" : "dias seguidos"}</span></span>
       </div>
       <p class="turma-agora">${p.agora ? `Agora: <strong>${titulo(p.agora.titulo)}</strong>, em ${esc(p.agora.materia)}` : "Terminou o caminho dos cursos que escolheu."}</p>
       <dl class="turma-numeros">
@@ -2551,11 +2559,26 @@ function cartaoTurma(p, eu, n = null) {
         <div><dt>Aulas concluídas</dt><dd>${p.concluidos}</dd></div>
         <div><dt>Questões</dt><dd>${p.questoes}${p.questoes ? ` <span class="meta">${pct(p.acertos, p.questoes)}% certas</span>` : ""}</dd></div>
       </dl>
-      <p class="meta">${p.ultimo ? `Último estudo: ${quando(p.ultimo)}` : "Ainda não estudou aqui."}</p>
+      <p class="meta">${p.ultimo ? `Último estudo: ${quando(p.ultimo)}` : "Ainda não estudou aqui."}${p.semanas_vencidas ? ` · ${p.semanas_vencidas} ${p.semanas_vencidas === 1 ? "semana vencida" : "semanas vencidas"}` : ""}</p>
     </li>`;
 }
 
-const SOBRE_HORAS = "As horas são uma estimativa: o tempo de cada aula concluída, mais 2 minutos por questão respondida.";
+const SOBRE_HORAS = "Horas e pontos são minutos estimados: o tempo da aula concluída e 2 por questão.";
+const SOBRE_PONTOS = "Os pontos zeram toda segunda, e neles cada questão conta uma vez. O foguinho conta os dias seguidos com 15 minutos ou mais; a folga não quebra.";
+
+// O placar do Início: a posição na semana e a distância para quem está logo acima (ou logo abaixo, para quem lidera).
+function cartaoPlacar(p) {
+  const frase = p.acima
+    ? (p.acima.pontos === p.pontos ? `Empatado com ${esc(p.acima.nome)}.` : `Você está ${p.acima.pontos - p.pontos} ${p.acima.pontos - p.pontos === 1 ? "ponto" : "pontos"} atrás de ${esc(p.acima.nome)}.`)
+    : p.abaixo && p.abaixo.pontos === p.pontos ? `Empatado com ${esc(p.abaixo.nome)}.`
+      : p.abaixo ? `Você está ${p.pontos - p.abaixo.pontos} ${p.pontos - p.abaixo.pontos === 1 ? "ponto" : "pontos"} na frente de ${esc(p.abaixo.nome)}.` : "";
+  return `<a class="caderno-atalho placar-atalho" href="#/turma">
+      <span class="caderno-icone placar-icone">${p.coroa ? ICONE.coroa : ICONE.aquecimento}</span>
+      <span class="caderno-texto"><span class="caderno-titulo">${p.posicao}º de ${p.total} na semana · ${p.pontos} pontos</span>
+        <span class="meta">${frase}${p.sequencia ? ` ${p.sequencia} ${p.sequencia === 1 ? "dia seguido" : "dias seguidos"}.` : ""}</span></span>
+      <span class="link-seta">Turma ${ICONE.seta}</span>
+    </a>`;
+}
 
 async function turmaTela() {
   const t = await api("/api/turma");
@@ -2563,9 +2586,9 @@ async function turmaTela() {
   pagina.innerHTML = `
     <header class="cabeca">
       <h1>Turma</h1>
-      <p class="sub largo">O estudo de cada um. ${SOBRE_HORAS}</p>
+      <p class="sub largo">O estudo de cada um. ${SOBRE_HORAS} ${SOBRE_PONTOS}</p>
     </header>
-    <ul class="turma-grade">${t.perfis.map((p) => cartaoTurma(p, t.eu)).join("")}</ul>`;
+    <ul class="turma-grade">${[...t.perfis].sort((a, b) => a.posicao - b.posicao).map((p) => cartaoTurma(p, t.eu)).join("")}</ul>`;
 }
 
 async function abrirPerfis(dados = null) {
@@ -2621,7 +2644,7 @@ async function verTurma() {
     <div class="perfis-centro">
       <h1 class="perfis-titulo perfis-entra" tabindex="-1">A turma</h1>
       <p class="perfis-sub perfis-entra">O estudo de cada um, sem entrar no perfil. ${SOBRE_HORAS}</p>
-      <ul class="turma-grade">${t.perfis.map((p, n) => cartaoTurma(p, t.eu, n + 1)).join("")}</ul>
+      <ul class="turma-grade">${[...t.perfis].sort((a, b) => a.posicao - b.posicao).map((p, n) => cartaoTurma(p, t.eu, n + 1)).join("")}</ul>
       <div class="perfis-acoes"><button class="botao" type="button" data-voltar>Voltar aos perfis</button></div>
     </div>`;
   camada.querySelector(".perfis-titulo").focus({ preventScroll: true });

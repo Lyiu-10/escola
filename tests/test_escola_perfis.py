@@ -182,3 +182,20 @@ def test_cor_padrao_e_a_primeira_que_ninguem_usa(tmp_path):
     p.criar("Ana", CORES[1])
     assert p.criar("Bia")["cor"] == CORES[0]
     assert p.criar("Caio")["cor"] == CORES[2]
+
+
+def test_placar_na_turma_e_no_inicio(app):
+    with TestClient(app) as ana, TestClient(app) as bia:
+        ana.post("/api/perfis", json={"nome": "Ana"})
+        assert ana.get("/api/inicio").json()["placar"] is None  # sozinha, sem placar
+        bia.post("/api/perfis", json={"nome": "Bia"})
+        aula1 = marcar_continuar(ana)  # 20 min
+        ana.post(f"/api/perguntas/{aula1}", json={"marcadas": [1, 0]})  # 2 questões: 4 pontos
+        ana.post(f"/api/perguntas/{aula1}", json={"marcadas": [1, 3]})  # a mesma lista de novo: não soma
+        a, b = ana.get("/api/turma").json()["perfis"]
+        assert (a["pontos"], a["posicao"], a["sequencia"]) == (24, 1, 1)
+        assert (b["pontos"], b["posicao"], b["sequencia"], b["coroa"], b["semanas_vencidas"]) == (0, 2, 0, False, 0)
+        assert a["questoes"] == 4  # o cartão conta todas as respostas (o tempo gasto); o placar, cada questão uma vez
+        p = bia.get("/api/inicio").json()["placar"]
+        assert (p["posicao"], p["total"], p["acima"], p["abaixo"]) == (2, 2, {"nome": "Ana", "pontos": 24}, None)
+        assert ana.get("/api/inicio").json()["placar"]["abaixo"] == {"nome": "Bia", "pontos": 0}

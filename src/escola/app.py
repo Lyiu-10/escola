@@ -25,7 +25,7 @@ from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
-from . import caminho, catalogo, cronograma, rotina, situacao
+from . import caminho, catalogo, cronograma, placar, rotina, situacao
 from .cronograma import Tarefa
 from .perfis import COOKIE, CORES, DaVez, Perfis, PorPerfil, perfil_da_vez
 
@@ -575,7 +575,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
                 "aquecimento": aquecimento_resumo(),
                 "caderno": {"total": len(erros), "para_hoje": sum(x["para_hoje"] for x in erros)},
                 "concursos": [resumo(c, est, sit) for c in cat.concursos],
-                "novidades": novidades(s), "prazos": prazos()}
+                "novidades": novidades(s), "prazos": prazos(), "placar": placar_inicio()}
 
     def prazos() -> list[dict]:
         """As inscrições que fecham nos próximos PRAZO_DIAS dias, dos concursos em que ele ainda não disse que se
@@ -675,6 +675,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
             segunda = hoje() - timedelta(days=hoje().weekday())
             na_semana = lambda em: (datetime.fromisoformat(em) - timedelta(hours=VIRADA)).date() >= segunda  # noqa: E731
             feitos = [(cat.itens[i], em) for i, (e, em) in est.items() if e == "feito" and i in cat.itens]
+            estudo = [(i, em) for i, em in feitos if i.tipo != "prova"]  # o simulado conta pelas questões
             questoes = sum(r["total"] for r in respostas)
             questoes_semana = sum(r["total"] for r in respostas if na_semana(r["em"]))
             datas = [em for _, em in feitos] + [r["em"] for r in respostas]
@@ -682,16 +683,59 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
                          None)
             return {**perfil, "concursos": [concurso_curto(c) for c in no_cronograma().concursos],
                     "agora": {"titulo": agora.item.titulo, "materia": agora.materia.nome} if agora else None,
-                    "minutos_total": sum(i.minutos for i, _ in feitos) + MIN_POR_QUESTAO * questoes,
-                    "minutos_semana": sum(i.minutos for i, em in feitos if na_semana(em))
+                    "minutos_total": sum(i.minutos for i, _ in estudo) + MIN_POR_QUESTAO * questoes,
+                    "minutos_semana": sum(i.minutos for i, em in estudo if na_semana(em))
                                       + MIN_POR_QUESTAO * questoes_semana,
                     "concluidos": len(feitos), "questoes": questoes,
                     "acertos": sum(r["acertos"] for r in respostas), "ultimo": max(datas)[:10] if datas else None}
 
+    def registros() -> placar.Registros:
+        """O que o perfil da vez fez, para o placar: as aulas, leituras e guias concluídos (o simulado conta pelas
+        questões) e cada questão respondida, como "alvo#posição"."""
+        aulas = [(datetime.fromisoformat(em), cat.itens[i].minutos) for i, (e, em) in prog.estados().items()
+                 if e == "feito" and i in cat.itens and cat.itens[i].tipo != "prova"]
+        questoes = [(datetime.fromisoformat(r["em"]), f"{r['alvo']}#{n}") for r in prog.respostas()
+                    for n in range(r["total"])]
+        return placar.Registros(aulas, questoes)
+
+    def placar_da_turma() -> dict[str, dict]:
+        """De cada perfil: os pontos da semana, a posição, a sequência, a coroa (venceu a semana passada) e quantas
+        semanas já venceu."""
+        regs, dias_de_estudo = {}, {}
+        for p in perfis.todos():
+            with perfis.usando(p["id"]):
+                regs[p["id"]] = registros()
+                dias_de_estudo[p["id"]] = set(prog.dias())
+        segunda = placar.segunda_de(hoje())
+        pontos = {pid: placar.pontos_da_semana(r, segunda) for pid, r in regs.items()}
+        passadas = placar.semanas(regs, hoje())
+        coroados = placar.vencedores(passadas.get(segunda - timedelta(days=7), {}))
+        ordem = sorted(pontos.values(), reverse=True)
+        return {pid: {"pontos": pontos[pid], "posicao": ordem.index(pontos[pid]) + 1,
+                      "sequencia": placar.sequencia(placar.pontos_por_dia(r), hoje(), dias_de_estudo[pid]),
+                      "coroa": pid in coroados,
+                      "semanas_vencidas": sum(pid in placar.vencedores(s) for s in passadas.values())}
+                for pid, r in regs.items()}
+
+    def placar_inicio() -> dict | None:
+        """O placar do Início, com dois perfis ou mais: a minha posição e quem está logo acima e logo abaixo."""
+        todos = perfis.todos()
+        eu = perfil_da_vez()
+        if len(todos) < 2 or eu is None:
+            return None
+        pl = placar_da_turma()
+        nomes = {p["id"]: p["nome"] for p in todos}
+        fila = sorted(pl, key=lambda pid: (-pl[pid]["pontos"], pid != eu))  # no empate, eu antes
+        i = fila.index(eu)
+        vizinho = lambda pid: {"nome": nomes[pid], "pontos": pl[pid]["pontos"]} if pid else None  # noqa: E731
+        return {**pl[eu], "total": len(todos), "acima": vizinho(fila[i - 1] if i else None),
+                "abaixo": vizinho(fila[i + 1] if i + 1 < len(fila) else None)}
+
     @app.get("/api/turma")
     def turma():
         """Os cartões de todos, para quem escolhe o perfil e para a aba Turma; `eu` é o deste aparelho."""
-        return {"eu": perfil_da_vez(), "perfis": [cartao(p) for p in perfis.todos()]}
+        pl = placar_da_turma()
+        return {"eu": perfil_da_vez(), "perfis": [{**cartao(p), **pl[p["id"]]} for p in perfis.todos()]}
 
     @app.get("/api/inicio")
     def api_inicio():
