@@ -28,7 +28,7 @@ _atual: ContextVar[tuple[str, Progresso] | None] = ContextVar("perfil", default=
 
 
 def chave(nome: str) -> str:
-    """O nome sem acento, sem maiúscula e sem espaço sobrando: "Péricles " e "pericles" são o mesmo nome."""
+    """O nome sem acento, sem maiúscula e sem espaço sobrando: "José " e "jose" são o mesmo nome."""
     sem_acento = unicodedata.normalize("NFKD", nome).encode("ascii", "ignore").decode()
     return " ".join(sem_acento.lower().split())
 

@@ -11,7 +11,7 @@ from escola.progresso import Progresso
 
 
 def test_chave_ignora_acento_maiuscula_e_espaco():
-    assert chave("  Péricles ") == chave("pericles") == "pericles"
+    assert chave("  José ") == chave("jose") == "jose"
 
 
 def test_criar_da_id_pelo_nome_e_o_primeiro_e_o_dono(tmp_path):
