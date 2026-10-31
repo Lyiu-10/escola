@@ -156,3 +156,22 @@ def test_a_copia_vai_ao_notebook_com_o_id_do_perfil_no_nome(tmp_path, monkeypatc
                         lambda cmd, **kw: chamadas.append(cmd) or type("R", (), {"returncode": 0})())
     app_escola.enviar_ao_notebook(tmp_path / "perfis" / "ana" / "copias" / "progresso-2026-10-30.db")
     assert chamadas[0][-1] == "notebook:escola-progresso-ana.db"
+
+
+def test_turma_mostra_os_numeros_de_cada_um_sem_precisar_entrar(app):
+    with TestClient(app) as ana, TestClient(app) as bia, TestClient(app) as visita:
+        ana.post("/api/perfis", json={"nome": "Ana"})
+        bia.post("/api/perfis", json={"nome": "Bia"})
+        aula1 = marcar_continuar(ana)  # a Aula 1, de 20 min
+        ana.post(f"/api/perguntas/{aula1}", json={"marcadas": [1, 0]})  # 2 questões, 1 certa: mais 4 min
+        t = visita.get("/api/turma").json()  # um aparelho sem perfil
+        assert t["eu"] is None
+        a, b = t["perfis"]
+        assert (a["nome"], a["concluidos"], a["questoes"], a["acertos"]) == ("Ana", 1, 2, 1)
+        assert (a["minutos_total"], a["minutos_semana"]) == (24, 24)
+        assert a["agora"] == {"titulo": "Leitura 1", "materia": "Legislação"} and a["ultimo"]
+        assert [c["sigla"] for c in a["concursos"]] == ["CP-T", "EsFCEx"]  # o de foco primeiro, como no catálogo
+        assert (b["concluidos"], b["minutos_total"], b["ultimo"]) == (0, 0, None)
+        assert b["agora"]["titulo"] == "Aula 1"
+        assert not {"caderno", "rotina", "notas", "respostas"} & set(a)
+        assert ana.get("/api/turma").json()["eu"] == "ana"

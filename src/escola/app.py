@@ -56,6 +56,7 @@ FIRMAR = 2  # dias diferentes, depois do último erro, em que ele precisa acerta
 HORARIO_LIVRE = "Horário livre"  # o bloco da Rotina que o início mostra
 PRAZO_DIAS = 30  # a inscrição que fecha nesse prazo vira faixa no início, até ele dizer que se inscreveu
 COPIA_REMOTA = "escola-progresso-{}.db"  # uma por perfil, na pasta do usuário do notebook
+MIN_POR_QUESTAO = 2  # a régua das horas do cartão da turma: os minutos de cada item concluído e 2 por questão
 TIPO_RESPOSTAS = {"prova": "Simulado", "provinha": "Provinha"}  # o que ele respondeu num dia que já passou
 SEM_JANELA = getattr(subprocess, "CREATE_NO_WINDOW", 0)  # sem isto o scp abre um console
 
@@ -664,6 +665,33 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
             raise HTTPException(404, "esse perfil não existe") from None
         except ValueError as e:
             raise HTTPException(422, str(e)) from None
+
+    def cartao(perfil: dict) -> dict:
+        """O que a turma vê de cada um sem entrar no perfil: os números do estudo, nada do caderno, das anotações ou
+        da Rotina. As horas são estimadas: os minutos de cada item concluído e MIN_POR_QUESTAO por questão."""
+        with perfis.usando(perfil["id"]):
+            est = prog.estados()
+            respostas = prog.respostas()
+            segunda = hoje() - timedelta(days=hoje().weekday())
+            na_semana = lambda em: (datetime.fromisoformat(em) - timedelta(hours=VIRADA)).date() >= segunda  # noqa: E731
+            feitos = [(cat.itens[i], em) for i, (e, em) in est.items() if e == "feito" and i in cat.itens]
+            questoes = sum(r["total"] for r in respostas)
+            questoes_semana = sum(r["total"] for r in respostas if na_semana(r["em"]))
+            datas = [em for _, em in feitos] + [r["em"] for r in respostas]
+            agora = next((p for p in caminho.caminho(no_cronograma(), est) if not cronograma.eh_de_prova(p.assunto.id)),
+                         None)
+            return {**perfil, "concursos": [concurso_curto(c) for c in no_cronograma().concursos],
+                    "agora": {"titulo": agora.item.titulo, "materia": agora.materia.nome} if agora else None,
+                    "minutos_total": sum(i.minutos for i, _ in feitos) + MIN_POR_QUESTAO * questoes,
+                    "minutos_semana": sum(i.minutos for i, em in feitos if na_semana(em))
+                                      + MIN_POR_QUESTAO * questoes_semana,
+                    "concluidos": len(feitos), "questoes": questoes,
+                    "acertos": sum(r["acertos"] for r in respostas), "ultimo": max(datas)[:10] if datas else None}
+
+    @app.get("/api/turma")
+    def turma():
+        """Os cartões de todos, para quem escolhe o perfil e para a aba Turma; `eu` é o deste aparelho."""
+        return {"eu": perfil_da_vez(), "perfis": [cartao(p) for p in perfis.todos()]}
 
     @app.get("/api/inicio")
     def api_inicio():
