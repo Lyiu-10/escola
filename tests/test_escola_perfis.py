@@ -175,3 +175,10 @@ def test_turma_mostra_os_numeros_de_cada_um_sem_precisar_entrar(app):
         assert b["agora"]["titulo"] == "Aula 1"
         assert not {"caderno", "rotina", "notas", "respostas"} & set(a)
         assert ana.get("/api/turma").json()["eu"] == "ana"
+
+
+def test_cor_padrao_e_a_primeira_que_ninguem_usa(tmp_path):
+    p = Perfis(tmp_path)
+    p.criar("Ana", CORES[1])
+    assert p.criar("Bia")["cor"] == CORES[0]
+    assert p.criar("Caio")["cor"] == CORES[2]

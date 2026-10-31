@@ -100,8 +100,9 @@ class Perfis:
             pid, n = base, 2
             while pid in ids:
                 pid, n = f"{base}-{n}", n + 1
-            perfil = {"id": pid, "nome": nome, "cor": cor or CORES[len(self._lista) % len(CORES)],
-                      "dono": not self._lista}
+            usadas = {p["cor"] for p in self._lista}
+            livre = next((c for c in CORES if c not in usadas), CORES[len(self._lista) % len(CORES)])
+            perfil = {"id": pid, "nome": nome, "cor": cor or livre, "dono": not self._lista}
             self._lista.append(perfil)
             self._guardar()
             return dict(perfil)

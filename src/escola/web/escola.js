@@ -89,6 +89,7 @@ const semanasEntre = (de, ate) => Math.floor((dataDe(ate) - dataDe(de)) / (7 * 8
 
 async function api(caminho, opcoes = {}) {
   const r = await fetch(caminho, { headers: { "Content-Type": "application/json" }, ...opcoes });
+  if (r.status === 401) { abrirPerfis(); throw new Error("401"); } // este aparelho não escolheu perfil (ou ele sumiu)
   if (!r.ok) throw new Error(String(r.status));
   return r.json();
 }
@@ -1924,7 +1925,7 @@ async function situacaoTela() {
   pagina.innerHTML = `
     <header class="cabeca">
       <h1>Situação dos concursos</h1>
-      <p class="sub largo">Toda semana eu procuro edital, inscrição e datas. Novidade aparece aqui, no Início e na <a href="${CENTRAL}">central da Thalia</a>.</p>
+      <p class="sub largo">Toda semana eu procuro edital, inscrição e datas. Novidade aparece aqui e no Início${perfilAtual?.dono ? `, e na <a href="${CENTRAL}">central da Thalia</a>` : ""}.</p>
       <p class="meta">${quando}</p>
       ${d.erro ? `<p class="erro" role="alert">A última busca não deu certo (${esc(d.erro)}). Ela tenta de novo amanhã às 10h.</p>` : ""}
     </header>
@@ -2500,6 +2501,254 @@ async function quadros(caixa, r) {
   atualizarConta();
 }
 
+/* ---------- Perfis e Turma ---------- */
+
+// Cada aparelho estuda num perfil (o cookie fica com o servidor). Sem perfil, a escolha cobre a tela, como na Netflix,
+// e a Escola só monta por trás depois que alguém escolhe. A Turma mostra o estudo de cada um sem entrar no perfil.
+const camada = document.getElementById("perfis");
+const painel = document.getElementById("painel-perfil");
+const botaoPerfil = document.getElementById("perfil-barra");
+const reduzido = matchMedia("(prefers-reduced-motion: reduce)");
+const NOMES_CORES = ["laranja", "verde", "roxo", "coral", "azul", "amarelo", "oliva", "rosa"]; // na ordem do servidor
+const MOVER = "cubic-bezier(.77, 0, .175, 1)"; // o avatar escolhido indo para o centro
+const SUMIR = "cubic-bezier(.23, 1, .32, 1)";
+let perfilAtual = null;
+let perfisDados = { perfis: [], cores: [] };
+let gerenciando = false;
+
+const inicial = (nome) => ([...String(nome).trim()][0] || "?").toUpperCase();
+const avatar = (p, classe = "") => `<span class="avatar ${classe}" style="--cor: ${esc(p.cor)}" aria-hidden="true">${esc(inicial(p.nome))}</span>`;
+
+function mostrarPerfil(p) {
+  perfilAtual = p;
+  botaoPerfil.hidden = false;
+  botaoPerfil.querySelector(".avatar").outerHTML = avatar(p, "mini");
+  botaoPerfil.querySelector(".perfil-barra-nome").textContent = p.nome;
+  botaoPerfil.setAttribute("aria-label", `${p.nome}: trocar de perfil`);
+  document.querySelector(".volta-thalia").hidden = !p.dono; // a Thalia é de quem instalou
+}
+botaoPerfil.addEventListener("click", () => abrirPerfis());
+
+// "hoje", "ontem", "há 3 dias"; o dia vira às 4h, como no servidor.
+function quando(iso) {
+  const d = new Date(Date.now() - 4 * 36e5);
+  const dias = Math.round((new Date(d.getFullYear(), d.getMonth(), d.getDate()) - dataDe(iso)) / 864e5);
+  return dias <= 0 ? "hoje" : dias === 1 ? "ontem" : dias < 7 ? `há ${dias} dias` : `em ${dataCurta(iso)}`;
+}
+
+function cartaoTurma(p, eu, n = null) {
+  const voce = p.id === eu;
+  return `
+    <li class="turma-cartao${voce ? " eu" : ""}${n === null ? "" : " perfis-entra"}"${n === null ? "" : ` style="--n: ${n}"`}>
+      <div class="turma-topo">${avatar(p, "medio")}
+        <div><h2 class="turma-nome">${esc(p.nome)}${voce ? '<span class="selo-voce">você</span>' : ""}</h2>
+          <p class="meta">${p.concursos.map((c) => esc(c.sigla)).join(" · ")}</p></div>
+      </div>
+      <p class="turma-agora">${p.agora ? `Agora: <strong>${titulo(p.agora.titulo)}</strong>, em ${esc(p.agora.materia)}` : "Terminou o caminho dos cursos que escolheu."}</p>
+      <dl class="turma-numeros">
+        <div><dt>Nesta semana</dt><dd>${tempo(p.minutos_semana)}</dd></div>
+        <div><dt>No total</dt><dd>${tempo(p.minutos_total)}</dd></div>
+        <div><dt>Aulas concluídas</dt><dd>${p.concluidos}</dd></div>
+        <div><dt>Questões</dt><dd>${p.questoes}${p.questoes ? ` <span class="meta">${pct(p.acertos, p.questoes)}% certas</span>` : ""}</dd></div>
+      </dl>
+      <p class="meta">${p.ultimo ? `Último estudo: ${quando(p.ultimo)}` : "Ainda não estudou aqui."}</p>
+    </li>`;
+}
+
+const SOBRE_HORAS = "As horas são uma estimativa: o tempo de cada aula concluída, mais 2 minutos por questão respondida.";
+
+async function turmaTela() {
+  const t = await api("/api/turma");
+  document.title = "Turma · Escola";
+  pagina.innerHTML = `
+    <header class="cabeca">
+      <h1>Turma</h1>
+      <p class="sub largo">O estudo de cada um. ${SOBRE_HORAS}</p>
+    </header>
+    <ul class="turma-grade">${t.perfis.map((p) => cartaoTurma(p, t.eu)).join("")}</ul>`;
+}
+
+async function abrirPerfis(dados = null) {
+  if (!camada.hidden) return; // vários pedidos podem dar 401 ao mesmo tempo
+  camada.hidden = false;
+  app.inert = true; // a Escola por trás não recebe foco nem clique enquanto a escolha cobre a tela
+  document.body.classList.add("com-perfis");
+  menu(false);
+  gerenciando = false;
+  try {
+    await desenharEscolha({ dados });
+  } catch {
+    camada.innerHTML = '<p class="erro" role="alert">A Escola não respondeu. Se o PC acabou de ligar, espere um minuto e recarregue a página.</p>';
+  }
+}
+
+function fecharPerfis() {
+  camada.getAnimations({ subtree: true }).forEach((a) => a.cancel());
+  camada.hidden = true;
+  camada.classList.remove("indo");
+  camada.innerHTML = "";
+  document.body.classList.remove("com-perfis");
+  app.inert = false;
+  pagina.focus({ preventScroll: true });
+}
+
+async function desenharEscolha({ dados = null, entrar = true } = {}) {
+  const d = dados || await api("/api/perfis");
+  perfisDados = d;
+  const anima = entrar ? "perfis-entra" : "";
+  const lapis = `<span class="perfil-lapis">${svg('<path d="M14.5 4.5l5 5L9 20H4v-5z"/><path d="M12.5 6.5l5 5"/>', 30)}</span>`;
+  camada.innerHTML = `
+    <div class="perfis-centro">
+      <h1 class="perfis-titulo ${anima}" tabindex="-1">${gerenciando ? "Gerenciar perfis" : "Quem está estudando?"}</h1>
+      ${d.perfis.length ? "" : `<p class="perfis-sub ${anima}">Cada pessoa tem o seu progresso, o seu Cronograma e a sua Rotina. Comece criando o seu.</p>`}
+      <ul class="perfis-lista" aria-label="Perfis">${d.perfis.map((p, n) => `
+        <li class="${anima}" style="--n: ${n + 1}"><button class="perfil" type="button" data-id="${esc(p.id)}"${gerenciando ? ` aria-label="Editar ${esc(p.nome)}"` : ""}>
+          <span class="perfil-rosto">${avatar(p)}${gerenciando ? lapis : ""}</span><span class="perfil-nome">${esc(p.nome)}</span></button></li>`).join("")}
+        ${gerenciando ? "" : `<li class="${anima}" style="--n: ${d.perfis.length + 1}"><button class="perfil" type="button" data-novo>
+          <span class="perfil-rosto"><span class="avatar vazio" aria-hidden="true">+</span></span><span class="perfil-nome">Novo perfil</span></button></li>`}
+      </ul>
+      <div class="perfis-acoes ${anima}" style="--n: ${d.perfis.length + 2}">
+        ${d.perfis.length ? `<button class="botao" type="button" data-gerenciar>${gerenciando ? "Pronto" : "Gerenciar perfis"}</button>` : ""}
+        ${d.perfis.length && !gerenciando ? '<button class="link-botao" type="button" data-turma>Ver a turma</button>' : ""}
+      </div>
+    </div>`;
+  camada.querySelector(".perfis-titulo").focus({ preventScroll: true });
+}
+
+async function verTurma() {
+  const t = await api("/api/turma");
+  camada.innerHTML = `
+    <div class="perfis-centro">
+      <h1 class="perfis-titulo perfis-entra" tabindex="-1">A turma</h1>
+      <p class="perfis-sub perfis-entra">O estudo de cada um, sem entrar no perfil. ${SOBRE_HORAS}</p>
+      <ul class="turma-grade">${t.perfis.map((p, n) => cartaoTurma(p, t.eu, n + 1)).join("")}</ul>
+      <div class="perfis-acoes"><button class="botao" type="button" data-voltar>Voltar aos perfis</button></div>
+    </div>`;
+  camada.querySelector(".perfis-titulo").focus({ preventScroll: true });
+}
+
+// A escolha: o avatar vai para o centro e cresce, o resto some, e a camada se desfaz sobre a Escola, que já montou
+// por trás. Com movimento reduzido, só a camada some.
+function irAoCentro(botao) {
+  if (reduzido.matches) return camada.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 200, easing: "ease", fill: "forwards" }).finished;
+  const rosto = botao.querySelector(".avatar");
+  const r = rosto.getBoundingClientRect();
+  const dx = innerWidth / 2 - (r.left + r.width / 2);
+  const dy = innerHeight / 2 - (r.top + r.height / 2);
+  const agora = getComputedStyle(rosto).transform;
+  camada.querySelectorAll(".perfis-titulo, .perfis-sub, .perfis-acoes, .perfis-lista li").forEach((el) => {
+    if (!el.contains(botao)) el.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 200, easing: SUMIR, fill: "forwards" });
+  });
+  botao.querySelector(".perfil-nome").animate([{ opacity: 1 }, { opacity: 0 }], { duration: 160, easing: SUMIR, fill: "forwards" });
+  rosto.animate([{ transform: agora === "none" ? "none" : agora }, { transform: `translate(${dx}px, ${dy}px) scale(1.5)` }],
+    { duration: 380, easing: MOVER, fill: "forwards" });
+  return camada.animate([{ opacity: 1 }, { opacity: 0 }], { duration: 240, delay: 280, easing: SUMIR, fill: "forwards" }).finished;
+}
+
+async function escolher(botao, perfil = null) {
+  if (camada.classList.contains("indo")) return; // um toque só
+  camada.classList.add("indo");
+  try {
+    const p = perfil || await enviar(`/api/perfis/${encodeURIComponent(botao.dataset.id)}/entrar`, "POST", {});
+    mostrarPerfil(p);
+    await Promise.all([irAoCentro(botao), render()]);
+    fecharPerfis();
+  } catch {
+    camada.classList.remove("indo");
+    camada.getAnimations({ subtree: true }).forEach((a) => a.cancel());
+  }
+}
+
+function editarPerfil(pid) {
+  const d = perfisDados;
+  const usadas = new Set(d.perfis.map((x) => x.cor));
+  const p = pid ? d.perfis.find((x) => x.id === pid) : { nome: "", cor: d.cores.find((c) => !usadas.has(c)) || d.cores[0] };
+  painel.innerHTML = `
+    <form class="painel-form" novalidate>
+      ${avatar(p)}
+      <h2 id="painel-titulo">${pid ? "Editar perfil" : "Novo perfil"}</h2>
+      <label class="campo-nome">Nome<input name="nome" maxlength="20" autocomplete="off" spellcheck="false" value="${esc(p.nome)}"></label>
+      <fieldset class="cores"><legend>Cor</legend>${d.cores.map((c, n) => `
+        <label class="cor"><input type="radio" name="cor" value="${esc(c)}"${c === p.cor ? " checked" : ""}><span class="cor-amostra" style="--cor: ${esc(c)}"></span><span class="so-leitor">${NOMES_CORES[n] || `cor ${n + 1}`}</span></label>`).join("")}
+      </fieldset>
+      <p class="erro" role="alert" hidden></p>
+      <div class="painel-acoes">
+        <button class="botao primario" type="submit">${pid ? "Salvar" : "Criar e entrar"}</button>
+        <button class="link-botao" type="button" data-cancelar>Cancelar</button>
+      </div>
+    </form>`;
+  const form = painel.querySelector("form");
+  const previa = form.querySelector(".avatar");
+  form.addEventListener("input", () => {
+    previa.textContent = inicial(form.nome.value);
+    previa.style.setProperty("--cor", form.cor.value);
+  });
+  form.querySelector("[data-cancelar]").addEventListener("click", () => painel.close());
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const salvar = form.querySelector("[type=submit]");
+    const msg = form.querySelector(".erro");
+    salvar.disabled = true;
+    let r;
+    try {
+      r = await fetch(pid ? `/api/perfis/${encodeURIComponent(pid)}` : "/api/perfis", {
+        method: pid ? "PUT" : "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ nome: form.nome.value, cor: form.cor.value }) });
+    } catch { r = null; }
+    salvar.disabled = false;
+    if (!r?.ok) {
+      const detalhe = r?.status === 422 ? (await r.json()).detail : null;
+      msg.textContent = typeof detalhe === "string" ? detalhe : r?.status === 422 ? "O nome precisa ter de 1 a 20 letras." : "Não deu para salvar. Tente de novo.";
+      msg.hidden = false;
+      form.nome.focus();
+      return;
+    }
+    const salvo = await r.json();
+    painel.close();
+    if (pid) {
+      if (perfilAtual?.id === pid) mostrarPerfil(salvo);
+      await desenharEscolha({ entrar: false });
+      camada.querySelector(`[data-id="${CSS.escape(pid)}"]`)?.focus();
+      return;
+    }
+    gerenciando = false; // o perfil novo já entrou (o servidor pôs o cookie): ele vai para o centro como numa escolha
+    await desenharEscolha({ entrar: false });
+    escolher(camada.querySelector(`[data-id="${CSS.escape(salvo.id)}"]`), salvo);
+  });
+  painel.showModal();
+  form.nome.focus();
+}
+
+camada.addEventListener("click", (e) => {
+  const b = e.target.closest("button");
+  if (!b || camada.classList.contains("indo")) return;
+  if ("novo" in b.dataset) editarPerfil(null);
+  else if ("gerenciar" in b.dataset) { gerenciando = !gerenciando; desenharEscolha({ entrar: false }); }
+  else if ("turma" in b.dataset) verTurma();
+  else if ("voltar" in b.dataset) desenharEscolha({ entrar: false });
+  else if (b.dataset.id) { if (gerenciando) editarPerfil(b.dataset.id); else escolher(b); }
+});
+
+// Setas andam entre os perfis, como num controle de TV; Enter escolhe (é um botão).
+camada.addEventListener("keydown", (e) => {
+  if (!["ArrowLeft", "ArrowRight", "ArrowUp", "ArrowDown"].includes(e.key)) return;
+  const botoes = [...camada.querySelectorAll(".perfil")];
+  if (!botoes.length) return;
+  e.preventDefault();
+  const i = botoes.indexOf(document.activeElement);
+  const passo = e.key === "ArrowLeft" || e.key === "ArrowUp" ? -1 : 1;
+  botoes[i < 0 ? 0 : (i + passo + botoes.length) % botoes.length].focus();
+});
+
+async function iniciar() {
+  try {
+    const d = await api("/api/perfis");
+    if (!d.atual) { abrirPerfis(d); return; }
+    mostrarPerfil(d.atual);
+  } catch { /* o render mostra o erro */ }
+  render();
+}
+
 /* ---------- Rotas ---------- */
 
 async function render() {
@@ -2507,7 +2756,7 @@ async function render() {
   menu(false);
   const [, rota, a, b] = location.hash.split("/");
   const cid = rota === "concurso" ? a : rota === "item" ? b : null;
-  atualizarBarra(rota === "quadros" ? "rotina" : ["cronograma", "rotina", "erros", "situacao"].includes(rota) ? rota : rota ? "" : "inicio", cid);
+  atualizarBarra(rota === "quadros" ? "rotina" : ["cronograma", "rotina", "erros", "situacao", "turma"].includes(rota) ? rota : rota ? "" : "inicio", cid);
   try {
     if (rota === "item" && a) await item(a, b);
     else if (rota === "concurso" && a) await concurso(a, b);
@@ -2519,8 +2768,10 @@ async function render() {
     else if (rota === "erros") await cadernoTela();
     else if (rota === "aquecimento") await aquecimentoTela();
     else if (rota === "situacao") await situacaoTela();
+    else if (rota === "turma") await turmaTela();
     else await inicio();
   } catch (e) {
+    if (e.message === "401") return; // a escolha de perfil já cobriu a tela
     document.title = "Escola";
     pagina.innerHTML = `<p class="erro" role="alert">${e.message === "404"
       ? "Isso não existe mais no catálogo."
@@ -2532,4 +2783,4 @@ async function render() {
 }
 
 addEventListener("hashchange", render);
-render();
+iniciar();
