@@ -11,6 +11,10 @@ O que tem:
 - **Turma:** o cartão de cada perfil (o que está estudando agora, horas na semana e no total, aulas concluídas,
   questões e acerto), que dá para ver sem entrar no perfil dos outros. As horas são estimadas: o tempo de cada aula
   concluída mais 2 minutos por questão.
+- **Placar da semana:** pontos por esforço (o minuto de aula concluída vale 1, a questão vale 2 e conta uma vez na
+  semana), a sequência de dias com 15 minutos ou mais (a folga não quebra) e a coroa de quem venceu a semana passada.
+- **Assistir junto:** numa aula em vídeo, "Assistir junto" abre uma sala; quem está com a Escola aberta recebe o
+  convite, e play, pausa e pulo de um valem para todos (o volume é de cada um).
 - **Aulas em ordem:** vídeos e leituras grátis, por matéria e assunto, com o que cada edital cobra.
 - **Guias:** o que as aulas grátis não ensinam e a banca cobra (`escola/guias/`).
 - **Questões reais de prova** em cada aula, com a prova de origem ("CP-T 2024") e o porquê de cada alternativa

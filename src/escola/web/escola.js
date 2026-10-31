@@ -970,7 +970,7 @@ async function item(id, cid) {
         </header>
         <div class="acoes">
           <div class="acoes-andar">${ant}${concluir}${prox}</div>
-          <div class="acoes-mais">${depois}${abrirFora(i)}</div>
+          <div class="acoes-mais">${depois}${botaoJuntos(i)}${abrirFora(i)}</div>
         </div>
         ${i.nota || (i.tambem.length && !i.guia) ? `<div class="sobre-item">
           ${i.nota ? `<p class="nota">${esc(i.nota)}</p>` : ""}
@@ -983,11 +983,13 @@ async function item(id, cid) {
       ${listaDaMateria(i)}
     </div>`;
   pagina.querySelector(".item-lista.atual")?.scrollIntoView({ block: "nearest" });
+  ligarJuntos(i);
   if (i.fixacao) {
     // "Ver no vídeo" começa 5 s antes: a legenda marca a fala um pouco depois de ela começar
     const ir = (onde) => {
       const video = pagina.querySelector(".video iframe");
       const pdf = pagina.querySelector("iframe.pdf");
+      if (juntos) { juntos.player.seekTo(Math.max(0, onde - 5), true); juntos.player.playVideo(); pagina.querySelector(".video").scrollIntoView({ block: "center" }); return; }
       if (video) video.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(i.youtube)}?rel=0&autoplay=1&start=${Math.max(0, onde - 5)}`;
       else if (pdf) pdf.src = `${i.pdf}?v=${Date.now()}#page=${onde}`;
       else { window.open(`${i.url.split("#")[0]}#page=${onde}`, "_blank", "noopener"); return; }
@@ -2504,6 +2506,161 @@ async function quadros(caixa, r) {
   atualizarConta();
 }
 
+/* ---------- Assistir junto ---------- */
+
+// Uma sala por vídeo, no servidor. Play, pausa e pulo de um vão a todos pelo fluxo da sala; o volume é de cada um.
+// O player vira o do YouTube com a API ligada só quando a pessoa entra na sala.
+let aoVivo = null; // o fluxo das salas abertas, para o convite
+let salasAbertas = [];
+let juntos = null; // { sala, fonte, player, conexao, tocandoSala, aplicando, seguindoAte }
+let entrarNaSala = null; // o vídeo pedido pelo convite: a aula entra na sala quando abrir
+const dispensadas = new Set();
+const convite = document.getElementById("convite-juntos");
+const ICONE_FECHAR = svg('<path d="M6 6l12 12M18 6L6 18"/>', 18);
+const SEGUIR_MS = 15000; // o play que vem logo depois de um comando dos outros é obediência (ou a volta do anúncio)
+const TOLERANCIA = 1.5; // segundos de diferença antes de pular para o ponto da sala
+
+function ouvirAoVivo() {
+  aoVivo?.close();
+  aoVivo = new EventSource("/api/aovivo");
+  aoVivo.addEventListener("salas", (e) => { salasAbertas = JSON.parse(e.data).salas; mostrarConvite(); });
+}
+
+function mostrarConvite() {
+  const eu = perfilAtual?.id;
+  [...dispensadas].forEach((k) => { if (!salasAbertas.some((s) => s.sala === k)) dispensadas.delete(k); });
+  const s = salasAbertas.find((x) => x.membros.length && !x.membros.some((m) => m.id === eu) && !dispensadas.has(x.sala));
+  if (!s || !eu) { convite.hidden = true; return; }
+  const quem = s.membros.find((m) => m.id === s.aberta_por.id) || s.membros[0];
+  const mais = s.membros.length > 1 ? ` e mais ${s.membros.length - 1}` : "";
+  convite.innerHTML = `${avatar(quem, "mini")}
+    <p><strong>${esc(quem.nome)}</strong>${mais} ${s.membros.length > 1 ? "estão" : "está"} assistindo <strong>${titulo(s.titulo)}</strong>.</p>
+    <button class="botao pequeno primario" type="button" data-entrar-sala>Entrar junto</button>
+    <button class="botao-fechar" type="button" data-dispensar title="Dispensar">${ICONE_FECHAR}<span class="so-leitor">Dispensar o convite</span></button>`;
+  convite.dataset.sala = s.sala;
+  convite.dataset.item = s.item;
+  convite.hidden = false;
+}
+
+convite.addEventListener("click", (e) => {
+  const sala = convite.dataset.sala;
+  if (e.target.closest("[data-dispensar]")) { dispensadas.add(sala); mostrarConvite(); return; }
+  if (!e.target.closest("[data-entrar-sala]")) return;
+  dispensadas.add(sala);
+  convite.hidden = true;
+  entrarNaSala = convite.dataset.item;
+  if (location.hash.split("/")[2] === entrarNaSala) render();
+  else location.hash = `#/item/${entrarNaSala}`;
+});
+
+function botaoJuntos(i) {
+  if (!i.youtube) return "";
+  const s = salasAbertas.find((x) => x.item === i.id && x.membros.length);
+  return `<button class="link-botao" type="button" data-juntos>${s ? `Entrar na sala (${s.membros.length} assistindo)` : "Assistir junto"}</button>`;
+}
+
+function ligarJuntos(i) {
+  const b = pagina.querySelector("[data-juntos]");
+  if (!b) return;
+  b.addEventListener("click", () => juntarSe(i));
+  if (entrarNaSala === i.id) { entrarNaSala = null; juntarSe(i); }
+}
+
+let ytPronto = null;
+function apiDoYouTube() {
+  ytPronto ||= new Promise((pronto) => {
+    window.onYouTubeIframeAPIReady = pronto;
+    document.head.append(Object.assign(document.createElement("script"), { src: "https://www.youtube.com/iframe_api" }));
+  });
+  return ytPronto;
+}
+
+// O iframe precisa da API ligada: troca o src (o vídeo recomeça, e a sala diz onde parar) e embrulha no YT.Player.
+async function playerDaSala(iframe, video) {
+  await apiDoYouTube();
+  iframe.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(video)}?rel=0&enablejsapi=1&origin=${encodeURIComponent(location.origin)}`;
+  return new Promise((pronto) => {
+    const p = new YT.Player(iframe, { events: { onReady: () => pronto(p), onStateChange: (e) => mudouAqui(e.data) } });
+  });
+}
+
+async function juntarSe(i) {
+  const caixa = pagina.querySelector(".video");
+  if (!caixa || juntos?.sala === i.id) return;
+  const botao = pagina.querySelector("[data-juntos]");
+  if (botao) botao.disabled = true;
+  try {
+    const s = await enviar("/api/juntos", "POST", { item: i.id });
+    caixa.insertAdjacentHTML("beforebegin", `
+      <div class="juntos-barra" role="status">
+        <span class="juntos-ao-vivo">Assistindo junto</span>
+        <span class="juntos-membros"></span>
+        <button class="link-botao" type="button" data-sair-sala>Sair da sala</button>
+      </div>`);
+    pagina.querySelector("[data-sair-sala]").addEventListener("click", () => { sairDaSala(); render(); });
+    botao?.remove();
+    const player = await playerDaSala(caixa.querySelector("iframe"), i.youtube);
+    const fonte = new EventSource(`/api/juntos/${encodeURIComponent(s.sala)}/fluxo`);
+    juntos = { sala: s.sala, fonte, player, conexao: null, tocandoSala: s.tocando, aplicando: 0, seguindoAte: 0 };
+    fonte.addEventListener("entrou", (e) => { const d = JSON.parse(e.data); juntos.conexao = d.conexao; mostrarMembros(d.membros); obedecer(d); });
+    fonte.addEventListener("comando", (e) => obedecer(JSON.parse(e.data)));
+    fonte.addEventListener("membros", (e) => mostrarMembros(JSON.parse(e.data).membros));
+    fonte.addEventListener("fechada", () => { sairDaSala(); falar("A sala fechou."); });
+    fonte.addEventListener("error", () => { if (fonte.readyState === EventSource.CLOSED) { sairDaSala(); falar("A sala fechou."); } });
+    mostrarConvite();
+  } catch {
+    if (botao) botao.disabled = false;
+    erro("Não deu para abrir a sala. Confira se a Escola está ligada e tente de novo.");
+  }
+}
+
+function sairDaSala() {
+  if (!juntos) return;
+  juntos.fonte.close();
+  juntos = null;
+  pagina.querySelector(".juntos-barra")?.remove();
+  mostrarConvite();
+}
+
+function mostrarMembros(lista) {
+  const el = pagina.querySelector(".juntos-membros");
+  if (!el) return;
+  el.innerHTML = `<span class="juntos-rostos">${lista.map((m) => avatar(m, "mini")).join("")}</span>
+    <span class="meta">${lista.map((m) => esc(m.nome)).join(", ")}</span>`;
+}
+
+// Um comando dos outros (ou o estado de quando entrei): pula se a diferença passa da tolerância, depois toca ou pausa.
+function obedecer(d) {
+  const j = juntos;
+  if (!j) return;
+  j.tocandoSala = d.tocando;
+  j.aplicando = Date.now() + 800; // os avisos do player nesse meio-tempo são efeito do comando, não da pessoa
+  if (d.tocando) j.seguindoAte = Date.now() + SEGUIR_MS;
+  if (Math.abs(j.player.getCurrentTime() - d.posicao) > TOLERANCIA) j.player.seekTo(d.posicao, true);
+  if (d.tocando) j.player.playVideo();
+  else j.player.pauseVideo();
+  if (d.por) falar(`${d.por} ${d.tocando ? "deu play" : "pausou"}.`);
+}
+
+function mudouAqui(estado) {
+  const j = juntos;
+  if (!j || Date.now() < j.aplicando) return;
+  if (estado === YT.PlayerState.PAUSED) mandar("pause");
+  else if (estado === YT.PlayerState.PLAYING) {
+    // Voltou do anúncio ou do carregamento enquanto a sala toca: segue a sala, sem puxar os outros para trás.
+    if (j.tocandoSala && Date.now() < j.seguindoAte) { api(`/api/juntos/${encodeURIComponent(j.sala)}`).then(obedecer).catch(() => {}); return; }
+    mandar("play");
+  }
+}
+
+function mandar(acao) {
+  const j = juntos;
+  j.tocandoSala = acao === "play";
+  j.seguindoAte = 0;
+  enviar(`/api/juntos/${encodeURIComponent(j.sala)}/comando`, "POST", { acao, posicao: j.player.getCurrentTime(), conexao: j.conexao })
+    .catch(() => erro("A sala não recebeu o comando. Ela pode ter fechado."));
+}
+
 /* ---------- Perfis e Turma ---------- */
 
 // Cada aparelho estuda num perfil (o cookie fica com o servidor). Sem perfil, a escolha cobre a tela, como na Netflix,
@@ -2529,6 +2686,7 @@ function mostrarPerfil(p) {
   botaoPerfil.querySelector(".perfil-barra-nome").textContent = p.nome;
   botaoPerfil.setAttribute("aria-label", `${p.nome}: trocar de perfil`);
   document.querySelector(".volta-thalia").hidden = !p.dono; // a Thalia é de quem instalou
+  ouvirAoVivo(); // o fluxo das salas é por perfil: troca junto
 }
 botaoPerfil.addEventListener("click", () => abrirPerfis());
 
@@ -2776,6 +2934,7 @@ async function iniciar() {
 
 async function render() {
   if (relogio) { clearInterval(relogio); relogio = null; }
+  sairDaSala(); // mudar de tela é sair da sala do vídeo
   menu(false);
   const [, rota, a, b] = location.hash.split("/");
   const cid = rota === "concurso" ? a : rota === "item" ? b : null;
