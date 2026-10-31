@@ -99,6 +99,7 @@ class Concurso:
     foto: str = ""  # o arquivo em escola/imagens/
     sobre: tuple[dict, ...] = ()  # {"rotulo", "valor", "fonte"}: salário, onde é o curso, etapas...
     cronograma_ultimo: tuple[dict, ...] = ()  # {"evento", "data", "fonte"} do edital mais recente
+    perfis: tuple[str, ...] = ()  # o concurso do catálogo particular: só esses perfis o veem (vazio é de todos)
 
     def assuntos(self) -> list[str]:
         """Os assuntos do concurso na ordem das matérias, sem repetir."""
@@ -164,6 +165,8 @@ class Catalogo:
     simulados_fora: dict[str, tuple[tuple[int, str], ...]] = field(default_factory=dict)  # id da prova → (número,
     # por que ficou de fora) das anuladas, das fora do edital e das desatualizadas
     guias: dict[str, str] = field(default_factory=dict)  # id do item de tipo guia → o texto dele, em Markdown
+    donos: dict[str, tuple[str, ...]] = field(default_factory=dict)  # id do item que só existe no catálogo particular
+    # → os perfis que o veem
 
     def concurso(self, id: str) -> Concurso | None:
         return next((c for c in self.concursos if c.id == id), None)
@@ -377,7 +380,34 @@ def _simulados(pasta: Path, itens: dict[str, Item], assuntos: dict[str, Assunto]
     return simulados, fora
 
 
-def carregar(pasta: Path) -> Catalogo:
+def _particular(pasta: Path, estrutura: dict, brutos: dict[str, list[tuple[str, dict]]]) -> tuple[dict, set[str], tuple]:
+    """O catálogo particular (Documentos/Escola/particular): o material que não pode ir para o repositório, como um
+    curso pago, no mesmo formato (estrutura.json e materiais/), com os PDFs em particular/arquivos/. `perfis` diz quem
+    o vê (cada concurso pode dizer os seus). Ele não repete concurso nem assunto do catálogo, mas pode pôr material a
+    mais num assunto do catálogo: entra como extra, que não entra no caminho de ninguém."""
+    extra = json.loads((pasta / "estrutura.json").read_text(encoding="utf-8"))
+    perfis = tuple(extra.get("perfis") or ())
+    if not perfis:
+        raise CatalogoInvalido("particular: falta 'perfis' (quem o vê) na estrutura.json")
+    repetidos = sorted(({c["id"] for c in extra["concursos"]} & {c["id"] for c in estrutura["concursos"]})
+                       | (set(extra["assuntos"]) & set(estrutura["assuntos"])))
+    if repetidos:
+        raise CatalogoInvalido(f"particular: repete o catálogo: {', '.join(repetidos)}")
+    urls: set[str] = set()
+    for arq in sorted((pasta / "materiais").glob("*.json")):
+        for aid, itens in json.loads(arq.read_text(encoding="utf-8")).items():
+            if aid in estrutura["assuntos"] and not all(i.get("extra") for i in itens):
+                raise CatalogoInvalido(f"particular/{arq.name} › {aid}: no assunto do catálogo, só material extra")
+            urls.update(str(i.get("url", "")).strip() for i in itens)
+            brutos.setdefault(aid, []).extend(
+                (f"particular/{arq.name}", {**i, "arquivo": f"particular/{i['arquivo']}"} if i.get("arquivo") else i)
+                for i in itens)
+    concursos = [{**c, "perfis": c.get("perfis") or perfis} for c in extra["concursos"]]
+    return ({"concursos": [*estrutura["concursos"], *concursos], "assuntos": {**estrutura["assuntos"], **extra["assuntos"]}},
+            urls, perfis)
+
+
+def carregar(pasta: Path, particular: Path | None = None) -> Catalogo:
     estrutura = json.loads((pasta / "estrutura.json").read_text(encoding="utf-8"))
     arq_livros = pasta / "bibliografia.json"  # os livros que cada edital indica; a Aeronáutica não indica
     livros = json.loads(arq_livros.read_text(encoding="utf-8")) if arq_livros.is_file() else {}
@@ -388,6 +418,10 @@ def carregar(pasta: Path) -> Catalogo:
     for arq in sorted((pasta / "materiais").glob("*.json")):
         for aid, itens in json.loads(arq.read_text(encoding="utf-8")).items():
             brutos.setdefault(aid, []).extend((arq.name, i) for i in itens)
+    publicas = {str(i.get("url", "")).strip() for its in brutos.values() for _, i in its}
+    urls_particulares, perfis_particular = set(), ()
+    if particular is not None and (particular / "estrutura.json").is_file():
+        estrutura, urls_particulares, perfis_particular = _particular(particular, estrutura, brutos)
 
     nomes = estrutura["assuntos"]
     sobrando = sorted(set(brutos) - set(nomes))
@@ -419,7 +453,8 @@ def carregar(pasta: Path) -> Catalogo:
                                   dict(c.get("edital", {})), tuple(materias), bibliografia,
                                   pagina_oficial=c.get("pagina_oficial", ""), prova_prevista=c.get("prova_prevista", ""),
                                   foto=c.get("foto", ""), sobre=tuple(c.get("sobre", [])),
-                                  cronograma_ultimo=tuple(c.get("cronograma_ultimo", []))))
+                                  cronograma_ultimo=tuple(c.get("cronograma_ultimo", [])),
+                                  perfis=tuple(c.get("perfis", []))))
     concursos.sort(key=lambda c: not c.foco)  # estável: o em foco na frente
     perguntas, provinhas = _perguntas(pasta, itens, {m.id for c in concursos for m in c.materias})
     reais, extras = _reais(pasta, itens, assuntos, provinhas)
@@ -428,8 +463,9 @@ def carregar(pasta: Path) -> Catalogo:
     guias = _guias(pasta, itens)
     todas = [q for grupo in (perguntas, provinhas, reais, extras, estilo, simulados) for qs in grupo.values() for q in qs]
     todas += [q for a in aquecimento.values() for q in a.perguntas]
+    donos = {id_de(u): perfis_particular for u in urls_particulares - publicas if id_de(u) in itens}
     return Catalogo(tuple(concursos), assuntos, itens, perguntas, provinhas, aquecimento, reais, extras, estilo,
-                    _erradas(pasta, todas), simulados, simulados_fora, guias)
+                    _erradas(pasta, todas), simulados, simulados_fora, guias, donos)
 
 
 def _guias(pasta: Path, itens: dict[str, Item]) -> dict[str, str]:

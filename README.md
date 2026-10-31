@@ -41,6 +41,12 @@ primeira subida (com uma cópia de antes em `progresso-antes-dos-perfis.db`).
 Não há senha: quem chega no endereço escolhe o perfil. Para usar com outras pessoas, deixe o endereço só para quem
 deve entrar (uma rede privada como a Tailscale, por exemplo), em vez de abrir na internet.
 
+**Catálogo particular.** O material que não pode ir para o repositório (um curso pago que só uma pessoa assina) mora
+em `Documentos/Escola/particular/`, no mesmo formato do catálogo (`estrutura.json`, `materiais/`, e os PDFs em
+`arquivos/`). A `estrutura.json` dele diz em `perfis` quem o vê: os outros perfis não veem os concursos, os itens nem os
+PDFs dele. Ele pode ter concursos próprios ou pôr material a mais (`"extra": true`) num assunto do catálogo; nada dele
+entra no Cronograma sem o dono escolher.
+
 Outros comandos:
 
 - `uv run escola conferir --perguntas`: confere o catálogo, as perguntas e o trecho de cada uma;

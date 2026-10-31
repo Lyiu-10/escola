@@ -141,9 +141,10 @@ def enviar_ao_notebook(arquivo: Path) -> None:
 
 def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], datetime] = datetime.now,
                  enviar_copia: Callable[[Path], None] | None = None) -> FastAPI:
-    cat = catalogo.carregar(pasta_catalogo)
+    cat = catalogo.carregar(pasta_catalogo, dados / "particular")
     arquivos = dados / "arquivos"
     arquivos.mkdir(parents=True, exist_ok=True)
+    particular = dados / "particular" / "arquivos"  # os PDFs do catálogo particular: só saem para o perfil dono
     imagens = pasta_catalogo / "imagens"
     arq_creditos = imagens / "creditos.json"  # autor e licença de cada foto (todas livres, do Wikimedia Commons)
     creditos = json.loads(arq_creditos.read_text(encoding="utf-8")) if arq_creditos.is_file() else {}
@@ -161,6 +162,8 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     por_url: dict[str, str] = {}  # um livro grátis que já é item abre dentro da Escola
     for i in cat.itens.values():
         por_url.setdefault(i.url.split("#")[0], i.id)
+    pdfs_particulares = {i.arquivo.removeprefix("particular/"): i.id for i in cat.itens.values()
+                         if i.arquivo and i.arquivo.startswith("particular/")}
     app = FastAPI(title="Escola", docs_url=None, redoc_url=None, openapi_url=None)
     app.mount("/web", Revalidados(directory=WEB), name="web")
     app.mount("/arquivos", StaticFiles(directory=arquivos), name="arquivos")
@@ -175,7 +178,21 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
         return (relogio() - timedelta(hours=VIRADA)).date()
 
     def local(rel: str | None) -> str | None:
+        if rel and rel.startswith("particular/"):
+            rel = rel.removeprefix("particular/")
+            return f"/particular/arquivos/{rel}" if (particular / rel).is_file() else None
         return f"/arquivos/{rel}" if rel and (arquivos / rel).is_file() else None
+
+    def visivel(c: catalogo.Concurso) -> bool:
+        return not c.perfis or perfil_da_vez() in c.perfis
+
+    def meus() -> tuple[catalogo.Concurso, ...]:
+        """Os concursos deste perfil: os do catálogo e os particulares dele."""
+        return tuple(c for c in cat.concursos if visivel(c))
+
+    def item_meu(iid: str) -> bool:
+        """O item do catálogo particular (num concurso particular ou extra num assunto do catálogo) é só dos donos."""
+        return iid in cat.itens and (iid not in cat.donos or perfil_da_vez() in cat.donos[iid])
 
     def foto(c: catalogo.Concurso) -> str | None:
         return f"/imagens/{c.foto}" if c.foto and (imagens / c.foto).is_file() else None
@@ -187,9 +204,11 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
         return {"id": c.id, "nome": c.nome, "sigla": c.sigla}
 
     def ligados() -> tuple[str, ...]:
-        """Os concursos ligados no Cronograma, na ordem do catálogo; todos, se nenhum da escolha guardada existe mais."""
+        """Os concursos ligados no Cronograma, na ordem do catálogo; todos, se nenhum da escolha guardada existe mais.
+        O particular só entra se o dono escolher: "todos" são os do catálogo."""
         escolha = set(prog.concursos())
-        return tuple(c.id for c in cat.concursos if c.id in escolha) or tuple(c.id for c in cat.concursos)
+        return (tuple(c.id for c in meus() if c.id in escolha)
+                or tuple(c.id for c in cat.concursos if not c.perfis))
 
     def no_cronograma() -> catalogo.Catalogo:
         return recorte(ligados())[0]
@@ -586,7 +605,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
                           "itens": [tarefa_json(t, est) for t in plano]},
                 "aquecimento": aquecimento_resumo(),
                 "caderno": {"total": len(erros), "para_hoje": sum(x["para_hoje"] for x in erros)},
-                "concursos": [resumo(c, est, sit) for c in cat.concursos],
+                "concursos": [resumo(c, est, sit) for c in meus()],
                 "novidades": novidades(s), "prazos": prazos(), "placar": placar_inicio()}
 
     def prazos() -> list[dict]:
@@ -594,7 +613,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
         inscreveu: o prazo que não volta não pode ficar só na Situação."""
         inscritos = set(filter(None, prog.ajuste("inscritos").split(",")))
         saida = []
-        for c in cat.concursos:
+        for c in meus():
             for e in c.cronograma_ultimo if c.id not in inscritos else ():
                 texto = str(e.get("data", ""))
                 datas = re.findall(r"(\d{2})/(\d{2})/(\d{4})", texto.split("(")[0])
@@ -629,6 +648,14 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
             return None
         b = max(livres, key=lambda b: (rotina.minutos(b["fim"]) - rotina.minutos(b["inicio"])) % rotina.DIA)
         return {"inicio": b["inicio"], "fim": b["fim"], "nota": b.get("nota", "")}
+
+    @app.get("/particular/arquivos/{rel:path}")
+    def arquivo_particular(rel: str):
+        """O PDF do catálogo particular, só para o perfil dono (o /arquivos é aberto a quem chega)."""
+        iid = pdfs_particulares.get(rel)
+        if iid is None or not item_meu(iid) or not (particular / rel).is_file():
+            raise HTTPException(404, "arquivo não existe")
+        return FileResponse(particular / rel)
 
     @app.get("/")
     def tela():
@@ -830,7 +857,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
         est = prog.estados()
         s, _ = sit_concursos()
         concursos = []
-        for c in cat.concursos:
+        for c in meus():
             feitos, total = caminho.contagem(cat, c.assuntos(), est)
             concursos.append({**concurso_curto(c), "foto": foto(c), "feitos": feitos, "total": total,
                               "no_cronograma": c.id in ligados()})
@@ -840,7 +867,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     @app.get("/api/concursos/{cid}")
     def api_concurso(cid: str):
         c = cat.concurso(cid)
-        if c is None:
+        if c is None or not visivel(c):
             raise HTTPException(404, "concurso não existe")
         est = prog.estados()
         s, sit = sit_concursos()
@@ -853,7 +880,8 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
                 feitos, total = caminho.contagem(cat, [aid], est)
                 assuntos.append({"id": aid, "nome": a.nome, "edital": a.edital, "feitos": feitos, "total": total,
                                  "itens": [{**item_json(i, est, passo_de(i.id, c.id)),
-                                            "fixacao": ultimas.get(fixacao_de(i.id))} for i in a.itens]})
+                                            "fixacao": ultimas.get(fixacao_de(i.id))} for i in a.itens
+                                           if item_meu(i.id)]})
             alvos = dict.fromkeys(fixacao_de(i.id) for aid in m.assuntos for i in cat.assuntos[aid].itens)
             respondidos = [ultimas[a] for a in alvos if a in ultimas]
             fixacao = {"acertos": sum(a for a, _ in respondidos), "total": sum(t for _, t in respondidos)}
@@ -877,13 +905,13 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
 
     @app.get("/api/itens/{iid}")
     def api_item(iid: str, concurso: str | None = None):
-        if iid not in cat.itens:
+        if not item_meu(iid):
             raise HTTPException(404, "item não existe")
         est = prog.estados()
         p = passo_de(iid, concurso)
         seq = sequencias[p.concurso.id]
         viz = caminho.vizinhos(seq, iid, est)
-        da_materia = [x for x in seq if x.materia.id == p.materia.id]
+        da_materia = [x for x in seq if x.materia.id == p.materia.id and item_meu(x.item.id)]
         principais = [x for x in da_materia if not x.item.extra]
         lista = []
         for aid in p.materia.assuntos:
@@ -915,7 +943,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
 
     @app.post("/api/itens/{iid}/estado")
     def api_estado(iid: str, novo: NovoEstado, concurso: str | None = None):
-        if iid not in cat.itens:
+        if not item_meu(iid):
             raise HTTPException(404, "item não existe")
         prog.marcar(iid, novo.estado, relogio())
         est = prog.estados()
@@ -1149,7 +1177,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
     def api_ajustes(aj: Ajustes):
         if aj.dias is not None and any(d not in range(7) for d in aj.dias):
             raise HTTPException(422, "dia da semana inválido")
-        if aj.concursos is not None and any(cat.concurso(c) is None for c in aj.concursos):
+        if aj.concursos is not None and any(c not in {k.id for k in meus()} for c in aj.concursos):
             raise HTTPException(422, "concurso que não existe")
         if aj.semana is not None and len({d.dia for d in aj.semana}) != len(aj.semana):
             raise HTTPException(422, "dia repetido")
@@ -1278,7 +1306,7 @@ def criar_escola(pasta_catalogo: Path, dados: Path, *, relogio: Callable[[], dat
                 "proxima_busca": proxima,
                 "concursos": [{**concurso_curto(c), "cargo": c.cargo, "foto": foto(c),
                                "situacao": situacao_json(c, sit), "pagina_oficial": c.pagina_oficial,
-                               "edital": c.edital} for c in cat.concursos],
+                               "edital": c.edital} for c in meus()],
                 "historico": [{**h, "nome": nomes.get(h["concurso"], h["concurso"])} for h in s["historico"]]}
 
     return app

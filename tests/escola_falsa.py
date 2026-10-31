@@ -90,3 +90,30 @@ def montar(pasta: Path, materiais=None, estrutura=None, bibliografia=None, pergu
     (pasta / "estilo").mkdir(exist_ok=True)
     (pasta / "estilo" / "bloco.json").write_text(json.dumps(estilo or {}), encoding="utf-8")
     return pasta
+
+
+# O catálogo particular (Documentos/Escola/particular): um concurso só da Ana, com uma aula que abre fora e um PDF
+PARTICULAR = {
+    "perfis": ["ana"],
+    "concursos": [{"id": "enem", "nome": "ENEM (Cursinho)", "sigla": "ENEM",
+                   "materias": [{"id": "enem-bio", "nome": "Biologia", "assuntos": ["enem-bio-u1"]}]}],
+    "assuntos": {"enem-bio-u1": {"nome": "Unidade 1: Origem da vida"}},
+}
+MATERIAIS_PARTICULARES = {"enem-bio-u1": [
+    {"tipo": "aula", "titulo": "Teorias de evolução", "fonte": "Cursinho", "minutos": 12,
+     "url": "https://cursinho.example/units/U1/blocks/B1", "nota": "Você já concluiu no Cursinho."},
+    {"tipo": "leitura", "titulo": "Material Complementar", "fonte": "Cursinho", "minutos": 15,
+     "url": "https://cursinho.example/units/U1/blocks/B2", "arquivo": "cursinho/bio-u1.pdf"},
+], "etica": [  # material a mais num assunto do catálogo: entra como extra
+    {"tipo": "aula", "titulo": "Ética no Cursinho", "fonte": "Cursinho", "minutos": 10, "extra": True,
+     "url": "https://cursinho.example/units/U9/blocks/B9"},
+]}
+
+
+def montar_particular(pasta: Path, estrutura=None, materiais=None) -> Path:
+    (pasta / "materiais").mkdir(parents=True, exist_ok=True)
+    (pasta / "estrutura.json").write_text(json.dumps(estrutura or PARTICULAR), encoding="utf-8")
+    (pasta / "materiais" / "cursinho.json").write_text(json.dumps(materiais or MATERIAIS_PARTICULARES), encoding="utf-8")
+    (pasta / "arquivos" / "cursinho").mkdir(parents=True, exist_ok=True)
+    (pasta / "arquivos" / "cursinho" / "bio-u1.pdf").write_bytes(b"%PDF-1.4 particular")
+    return pasta
