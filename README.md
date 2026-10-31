@@ -44,8 +44,9 @@ deve entrar (uma rede privada como a Tailscale, por exemplo), em vez de abrir na
 **Catálogo particular.** O material que não pode ir para o repositório (um curso pago que só uma pessoa assina) mora
 em `Documentos/Escola/particular/`, no mesmo formato do catálogo (`estrutura.json`, `materiais/`, e os PDFs em
 `arquivos/`). A `estrutura.json` dele diz em `perfis` quem o vê: os outros perfis não veem os concursos, os itens nem os
-PDFs dele. Ele pode ter concursos próprios ou pôr material a mais (`"extra": true`) num assunto do catálogo; nada dele
-entra no Cronograma sem o dono escolher.
+PDFs dele (cada perfil enxerga a sua vista do catálogo). Ele pode ter concursos próprios, que só entram no Cronograma se
+o dono escolher, ou pôr material num assunto do catálogo, depois do que já está lá: principal, entra no caminho só de
+quem o vê; com `"extra": true`, fica como material a mais.
 
 Outros comandos:
 

@@ -47,7 +47,7 @@
    "guia": "l-interpretacao",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -56,7 +56,7 @@
    "guia": "l-interpretacao-2",
    "minutos": 10,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -97,7 +97,7 @@
    "guia": "l-ortografia",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -106,7 +106,7 @@
    "guia": "l-ortografia-2",
    "minutos": 20,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -210,7 +210,7 @@
    "guia": "l-classes",
    "minutos": 20,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -219,7 +219,7 @@
    "guia": "l-classes-2",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -271,7 +271,7 @@
    "guia": "l-verbos",
    "minutos": 10,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -280,7 +280,7 @@
    "guia": "l-verbos-2",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -391,7 +391,7 @@
    "guia": "l-periodo-simples",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -400,7 +400,7 @@
    "guia": "l-periodo-simples-2",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -481,7 +481,7 @@
    "guia": "l-periodo-composto",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -490,7 +490,7 @@
    "guia": "l-periodo-composto-2",
    "minutos": 10,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -561,7 +561,7 @@
    "guia": "l-concordancia",
    "minutos": 20,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -644,7 +644,7 @@
    "guia": "l-regencia",
    "minutos": 20,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -706,7 +706,7 @@
    "guia": "l-crase",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -758,7 +758,7 @@
    "guia": "l-pontuacao",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -874,7 +874,7 @@
    "guia": "l-coesao",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -883,7 +883,7 @@
    "guia": "l-coesao-2",
    "minutos": 10,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -964,7 +964,7 @@
    "guia": "l-significacao",
    "minutos": 10,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "guia",
@@ -973,7 +973,7 @@
    "guia": "l-significacao-2",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -1015,7 +1015,7 @@
    "guia": "l-estilistica",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "aula",
@@ -1067,7 +1067,7 @@
    "guia": "l-textualidade",
    "minutos": 15,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",
@@ -1148,7 +1148,7 @@
    "guia": "l-variacao",
    "minutos": 10,
    "idioma": "pt",
-   "extra": false
+   "extra": true
   },
   {
    "tipo": "leitura",

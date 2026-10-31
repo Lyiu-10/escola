@@ -9,6 +9,7 @@ from escola.app import criar_escola
 
 AULA = catalogo.id_de("https://cursinho.example/units/U1/blocks/B1")
 PDF = catalogo.id_de("https://cursinho.example/units/U1/blocks/B2")
+NO_CAMINHO = catalogo.id_de("https://cursinho.example/units/U9/blocks/B8")  # principal na Ética do catálogo
 EXTRA = catalogo.id_de("https://cursinho.example/units/U9/blocks/B9")  # extra na Ética do catálogo
 
 
@@ -18,7 +19,7 @@ def test_o_catalogo_particular_entra_junto_e_guarda_de_quem_e(tmp_path):
     assert enem.perfis == ("ana",) and cat.concurso("mb").perfis == ()
     assert cat.itens[PDF].arquivo == "particular/cursinho/bio-u1.pdf"  # o PDF mora na pasta particular
     assert cat.itens[AULA].nota == "Você já concluiu no Cursinho."
-    assert set(cat.donos) == {AULA, PDF, EXTRA} and cat.donos[EXTRA] == ("ana",)
+    assert set(cat.donos) == {AULA, PDF, NO_CAMINHO, EXTRA} and cat.donos[EXTRA] == ("ana",)
     assert cat.itens[EXTRA] in cat.assuntos["etica"].itens and cat.itens[EXTRA].extra
     assert catalogo.carregar(tmp_path / "cat", tmp_path / "nao-existe").concurso("enem") is None
 
@@ -33,10 +34,6 @@ def test_o_particular_nao_repete_o_catalogo_e_sempre_diz_de_quem_e(tmp_path):
     del sem_dono["perfis"]
     with pytest.raises(catalogo.CatalogoInvalido, match="perfis"):
         catalogo.carregar(tmp_path / "cat", montar_particular(tmp_path / "p2", sem_dono))
-    principal = copy.deepcopy(MATERIAIS_PARTICULARES)
-    principal["etica"][0]["extra"] = False  # no assunto do catálogo, entraria no caminho de todo mundo
-    with pytest.raises(catalogo.CatalogoInvalido, match="extra"):
-        catalogo.carregar(tmp_path / "cat", montar_particular(tmp_path / "p3", materiais=principal))
 
 
 @pytest.fixture
@@ -68,9 +65,14 @@ def test_so_o_dono_ve_o_concurso_particular(app):
         assert bia.get(item["pdf"]).status_code == 404
         assert bia.put("/api/ajustes", json={"concursos": ["enem"]}).status_code == 422
         assert TestClient(app).get(item["pdf"]).status_code == 404  # sem perfil
-        etica = lambda c: [i["id"] for m in c.get("/api/concursos/mb").json()["materias"] for a in m["assuntos"]
-                           if a["id"] == "etica" for i in a["itens"]]
-        assert EXTRA in etica(ana) and EXTRA not in etica(bia)
+        def etica(cliente):  # a Ética na página da Marinha
+            return next(a for m in cliente.get("/api/concursos/mb").json()["materias"] for a in m["assuntos"]
+                        if a["id"] == "etica")
+        de_ana, de_bia = etica(ana), etica(bia)
+        assert {NO_CAMINHO, EXTRA} <= {i["id"] for i in de_ana["itens"]}
+        assert not {NO_CAMINHO, EXTRA} & {i["id"] for i in de_bia["itens"]}
+        assert de_ana["total"] == de_bia["total"] + 1  # a aula particular principal conta no caminho só da Ana
+
         def lista(cliente, iid):  # a lista da matéria, ao lado da aula aberta
             return [i["id"] for a in cliente.get(f"/api/itens/{iid}").json()["lista"]["assuntos"] for i in a["itens"]]
         aula1 = catalogo.id_de("https://www.youtube.com/watch?v=aula0000001")  # a Aula 1 também é da Ética

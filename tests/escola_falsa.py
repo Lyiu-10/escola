@@ -104,8 +104,10 @@ MATERIAIS_PARTICULARES = {"enem-bio-u1": [
      "url": "https://cursinho.example/units/U1/blocks/B1", "nota": "Você já concluiu no Cursinho."},
     {"tipo": "leitura", "titulo": "Material Complementar", "fonte": "Cursinho", "minutos": 15,
      "url": "https://cursinho.example/units/U1/blocks/B2", "arquivo": "cursinho/bio-u1.pdf"},
-], "etica": [  # material a mais num assunto do catálogo: entra como extra
-    {"tipo": "aula", "titulo": "Ética no Cursinho", "fonte": "Cursinho", "minutos": 10, "extra": True,
+], "etica": [  # num assunto do catálogo: uma aula no caminho da Ana e uma a mais
+    {"tipo": "aula", "titulo": "Ética no Cursinho", "fonte": "Cursinho", "minutos": 10,
+     "url": "https://cursinho.example/units/U9/blocks/B8"},
+    {"tipo": "aula", "titulo": "Ética no Cursinho, a mais", "fonte": "Cursinho", "minutos": 10, "extra": True,
      "url": "https://cursinho.example/units/U9/blocks/B9"},
 ]}
 

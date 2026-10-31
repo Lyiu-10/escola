@@ -383,8 +383,9 @@ def _simulados(pasta: Path, itens: dict[str, Item], assuntos: dict[str, Assunto]
 def _particular(pasta: Path, estrutura: dict, brutos: dict[str, list[tuple[str, dict]]]) -> tuple[dict, set[str], tuple]:
     """O catálogo particular (Documentos/Escola/particular): o material que não pode ir para o repositório, como um
     curso pago, no mesmo formato (estrutura.json e materiais/), com os PDFs em particular/arquivos/. `perfis` diz quem
-    o vê (cada concurso pode dizer os seus). Ele não repete concurso nem assunto do catálogo, mas pode pôr material a
-    mais num assunto do catálogo: entra como extra, que não entra no caminho de ninguém."""
+    o vê (cada concurso pode dizer os seus). Ele não repete concurso nem assunto do catálogo, mas pode pôr material num
+    assunto do catálogo, depois do que já está lá: a Escola só mostra esse material, e só o põe no caminho, para quem
+    o vê (`donos`)."""
     extra = json.loads((pasta / "estrutura.json").read_text(encoding="utf-8"))
     perfis = tuple(extra.get("perfis") or ())
     if not perfis:
@@ -396,8 +397,6 @@ def _particular(pasta: Path, estrutura: dict, brutos: dict[str, list[tuple[str, 
     urls: set[str] = set()
     for arq in sorted((pasta / "materiais").glob("*.json")):
         for aid, itens in json.loads(arq.read_text(encoding="utf-8")).items():
-            if aid in estrutura["assuntos"] and not all(i.get("extra") for i in itens):
-                raise CatalogoInvalido(f"particular/{arq.name} › {aid}: no assunto do catálogo, só material extra")
             urls.update(str(i.get("url", "")).strip() for i in itens)
             brutos.setdefault(aid, []).extend(
                 (f"particular/{arq.name}", {**i, "arquivo": f"particular/{i['arquivo']}"} if i.get("arquivo") else i)
